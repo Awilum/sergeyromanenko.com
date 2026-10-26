@@ -1,0 +1,168 @@
+name: Update Stepik statistics
+
+# Refreshes the statistics exposed by the already-published site. It does not
+# build Astro pages and does not touch generated HTML: it replaces only
+# stepstats.json, which the browser reads at runtime.
+
+on:
+  schedule:
+    # Daily at 04:17 UTC, away from the top of the hour.
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+
+# Least privilege: only the statistics commit needs write access.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stepik-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    name: Refresh stepstats.json
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      STATS_PATH: stepstats.json
+      SOURCE_REPOSITORY: Awilum/sergeyromanenko.src
+      SOURCE_REF: master
+      # The production branch is checked, not assumed; see the first step.
+      TARGET_BRANCH: ${{ github.event.repository.default_branch }}
+
+    steps:
+      - name: Verify the production branch
+        run: |
+          set -euo pipefail
+          if [ "${TARGET_BRANCH}" != "master" ]; then
+            echo "Refusing to update statistics: the repository default branch is" >&2
+            echo "'${TARGET_BRANCH}', but this site is published from 'master'." >&2
+            echo "Update TARGET_BRANCH deliberately before running this workflow." >&2
+            exit 1
+          fi
+
+      - name: Checkout website
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+
+      # The source checkout is a read-only view of the data pipeline. Ignoring it
+      # keeps `git status` focused on files this workflow may actually commit.
+      - name: Ignore source checkout
+        run: echo '/.source/' >> .git/info/exclude
+
+      - name: Checkout source data pipeline
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.SOURCE_REPOSITORY }}
+          ref: ${{ env.SOURCE_REF }}
+          path: .source
+          persist-credentials: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # The exporter reuses the source project's fetch, validation and
+      # presentation code. It needs Node built-ins only, so there is no install
+      # step and no duplicated StepStat implementation.
+      - name: Refresh statistics
+        run: node --experimental-strip-types .source/scripts/export-runtime-stats.ts --out "$STATS_PATH"
+
+      - name: Validate the statistics file
+        run: |
+          set -euo pipefail
+          node --input-type=module -e '
+            import { readFileSync } from "node:fs";
+            const stats = JSON.parse(readFileSync(process.env.STATS_PATH, "utf8"));
+            if (!stats || typeof stats.values !== "object") throw new Error("missing values object");
+            for (const key of ["stats.courseCount", "stats.lessonCount", "stats.enrollmentTotal"]) {
+              if (typeof stats.values[key] !== "string" || stats.values[key].length === 0) {
+                throw new Error(`missing ${key}`);
+              }
+            }
+          '
+
+      - name: Check for changes
+        id: changes
+        run: |
+          set -euo pipefail
+          if [ -n "$(git status --porcelain -- "${STATS_PATH}")" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Statistics have changed."
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Statistics are unchanged."
+          fi
+
+      - name: Verify only the statistics file changed
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+          if [ ! -f "${STATS_PATH}" ]; then
+            echo "Refusing to commit: ${STATS_PATH} is missing." >&2
+            exit 1
+          fi
+          UNEXPECTED="$(git status --porcelain --untracked-files=all | cut -c4- | grep -v -F -x "${STATS_PATH}" || true)"
+          if [ -n "${UNEXPECTED}" ]; then
+            echo "Refusing to commit: unexpected changes were detected:" >&2
+            printf '%s\n' "${UNEXPECTED}" >&2
+            exit 1
+          fi
+
+      - name: Create temporary Git credential helper
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          TARGET_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${TARGET_TOKEN}" ]; then
+            echo "GITHUB_TOKEN is not available for the statistics push." >&2
+            exit 1
+          fi
+          ASKPASS="${RUNNER_TEMP}/target-git-askpass.sh"
+          cat > "${ASKPASS}" <<'SCRIPT'
+          #!/bin/sh
+          case "$1" in
+            *Username*) printf '%s\n' 'x-access-token' ;;
+            *Password*) printf '%s\n' "${TARGET_TOKEN}" ;;
+            *) printf '%s\n' "${TARGET_TOKEN}" ;;
+          esac
+          SCRIPT
+          chmod 700 "${ASKPASS}"
+
+      - name: Commit and push statistics
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          TARGET_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_ASKPASS: ${{ runner.temp }}/target-git-askpass.sh
+          GIT_TERMINAL_PROMPT: '0'
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- "${STATS_PATH}"
+
+          STAGED="$(git diff --cached --name-only)"
+          if [ "${STAGED}" != "${STATS_PATH}" ]; then
+            echo "Refusing to commit: staged files are not exactly ${STATS_PATH}:" >&2
+            printf '%s\n' "${STAGED}" >&2
+            exit 1
+          fi
+
+          git commit -m "chore: refresh Stepik statistics"
+
+          # Integrate a concurrent manual publication before pushing. Never force:
+          # a conflict or a non-fast-forward push fails the workflow instead.
+          git fetch origin "${TARGET_BRANCH}"
+          git rebase "origin/${TARGET_BRANCH}"
+          git push origin "HEAD:${TARGET_BRANCH}"
+
+      - name: Remove temporary credentials and checkout
+        if: always()
+        run: |
+          set -euo pipefail
+          rm -f -- "${RUNNER_TEMP}/target-git-askpass.sh"
+          rm -rf -- .source

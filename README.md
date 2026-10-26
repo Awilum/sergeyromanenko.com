@@ -11,3 +11,13 @@ needs it, through Vue islands.
 - **Site URL:** <https://sergeyromanenko.com>
 - **Repository:** `Awilum/sergeyromanenko.com`
 - **Author:** Sergey Romanenko
+
+## Publication
+
+The generated files in this repository are produced by a local build of
+[`Awilum/sergeyromanenko.src`](https://github.com/Awilum/sergeyromanenko.src) and are committed
+by hand. This repository does not receive deployment pull requests.
+
+One automated workflow, `Update Stepik statistics`, runs daily and can be started manually from
+the Actions tab. It refreshes only `stepstats.json`; the published pages read that file at runtime,
+so the site keeps showing current statistics without a rebuild.

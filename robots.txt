@@ -1,0 +1,84 @@
+# robots.txt — https://sergeyromanenko.com
+#
+# Policy in one line: everything on this site is public, crawlable, and meant to
+# be found. Search crawlers and AI answer engines are welcome. Model-training
+# crawlers are not.
+#
+# Why that split: /copyright-and-licensing/ reserves the photographs, texts,
+# books and course material here against use for training AI and machine-learning
+# systems absent written permission. This file is the crawler-facing half of that
+# position. Before this policy was written the site ran a bare `User-agent: *`,
+# which permitted everything including the training crawlers, so the two halves
+# of the site's stated position contradicted each other.
+#
+# Search and training are separate switches at every vendor that documents them,
+# so excluding training does not remove this site from AI answers:
+#
+#   OAI-SearchBot    search    ChatGPT search                        allowed
+#   GPTBot           training  OpenAI foundation models               blocked below
+#   Claude-SearchBot search    Claude search                         allowed
+#   ClaudeBot        training  Anthropic models                       blocked below
+#   Googlebot        search    including AI Overviews and AI Mode,    allowed
+#                              which read the ordinary Search index
+#   Google-Extended  training  Gemini models, control-only token      blocked below
+#
+# Crawling is not indexing, and indexing is not being cited. Allowing a crawler
+# here promises nothing about any of the three.
+#
+# This file is not a security control (RFC 9309 §1: "These rules are not a form
+# of access authorization"). Every path it names is still publicly fetchable.
+#
+# A crawler-specific group REPLACES the `*` group rather than adding to it
+# (RFC 9309 §2.2.2). The groups below therefore need no `Allow` line: they exist
+# only to remove access, and each is independent, so deleting one group re-opens
+# that crawler and leaves every other line untouched.
+#
+# Evidence for each token below: docs/seo/research/platform-crawler-matrix.md
+# Policy rationale, sources and the post-launch checklist:
+#   docs/seo/crawler-policy.md
+
+User-agent: *
+Allow: /
+
+# --- Model-training crawlers: excluded ---------------------------------------
+
+# OpenAI: collects "content that may be used in training our generative AI
+# foundation models". OpenAI documents this as independent of OAI-SearchBot.
+User-agent: GPTBot
+Disallow: /
+
+# Anthropic: collects "web content that could potentially contribute to their
+# training". Claude-SearchBot stays allowed.
+User-agent: ClaudeBot
+Disallow: /
+
+# Google: Gemini model training and non-Search grounding. A control-only token
+# with no HTTP user agent of its own. Google states it "does not impact a site's
+# inclusion in Google Search nor is it used as a ranking signal in Google
+# Search", so this costs ordinary indexing and AI Overviews nothing.
+User-agent: Google-Extended
+Disallow: /
+
+# Apple: the foundation-model opt-out. Apple states Applebot-Extended "does not
+# crawl webpages"; it only decides how data fetched by Applebot is used.
+User-agent: Applebot-Extended
+Disallow: /
+
+# Meta: the training crawler. Meta's user-triggered agents (Meta-ExternalFetcher,
+# Meta-ExternalAds, Meta-WebIndexer) are separate tokens and stay allowed.
+User-agent: meta-externalagent
+Disallow: /
+
+# Common Crawl: an open corpus, not a search engine. Blocking it only keeps these
+# pages out of future monthly crawls and does not retract anything already
+# published, so it is a weak instrument kept for consistency with the policy.
+User-agent: CCBot
+Disallow: /
+
+# Left allowed on purpose: Amazonbot. Amazon documents one token covering both
+# foundation-model training and its own search, so excluding it would cost
+# discoverability for no established gain. Revisit if the position changes.
+# Likewise YandexBot, Baiduspider and every other search crawler: this site
+# blocks no search engine.
+
+Sitemap: https://sergeyromanenko.com/sitemap-index.xml
