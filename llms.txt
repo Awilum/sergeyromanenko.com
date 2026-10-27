@@ -1,0 +1,255 @@
+# Sergey Romanenko
+
+> Sergey Romanenko — photographer, educator and software engineer. Documentary photography from Vietnam, online programming courses, and open-source books and tools.
+
+This file is an index of the public work on this site. It is generated from the same
+content the site renders, and every link is absolute. The HTML pages are canonical; a Markdown
+link is a plain-text representation of the same page.
+
+Each canonical page has an `index.md` representation in the same directory (for example,
+`/about/` is also available as `/about/index.md`).
+
+## Home
+
+- [Sergey Romanenko](https://sergeyromanenko.com/): Sergey Romanenko — explorer, photographer, creator and software engineer. Independent documentary photography from Vietnam, 26 programming courses on Stepik, open-source software, books and practical tools.
+  - [Markdown](https://sergeyromanenko.com/index.md)
+
+## Photography
+
+- [Photographs about *people*, taken slowly, in places I actually live.](https://sergeyromanenko.com/photography/): Documentary photography about people and the places they make their lives in — long-form projects photographed on foot in Vietnam.
+  - [Markdown](https://sergeyromanenko.com/photography/index.md)
+- [From Da Nang to South and Back](https://sergeyromanenko.com/photography/from-danang-to-south-and-back/): A photographic journey across Vietnam, covering 7,700 kilometers from Da Nang to the southernmost point of the country and back.
+  - [Markdown](https://sergeyromanenko.com/photography/from-danang-to-south-and-back/index.md)
+- [People of Bangkok's Chinatown](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/): In 2025 I spent two months living in Bangkok and repeatedly explored Chinatown on foot - photographing street life, food culture, everyday characters, and the cats that appear to live comfortably among the neighborhood's activity. A personal travel journal of observation and return.
+  - [Markdown](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/index.md)
+- [People of Hoi An](https://sergeyromanenko.com/photography/people-of-hoi-an/): A photographic study of people, rituals and everyday life in Hoi An.
+  - [Markdown](https://sergeyromanenko.com/photography/people-of-hoi-an/index.md)
+- [Photo Walk and Model Agencies](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/): From 2016 through 2022, I organized photo walks and brought photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working across fashion photography in shops, studios, and outdoor locations, and participating in photography events associated with Sigma Model Agency while scouting for Liberty Model Agency.
+  - [Markdown](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/index.md)
+
+## Courses
+
+- [Teaching what took me *years* to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 72,833 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
+  - [Markdown](https://sergeyromanenko.com/courses/index.md)
+- [Career Path: Data Engineer](https://sergeyromanenko.com/courses/data-engineer/): A complete path to becoming a data engineer from zero: Python and Git first, then SQL from syntax to window functions, Pandas for data work, ClickHouse…
+  - [Markdown](https://sergeyromanenko.com/courses/data-engineer/index.md)
+- [Career Path: Junior Java Developer](https://sergeyromanenko.com/courses/junior-java-developer/): A complete training program for learning Java from scratch: the language, the Collections Framework, multithreading, JUnit testing, the Spring Framework,…
+  - [Markdown](https://sergeyromanenko.com/courses/junior-java-developer/index.md)
+- [Course Program: Front-End Development](https://sergeyromanenko.com/courses/front-end-development/): A five-course program covering modern web application building from scratch: HTML and CSS markup and styling, JavaScript from syntax to real front-end…
+  - [Markdown](https://sergeyromanenko.com/courses/front-end-development/index.md)
+- [JavaScript from Zero to Confident Developer](https://sergeyromanenko.com/courses/javascript-roadmap/): A structured learning path from JavaScript zero to confident: theory, practice, trainers and tests that build a durable foundation for real problems,…
+  - [Markdown](https://sergeyromanenko.com/courses/javascript-roadmap/index.md)
+- [JavaScript Knowledge Assessment and Interview Preparation](https://sergeyromanenko.com/courses/javascript-interview/): A free assessment course that tests your JavaScript knowledge and prepares you for JavaScript developer interviews. Every question comes with answer…
+  - [Markdown](https://sergeyromanenko.com/courses/javascript-interview/index.md)
+- [Markdown](https://sergeyromanenko.com/courses/markdown/): The most popular Markdown course on Stepik, together with a free book. A complete course in the Markdown markup language, from the first line to advanced…
+  - [Markdown](https://sergeyromanenko.com/courses/markdown/index.md)
+- [Practical C# Programming Trainer](https://sergeyromanenko.com/courses/csharp/): A practical C# trainer covering classic programming exercises and the kinds of tasks asked in interviews at leading companies. You build real fluency…
+  - [Markdown](https://sergeyromanenko.com/courses/csharp/index.md)
+- [Practical Go Programming Trainer](https://sergeyromanenko.com/courses/go/): A practical Go trainer built from a wide range of programming tasks — classic exercises and interview problems — covering variables, data types, control…
+  - [Markdown](https://sergeyromanenko.com/courses/go/index.md)
+- [Practical Java Programming Trainer](https://sergeyromanenko.com/courses/java/): A hands-on Java trainer built around a wide range of programming tasks, from classic exercises to the problems asked in technical interviews at large…
+  - [Markdown](https://sergeyromanenko.com/courses/java/index.md)
+- [Practical JavaScript Code Reading Trainer](https://sergeyromanenko.com/courses/javascript-code-reading/): A trainer for reading other people’s JavaScript code. No problem statements and no hints — only code, input data and the expected result. You learn to…
+  - [Markdown](https://sergeyromanenko.com/courses/javascript-code-reading/index.md)
+- [Practical JavaScript Trainer](https://sergeyromanenko.com/courses/javascript/): A practical JavaScript trainer covering classic programming exercises and the problems asked in interviews at large companies, across variables, data…
+  - [Markdown](https://sergeyromanenko.com/courses/javascript/index.md)
+- [Practical Kotlin Programming Trainer](https://sergeyromanenko.com/courses/kotlin/): A practical Kotlin trainer built from a wide range of programming tasks — classic exercises and interview problems — covering variables, data types,…
+  - [Markdown](https://sergeyromanenko.com/courses/kotlin/index.md)
+- [Practical PHP Programming Trainer](https://sergeyromanenko.com/courses/php/): A practical PHP trainer with a wide range of programming tasks, including problems of the kind asked at Google, Amazon, Apple, Twitter and Microsoft.…
+  - [Markdown](https://sergeyromanenko.com/courses/php/index.md)
+- [Practical Programming Trainers](https://sergeyromanenko.com/courses/programming-trainers/): Eight programming trainers in one program — JavaScript, Go, Python, PHP, Kotlin, Java, C# and SQL — with tasks and automatic solution checking. For…
+  - [Markdown](https://sergeyromanenko.com/courses/programming-trainers/index.md)
+- [Practical Python Programming Trainer](https://sergeyromanenko.com/courses/python/): A practical Python trainer built from a wide range of programming tasks — classic exercises and the problems asked in interviews at large companies —…
+  - [Markdown](https://sergeyromanenko.com/courses/python/index.md)
+- [Practical SQL Trainer](https://sergeyromanenko.com/courses/sql/): An SQL trainer where you learn through real tasks instead of theory. You work with user, order and product data shaped like the data of a real company,…
+  - [Markdown](https://sergeyromanenko.com/courses/sql/index.md)
+- [SQL Common Table Expressions](https://sergeyromanenko.com/courses/sql-ctes/): Learn to write professional SQL with common table expressions, together with the book "SQL Common Table Expressions", included for every student.…
+  - [Markdown](https://sergeyromanenko.com/courses/sql-ctes/index.md)
+- [SQL Conditional Logic](https://sergeyromanenko.com/courses/sql-conditional-logic/): For people who already know SQL basics and want to work with conditions and logic confidently: TRUE, FALSE and UNKNOWN, NULL, comparison operators, AND,…
+  - [Markdown](https://sergeyromanenko.com/courses/sql-conditional-logic/index.md)
+- [SQL for Beginners](https://sergeyromanenko.com/courses/sql-for-beginners/): A structured SQL course covering syntax, core functions and language constructs, and how to work with SQL databases. Theory, tests and practical tasks…
+  - [Markdown](https://sergeyromanenko.com/courses/sql-for-beginners/index.md)
+- [SQL from Zero to Results](https://sergeyromanenko.com/courses/sql-roadmap/): A complete SQL program, from your first query to advanced language features and practical problem solving. The courses build on each other so knowledge…
+  - [Markdown](https://sergeyromanenko.com/courses/sql-roadmap/index.md)
+- [SQL Introduction](https://sergeyromanenko.com/courses/sql-introduction/): An English-language introduction to SQL: what relational databases are, how tables relate to each other, and how to write queries that retrieve, filter,…
+  - [Markdown](https://sergeyromanenko.com/courses/sql-introduction/index.md)
+- [SQL Introduction (Russian Edition)](https://sergeyromanenko.com/courses/sql-introduction-ru/): A beginner-friendly SQL course that takes you from zero to working with databases, together with the free book "SQL Introduction". You learn how tables…
+  - [Markdown](https://sergeyromanenko.com/courses/sql-introduction-ru/index.md)
+- [SQL Knowledge Assessment and Interview Preparation](https://sergeyromanenko.com/courses/sql-interview/): A free assessment course that tests your SQL knowledge and prepares you for interviews that require SQL. Questions across the whole topic range, each…
+  - [Markdown](https://sergeyromanenko.com/courses/sql-interview/index.md)
+- [SQL Window Functions](https://sergeyromanenko.com/courses/sql-window-functions/): Modern data analysis in SQL: window functions, offset functions, ranking functions, running calculations and complex in-query processing. A practical…
+  - [Markdown](https://sergeyromanenko.com/courses/sql-window-functions/index.md)
+- [The Complete JavaScript Course for Beginner Programmers](https://sergeyromanenko.com/courses/javascript-for-beginners/): Awarded one of the best courses of 2023 and a consistent best-seller. A complete JavaScript course for beginner programmers covering the core language —…
+  - [Markdown](https://sergeyromanenko.com/courses/javascript-for-beginners/index.md)
+- [The Complete JavaScript Course for Experienced Programmers](https://sergeyromanenko.com/courses/javascript-for-experienced/): The next stage of a JavaScript education. If you already know the fundamentals and want advanced concepts and techniques in depth, this course takes you…
+  - [Markdown](https://sergeyromanenko.com/courses/javascript-for-experienced/index.md)
+
+## Publications
+
+- [Things written down and *given away*.](https://sergeyromanenko.com/publications/): Books, photo zines and travel journals — free to read and free to download, an independent archive of observations, research and discoveries. 2 works published so far, free to read and free to download.
+  - [Markdown](https://sergeyromanenko.com/publications/index.md)
+- [Essays](https://sergeyromanenko.com/publications/essays/): Long-form essays combining personal observation, photography, travel, culture and research.
+  - [Markdown](https://sergeyromanenko.com/publications/essays/index.md)
+- [IT Books](https://sergeyromanenko.com/publications/it-books/): Practical books about programming, data, markup languages and digital technologies.
+  - [Markdown](https://sergeyromanenko.com/publications/it-books/index.md)
+- [Markdown](https://sergeyromanenko.com/publications/it-books/markdown/): A free beginner’s book on Markdown — the markup language behind most of what you read on the web, from headings and emphasis to tables and links.
+  - [Markdown](https://sergeyromanenko.com/publications/it-books/markdown/index.md)
+- [Photo Zines](https://sergeyromanenko.com/publications/photo-zines/): Independent photographic publications built around visual series and focused projects. Artifacts from the field.
+  - [Markdown](https://sergeyromanenko.com/publications/photo-zines/index.md)
+- [SQL Introduction](https://sergeyromanenko.com/publications/it-books/sql-introduction/): A free beginner’s book on SQL and how relational databases actually work — readable online, downloadable as PDF or EPUB, open source on GitHub.
+  - [Markdown](https://sergeyromanenko.com/publications/it-books/sql-introduction/index.md)
+- [Travel Books](https://sergeyromanenko.com/publications/travel-books/): Long-form books documenting journeys, places, people and travel experiences.
+  - [Markdown](https://sergeyromanenko.com/publications/travel-books/index.md)
+- [Travel Journals](https://sergeyromanenko.com/publications/travel-journals/): Travel journals combining observations, photographs, notes and fragments from journeys.
+  - [Markdown](https://sergeyromanenko.com/publications/travel-journals/index.md)
+
+## Tools
+
+- [Tools I Built Along the Way.](https://sergeyromanenko.com/tools/): Practical tools built during the journey — things I needed, could not find, built, and shared. They run in your browser, they are free, and none of them asks for an account. 55 tools, all running in the browser, all in one place.
+  - [Markdown](https://sergeyromanenko.com/tools/index.md)
+- [Affine Cipher](https://sergeyromanenko.com/tools/affine-cipher/): An affine cipher uses a mathematical formula E(x) = (ax + b) mod 26 — perfect for calculating travel distances and converting coordinates.
+  - [Markdown](https://sergeyromanenko.com/tools/affine-cipher/index.md)
+- [Atbash Cipher](https://sergeyromanenko.com/tools/atbash-cipher/): Reverse the alphabet — A becomes Z, B becomes Y, and so on. Perfect for creating mirror travel memories and palindromic messages about journeys.
+  - [Markdown](https://sergeyromanenko.com/tools/atbash-cipher/index.md)
+- [Bacon's Cipher](https://sergeyromanenko.com/tools/bacons-cipher/): Encode letters as five-symbol sequences of A and B — perfect for secret travel notes and covert journey communications.
+  - [Markdown](https://sergeyromanenko.com/tools/bacons-cipher/index.md)
+- [Beaufort Cipher](https://sergeyromanenko.com/tools/beaufort-cipher/): Encrypt and decrypt text using the Beaufort cipher - a self-inverse substitution cipher.
+  - [Markdown](https://sergeyromanenko.com/tools/beaufort-cipher/index.md)
+- [Bifid Cipher](https://sergeyromanenko.com/tools/bifid-cipher/): Encrypt and decrypt text using the Bifid cipher with a Polybius square and fractionation.
+  - [Markdown](https://sergeyromanenko.com/tools/bifid-cipher/index.md)
+- [Binary Converter](https://sergeyromanenko.com/tools/binary-converter/): Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
+  - [Markdown](https://sergeyromanenko.com/tools/binary-converter/index.md)
+- [Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/): Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
+  - [Markdown](https://sergeyromanenko.com/tools/brainfuck-editor/index.md)
+- [Caesar Cipher](https://sergeyromanenko.com/tools/caesar-cipher/): Shift letters by a configurable number of positions — perfect for encoding travel notes and exploring hidden messages on your journey.
+  - [Markdown](https://sergeyromanenko.com/tools/caesar-cipher/index.md)
+- [Case Converter](https://sergeyromanenko.com/tools/case-converter/): Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
+  - [Markdown](https://sergeyromanenko.com/tools/case-converter/index.md)
+- [Code Editor](https://sergeyromanenko.com/tools/code-editor/): Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
+  - [Markdown](https://sergeyromanenko.com/tools/code-editor/index.md)
+- [Columnar Transposition Cipher](https://sergeyromanenko.com/tools/columnar-transposition/): Arrange text in a grid based on a keyword, then read columns in keyword order — perfect for creating structured travel itineraries and destination orders.
+  - [Markdown](https://sergeyromanenko.com/tools/columnar-transposition/index.md)
+- [Currency Converter](https://sergeyromanenko.com/tools/currency-converter/): Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
+  - [Markdown](https://sergeyromanenko.com/tools/currency-converter/index.md)
+- [Emoji Picker](https://sergeyromanenko.com/tools/emoji-picker/): Search and copy emoji from a set bundled with the page — no API call, no tracking, and the picker keeps working offline once the page has loaded.
+  - [Markdown](https://sergeyromanenko.com/tools/emoji-picker/index.md)
+- [Encryption](https://sergeyromanenko.com/tools/encryption/): Encrypt and decrypt text in your browser with AES-256-GCM or the OpenSSL-compatible AES-256-CBC format.
+  - [Markdown](https://sergeyromanenko.com/tools/encryption/index.md)
+- [Favicon Generator](https://sergeyromanenko.com/tools/favicon-generator/): Generate favicons and app icons in your browser from text or an image. Export PNGs, a multi-resolution ICO, ZIP, manifest, and HTML tags. Nothing is uploaded.
+  - [Markdown](https://sergeyromanenko.com/tools/favicon-generator/index.md)
+- [Find and Replace](https://sergeyromanenko.com/tools/find-and-replace/): Find and replace text with optional regular expressions, case and whole-word matching, match counting and safe capture-group substitution.
+  - [Markdown](https://sergeyromanenko.com/tools/find-and-replace/index.md)
+- [Front Matter Editor](https://sergeyromanenko.com/tools/front-matter-editor/): Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
+  - [Markdown](https://sergeyromanenko.com/tools/front-matter-editor/index.md)
+- [GPS Coordinate Converter](https://sergeyromanenko.com/tools/gps-coordinate-converter/): Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
+  - [Markdown](https://sergeyromanenko.com/tools/gps-coordinate-converter/index.md)
+- [Hash Text](https://sergeyromanenko.com/tools/hash-text/): Hash text with MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA3-512 or RIPEMD-160, entirely in your browser.
+  - [Markdown](https://sergeyromanenko.com/tools/hash-text/index.md)
+- [Hill Cipher](https://sergeyromanenko.com/tools/hill-cipher/): Encrypt and decrypt text using the Hill cipher with matrix multiplication modulo 26.
+  - [Markdown](https://sergeyromanenko.com/tools/hill-cipher/index.md)
+- [HTTP Status Codes](https://sergeyromanenko.com/tools/http-status-codes/): A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
+  - [Markdown](https://sergeyromanenko.com/tools/http-status-codes/index.md)
+- [Image Cropper](https://sergeyromanenko.com/tools/image-cropper/): Crop images in your browser. Choose freeform or fixed aspect ratios, rotate and flip, zoom, preview, and download the result. Nothing is uploaded.
+  - [Markdown](https://sergeyromanenko.com/tools/image-cropper/index.md)
+- [Image Resizer](https://sergeyromanenko.com/tools/image-resizer/): Resize images in your browser by pixels or percentage, with aspect-ratio lock and high-quality resampling. Preview and download the result. Nothing is uploaded.
+  - [Markdown](https://sergeyromanenko.com/tools/image-resizer/index.md)
+- [JSON Formatter](https://sergeyromanenko.com/tools/json-formatter/): Validate, format and minify JSON in your browser, with syntax errors reported as a line and a column you can find.
+  - [Markdown](https://sergeyromanenko.com/tools/json-formatter/index.md)
+- [JSON YAML Converter](https://sergeyromanenko.com/tools/json-yaml-converter/): Convert JSON to YAML and YAML to JSON in your browser, with configurable indentation and errors that say where to look.
+  - [Markdown](https://sergeyromanenko.com/tools/json-yaml-converter/index.md)
+- [List Processor](https://sergeyromanenko.com/tools/list-processor/): Sort, deduplicate, filter and compare a list of items — alphabetically, naturally, by length, numerically, and against a second list.
+  - [Markdown](https://sergeyromanenko.com/tools/list-processor/index.md)
+- [Lua Editor](https://sergeyromanenko.com/tools/lua-editor/): Write and run Lua 5.4 programs directly in your browser using WebAssembly. Features a full code editor with syntax highlighting, interactive stdin/stdout console, 15+ built-in examples, local snippet persistence, and execution limits for safety. No server, no account, nothing uploaded.
+  - [Markdown](https://sergeyromanenko.com/tools/lua-editor/index.md)
+- [Markdown Editor](https://sergeyromanenko.com/tools/markdown-editor/): Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
+  - [Markdown](https://sergeyromanenko.com/tools/markdown-editor/index.md)
+- [Mermaid Diagram Editor](https://sergeyromanenko.com/tools/mermaid-diagram-editor/): Write Mermaid source, watch it render as a live diagram, and download it as a PNG file, all in your browser.
+  - [Markdown](https://sergeyromanenko.com/tools/mermaid-diagram-editor/index.md)
+- [Monoalphabetic Substitution](https://sergeyromanenko.com/tools/monoalphabetic-substitution/): Create your own substitution alphabet — perfect for encoding travel memories and personal journey symbols with a custom 26-letter mapping.
+  - [Markdown](https://sergeyromanenko.com/tools/monoalphabetic-substitution/index.md)
+- [Percentage Calculator](https://sergeyromanenko.com/tools/percentage-calculator/): Calculate a percentage of a number, what percentage one number is of another, percentage change, adding or subtracting a percentage, and percentage difference.
+  - [Markdown](https://sergeyromanenko.com/tools/percentage-calculator/index.md)
+- [Placeholder Text Generator](https://sergeyromanenko.com/tools/lorem-ipsum/): Generate placeholder text by paragraph, sentence or word count, with or without the traditional opening, and repeatably when you need the same text twice.
+  - [Markdown](https://sergeyromanenko.com/tools/lorem-ipsum/index.md)
+- [Playfair Cipher](https://sergeyromanenko.com/tools/playfair-cipher/): Encode digraphs using a 5×5 matrix built from a keyword — perfect for secure travel coordination and journey planning.
+  - [Markdown](https://sergeyromanenko.com/tools/playfair-cipher/index.md)
+- [Pseudocode Editor](https://sergeyromanenko.com/tools/pseudocode-editor/): Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
+  - [Markdown](https://sergeyromanenko.com/tools/pseudocode-editor/index.md)
+- [QR Code Generator](https://sergeyromanenko.com/tools/qr-code-generator/): Create custom QR codes for URLs, text, Wi-Fi, contacts, email, phone numbers, locations, and more. Customize colors, styles, and logos, then download as PNG. Generate QR codes privately in your browser without third-party QR APIs.
+  - [Markdown](https://sergeyromanenko.com/tools/qr-code-generator/index.md)
+- [Rail Fence Cipher](https://sergeyromanenko.com/tools/rail-fence-cipher/): Write text in a zigzag across multiple rails and read line by line — perfect for creating hidden travel routes and journey patterns.
+  - [Markdown](https://sergeyromanenko.com/tools/rail-fence-cipher/index.md)
+- [ROT13](https://sergeyromanenko.com/tools/rot13/): Shift every letter by exactly 13 positions — a quick and dirty way to obscure travel itineraries and journal entries while keeping them readable.
+  - [Markdown](https://sergeyromanenko.com/tools/rot13/index.md)
+- [Scytale Cipher](https://sergeyromanenko.com/tools/scytale-cipher/): Wrap text around a cylinder to create a spiral transposition — perfect for encoding ancient travel routes and historical journeys.
+  - [Markdown](https://sergeyromanenko.com/tools/scytale-cipher/index.md)
+- [Speed, Distance, and Time Calculator](https://sergeyromanenko.com/tools/speed-distance-time-calculator/): Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
+  - [Markdown](https://sergeyromanenko.com/tools/speed-distance-time-calculator/index.md)
+- [SQL Editor](https://sergeyromanenko.com/tools/sql-editor/): Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
+  - [Markdown](https://sergeyromanenko.com/tools/sql-editor/index.md)
+- [Text Analyzer](https://sergeyromanenko.com/tools/text-analyzer/): Measure words, characters, sentences, paragraphs, reading time, page count, word frequency and repeated phrases — computed entirely in your browser.
+  - [Markdown](https://sergeyromanenko.com/tools/text-analyzer/index.md)
+- [Text Cleaner](https://sergeyromanenko.com/tools/text-cleaner/): Clean text pasted from a web page, PDF or spreadsheet — collapse whitespace, fix line endings, find invisible characters and strip HTML.
+  - [Markdown](https://sergeyromanenko.com/tools/text-cleaner/index.md)
+- [Text Diff](https://sergeyromanenko.com/tools/text-diff/): Compare two texts line by line or word by word, with an accurate diff, ignore options, and differences marked by sign, tint and word.
+  - [Markdown](https://sergeyromanenko.com/tools/text-diff/index.md)
+- [Text Formatter](https://sergeyromanenko.com/tools/text-formatter/): Add line numbers, wrap text at a column, add prefixes and suffixes, indent, and turn lines into a bulleted or numbered list.
+  - [Markdown](https://sergeyromanenko.com/tools/text-formatter/index.md)
+- [Text Splitter & Joiner](https://sergeyromanenko.com/tools/text-splitter/): Split text into lines, paragraphs, sentences, batches of characters or words, or a fixed number of parts — then join it back together.
+  - [Markdown](https://sergeyromanenko.com/tools/text-splitter/index.md)
+- [Text Truncator](https://sergeyromanenko.com/tools/text-truncator/): Shorten text to a limit in characters, words, sentences, lines or paragraphs — cutting at a word boundary and counting the suffix inside the limit.
+  - [Markdown](https://sergeyromanenko.com/tools/text-truncator/index.md)
+- [The World Clock](https://sergeyromanenko.com/tools/world-clock/): A live clock for every city that matters to you — the current time, date, and daylight for your city and anywhere your people are, all at once.
+  - [Markdown](https://sergeyromanenko.com/tools/world-clock/index.md)
+- [Time Difference Calculator](https://sergeyromanenko.com/tools/time-difference-calculator/): Compare local times, daylight, and time differences across the cities that matter wherever you travel.
+  - [Markdown](https://sergeyromanenko.com/tools/time-difference-calculator/index.md)
+- [Token Generator](https://sergeyromanenko.com/tools/token-generator/): Generate cryptographically secure random tokens in your browser, with the length and the character sets you choose.
+  - [Markdown](https://sergeyromanenko.com/tools/token-generator/index.md)
+- [ULID Generator](https://sergeyromanenko.com/tools/ulid-generator/): Generate universally unique lexicographically sortable identifiers in your browser, with the count you need.
+  - [Markdown](https://sergeyromanenko.com/tools/ulid-generator/index.md)
+- [Unit Converter](https://sergeyromanenko.com/tools/unit-converter/): Convert length, weight, temperature, volume, area, speed, fuel economy and data transfer rates between metric, US and Imperial units.
+  - [Markdown](https://sergeyromanenko.com/tools/unit-converter/index.md)
+- [Vigenère Cipher](https://sergeyromanenko.com/tools/vigenere-cipher/): A polyalphabetic cipher using a keyword to select different Caesar shifts for each letter — ideal for securing complex travel itineraries and multi-leg journeys.
+  - [Markdown](https://sergeyromanenko.com/tools/vigenere-cipher/index.md)
+- [XML to JSON Converter](https://sergeyromanenko.com/tools/xml-to-json/): Convert XML documents to JSON in your browser, with a documented mapping for attributes, repeated elements and mixed content.
+  - [Markdown](https://sergeyromanenko.com/tools/xml-to-json/index.md)
+- [YAML Formatter](https://sergeyromanenko.com/tools/yaml-formatter/): Validate and format YAML in your browser, with parser errors reported as a line and a column you can find.
+  - [Markdown](https://sergeyromanenko.com/tools/yaml-formatter/index.md)
+- [YouTube on Repeat](https://sergeyromanenko.com/tools/youtube-on-repeat/): Paste a YouTube URL and loop the whole video or a precise A–B section, with playback-speed control and keyboard shortcuts. Runs entirely in your browser.
+  - [Markdown](https://sergeyromanenko.com/tools/youtube-on-repeat/index.md)
+
+## Games
+
+- [Games for Your Journey.](https://sergeyromanenko.com/games/): Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. 7 games, all running in the browser, all in one place.
+  - [Markdown](https://sergeyromanenko.com/games/index.md)
+- [2048](https://sergeyromanenko.com/games/2048/): Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
+  - [Markdown](https://sergeyromanenko.com/games/2048/index.md)
+- [Lights Out](https://sergeyromanenko.com/games/lights-out/): Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
+  - [Markdown](https://sergeyromanenko.com/games/lights-out/index.md)
+- [Memory Game](https://sergeyromanenko.com/games/memory-game/): Test your memory with this classic card matching game. Multiple difficulties, themes, and game modes. Play offline on flights, trains, and during travel.
+  - [Markdown](https://sergeyromanenko.com/games/memory-game/index.md)
+- [Rock Paper Scissors](https://sergeyromanenko.com/games/rock-paper-scissors/): Play Rock Paper Scissors against the computer. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
+  - [Markdown](https://sergeyromanenko.com/games/rock-paper-scissors/index.md)
+- [Simon](https://sergeyromanenko.com/games/simon/): Watch the colored pads light up in a growing sequence, then repeat it exactly. Each round adds one more step. One wrong tap ends the game. Sounds, mute, and local best scores.
+  - [Markdown](https://sergeyromanenko.com/games/simon/index.md)
+- [Tic-Tac-Toe](https://sergeyromanenko.com/games/tic-tac-toe/): Play Tic-Tac-Toe against an optimal computer opponent or challenge a friend on the same device. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
+  - [Markdown](https://sergeyromanenko.com/games/tic-tac-toe/index.md)
+- [Tower of Hanoi](https://sergeyromanenko.com/games/tower-of-hanoi/): Solve the classic Tower of Hanoi puzzle. Move disks between three pegs following the rules. Multiple difficulty levels, move counter, optimal solution tracker, hints, and step-by-step solution mode.
+  - [Markdown](https://sergeyromanenko.com/games/tower-of-hanoi/index.md)
+
+## About
+
+- [A life spent exploring — through code, cameras, and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — explorer, photographer, creator and engineer. Independent photographic projects, 26 online courses with 72,833 enrollments, open-source software, books and practical tools.
+  - [Markdown](https://sergeyromanenko.com/about/index.md)
+
+## Site
+
+- [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/): Copyright, intellectual property and licensing information for the original photographs, texts, videos, books, research and other creative materials by Sergey Romanenko.
+  - [Markdown](https://sergeyromanenko.com/copyright-and-licensing/index.md)
+- [Privacy & Security Policy](https://sergeyromanenko.com/privacy-policy/): Privacy and Security Policy for sergeyromanenko.com — how this website handles visitor data, browser-based tools and games, external services, and your rights.
+  - [Markdown](https://sergeyromanenko.com/privacy-policy/index.md)
+- [Support Independent Development](https://sergeyromanenko.com/support/): Voluntary support options for independent development of free browser-based tools, educational resources, and digital projects.
+  - [Markdown](https://sergeyromanenko.com/support/index.md)
+- [Terms of Use](https://sergeyromanenko.com/terms-of-use/): Terms of Use for sergeyromanenko.com — permitted use, free tools, course information, voluntary support, external links, and limitations.
+  - [Markdown](https://sergeyromanenko.com/terms-of-use/index.md)
+- [Sitemap](https://sergeyromanenko.com/sitemap-index.xml): every indexable HTML page.
