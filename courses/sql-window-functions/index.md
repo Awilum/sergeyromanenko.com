@@ -117,7 +117,7 @@ SQL Window Functions is an intermediate SQL course, published on Stepik by Serge
 - **Who created “SQL Window Functions”?:** “SQL Window Functions” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “SQL Window Functions” give a certificate?:** Yes. Stepik has issued 77 certificates to learners who completed “SQL Window Functions”.
 - **How many learners have reviewed “SQL Window Functions”?:** “SQL Window Functions” has 22 reviews on Stepik, with an average rating of 4.9 out of 5.
-- **How do I enroll in “SQL Window Functions”?:** Enrollment and payment for “SQL Window Functions” happen on Stepik: open https://stepik.org/course/282146/ and start there.
+- **How do I enroll in “SQL Window Functions”?:** Enrollment and payment for “SQL Window Functions” happen on Stepik: open https://stepik.org/a/282146/ and start there.
 
 Next
 

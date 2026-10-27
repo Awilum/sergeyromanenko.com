@@ -100,7 +100,7 @@ JavaScript Knowledge Assessment and Interview Preparation is an intermediate Jav
 - **Who created “JavaScript Knowledge Assessment and Interview Preparation”?:** “JavaScript Knowledge Assessment and Interview Preparation” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “JavaScript Knowledge Assessment and Interview Preparation” give a certificate?:** Yes. Stepik has issued 896 certificates to learners who completed “JavaScript Knowledge Assessment and Interview Preparation”.
 - **How many learners have reviewed “JavaScript Knowledge Assessment and Interview Preparation”?:** “JavaScript Knowledge Assessment and Interview Preparation” has 141 reviews on Stepik, with an average rating of 4.9 out of 5.
-- **How do I enroll in “JavaScript Knowledge Assessment and Interview Preparation”?:** Enrollment for “JavaScript Knowledge Assessment and Interview Preparation” happen on Stepik: open https://stepik.org/course/189305/ and start there.
+- **How do I enroll in “JavaScript Knowledge Assessment and Interview Preparation”?:** Enrollment for “JavaScript Knowledge Assessment and Interview Preparation” happen on Stepik: open https://stepik.org/a/189305/ and start there.
 
 Next
 

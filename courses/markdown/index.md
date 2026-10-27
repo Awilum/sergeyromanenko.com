@@ -100,7 +100,7 @@ Markdown is a beginner Markdown course, published on Stepik by Sergey Romanenko,
 - **Who created “Markdown”?:** “Markdown” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Markdown” give a certificate?:** Yes. Stepik has issued 2,586 certificates to learners who completed “Markdown”.
 - **How many learners have reviewed “Markdown”?:** “Markdown” has 473 reviews on Stepik, with an average rating of 4.9 out of 5.
-- **How do I enroll in “Markdown”?:** Enrollment for “Markdown” happen on Stepik: open https://stepik.org/course/187888/ and start there.
+- **How do I enroll in “Markdown”?:** Enrollment for “Markdown” happen on Stepik: open https://stepik.org/a/187888/ and start there.
 
 Next
 

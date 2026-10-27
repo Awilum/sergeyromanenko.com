@@ -136,7 +136,7 @@ Practical C# Programming Trainer is an intermediate C# course, published on Step
 - **Who created “Practical C# Programming Trainer”?:** “Practical C# Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Practical C# Programming Trainer” give a certificate?:** Yes. Stepik has issued 166 certificates to learners who completed “Practical C# Programming Trainer”.
 - **How many learners have reviewed “Practical C# Programming Trainer”?:** “Practical C# Programming Trainer” has 10 reviews on Stepik, with an average rating of 5.0 out of 5.
-- **How do I enroll in “Practical C# Programming Trainer”?:** Enrollment and payment for “Practical C# Programming Trainer” happen on Stepik: open https://stepik.org/course/201649/ and start there.
+- **How do I enroll in “Practical C# Programming Trainer”?:** Enrollment and payment for “Practical C# Programming Trainer” happen on Stepik: open https://stepik.org/a/201649/ and start there.
 
 Next
 

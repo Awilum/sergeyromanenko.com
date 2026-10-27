@@ -100,7 +100,7 @@ SQL Introduction (Russian Edition) is a beginner SQL course, published on Stepik
 - **Who created “SQL Introduction (Russian Edition)”?:** “SQL Introduction (Russian Edition)” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “SQL Introduction (Russian Edition)” give a certificate?:** Yes. Stepik has issued 440 certificates to learners who completed “SQL Introduction (Russian Edition)”.
 - **How many learners have reviewed “SQL Introduction (Russian Edition)”?:** “SQL Introduction (Russian Edition)” has 87 reviews on Stepik, with an average rating of 4.9 out of 5.
-- **How do I enroll in “SQL Introduction (Russian Edition)”?:** Enrollment for “SQL Introduction (Russian Edition)” happen on Stepik: open https://stepik.org/course/290855/ and start there.
+- **How do I enroll in “SQL Introduction (Russian Edition)”?:** Enrollment for “SQL Introduction (Russian Edition)” happen on Stepik: open https://stepik.org/a/290855/ and start there.
 
 Next
 

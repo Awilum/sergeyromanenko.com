@@ -95,7 +95,7 @@ SQL Knowledge Assessment and Interview Preparation is a beginner SQL course, pub
 - **How much content is in “SQL Knowledge Assessment and Interview Preparation”?:** “SQL Knowledge Assessment and Interview Preparation” contains 17 lessons in 3 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Knowledge Assessment and Interview Preparation”?:** “SQL Knowledge Assessment and Interview Preparation” was created by Sergey Romanenko. It is published on Stepik.
 - **How many learners have reviewed “SQL Knowledge Assessment and Interview Preparation”?:** “SQL Knowledge Assessment and Interview Preparation” has 33 reviews on Stepik, with an average rating of 4.7 out of 5.
-- **How do I enroll in “SQL Knowledge Assessment and Interview Preparation”?:** Enrollment for “SQL Knowledge Assessment and Interview Preparation” happen on Stepik: open https://stepik.org/course/280145/ and start there.
+- **How do I enroll in “SQL Knowledge Assessment and Interview Preparation”?:** Enrollment for “SQL Knowledge Assessment and Interview Preparation” happen on Stepik: open https://stepik.org/a/280145/ and start there.
 
 Next
 

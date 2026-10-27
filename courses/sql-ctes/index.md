@@ -101,7 +101,7 @@ SQL Common Table Expressions is an intermediate SQL course, published on Stepik 
 - **Who created “SQL Common Table Expressions”?:** “SQL Common Table Expressions” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “SQL Common Table Expressions” give a certificate?:** Yes. Stepik has issued 63 certificates to learners who completed “SQL Common Table Expressions”.
 - **How many learners have reviewed “SQL Common Table Expressions”?:** “SQL Common Table Expressions” has 17 reviews on Stepik, with an average rating of 4.9 out of 5.
-- **How do I enroll in “SQL Common Table Expressions”?:** Enrollment and payment for “SQL Common Table Expressions” happen on Stepik: open https://stepik.org/course/294493/ and start there.
+- **How do I enroll in “SQL Common Table Expressions”?:** Enrollment and payment for “SQL Common Table Expressions” happen on Stepik: open https://stepik.org/a/294493/ and start there.
 
 Next
 

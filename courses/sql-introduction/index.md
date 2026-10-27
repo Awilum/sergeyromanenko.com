@@ -118,7 +118,7 @@ SQL Introduction is a beginner SQL course, published on Stepik by Sergey Romanen
 - **Who created “SQL Introduction”?:** “SQL Introduction” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “SQL Introduction” give a certificate?:** Yes. Stepik has issued 1,302 certificates to learners who completed “SQL Introduction”.
 - **How many learners have reviewed “SQL Introduction”?:** “SQL Introduction” has 252 reviews on Stepik, with an average rating of 4.8 out of 5.
-- **How do I enroll in “SQL Introduction”?:** Enrollment for “SQL Introduction” happen on Stepik: open https://stepik.org/course/132225/ and start there.
+- **How do I enroll in “SQL Introduction”?:** Enrollment for “SQL Introduction” happen on Stepik: open https://stepik.org/a/132225/ and start there.
 
 Next
 

@@ -144,7 +144,7 @@ Practical PHP Programming Trainer is an intermediate PHP course, published on St
 - **Who created “Practical PHP Programming Trainer”?:** “Practical PHP Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Practical PHP Programming Trainer” give a certificate?:** Yes. Stepik has issued 11 certificates to learners who completed “Practical PHP Programming Trainer”.
 - **How many learners have reviewed “Practical PHP Programming Trainer”?:** “Practical PHP Programming Trainer” has 3 reviews on Stepik, with an average rating of 5.0 out of 5.
-- **How do I enroll in “Practical PHP Programming Trainer”?:** Enrollment and payment for “Practical PHP Programming Trainer” happen on Stepik: open https://stepik.org/course/174887/ and start there.
+- **How do I enroll in “Practical PHP Programming Trainer”?:** Enrollment and payment for “Practical PHP Programming Trainer” happen on Stepik: open https://stepik.org/a/174887/ and start there.
 
 Next
 

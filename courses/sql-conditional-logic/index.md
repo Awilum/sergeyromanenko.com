@@ -99,7 +99,7 @@ SQL Conditional Logic is an intermediate SQL course, published on Stepik by Serg
 - **How much content is in “SQL Conditional Logic”?:** “SQL Conditional Logic” contains 28 lessons in 4 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Conditional Logic”?:** “SQL Conditional Logic” was created by Sergey Romanenko. It is published on Stepik.
 - **How many learners have reviewed “SQL Conditional Logic”?:** “SQL Conditional Logic” has 9 reviews on Stepik, with an average rating of 5.0 out of 5.
-- **How do I enroll in “SQL Conditional Logic”?:** Enrollment for “SQL Conditional Logic” happen on Stepik: open https://stepik.org/course/295190/ and start there.
+- **How do I enroll in “SQL Conditional Logic”?:** Enrollment for “SQL Conditional Logic” happen on Stepik: open https://stepik.org/a/295190/ and start there.
 
 Next
 

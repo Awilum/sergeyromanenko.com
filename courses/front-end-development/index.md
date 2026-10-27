@@ -104,7 +104,7 @@ Course Program: Front-End Development is a beginner Front-End Development career
 - **How much content is in “Course Program: Front-End Development”?:** “Course Program: Front-End Development” contains 677 lessons in 5 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “Course Program: Front-End Development”?:** “Course Program: Front-End Development” was created by Shultais Education, Михаил Непомнящий, Исмаил Усеинов, Sergey Romanenko, Stepik Content Team. It is published on Stepik.
 - **How many learners have reviewed “Course Program: Front-End Development”?:** “Course Program: Front-End Development” has 214 reviews on Stepik, with an average rating of 4.7 out of 5.
-- **How do I enroll in “Course Program: Front-End Development”?:** Enrollment and payment for “Course Program: Front-End Development” happen on Stepik: open https://stepik.org/course/208811/ and start there.
+- **How do I enroll in “Course Program: Front-End Development”?:** Enrollment and payment for “Course Program: Front-End Development” happen on Stepik: open https://stepik.org/a/208811/ and start there.
 
 Next
 

@@ -104,7 +104,7 @@ JavaScript from Zero to Confident Developer is a beginner JavaScript career prog
 - **How much content is in “JavaScript from Zero to Confident Developer”?:** “JavaScript from Zero to Confident Developer” contains 574 lessons in 5 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “JavaScript from Zero to Confident Developer”?:** “JavaScript from Zero to Confident Developer” was created by Sergey Romanenko. It is published on Stepik.
 - **How many learners have reviewed “JavaScript from Zero to Confident Developer”?:** “JavaScript from Zero to Confident Developer” has 262 reviews on Stepik, with an average rating of 4.8 out of 5.
-- **How do I enroll in “JavaScript from Zero to Confident Developer”?:** Enrollment and payment for “JavaScript from Zero to Confident Developer” happen on Stepik: open https://stepik.org/course/271057/ and start there.
+- **How do I enroll in “JavaScript from Zero to Confident Developer”?:** Enrollment and payment for “JavaScript from Zero to Confident Developer” happen on Stepik: open https://stepik.org/a/271057/ and start there.
 
 Next
 

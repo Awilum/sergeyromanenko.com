@@ -153,7 +153,7 @@ Practical Python Programming Trainer is an intermediate Python course, published
 - **Who created “Practical Python Programming Trainer”?:** “Practical Python Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Practical Python Programming Trainer” give a certificate?:** Yes. Stepik has issued 43 certificates to learners who completed “Practical Python Programming Trainer”.
 - **How many learners have reviewed “Practical Python Programming Trainer”?:** “Practical Python Programming Trainer” has 16 reviews on Stepik, with an average rating of 4.5 out of 5.
-- **How do I enroll in “Practical Python Programming Trainer”?:** Enrollment and payment for “Practical Python Programming Trainer” happen on Stepik: open https://stepik.org/course/173184/ and start there.
+- **How do I enroll in “Practical Python Programming Trainer”?:** Enrollment and payment for “Practical Python Programming Trainer” happen on Stepik: open https://stepik.org/a/173184/ and start there.
 
 Next
 

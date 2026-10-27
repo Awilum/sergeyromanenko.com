@@ -144,7 +144,7 @@ SQL for Beginners is a beginner SQL course, published on Stepik by Sergey Romane
 - **Who created “SQL for Beginners”?:** “SQL for Beginners” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “SQL for Beginners” give a certificate?:** Yes. Stepik has issued 288 certificates to learners who completed “SQL for Beginners”.
 - **How many learners have reviewed “SQL for Beginners”?:** “SQL for Beginners” has 77 reviews on Stepik, with an average rating of 4.8 out of 5.
-- **How do I enroll in “SQL for Beginners”?:** Enrollment and payment for “SQL for Beginners” happen on Stepik: open https://stepik.org/course/133728/ and start there.
+- **How do I enroll in “SQL for Beginners”?:** Enrollment and payment for “SQL for Beginners” happen on Stepik: open https://stepik.org/a/133728/ and start there.
 
 Next
 

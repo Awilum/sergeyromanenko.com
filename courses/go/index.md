@@ -141,7 +141,7 @@ Practical Go Programming Trainer is an intermediate Go course, published on Step
 - **Who created “Practical Go Programming Trainer”?:** “Practical Go Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Practical Go Programming Trainer” give a certificate?:** Yes. Stepik has issued 45 certificates to learners who completed “Practical Go Programming Trainer”.
 - **How many learners have reviewed “Practical Go Programming Trainer”?:** “Practical Go Programming Trainer” has 13 reviews on Stepik, with an average rating of 4.7 out of 5.
-- **How do I enroll in “Practical Go Programming Trainer”?:** Enrollment and payment for “Practical Go Programming Trainer” happen on Stepik: open https://stepik.org/course/175966/ and start there.
+- **How do I enroll in “Practical Go Programming Trainer”?:** Enrollment and payment for “Practical Go Programming Trainer” happen on Stepik: open https://stepik.org/a/175966/ and start there.
 
 Next
 

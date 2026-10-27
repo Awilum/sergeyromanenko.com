@@ -126,7 +126,7 @@ Practical Kotlin Programming Trainer is an intermediate Kotlin course, published
 - **Who created “Practical Kotlin Programming Trainer”?:** “Practical Kotlin Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Practical Kotlin Programming Trainer” give a certificate?:** Yes. Stepik has issued 12 certificates to learners who completed “Practical Kotlin Programming Trainer”.
 - **How many learners have reviewed “Practical Kotlin Programming Trainer”?:** “Practical Kotlin Programming Trainer” has 2 reviews on Stepik, with an average rating of 5.0 out of 5.
-- **How do I enroll in “Practical Kotlin Programming Trainer”?:** Enrollment and payment for “Practical Kotlin Programming Trainer” happen on Stepik: open https://stepik.org/course/187934/ and start there.
+- **How do I enroll in “Practical Kotlin Programming Trainer”?:** Enrollment and payment for “Practical Kotlin Programming Trainer” happen on Stepik: open https://stepik.org/a/187934/ and start there.
 
 Next
 

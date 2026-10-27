@@ -169,7 +169,7 @@ The Complete JavaScript Course for Experienced Programmers is an intermediate Ja
 - **Who created “The Complete JavaScript Course for Experienced Programmers”?:** “The Complete JavaScript Course for Experienced Programmers” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “The Complete JavaScript Course for Experienced Programmers” give a certificate?:** Yes. Stepik has issued 80 certificates to learners who completed “The Complete JavaScript Course for Experienced Programmers”.
 - **How many learners have reviewed “The Complete JavaScript Course for Experienced Programmers”?:** “The Complete JavaScript Course for Experienced Programmers” has 17 reviews on Stepik, with an average rating of 4.5 out of 5.
-- **How do I enroll in “The Complete JavaScript Course for Experienced Programmers”?:** Enrollment and payment for “The Complete JavaScript Course for Experienced Programmers” happen on Stepik: open https://stepik.org/course/177315/ and start there.
+- **How do I enroll in “The Complete JavaScript Course for Experienced Programmers”?:** Enrollment and payment for “The Complete JavaScript Course for Experienced Programmers” happen on Stepik: open https://stepik.org/a/177315/ and start there.
 
 Next
 

@@ -104,7 +104,7 @@ Practical SQL Trainer is a beginner SQL course, published on Stepik by Sergey Ro
 - **Who created “Practical SQL Trainer”?:** “Practical SQL Trainer” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Practical SQL Trainer” give a certificate?:** Yes. Stepik has issued 113 certificates to learners who completed “Practical SQL Trainer”.
 - **How many learners have reviewed “Practical SQL Trainer”?:** “Practical SQL Trainer” has 30 reviews on Stepik, with an average rating of 4.9 out of 5.
-- **How do I enroll in “Practical SQL Trainer”?:** Enrollment and payment for “Practical SQL Trainer” happen on Stepik: open https://stepik.org/course/279399/ and start there.
+- **How do I enroll in “Practical SQL Trainer”?:** Enrollment and payment for “Practical SQL Trainer” happen on Stepik: open https://stepik.org/a/279399/ and start there.
 
 Next
 

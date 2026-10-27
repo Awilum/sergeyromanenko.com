@@ -118,7 +118,7 @@ Practical Java Programming Trainer is an intermediate Java course, published on 
 - **Who created “Practical Java Programming Trainer”?:** “Practical Java Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Practical Java Programming Trainer” give a certificate?:** Yes. Stepik has issued 202 certificates to learners who completed “Practical Java Programming Trainer”.
 - **How many learners have reviewed “Practical Java Programming Trainer”?:** “Practical Java Programming Trainer” has 32 reviews on Stepik, with an average rating of 4.9 out of 5.
-- **How do I enroll in “Practical Java Programming Trainer”?:** Enrollment and payment for “Practical Java Programming Trainer” happen on Stepik: open https://stepik.org/course/182389/ and start there.
+- **How do I enroll in “Practical Java Programming Trainer”?:** Enrollment and payment for “Practical Java Programming Trainer” happen on Stepik: open https://stepik.org/a/182389/ and start there.
 
 Next
 

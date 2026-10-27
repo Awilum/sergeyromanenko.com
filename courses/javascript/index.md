@@ -126,7 +126,7 @@ Practical JavaScript Trainer is an intermediate JavaScript course, published on 
 - **Who created “Practical JavaScript Trainer”?:** “Practical JavaScript Trainer” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Practical JavaScript Trainer” give a certificate?:** Yes. Stepik has issued 31 certificates to learners who completed “Practical JavaScript Trainer”.
 - **How many learners have reviewed “Practical JavaScript Trainer”?:** “Practical JavaScript Trainer” has 10 reviews on Stepik, with an average rating of 5.0 out of 5.
-- **How do I enroll in “Practical JavaScript Trainer”?:** Enrollment and payment for “Practical JavaScript Trainer” happen on Stepik: open https://stepik.org/course/172576/ and start there.
+- **How do I enroll in “Practical JavaScript Trainer”?:** Enrollment and payment for “Practical JavaScript Trainer” happen on Stepik: open https://stepik.org/a/172576/ and start there.
 
 Next
 

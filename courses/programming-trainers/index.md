@@ -112,7 +112,7 @@ Practical Programming Trainers is a beginner Programming career program, publish
 - **How much content is in “Practical Programming Trainers”?:** “Practical Programming Trainers” contains 311 lessons in 8 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “Practical Programming Trainers”?:** “Practical Programming Trainers” was created by Sergey Romanenko. It is published on Stepik.
 - **How many learners have reviewed “Practical Programming Trainers”?:** “Practical Programming Trainers” has 116 reviews on Stepik, with an average rating of 4.9 out of 5.
-- **How do I enroll in “Practical Programming Trainers”?:** Enrollment and payment for “Practical Programming Trainers” happen on Stepik: open https://stepik.org/course/274179/ and start there.
+- **How do I enroll in “Practical Programming Trainers”?:** Enrollment and payment for “Practical Programming Trainers” happen on Stepik: open https://stepik.org/a/274179/ and start there.
 
 Next
 

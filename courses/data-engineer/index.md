@@ -110,7 +110,7 @@ Career Path: Data Engineer is a beginner Data Engineering career program, publis
 - **How much content is in “Career Path: Data Engineer”?:** “Career Path: Data Engineer” contains 388 lessons in 8 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “Career Path: Data Engineer”?:** “Career Path: Data Engineer” was created by Роман Медведев, Иван Натаров, Кузьмин Дмитрий, Влад Бурмистров, Sergey Romanenko, Stepik Content Team, Люди Будущего / Future People, Максим Мигутин. It is published on Stepik.
 - **How many learners have reviewed “Career Path: Data Engineer”?:** “Career Path: Data Engineer” has 536 reviews on Stepik, with an average rating of 4.7 out of 5.
-- **How do I enroll in “Career Path: Data Engineer”?:** Enrollment and payment for “Career Path: Data Engineer” happen on Stepik: open https://stepik.org/course/297594/ and start there.
+- **How do I enroll in “Career Path: Data Engineer”?:** Enrollment and payment for “Career Path: Data Engineer” happen on Stepik: open https://stepik.org/a/297594/ and start there.
 
 Next
 
