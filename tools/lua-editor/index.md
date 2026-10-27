@@ -137,12 +137,21 @@ The runtime is [wasmoon](https://github.com/ceifa/wasmoon) — the official Lua 
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related also programming
+## Related also editor
 
 - **[Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/)**
   Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
 
   - programming
+  - editor
+- **[Code Editor](https://sergeyromanenko.com/tools/code-editor/)**
+  Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
+
+  - editor
+- **[Front Matter Editor](https://sergeyromanenko.com/tools/front-matter-editor/)**
+  Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
+
+  - editor
 
 ## Tags
 
@@ -155,5 +164,6 @@ Every tag below is a filter on the catalog: follow one to see the other tools fi
 - [playground](https://sergeyromanenko.com/tools/?tag=playground)
 - [learning](https://sergeyromanenko.com/tools/?tag=learning)
 - [developer tools](https://sergeyromanenko.com/tools/?tag=developer+tools)
+- [editor](https://sergeyromanenko.com/tools/?tag=editor)
 
 Found this tool useful? [Support independent development](https://sergeyromanenko.com/support/)

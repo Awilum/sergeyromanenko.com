@@ -182,21 +182,24 @@ If you want to go deeper, two structured resources are available.
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related also writing
+## Related also editor
 
 - **[Code Editor](https://sergeyromanenko.com/tools/code-editor/)**
   Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
 
   - editing
+  - editor
   - export
-- **[Case Converter](https://sergeyromanenko.com/tools/case-converter/)**
-  Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
+- **[Front Matter Editor](https://sergeyromanenko.com/tools/front-matter-editor/)**
+  Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
 
-  - writing
-- **[Emoji Picker](https://sergeyromanenko.com/tools/emoji-picker/)**
-  Search and copy emoji from a set bundled with the page — no API call, no tracking, and the picker keeps working offline once the page has loaded.
+  - markdown
+  - editor
+- **[SQL Editor](https://sergeyromanenko.com/tools/sql-editor/)**
+  Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
 
-  - writing
+  - editing
+  - editor
 
 ## Tags
 
@@ -206,5 +209,6 @@ Every tag below is a filter on the catalog: follow one to see the other tools fi
 - [writing](https://sergeyromanenko.com/tools/?tag=writing)
 - [editing](https://sergeyromanenko.com/tools/?tag=editing)
 - [export](https://sergeyromanenko.com/tools/?tag=export)
+- [editor](https://sergeyromanenko.com/tools/?tag=editor)
 
 Found this tool useful? [Support independent development](https://sergeyromanenko.com/support/)

@@ -21,7 +21,7 @@ Write and execute Brainfuck programs in the browser with an interactive editor, 
 
 - **Access:** Free
 - **Runs in:** Web
-- **Tags:** 4
+- **Tags:** 5
 - **Offline support:** Yes
 
 ## What you can do
@@ -120,16 +120,22 @@ No network requests are made. Programs and input never leave your device, and no
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related also interpreter
+## Related also editor
 
 - **[Lua Editor](https://sergeyromanenko.com/tools/lua-editor/)**
   Write and run Lua 5.4 programs directly in your browser using WebAssembly. Features a full code editor with syntax highlighting, interactive stdin/stdout console, 15+ built-in examples, local snippet persistence, and execution limits for safety. No server, no account, nothing uploaded.
 
   - programming
+  - editor
 - **[Pseudocode Editor](https://sergeyromanenko.com/tools/pseudocode-editor/)**
   Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
 
+  - editor
   - interpreter
+- **[Code Editor](https://sergeyromanenko.com/tools/code-editor/)**
+  Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
+
+  - editor
 
 ## Tags
 
@@ -139,5 +145,6 @@ Every tag below is a filter on the catalog: follow one to see the other tools fi
 - [esoteric](https://sergeyromanenko.com/tools/?tag=esoteric)
 - [programming](https://sergeyromanenko.com/tools/?tag=programming)
 - [interpreter](https://sergeyromanenko.com/tools/?tag=interpreter)
+- [editor](https://sergeyromanenko.com/tools/?tag=editor)
 
 Found this tool useful? [Support independent development](https://sergeyromanenko.com/support/)

@@ -100,20 +100,21 @@ It also does not validate against a schema. An Astro collection has its own requ
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related also yaml
+## Related also editor
 
-- **[JSON YAML Converter](https://sergeyromanenko.com/tools/json-yaml-converter/)**
-  Convert JSON to YAML and YAML to JSON in your browser, with configurable indentation and errors that say where to look.
-
-  - yaml
 - **[Markdown Editor](https://sergeyromanenko.com/tools/markdown-editor/)**
   Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
 
   - markdown
-- **[YAML Formatter](https://sergeyromanenko.com/tools/yaml-formatter/)**
-  Validate and format YAML in your browser, with parser errors reported as a line and a column you can find.
+  - editor
+- **[Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/)**
+  Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
 
-  - yaml
+  - editor
+- **[Code Editor](https://sergeyromanenko.com/tools/code-editor/)**
+  Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
+
+  - editor
 
 ## Tags
 
@@ -124,5 +125,6 @@ Every tag below is a filter on the catalog: follow one to see the other tools fi
 - [yaml](https://sergeyromanenko.com/tools/?tag=yaml)
 - [metadata](https://sergeyromanenko.com/tools/?tag=metadata)
 - [astro](https://sergeyromanenko.com/tools/?tag=astro)
+- [editor](https://sergeyromanenko.com/tools/?tag=editor)
 
 Found this tool useful? [Support independent development](https://sergeyromanenko.com/support/)

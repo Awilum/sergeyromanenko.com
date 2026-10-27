@@ -73,21 +73,23 @@ There is no Run button, and that is deliberate. Nothing here executes the code y
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related also code
+## Related also editor
 
 - **[Markdown Editor](https://sergeyromanenko.com/tools/markdown-editor/)**
   Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
 
   - editing
   - export
-- **[Case Converter](https://sergeyromanenko.com/tools/case-converter/)**
-  Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
+  - editor
+- **[SQL Editor](https://sergeyromanenko.com/tools/sql-editor/)**
+  Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
 
-  - code
-- **[Find and Replace](https://sergeyromanenko.com/tools/find-and-replace/)**
-  Find and replace text with optional regular expressions, case and whole-word matching, match counting and safe capture-group substitution.
+  - editing
+  - editor
+- **[Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/)**
+  Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
 
-  - code
+  - editor
 
 ## Tags
 
@@ -95,6 +97,7 @@ Every tag below is a filter on the catalog: follow one to see the other tools fi
 
 - [code](https://sergeyromanenko.com/tools/?tag=code)
 - [editing](https://sergeyromanenko.com/tools/?tag=editing)
+- [editor](https://sergeyromanenko.com/tools/?tag=editor)
 - [syntax highlighting](https://sergeyromanenko.com/tools/?tag=syntax+highlighting)
 - [snippets](https://sergeyromanenko.com/tools/?tag=snippets)
 - [export](https://sergeyromanenko.com/tools/?tag=export)

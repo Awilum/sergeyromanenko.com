@@ -155,12 +155,21 @@ The interpreter runs entirely in your browser. The program, input, output and va
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related also interpreter
+## Related also editor
 
 - **[Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/)**
   Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
 
   - interpreter
+  - editor
+- **[Code Editor](https://sergeyromanenko.com/tools/code-editor/)**
+  Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
+
+  - editor
+- **[Front Matter Editor](https://sergeyromanenko.com/tools/front-matter-editor/)**
+  Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
+
+  - editor
 
 ## Tags
 

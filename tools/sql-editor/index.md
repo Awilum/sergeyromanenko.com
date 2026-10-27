@@ -77,20 +77,22 @@ The download is a snapshot of the moment you press the button. Nothing else can 
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related also editing
+## Related also editor
 
 - **[Code Editor](https://sergeyromanenko.com/tools/code-editor/)**
   Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
 
   - editing
+  - editor
 - **[Markdown Editor](https://sergeyromanenko.com/tools/markdown-editor/)**
   Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
 
   - editing
-- **[ULID Generator](https://sergeyromanenko.com/tools/ulid-generator/)**
-  Generate universally unique lexicographically sortable identifiers in your browser, with the count you need.
+  - editor
+- **[Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/)**
+  Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
 
-  - databases
+  - editor
 
 ## Tags
 
@@ -100,5 +102,6 @@ Every tag below is a filter on the catalog: follow one to see the other tools fi
 - [databases](https://sergeyromanenko.com/tools/?tag=databases)
 - [editing](https://sergeyromanenko.com/tools/?tag=editing)
 - [query](https://sergeyromanenko.com/tools/?tag=query)
+- [editor](https://sergeyromanenko.com/tools/?tag=editor)
 
 Found this tool useful? [Support independent development](https://sergeyromanenko.com/support/)

@@ -23,24 +23,36 @@ A collection of browser-based tools shaped by years of studying, working, and bu
 
 55 tools
 
+- **[Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/)**
+  Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
+  brainfuck
+  esoteric
+  programming
+  +2 more
 - **[Code Editor](https://sergeyromanenko.com/tools/code-editor/)**
   Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
   code
   editing
-  syntax highlighting
-  +2 more
+  editor
+  +3 more
+- **[Front Matter Editor](https://sergeyromanenko.com/tools/front-matter-editor/)**
+  Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
+  markdown
+  front matter
+  yaml
+  +3 more
 - **[Lua Editor](https://sergeyromanenko.com/tools/lua-editor/)**
   Write and run Lua 5.4 programs directly in your browser using WebAssembly. Features a full code editor with syntax highlighting, interactive stdin/stdout console, 15+ built-in examples, local snippet persistence, and execution limits for safety. No server, no account, nothing uploaded.
   lua
   programming
   code editor
-  +4 more
+  +5 more
 - **[Markdown Editor](https://sergeyromanenko.com/tools/markdown-editor/)**
   Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
   markdown
   writing
   editing
-  +1 more
+  +2 more
 - **[Pseudocode Editor](https://sergeyromanenko.com/tools/pseudocode-editor/)**
   Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
   pseudocode
@@ -52,7 +64,7 @@ A collection of browser-based tools shaped by years of studying, working, and bu
   sql
   databases
   editing
-  +1 more
+  +2 more
 - **[Caesar Cipher](https://sergeyromanenko.com/tools/caesar-cipher/)**
   Shift letters by a configurable number of positions — perfect for encoding travel notes and exploring hidden messages on your journey.
   caesar
@@ -186,12 +198,6 @@ A collection of browser-based tools shaped by years of studying, working, and bu
   converters
   number systems
   +2 more
-- **[Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/)**
-  Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
-  brainfuck
-  esoteric
-  programming
-  +1 more
 - **[Case Converter](https://sergeyromanenko.com/tools/case-converter/)**
   Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
   writing
@@ -213,12 +219,6 @@ A collection of browser-based tools shaped by years of studying, working, and bu
   writing
   text formatting
   code
-- **[Front Matter Editor](https://sergeyromanenko.com/tools/front-matter-editor/)**
-  Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
-  markdown
-  front matter
-  yaml
-  +2 more
 - **[HTTP Status Codes](https://sergeyromanenko.com/tools/http-status-codes/)**
   A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
   http
