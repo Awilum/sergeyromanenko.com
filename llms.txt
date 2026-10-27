@@ -1,6 +1,6 @@
 # Sergey Romanenko
 
-> Sergey Romanenko — photographer, educator and software engineer. Documentary photography from Vietnam, online programming courses, and open-source books and tools.
+> Sergey Romanenko — photographer, educator and software engineer. Documentary photography, online programming courses, and open-source books and tools.
 
 This file is an index of the public work on this site. It is generated from the same
 content the site renders, and every link is absolute. The HTML pages are canonical; a Markdown
@@ -11,7 +11,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Home
 
-- [Sergey Romanenko](https://sergeyromanenko.com/): Sergey Romanenko — explorer, photographer, creator and software engineer. Independent documentary photography from Vietnam, 26 programming courses on Stepik, open-source software, books and practical tools.
+- [Sergey Romanenko](https://sergeyromanenko.com/): Sergey Romanenko — explorer, photographer, creator and software engineer. Independent documentary photography, 26 programming courses on Stepik, open-source software, books and practical tools.
   - [Markdown](https://sergeyromanenko.com/index.md)
 
 ## Photography

@@ -1,7 +1,7 @@
 ---
 title: "Sergey Romanenko"
 seo_title: "Sergey Romanenko"
-description: "Sergey Romanenko — explorer, photographer, creator and software engineer. Independent documentary photography from Vietnam, 26 programming courses on Stepik, open-source software, books and practical tools."
+description: "Sergey Romanenko — explorer, photographer, creator and software engineer. Independent documentary photography, 26 programming courses on Stepik, open-source software, books and practical tools."
 canonical_url: "https://sergeyromanenko.com/"
 markdown_url: "https://sergeyromanenko.com/index.md"
 section: "Home"
@@ -14,8 +14,6 @@ robots: "index, follow"
 — Sergey Romanenko
 
 I work in two places at once. There is the physical world, which I get to know by walking through it for a long time with a camera, and there is the built one, which I get to know by taking apart. Software came first, but it never stopped — and neither did the teaching, the writing, or the road.
-
-What holds them together is not a theme. It is a habit: find something that does not make sense, stay with it until it does, then put it somewhere other people can reach it. A photograph, a course, a book, a repository, a page that simply works.
 
 How I work
 
