@@ -17,7 +17,7 @@ SQL · Stepik
 
 A free assessment course that tests your SQL knowledge and prepares you for interviews that require SQL. Questions across the whole topic range, each with several answer options and one correct one.
 
-Free — 17 lessons — 828 enrollments — 33 reviews
+Free — 17 lessons — 857 enrollments — 33 reviews
 
 Start free on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 17
-- **Enrollments:** 828
+- **Enrollments:** 857
 
 ## About this course
 
@@ -74,7 +74,7 @@ Working knowledge of the SQL basics. If you have not studied SQL yet, take "SQL 
 
 ## Course details
 
-SQL Knowledge Assessment and Interview Preparation is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 17 lessons, 828 enrollments, rated 4.7 out of 5 across 33 reviews and free to enroll.
+SQL Knowledge Assessment and Interview Preparation is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 17 lessons, 857 enrollments, rated 4.7 out of 5 across 33 reviews and free to enroll.
 
 - **Platform:** Stepik
 - **Access:** Free
@@ -82,7 +82,7 @@ SQL Knowledge Assessment and Interview Preparation is a beginner SQL course, pub
 - **Language:** Russian
 - **Lessons:** 17
 - **Modules:** 3
-- **Enrollments:** 828
+- **Enrollments:** 857
 - **Reviews:** 33
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko

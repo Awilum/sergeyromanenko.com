@@ -29,7 +29,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Courses
 
-- [Teaching what took me *years* to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 72,833 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
+- [Teaching what took me *years* to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 72,982 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
   - [Markdown](https://sergeyromanenko.com/courses/index.md)
 - [Career Path: Data Engineer](https://sergeyromanenko.com/courses/data-engineer/): A complete path to becoming a data engineer from zero: Python and Git first, then SQL from syntax to window functions, Pandas for data work, ClickHouse…
   - [Markdown](https://sergeyromanenko.com/courses/data-engineer/index.md)
@@ -239,7 +239,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## About
 
-- [A life spent exploring — through code, cameras, and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — explorer, photographer, creator and engineer. Independent photographic projects, 26 online courses with 72,833 enrollments, open-source software, books and practical tools.
+- [A life spent exploring — through code, cameras, and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — explorer, photographer, creator and engineer. Independent photographic projects, 26 online courses with 72,982 enrollments, open-source software, books and practical tools.
   - [Markdown](https://sergeyromanenko.com/about/index.md)
 
 ## Site

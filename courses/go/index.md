@@ -17,7 +17,7 @@ Go · Stepik
 
 A practical Go trainer built from a wide range of programming tasks — classic exercises and interview problems — covering variables, data types, control structures, loops, functions and algorithms in Go.
 
-Paid — 33 lessons — 762 enrollments — 13 reviews
+Paid — 33 lessons — 763 enrollments — 13 reviews
 
 Enroll on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 33
-- **Enrollments:** 762
+- **Enrollments:** 763
 
 ## About this course
 
@@ -119,7 +119,7 @@ School-level computer science and mathematics plus a basic working knowledge of 
 
 ## Course details
 
-Practical Go Programming Trainer is an intermediate Go course, published on Stepik by Sergey Romanenko, taught in Russian, 33 lessons, 762 enrollments, rated 4.7 out of 5 across 13 reviews and a paid course.
+Practical Go Programming Trainer is an intermediate Go course, published on Stepik by Sergey Romanenko, taught in Russian, 33 lessons, 763 enrollments, rated 4.7 out of 5 across 13 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
@@ -127,7 +127,7 @@ Practical Go Programming Trainer is an intermediate Go course, published on Step
 - **Language:** Russian
 - **Lessons:** 33
 - **Modules:** 18
-- **Enrollments:** 762
+- **Enrollments:** 763
 - **Reviews:** 13
 - **Certificates issued:** 45
 - **Author:** Sergey Romanenko

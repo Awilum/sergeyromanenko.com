@@ -17,7 +17,7 @@ Markdown · Stepik
 
 The most popular Markdown course on Stepik, together with a free book. A complete course in the Markdown markup language, from the first line to advanced features, for producing professionally formatted documents, articles and technical documentation.
 
-Free — 30 lessons — 6,351 enrollments — 473 reviews
+Free — 31 lessons — 6,357 enrollments — 474 reviews
 
 Start free on Stepik ↗
 
@@ -27,8 +27,8 @@ Enrollment happens on Stepik
 
 - **Level:** Beginner
 - **Language:** Russian
-- **Lessons:** 30
-- **Enrollments:** 6,351
+- **Lessons:** 31
+- **Enrollments:** 6,357
 
 ## About this course
 
@@ -53,7 +53,7 @@ Every topic is followed by practice, and the accompanying free book works both a
 
 ## Curriculum
 
-4 modules · 30 lessons
+4 modules · 31 lessons
 
 1. 01
   Introduction
@@ -78,17 +78,17 @@ None. A basic understanding of HTML is helpful later, because Markdown occasiona
 
 ## Course details
 
-Markdown is a beginner Markdown course, published on Stepik by Sergey Romanenko, taught in Russian, 30 lessons, 6,351 enrollments, rated 4.9 out of 5 across 473 reviews and free to enroll.
+Markdown is a beginner Markdown course, published on Stepik by Sergey Romanenko, taught in Russian, 31 lessons, 6,357 enrollments, rated 4.9 out of 5 across 474 reviews and free to enroll.
 
 - **Platform:** Stepik
 - **Access:** Free
 - **Level:** Beginner
 - **Language:** Russian
-- **Lessons:** 30
+- **Lessons:** 31
 - **Modules:** 4
-- **Enrollments:** 6,351
-- **Reviews:** 473
-- **Certificates issued:** 2,586
+- **Enrollments:** 6,357
+- **Reviews:** 474
+- **Certificates issued:** 2,592
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
@@ -96,10 +96,10 @@ Markdown is a beginner Markdown course, published on Stepik by Sergey Romanenko,
 
 - **Is “Markdown” free or paid?:** “Markdown” is free to enroll in on Stepik.
 - **What language is “Markdown” taught in?:** “Markdown” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
-- **How much content is in “Markdown”?:** “Markdown” contains 30 lessons in 4 modules. It is self-paced, so you study on your own schedule.
+- **How much content is in “Markdown”?:** “Markdown” contains 31 lessons in 4 modules. It is self-paced, so you study on your own schedule.
 - **Who created “Markdown”?:** “Markdown” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “Markdown” give a certificate?:** Yes. Stepik has issued 2,586 certificates to learners who completed “Markdown”.
-- **How many learners have reviewed “Markdown”?:** “Markdown” has 473 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **Does “Markdown” give a certificate?:** Yes. Stepik has issued 2,592 certificates to learners who completed “Markdown”.
+- **How many learners have reviewed “Markdown”?:** “Markdown” has 474 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “Markdown”?:** Enrollment for “Markdown” happen on Stepik: open https://stepik.org/a/187888/ and start there.
 
 Next

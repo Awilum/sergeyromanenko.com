@@ -17,7 +17,7 @@ Java · Stepik
 
 A hands-on Java trainer built around a wide range of programming tasks, from classic exercises to the problems asked in technical interviews at large companies. You work through variables, data types, control structures, loops, functions and algorithms until writing Java becomes second nature.
 
-Paid — 34 lessons — 19,482 enrollments — 32 reviews
+Paid — 34 lessons — 19,481 enrollments — 32 reviews
 
 Enroll on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 34
-- **Enrollments:** 19,482
+- **Enrollments:** 19,481
 
 ## About this course
 
@@ -92,7 +92,7 @@ Basic computer science and mathematics, plus a basic working knowledge of Java. 
 
 ## Course details
 
-Practical Java Programming Trainer is an intermediate Java course, published on Stepik by Sergey Romanenko, taught in Russian, 34 lessons, 19,482 enrollments, rated 4.9 out of 5 across 32 reviews and a paid course.
+Practical Java Programming Trainer is an intermediate Java course, published on Stepik by Sergey Romanenko, taught in Russian, 34 lessons, 19,481 enrollments, rated 4.9 out of 5 across 32 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
@@ -100,7 +100,7 @@ Practical Java Programming Trainer is an intermediate Java course, published on 
 - **Language:** Russian
 - **Lessons:** 34
 - **Modules:** 9
-- **Enrollments:** 19,482
+- **Enrollments:** 19,481
 - **Reviews:** 32
 - **Certificates issued:** 202
 - **Author:** Sergey Romanenko

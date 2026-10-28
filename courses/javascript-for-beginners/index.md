@@ -17,7 +17,7 @@ JavaScript · Stepik
 
 Awarded one of the best courses of 2023 and a consistent best-seller. A complete JavaScript course for beginner programmers covering the core language — variables, data types, control structures, loops, functions and objects — with a large volume of practical exercises.
 
-Paid — 303 lessons — 2,217 enrollments — 86 reviews
+Paid — 303 lessons — 2,218 enrollments — 86 reviews
 
 Enroll on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 303
-- **Enrollments:** 2,217
+- **Enrollments:** 2,218
 
 ## About this course
 
@@ -196,7 +196,7 @@ Basic computer science and mathematics. The course assumes no prior JavaScript.
 
 ## Course details
 
-The Complete JavaScript Course for Beginner Programmers is a beginner JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 303 lessons, 2,217 enrollments, rated 4.8 out of 5 across 86 reviews and a paid course.
+The Complete JavaScript Course for Beginner Programmers is a beginner JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 303 lessons, 2,218 enrollments, rated 4.8 out of 5 across 86 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
@@ -204,7 +204,7 @@ The Complete JavaScript Course for Beginner Programmers is a beginner JavaScript
 - **Language:** Russian
 - **Lessons:** 303
 - **Modules:** 43
-- **Enrollments:** 2,217
+- **Enrollments:** 2,218
 - **Reviews:** 86
 - **Certificates issued:** 325
 - **Author:** Sergey Romanenko

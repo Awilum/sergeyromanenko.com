@@ -17,7 +17,7 @@ SQL · Stepik
 
 A beginner-friendly SQL course that takes you from zero to working with databases, together with the free book "SQL Introduction". You learn how tables work, write queries, retrieve, filter and sort data, use basic functions and solve practical problems.
 
-Free — 18 lessons — 2,600 enrollments — 87 reviews
+Free — 19 lessons — 2,691 enrollments — 89 reviews
 
 Start free on Stepik ↗
 
@@ -27,8 +27,8 @@ Enrollment happens on Stepik
 
 - **Level:** Beginner
 - **Language:** Russian
-- **Lessons:** 18
-- **Enrollments:** 2,600
+- **Lessons:** 19
+- **Enrollments:** 2,691
 
 ## About this course
 
@@ -53,7 +53,7 @@ The free book that ships with the course repeats the material in a form you can 
 
 ## Curriculum
 
-4 modules · 18 lessons
+4 modules · 19 lessons
 
 1. 01
   Introduction
@@ -78,17 +78,17 @@ No programming knowledge needed. Basic computer literacy and an understanding of
 
 ## Course details
 
-SQL Introduction (Russian Edition) is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 18 lessons, 2,600 enrollments, rated 4.9 out of 5 across 87 reviews and free to enroll.
+SQL Introduction (Russian Edition) is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 19 lessons, 2,691 enrollments, rated 4.9 out of 5 across 89 reviews and free to enroll.
 
 - **Platform:** Stepik
 - **Access:** Free
 - **Level:** Beginner
 - **Language:** Russian
-- **Lessons:** 18
+- **Lessons:** 19
 - **Modules:** 4
-- **Enrollments:** 2,600
-- **Reviews:** 87
-- **Certificates issued:** 440
+- **Enrollments:** 2,691
+- **Reviews:** 89
+- **Certificates issued:** 458
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
@@ -96,10 +96,10 @@ SQL Introduction (Russian Edition) is a beginner SQL course, published on Stepik
 
 - **Is “SQL Introduction (Russian Edition)” free or paid?:** “SQL Introduction (Russian Edition)” is free to enroll in on Stepik.
 - **What language is “SQL Introduction (Russian Edition)” taught in?:** “SQL Introduction (Russian Edition)” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
-- **How much content is in “SQL Introduction (Russian Edition)”?:** “SQL Introduction (Russian Edition)” contains 18 lessons in 4 modules. It is self-paced, so you study on your own schedule.
+- **How much content is in “SQL Introduction (Russian Edition)”?:** “SQL Introduction (Russian Edition)” contains 19 lessons in 4 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Introduction (Russian Edition)”?:** “SQL Introduction (Russian Edition)” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Introduction (Russian Edition)” give a certificate?:** Yes. Stepik has issued 440 certificates to learners who completed “SQL Introduction (Russian Edition)”.
-- **How many learners have reviewed “SQL Introduction (Russian Edition)”?:** “SQL Introduction (Russian Edition)” has 87 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **Does “SQL Introduction (Russian Edition)” give a certificate?:** Yes. Stepik has issued 458 certificates to learners who completed “SQL Introduction (Russian Edition)”.
+- **How many learners have reviewed “SQL Introduction (Russian Edition)”?:** “SQL Introduction (Russian Edition)” has 89 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL Introduction (Russian Edition)”?:** Enrollment for “SQL Introduction (Russian Edition)” happen on Stepik: open https://stepik.org/a/290855/ and start there.
 
 Next

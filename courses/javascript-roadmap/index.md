@@ -17,7 +17,7 @@ JavaScript · Stepik
 
 A structured learning path from JavaScript zero to confident: theory, practice, trainers and tests that build a durable foundation for real problems, technical interviews and further study of the JavaScript ecosystem.
 
-Paid — 574 lessons — 47 enrollments — 262 reviews
+Paid — 574 lessons — 48 enrollments — 262 reviews
 
 Enroll on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 574
-- **Enrollments:** 47
+- **Enrollments:** 48
 
 ## About this course
 
@@ -83,7 +83,7 @@ Basic computer science and mathematics. No prior JavaScript is assumed.
 
 ## Course details
 
-JavaScript from Zero to Confident Developer is a beginner JavaScript career program, published on Stepik by Sergey Romanenko, taught in Russian, 574 lessons, 47 enrollments, rated 4.8 out of 5 across 262 reviews and a paid course.
+JavaScript from Zero to Confident Developer is a beginner JavaScript career program, published on Stepik by Sergey Romanenko, taught in Russian, 574 lessons, 48 enrollments, rated 4.8 out of 5 across 262 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
@@ -91,7 +91,7 @@ JavaScript from Zero to Confident Developer is a beginner JavaScript career prog
 - **Language:** Russian
 - **Lessons:** 574
 - **Courses in program:** 5
-- **Enrollments:** 47
+- **Enrollments:** 48
 - **Reviews:** 262
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko

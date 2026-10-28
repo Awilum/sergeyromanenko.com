@@ -17,7 +17,7 @@ JavaScript · Stepik
 
 The next stage of a JavaScript education. If you already know the fundamentals and want advanced concepts and techniques in depth, this course takes you there through extensive practical exercises and classic interview problems.
 
-Paid — 173 lessons — 809 enrollments — 17 reviews
+Paid — 173 lessons — 810 enrollments — 17 reviews
 
 Enroll on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 173
-- **Enrollments:** 809
+- **Enrollments:** 810
 
 ## About this course
 
@@ -147,7 +147,7 @@ Basic computer science and a solid command of JavaScript fundamentals. This cour
 
 ## Course details
 
-The Complete JavaScript Course for Experienced Programmers is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 173 lessons, 809 enrollments, rated 4.5 out of 5 across 17 reviews and a paid course.
+The Complete JavaScript Course for Experienced Programmers is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 173 lessons, 810 enrollments, rated 4.5 out of 5 across 17 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
@@ -155,7 +155,7 @@ The Complete JavaScript Course for Experienced Programmers is an intermediate Ja
 - **Language:** Russian
 - **Lessons:** 173
 - **Modules:** 26
-- **Enrollments:** 809
+- **Enrollments:** 810
 - **Reviews:** 17
 - **Certificates issued:** 80
 - **Author:** Sergey Romanenko

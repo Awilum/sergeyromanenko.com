@@ -1,7 +1,7 @@
 ---
 title: "Teaching what took me *years* to work out."
 seo_title: "Sergey Romanenko Online Programming Courses"
-description: "26 Sergey Romanenko online courses with 72,833 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik."
+description: "26 Sergey Romanenko online courses with 72,982 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik."
 canonical_url: "https://sergeyromanenko.com/courses/"
 markdown_url: "https://sergeyromanenko.com/courses/index.md"
 section: "Courses"
@@ -15,7 +15,7 @@ Taught on Stepik
 
 # Teaching what took me *years* to work out.
 
-72,833 enrollments — 26 courses — 1,088 lessons — 25 Russian — 1 English
+72,982 enrollments — 26 courses — 1,090 lessons — 25 Russian — 1 English
 
 26 courses on programming and data, most of them trainers: long sequences of problems to solve rather than videos to sit through. They exist because the hard part of learning to program is not understanding syntax — it is finding out, forty times in a row, whether you actually understood what you thought you understood.
 
@@ -23,18 +23,18 @@ Taught on Stepik
 
 Total enrollments across all published courses
 
-72,833
+72,982
 
 Every figure on this page comes from the local course dataset, refreshed from the Stepik statistics API. It counts enrollments: someone who enrolled in several courses is counted once per course. Enrollment happens on Stepik.
 
 - **Courses:** 26
 - **Programs:** 6
-- **Free courses:** 7
-- **Paid courses:** 19
-- **Reviews:** 1,340
+- **Free courses:** 6
+- **Paid courses:** 20
+- **Reviews:** 1,343
 - **Average rating:** 4.86
-- **Certificates issued:** 6,680
-- **Lessons:** 1,088
+- **Certificates issued:** 6,756
+- **Lessons:** 1,090
 
 ## All courses
 
@@ -48,7 +48,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 34 lessons
   - **Modules:** 9 modules
-  - **Enrollments:** 19,482 enrollments
+  - **Enrollments:** 19,481 enrollments
   - **Rating:** 4.9 ★ (32)
   - **Access:** Paid
 - Course — C#
@@ -59,7 +59,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 38 lessons
   - **Modules:** 16 modules
-  - **Enrollments:** 13,444 enrollments
+  - **Enrollments:** 13,439 enrollments
   - **Rating:** 5.0 ★ (10)
   - **Access:** Paid
 - Course — JavaScript
@@ -70,7 +70,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 30 lessons
   - **Modules:** 5 modules
-  - **Enrollments:** 9,633 enrollments
+  - **Enrollments:** 9,640 enrollments
   - **Rating:** 4.9 ★ (141)
   - **Access:** Free
 - Course — SQL
@@ -81,7 +81,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** English
   - **Lessons:** 30 lessons
   - **Modules:** 10 modules
-  - **Enrollments:** 7,835 enrollments
+  - **Enrollments:** 7,840 enrollments
   - **Rating:** 4.8 ★ (252)
   - **Access:** Free
 - Course — Markdown
@@ -90,10 +90,10 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
 
   - **Level:** Beginner
   - **Language:** Russian
-  - **Lessons:** 30 lessons
+  - **Lessons:** 31 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 6,351 enrollments
-  - **Rating:** 4.9 ★ (473)
+  - **Enrollments:** 6,357 enrollments
+  - **Rating:** 4.9 ★ (474)
   - **Access:** Free
 - Course — SQL
   ### [SQL Introduction (Russian Edition)](https://sergeyromanenko.com/courses/sql-introduction-ru/)
@@ -101,10 +101,10 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
 
   - **Level:** Beginner
   - **Language:** Russian
-  - **Lessons:** 18 lessons
+  - **Lessons:** 19 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 2,600 enrollments
-  - **Rating:** 4.9 ★ (87)
+  - **Enrollments:** 2,691 enrollments
+  - **Rating:** 4.9 ★ (89)
   - **Access:** Free
 - Course — SQL
   ### [Practical SQL Trainer](https://sergeyromanenko.com/courses/sql/)
@@ -125,7 +125,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 303 lessons
   - **Modules:** 43 modules
-  - **Enrollments:** 2,217 enrollments
+  - **Enrollments:** 2,218 enrollments
   - **Rating:** 4.8 ★ (86)
   - **Access:** Paid
 - Course — Python
@@ -147,7 +147,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 12 lessons
   - **Modules:** 6 modules
-  - **Enrollments:** 990 enrollments
+  - **Enrollments:** 996 enrollments
   - **Rating:** 5.0 ★ (8)
   - **Access:** Free
 - Course — SQL
@@ -158,7 +158,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 85 lessons
   - **Modules:** 19 modules
-  - **Enrollments:** 894 enrollments
+  - **Enrollments:** 895 enrollments
   - **Rating:** 4.8 ★ (77)
   - **Access:** Paid
 - Course — JavaScript
@@ -169,7 +169,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 56 lessons
   - **Modules:** 13 modules
-  - **Enrollments:** 873 enrollments
+  - **Enrollments:** 875 enrollments
   - **Rating:** 5.0 ★ (10)
   - **Access:** Paid
 - Course — SQL
@@ -180,7 +180,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 17 lessons
   - **Modules:** 3 modules
-  - **Enrollments:** 828 enrollments
+  - **Enrollments:** 857 enrollments
   - **Rating:** 4.7 ★ (33)
   - **Access:** Free
 - Course — JavaScript
@@ -191,7 +191,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 173 lessons
   - **Modules:** 26 modules
-  - **Enrollments:** 809 enrollments
+  - **Enrollments:** 810 enrollments
   - **Rating:** 4.5 ★ (17)
   - **Access:** Paid
 - Course — Go
@@ -202,7 +202,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 33 lessons
   - **Modules:** 18 modules
-  - **Enrollments:** 762 enrollments
+  - **Enrollments:** 763 enrollments
   - **Rating:** 4.7 ★ (13)
   - **Access:** Paid
 - Course — SQL
@@ -213,9 +213,9 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 28 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 588 enrollments
+  - **Enrollments:** 589 enrollments
   - **Rating:** 5.0 ★ (9)
-  - **Access:** Free
+  - **Access:** Paid
 - Course — SQL
   ### [SQL Window Functions](https://sergeyromanenko.com/courses/sql-window-functions/)
   Modern data analysis in SQL: window functions, offset functions, ranking functions, running calculations and complex in-query processing. A practical course in the analytical features that turn SQL…
@@ -246,8 +246,8 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 382 lessons
   - **Modules:** 7 bundled courses
-  - **Enrollments:** 372 enrollments
-  - **Rating:** 4.9 ★ (797)
+  - **Enrollments:** 374 enrollments
+  - **Rating:** 4.9 ★ (798)
   - **Access:** Paid
 - Course — Kotlin
   ### [Practical Kotlin Programming Trainer](https://sergeyromanenko.com/courses/kotlin/)
@@ -279,7 +279,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 677 lessons
   - **Modules:** 5 bundled courses
-  - **Enrollments:** 136 enrollments
+  - **Enrollments:** 137 enrollments
   - **Rating:** 4.7 ★ (214)
   - **Access:** Paid
 - Career program — SQL
@@ -288,10 +288,10 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
 
   - **Level:** Beginner
   - **Language:** Russian
-  - **Lessons:** 225 lessons
+  - **Lessons:** 226 lessons
   - **Modules:** 7 bundled courses
   - **Enrollments:** 72 enrollments
-  - **Rating:** 4.9 ★ (275)
+  - **Rating:** 4.9 ★ (277)
   - **Access:** Paid
 - Career program — JavaScript
   ### [JavaScript from Zero to Confident Developer](https://sergeyromanenko.com/courses/javascript-roadmap/)
@@ -301,7 +301,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
   - **Language:** Russian
   - **Lessons:** 574 lessons
   - **Modules:** 5 bundled courses
-  - **Enrollments:** 47 enrollments
+  - **Enrollments:** 48 enrollments
   - **Rating:** 4.8 ★ (262)
   - **Access:** Paid
 - Career program — Programming
@@ -321,7 +321,7 @@ C# · Data Engineering · Front-End Development · Go · Java · JavaScript · K
 
   - **Level:** Beginner
   - **Language:** Russian
-  - **Lessons:** 388 lessons
+  - **Lessons:** 389 lessons
   - **Modules:** 8 bundled courses
   - **Enrollments:** 3 enrollments
   - **Rating:** 4.7 ★ (536)
@@ -333,7 +333,7 @@ About the author
 
 **Knowledge collected during the journey and shared.** What began as an independent IT education project on the **Stepik platform** has grown into a broader practice: turning field experience into practical learning. The catalog covers **programming, software development, data analysis, and related areas of information technology**, combining structured courses, interactive exercises, and hands-on training.
 
-These courses are designed to turn theoretical knowledge into **practical skills through hands-on learning and interactive tasks**. The project has reached **72,833 enrollments** across its **26 published courses** on Stepik, backed by **1,340 learner reviews** — an established independent educational project with a growing international audience.
+These courses are designed to turn theoretical knowledge into **practical skills through hands-on learning and interactive tasks**. The project has reached **72,982 enrollments** across its **26 published courses** on Stepik, backed by **1,343 learner reviews** — an established independent educational project with a growing international audience.
 
 In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of the Year” category** for the project, recognizing its development and achievements on the platform. The courses also regularly appear among **Stepik’s best-selling and fastest-growing courses**, reflecting their continued reach and engagement among learners.
 
@@ -343,20 +343,20 @@ In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of th
 
 stepstat.ru ↗
 
-- **Learners:** +1,623
-- **Followers:** +1,060
-- **Certificates:** +296
-- **Reviews:** +55
-- **Reputation:** +65,307
+- **Learners:** +852
+- **Followers:** +552
+- **Certificates:** +186
+- **Reviews:** +22
+- **Reputation:** +33,046
 - **Courses:** 0
-- **Lessons:** +144
-- **Rating:** +0.004
+- **Lessons:** +129
+- **Rating:** +0.002
 
 Next
 
 ## Start with one course.
 
-7 of the 26 are free. The practical trainers are the ones built to be finished rather than sampled — pick a language you already half-know and push it past the point where it becomes easy.
+6 of the 26 are free. The practical trainers are the ones built to be finished rather than sampled — pick a language you already half-know and push it past the point where it becomes easy.
 
 Browse
 

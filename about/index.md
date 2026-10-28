@@ -1,7 +1,7 @@
 ---
 title: "A life spent exploring — through code, cameras, and the road."
 seo_title: "ABOUT — Sergey Romanenko"
-description: "Sergey Romanenko — explorer, photographer, creator and engineer. Independent photographic projects, 26 online courses with 72,833 enrollments, open-source software, books and practical tools."
+description: "Sergey Romanenko — explorer, photographer, creator and engineer. Independent photographic projects, 26 online courses with 72,982 enrollments, open-source software, books and practical tools."
 canonical_url: "https://sergeyromanenko.com/about/"
 markdown_url: "https://sergeyromanenko.com/about/index.md"
 section: "About"
@@ -103,9 +103,9 @@ The record
 ## Teaching
 
 - **Courses:** 26
-- **Lessons:** 1,088
-- **Enrollments:** 72,833
-- **Learner reviews:** 1,340
+- **Lessons:** 1,090
+- **Enrollments:** 72,982
+- **Learner reviews:** 1,343
 
 ## Currently
 

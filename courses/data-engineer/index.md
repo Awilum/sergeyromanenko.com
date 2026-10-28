@@ -17,7 +17,7 @@ Data Engineering · Stepik
 
 A complete path to becoming a data engineer from zero: Python and Git first, then SQL from syntax to window functions, Pandas for data work, ClickHouse as the analytical database, and a first data platform built on Airflow, PostgreSQL and DataLens.
 
-Paid — 388 lessons — 3 enrollments — 536 reviews
+Paid — 389 lessons — 3 enrollments — 536 reviews
 
 Enroll on Stepik ↗
 
@@ -27,7 +27,7 @@ Enrollment happens on Stepik
 
 - **Level:** Beginner
 - **Language:** Russian
-- **Lessons:** 388
+- **Lessons:** 389
 - **Enrollments:** 3
 
 ## About this course
@@ -52,14 +52,14 @@ The end point is a finished project — from a data source through a medallion-s
 
 ## Program content
 
-8 bundled courses · 388 lessons
+8 bundled courses · 389 lessons
 
 1. 01
   Apache Airflow: An ETL Project on PostgreSQL and DataLens (Yandex Cloud)
   38 lessons
 2. 02
   ClickHouse from Zero
-  40 lessons
+  41 lessons
 3. 03
   ClickHouse from Zero: Practice with Author Support
   22 lessons
@@ -89,13 +89,13 @@ A willingness to learn and a computer with internet access.
 
 ## Course details
 
-Career Path: Data Engineer is a beginner Data Engineering career program, published on Stepik by Sergey Romanenko with 7 co-authors, taught in Russian, 388 lessons, 3 enrollments, rated 4.7 out of 5 across 536 reviews and a paid course.
+Career Path: Data Engineer is a beginner Data Engineering career program, published on Stepik by Sergey Romanenko with 7 co-authors, taught in Russian, 389 lessons, 3 enrollments, rated 4.7 out of 5 across 536 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
 - **Level:** Beginner
 - **Language:** Russian
-- **Lessons:** 388
+- **Lessons:** 389
 - **Courses in program:** 8
 - **Enrollments:** 3
 - **Reviews:** 536
@@ -107,7 +107,7 @@ Career Path: Data Engineer is a beginner Data Engineering career program, publis
 
 - **Is “Career Path: Data Engineer” free or paid?:** “Career Path: Data Engineer” is a paid program on Stepik.
 - **What language is “Career Path: Data Engineer” taught in?:** “Career Path: Data Engineer” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
-- **How much content is in “Career Path: Data Engineer”?:** “Career Path: Data Engineer” contains 388 lessons in 8 bundled courses. It is self-paced, so you study on your own schedule.
+- **How much content is in “Career Path: Data Engineer”?:** “Career Path: Data Engineer” contains 389 lessons in 8 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “Career Path: Data Engineer”?:** “Career Path: Data Engineer” was created by Роман Медведев, Иван Натаров, Кузьмин Дмитрий, Влад Бурмистров, Sergey Romanenko, Stepik Content Team, Люди Будущего / Future People, Максим Мигутин. It is published on Stepik.
 - **How many learners have reviewed “Career Path: Data Engineer”?:** “Career Path: Data Engineer” has 536 reviews on Stepik, with an average rating of 4.7 out of 5.
 - **How do I enroll in “Career Path: Data Engineer”?:** Enrollment and payment for “Career Path: Data Engineer” happen on Stepik: open https://stepik.org/a/297594/ and start there.

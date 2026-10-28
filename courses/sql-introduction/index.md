@@ -17,7 +17,7 @@ SQL · Stepik
 
 An English-language introduction to SQL: what relational databases are, how tables relate to each other, and how to write queries that retrieve, filter, sort, group and join real data. Theory, quizzes and practice in one free course.
 
-Free — 30 lessons — 7,835 enrollments — 252 reviews
+Free — 30 lessons — 7,840 enrollments — 252 reviews
 
 Start free on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Beginner
 - **Language:** English
 - **Lessons:** 30
-- **Enrollments:** 7,835
+- **Enrollments:** 7,840
 
 ## About this course
 
@@ -96,7 +96,7 @@ Elementary computer science and mathematics. No prior database experience is req
 
 ## Course details
 
-SQL Introduction is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in English, 30 lessons, 7,835 enrollments, rated 4.8 out of 5 across 252 reviews and free to enroll.
+SQL Introduction is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in English, 30 lessons, 7,840 enrollments, rated 4.8 out of 5 across 252 reviews and free to enroll.
 
 - **Platform:** Stepik
 - **Access:** Free
@@ -104,9 +104,9 @@ SQL Introduction is a beginner SQL course, published on Stepik by Sergey Romanen
 - **Language:** English
 - **Lessons:** 30
 - **Modules:** 10
-- **Enrollments:** 7,835
+- **Enrollments:** 7,840
 - **Reviews:** 252
-- **Certificates issued:** 1,302
+- **Certificates issued:** 1,305
 - **Author:** Sergey Romanenko
 - **Rating:** 4.8 / 5
 
@@ -116,7 +116,7 @@ SQL Introduction is a beginner SQL course, published on Stepik by Sergey Romanen
 - **What language is “SQL Introduction” taught in?:** “SQL Introduction” is taught in English. This page describes it in English; the lessons themselves are in English.
 - **How much content is in “SQL Introduction”?:** “SQL Introduction” contains 30 lessons in 10 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Introduction”?:** “SQL Introduction” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Introduction” give a certificate?:** Yes. Stepik has issued 1,302 certificates to learners who completed “SQL Introduction”.
+- **Does “SQL Introduction” give a certificate?:** Yes. Stepik has issued 1,305 certificates to learners who completed “SQL Introduction”.
 - **How many learners have reviewed “SQL Introduction”?:** “SQL Introduction” has 252 reviews on Stepik, with an average rating of 4.8 out of 5.
 - **How do I enroll in “SQL Introduction”?:** Enrollment for “SQL Introduction” happen on Stepik: open https://stepik.org/a/132225/ and start there.
 

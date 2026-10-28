@@ -17,7 +17,7 @@ Front-End Development · Stepik
 
 A five-course program covering modern web application building from scratch: HTML and CSS markup and styling, JavaScript from syntax to real front-end work, the React library, and Bootstrap 5 for rapid responsive sites.
 
-Paid — 677 lessons — 136 enrollments — 214 reviews
+Paid — 677 lessons — 137 enrollments — 214 reviews
 
 Enroll on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 677
-- **Enrollments:** 136
+- **Enrollments:** 137
 
 ## About this course
 
@@ -83,7 +83,7 @@ A computer with internet access and an interest in web development. No previous 
 
 ## Course details
 
-Course Program: Front-End Development is a beginner Front-End Development career program, published on Stepik by Sergey Romanenko with 4 co-authors, taught in Russian, 677 lessons, 136 enrollments, rated 4.7 out of 5 across 214 reviews and a paid course.
+Course Program: Front-End Development is a beginner Front-End Development career program, published on Stepik by Sergey Romanenko with 4 co-authors, taught in Russian, 677 lessons, 137 enrollments, rated 4.7 out of 5 across 214 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
@@ -91,7 +91,7 @@ Course Program: Front-End Development is a beginner Front-End Development career
 - **Language:** Russian
 - **Lessons:** 677
 - **Courses in program:** 5
-- **Enrollments:** 136
+- **Enrollments:** 137
 - **Reviews:** 214
 - **Certificates issued:** 0
 - **Authors:** Shultais Education, Михаил Непомнящий, Исмаил Усеинов, Sergey Romanenko, Stepik Content Team

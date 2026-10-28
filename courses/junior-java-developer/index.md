@@ -17,7 +17,7 @@ Java · Stepik
 
 A complete training program for learning Java from scratch: the language, the Collections Framework, multithreading, JUnit testing, the Spring Framework, Git, SQL and the Linux command line — ending in interview preparation.
 
-Paid — 382 lessons — 372 enrollments — 797 reviews
+Paid — 382 lessons — 374 enrollments — 798 reviews
 
 Enroll on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 382
-- **Enrollments:** 372
+- **Enrollments:** 374
 
 ## About this course
 
@@ -91,7 +91,7 @@ No prior programming required: a willingness to learn and a computer with intern
 
 ## Course details
 
-Career Path: Junior Java Developer is a beginner Java career program, published on Stepik by Sergey Romanenko with 6 co-authors, taught in Russian, 382 lessons, 372 enrollments, rated 4.9 out of 5 across 797 reviews and a paid course.
+Career Path: Junior Java Developer is a beginner Java career program, published on Stepik by Sergey Romanenko with 6 co-authors, taught in Russian, 382 lessons, 374 enrollments, rated 4.9 out of 5 across 798 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
@@ -99,8 +99,8 @@ Career Path: Junior Java Developer is a beginner Java career program, published 
 - **Language:** Russian
 - **Lessons:** 382
 - **Courses in program:** 7
-- **Enrollments:** 372
-- **Reviews:** 797
+- **Enrollments:** 374
+- **Reviews:** 798
 - **Certificates issued:** 0
 - **Authors:** Максим Бабанин, Татьяна Овчинникова, Андрей Сумин, Sergey Romanenko, Антон Петров, Pragmatic Programmer, Stepik Content Team
 - **Rating:** 4.9 / 5
@@ -111,7 +111,7 @@ Career Path: Junior Java Developer is a beginner Java career program, published 
 - **What language is “Career Path: Junior Java Developer” taught in?:** “Career Path: Junior Java Developer” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “Career Path: Junior Java Developer”?:** “Career Path: Junior Java Developer” contains 382 lessons in 7 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “Career Path: Junior Java Developer”?:** “Career Path: Junior Java Developer” was created by Максим Бабанин, Татьяна Овчинникова, Андрей Сумин, Sergey Romanenko, Антон Петров, Pragmatic Programmer, Stepik Content Team. It is published on Stepik.
-- **How many learners have reviewed “Career Path: Junior Java Developer”?:** “Career Path: Junior Java Developer” has 797 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **How many learners have reviewed “Career Path: Junior Java Developer”?:** “Career Path: Junior Java Developer” has 798 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “Career Path: Junior Java Developer”?:** Enrollment and payment for “Career Path: Junior Java Developer” happen on Stepik: open https://stepik.org/a/212609/ and start there.
 
 Next

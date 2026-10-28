@@ -17,7 +17,7 @@ C# · Stepik
 
 A practical C# trainer covering classic programming exercises and the kinds of tasks asked in interviews at leading companies. You build real fluency with variables, data types, operators, loops, functions and algorithms through repeated, graded practice.
 
-Paid — 38 lessons — 13,444 enrollments — 10 reviews
+Paid — 38 lessons — 13,439 enrollments — 10 reviews
 
 Enroll on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 38
-- **Enrollments:** 13,444
+- **Enrollments:** 13,439
 
 ## About this course
 
@@ -114,7 +114,7 @@ Basic computer science and mathematics, plus a basic working knowledge of C#. Be
 
 ## Course details
 
-Practical C# Programming Trainer is an intermediate C# course, published on Stepik by Sergey Romanenko, taught in Russian, 38 lessons, 13,444 enrollments, rated 5.0 out of 5 across 10 reviews and a paid course.
+Practical C# Programming Trainer is an intermediate C# course, published on Stepik by Sergey Romanenko, taught in Russian, 38 lessons, 13,439 enrollments, rated 5.0 out of 5 across 10 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
@@ -122,7 +122,7 @@ Practical C# Programming Trainer is an intermediate C# course, published on Step
 - **Language:** Russian
 - **Lessons:** 38
 - **Modules:** 16
-- **Enrollments:** 13,444
+- **Enrollments:** 13,439
 - **Reviews:** 10
 - **Certificates issued:** 166
 - **Author:** Sergey Romanenko

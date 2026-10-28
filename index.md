@@ -36,7 +36,7 @@ How I work
 
 Six doors in
 
-- [TeachingCoursesPractical programming courses on Stepik, mostly trainers — long sequences of problems to solve rather than videos to watch.72,833 enrollments · 26 courses](https://sergeyromanenko.com/courses/)
+- [TeachingCoursesPractical programming courses on Stepik, mostly trainers — long sequences of problems to solve rather than videos to watch.72,982 enrollments · 26 courses](https://sergeyromanenko.com/courses/)
 - [ObservationPhotographyDocumentary work about people and the places they make their lives in. Shot slowly, on foot, mostly in black and white.29 photographs · 4 projects](https://sergeyromanenko.com/photography/)
 - [WritingPublicationsPractical books on SQL and Markdown, written to be kept and returned to. Clear explanations, useful examples.2 books · Educational writing](https://sergeyromanenko.com/publications/)
 - [MakingToolsSmall, practical tools built around specific needs — from time zones and world clocks to planning a shoot around the sun.55 tools · No network required](https://sergeyromanenko.com/tools/)

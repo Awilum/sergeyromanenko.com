@@ -17,7 +17,7 @@ JavaScript · Stepik
 
 A free assessment course that tests your JavaScript knowledge and prepares you for JavaScript developer interviews. Every question comes with answer options, hints and full explanations, so you learn from the ones you get wrong.
 
-Free — 30 lessons — 9,633 enrollments — 141 reviews
+Free — 30 lessons — 9,640 enrollments — 141 reviews
 
 Start free on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 30
-- **Enrollments:** 9,633
+- **Enrollments:** 9,640
 
 ## About this course
 
@@ -78,7 +78,7 @@ Working knowledge of JavaScript. There is no theory section — the course assum
 
 ## Course details
 
-JavaScript Knowledge Assessment and Interview Preparation is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 30 lessons, 9,633 enrollments, rated 4.9 out of 5 across 141 reviews and free to enroll.
+JavaScript Knowledge Assessment and Interview Preparation is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 30 lessons, 9,640 enrollments, rated 4.9 out of 5 across 141 reviews and free to enroll.
 
 - **Platform:** Stepik
 - **Access:** Free
@@ -86,9 +86,9 @@ JavaScript Knowledge Assessment and Interview Preparation is an intermediate Jav
 - **Language:** Russian
 - **Lessons:** 30
 - **Modules:** 5
-- **Enrollments:** 9,633
+- **Enrollments:** 9,640
 - **Reviews:** 141
-- **Certificates issued:** 896
+- **Certificates issued:** 897
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
@@ -98,7 +98,7 @@ JavaScript Knowledge Assessment and Interview Preparation is an intermediate Jav
 - **What language is “JavaScript Knowledge Assessment and Interview Preparation” taught in?:** “JavaScript Knowledge Assessment and Interview Preparation” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “JavaScript Knowledge Assessment and Interview Preparation”?:** “JavaScript Knowledge Assessment and Interview Preparation” contains 30 lessons in 5 modules. It is self-paced, so you study on your own schedule.
 - **Who created “JavaScript Knowledge Assessment and Interview Preparation”?:** “JavaScript Knowledge Assessment and Interview Preparation” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “JavaScript Knowledge Assessment and Interview Preparation” give a certificate?:** Yes. Stepik has issued 896 certificates to learners who completed “JavaScript Knowledge Assessment and Interview Preparation”.
+- **Does “JavaScript Knowledge Assessment and Interview Preparation” give a certificate?:** Yes. Stepik has issued 897 certificates to learners who completed “JavaScript Knowledge Assessment and Interview Preparation”.
 - **How many learners have reviewed “JavaScript Knowledge Assessment and Interview Preparation”?:** “JavaScript Knowledge Assessment and Interview Preparation” has 141 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “JavaScript Knowledge Assessment and Interview Preparation”?:** Enrollment for “JavaScript Knowledge Assessment and Interview Preparation” happen on Stepik: open https://stepik.org/a/189305/ and start there.
 

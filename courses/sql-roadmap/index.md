@@ -17,7 +17,7 @@ SQL · Stepik
 
 A complete SQL program, from your first query to advanced language features and practical problem solving. The courses build on each other so knowledge grows in order, is reinforced in practice and turns into confident data work.
 
-Paid — 225 lessons — 72 enrollments — 275 reviews
+Paid — 226 lessons — 72 enrollments — 277 reviews
 
 Enroll on Stepik ↗
 
@@ -27,7 +27,7 @@ Enrollment happens on Stepik
 
 - **Level:** Beginner
 - **Language:** Russian
-- **Lessons:** 225
+- **Lessons:** 226
 - **Enrollments:** 72
 
 ## About this course
@@ -53,11 +53,11 @@ Each course is theory, tests and practice against real databases, and each one i
 
 ## Program content
 
-7 bundled courses · 225 lessons
+7 bundled courses · 226 lessons
 
 1. 01
   SQL Introduction (Russian Edition)
-  18 lessons
+  19 lessons
 2. 02
   SQL Common Table Expressions
   17 lessons
@@ -87,16 +87,16 @@ No special preparation. A general understanding of basic computing and logic con
 
 ## Course details
 
-SQL from Zero to Results is a beginner SQL career program, published on Stepik by Sergey Romanenko, taught in Russian, 225 lessons, 72 enrollments, rated 4.9 out of 5 across 275 reviews and a paid course.
+SQL from Zero to Results is a beginner SQL career program, published on Stepik by Sergey Romanenko, taught in Russian, 226 lessons, 72 enrollments, rated 4.9 out of 5 across 277 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
 - **Level:** Beginner
 - **Language:** Russian
-- **Lessons:** 225
+- **Lessons:** 226
 - **Courses in program:** 7
 - **Enrollments:** 72
-- **Reviews:** 275
+- **Reviews:** 277
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
@@ -105,9 +105,9 @@ SQL from Zero to Results is a beginner SQL career program, published on Stepik b
 
 - **Is “SQL from Zero to Results” free or paid?:** “SQL from Zero to Results” is a paid program on Stepik.
 - **What language is “SQL from Zero to Results” taught in?:** “SQL from Zero to Results” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
-- **How much content is in “SQL from Zero to Results”?:** “SQL from Zero to Results” contains 225 lessons in 7 bundled courses. It is self-paced, so you study on your own schedule.
+- **How much content is in “SQL from Zero to Results”?:** “SQL from Zero to Results” contains 226 lessons in 7 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “SQL from Zero to Results”?:** “SQL from Zero to Results” was created by Sergey Romanenko. It is published on Stepik.
-- **How many learners have reviewed “SQL from Zero to Results”?:** “SQL from Zero to Results” has 275 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **How many learners have reviewed “SQL from Zero to Results”?:** “SQL from Zero to Results” has 277 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL from Zero to Results”?:** Enrollment and payment for “SQL from Zero to Results” happen on Stepik: open https://stepik.org/a/279994/ and start there.
 
 Next

@@ -17,7 +17,7 @@ JavaScript · Stepik
 
 A practical JavaScript trainer covering classic programming exercises and the problems asked in interviews at large companies, across variables, data types, control structures, loops, functions, objects and algorithms.
 
-Paid — 56 lessons — 873 enrollments — 10 reviews
+Paid — 56 lessons — 875 enrollments — 10 reviews
 
 Enroll on Stepik ↗
 
@@ -28,7 +28,7 @@ Enrollment happens on Stepik
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 56
-- **Enrollments:** 873
+- **Enrollments:** 875
 
 ## About this course
 
@@ -104,7 +104,7 @@ Basic computer science and mathematics, plus a basic working knowledge of JavaSc
 
 ## Course details
 
-Practical JavaScript Trainer is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 56 lessons, 873 enrollments, rated 5.0 out of 5 across 10 reviews and a paid course.
+Practical JavaScript Trainer is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 56 lessons, 875 enrollments, rated 5.0 out of 5 across 10 reviews and a paid course.
 
 - **Platform:** Stepik
 - **Access:** Paid
@@ -112,7 +112,7 @@ Practical JavaScript Trainer is an intermediate JavaScript course, published on 
 - **Language:** Russian
 - **Lessons:** 56
 - **Modules:** 13
-- **Enrollments:** 873
+- **Enrollments:** 875
 - **Reviews:** 10
 - **Certificates issued:** 31
 - **Author:** Sergey Romanenko
