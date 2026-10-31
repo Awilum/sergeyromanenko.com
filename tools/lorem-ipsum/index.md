@@ -9,13 +9,8 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. [TOOLS](https://sergeyromanenko.com/tools/)
-3. Placeholder Text Generator
-
-Tools
-
-Tool
+1. [TOOLS](https://sergeyromanenko.com/tools/)
+2. Placeholder Text Generator
 
 # Placeholder Text Generator
 

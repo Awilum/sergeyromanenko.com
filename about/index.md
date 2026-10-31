@@ -9,6 +9,8 @@ language: "en"
 robots: "index, follow"
 ---
 
+1. About
+
 # A life spent exploring — through code, cameras, and the road.
 
 Explorer · Photographer · Creator · Engineer

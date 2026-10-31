@@ -9,7 +9,7 @@ language: "en"
 robots: "index, follow"
 ---
 
-Runs in your browser
+1. Games
 
 # Games for Your Journey.
 

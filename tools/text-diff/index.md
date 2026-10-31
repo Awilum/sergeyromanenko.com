@@ -9,13 +9,8 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. [TOOLS](https://sergeyromanenko.com/tools/)
-3. Text Diff
-
-Tools
-
-Tool
+1. [TOOLS](https://sergeyromanenko.com/tools/)
+2. Text Diff
 
 # Text Diff
 

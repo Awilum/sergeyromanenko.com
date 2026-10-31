@@ -9,9 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. Copyright & Licensing
-
 # Copyright & Licensing
 
 Copyright, intellectual property and licensing information for the original photographs, texts, videos, books, research and other creative materials published here.

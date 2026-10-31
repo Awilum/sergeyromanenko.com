@@ -9,13 +9,8 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. [GAMES](https://sergeyromanenko.com/games/)
-3. Simon
-
-Games
-
-Game
+1. [GAMES](https://sergeyromanenko.com/games/)
+2. Simon
 
 # Simon
 

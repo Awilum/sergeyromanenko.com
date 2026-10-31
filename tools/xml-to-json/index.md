@@ -9,13 +9,8 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. [TOOLS](https://sergeyromanenko.com/tools/)
-3. XML to JSON Converter
-
-Tools
-
-Tool
+1. [TOOLS](https://sergeyromanenko.com/tools/)
+2. XML to JSON Converter
 
 # XML to JSON Converter
 

@@ -9,6 +9,9 @@ language: "en"
 robots: "noindex, follow"
 ---
 
+1. [Publications](https://sergeyromanenko.com/publications/)
+2. ESSAYS
+
 An edition
 
 # Essays

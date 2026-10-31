@@ -9,13 +9,8 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. [TOOLS](https://sergeyromanenko.com/tools/)
-3. Currency Converter
-
-Tools
-
-Tool
+1. [TOOLS](https://sergeyromanenko.com/tools/)
+2. Currency Converter
 
 # Currency Converter
 

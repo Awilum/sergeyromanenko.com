@@ -9,12 +9,9 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. [PUBLICATIONS](https://sergeyromanenko.com/publications/)
-3. [IT BOOKS](https://sergeyromanenko.com/publications/it-books/)
-4. Markdown
-
-IT Books
+1. [PUBLICATIONS](https://sergeyromanenko.com/publications/)
+2. [IT BOOKS](https://sergeyromanenko.com/publications/it-books/)
+3. Markdown
 
 Book
 
@@ -60,7 +57,7 @@ Stars
 
 Releases
 
-698
+699
 
 Release downloads
 

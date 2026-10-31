@@ -9,7 +9,7 @@ language: "en"
 robots: "index, follow"
 ---
 
-Taught on Stepik
+1. Courses
 
 # Teaching what took me *years* to work out.
 

@@ -9,11 +9,8 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. [COURSES](https://sergeyromanenko.com/courses/)
-3. SQL from Zero to Results
-
-Career program
+1. [COURSES](https://sergeyromanenko.com/courses/)
+2. SQL from Zero to Results
 
 SQL · Stepik
 

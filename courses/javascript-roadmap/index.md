@@ -9,11 +9,8 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. [COURSES](https://sergeyromanenko.com/courses/)
-3. JavaScript from Zero to Confident Developer
-
-Career program
+1. [COURSES](https://sergeyromanenko.com/courses/)
+2. JavaScript from Zero to Confident Developer
 
 JavaScript · Stepik
 

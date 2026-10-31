@@ -9,8 +9,7 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. Sitemap
+1. Sitemap
 
 # Sitemap
 

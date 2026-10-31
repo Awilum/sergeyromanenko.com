@@ -9,9 +9,8 @@ language: "en"
 robots: "index, follow"
 ---
 
-1. [Home](https://sergeyromanenko.com/)
-2. [PHOTOGRAPHY](https://sergeyromanenko.com/photography/)
-3. People of Hoi An
+1. [PHOTOGRAPHY](https://sergeyromanenko.com/photography/)
+2. People of Hoi An
 
 PHOTOGRAPHY
 
