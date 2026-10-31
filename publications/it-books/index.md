@@ -9,8 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-Publications
-
 An edition
 
 # IT Books

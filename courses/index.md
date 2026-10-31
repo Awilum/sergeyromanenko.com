@@ -9,8 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-Courses
-
 Taught on Stepik
 
 # Teaching what took me *years* to work out.

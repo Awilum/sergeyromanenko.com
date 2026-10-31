@@ -9,8 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-Photography
-
 # Photographs about *people*, taken slowly, in places I actually live.
 
 ## Photography

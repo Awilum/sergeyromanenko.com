@@ -9,6 +9,10 @@ language: "en"
 robots: "index, follow"
 ---
 
+1. [Home](https://sergeyromanenko.com/)
+2. [COURSES](https://sergeyromanenko.com/courses/)
+3. Career Path: Data Engineer
+
 Career program
 
 Data Engineering · Stepik

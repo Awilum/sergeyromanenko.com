@@ -248,6 +248,8 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/copyright-and-licensing/index.md)
 - [Privacy & Security Policy](https://sergeyromanenko.com/privacy-policy/): Privacy and Security Policy for sergeyromanenko.com — how this website handles visitor data, browser-based tools and games, external services, and your rights.
   - [Markdown](https://sergeyromanenko.com/privacy-policy/index.md)
+- [Sitemap](https://sergeyromanenko.com/sitemap/): Full site structure — all sections and pages of Sergey Romanenko.
+  - [Markdown](https://sergeyromanenko.com/sitemap/index.md)
 - [Support Independent Development](https://sergeyromanenko.com/support/): Voluntary support options for independent development of free browser-based tools, educational resources, and digital projects.
   - [Markdown](https://sergeyromanenko.com/support/index.md)
 - [Terms of Use](https://sergeyromanenko.com/terms-of-use/): Terms of Use for sergeyromanenko.com — permitted use, free tools, course information, voluntary support, external links, and limitations.

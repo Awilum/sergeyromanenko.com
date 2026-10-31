@@ -9,8 +9,6 @@ language: "en"
 robots: "noindex, follow"
 ---
 
-Publications
-
 An edition
 
 # Essays

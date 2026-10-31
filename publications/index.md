@@ -9,8 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-Publications
-
 # Things written down and *given away*.
 
 2 published works — 5 editions — Free to read and download

@@ -9,8 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-Legal
-
 # Terms of Use
 
 Terms governing the use of sergeyromanenko.com — permitted use, free tools, course information, voluntary support, external links, and limitations.

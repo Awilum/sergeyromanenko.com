@@ -9,8 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-Support
-
 # Support Independent Development
 
 I'm an independent developer and creator building browser-based tools, educational

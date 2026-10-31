@@ -9,8 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-Tools
-
 Runs in your browser
 
 # Tools I Built Along the Way.

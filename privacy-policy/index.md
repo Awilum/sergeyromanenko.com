@@ -9,8 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-Legal
-
 # Privacy & Security Policy
 
 How sergeyromanenko.com handles visitor data, browser-based tools, external services, and your rights.

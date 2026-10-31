@@ -9,8 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-Games
-
 Runs in your browser
 
 # Games for Your Journey.

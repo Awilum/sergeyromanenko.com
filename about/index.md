@@ -9,8 +9,6 @@ language: "en"
 robots: "index, follow"
 ---
 
-About
-
 # A life spent exploring — through code, cameras, and the road.
 
 Explorer · Photographer · Creator · Engineer
@@ -55,8 +53,6 @@ The record
 
 ## What actually happened, and roughly when.
 
-### Current Practice
-
 1. 2016–present
   #### Photography & Documentary Projects
   I develop independent photographic projects focused on people, places, streets and everyday life. My professional work has covered portraiture, street photography, fashion, photojournalism and documentary photography. Earlier in this period I also organized photography walks, creative projects and workshops, bringing photographers and models together to learn from one another. My current interests include travel photography, street photography, portraits, and visual documentation that captures the atmosphere and complexity of lived experience.
@@ -91,16 +87,12 @@ The record
   #### Computer Engineering & Early Software Development
   I studied computer engineering, specializing in systems programming, with a focus on programming fundamentals, software development and computer systems. My coursework included cryptography and encryption, as well as computer graphics programming in C and C++. My graduation project involved developing a content management system (CMS). I also completed training in Cisco networking technologies. Alongside my formal education, I worked with a broad range of programming languages and technologies, including C, C++, C#, Java, x86 assembly, PHP, JavaScript, Delphi and Free Pascal. I explored early web development and software engineering, and founded and ran the PascalGames community, publishing resources related to Delphi, Free Pascal and game development.
 
-## Practice
-
 - **Photography:** My photographic practice spans travel, street, portrait, and documentary work. I create independent projects about people, places, everyday life, and the experiences that are easy to overlook. Photography is both a way of exploring unfamiliar environments and a way of paying closer attention to the places where I live.
 - **Education:** I create practical programming courses and learning resources on Stepik, alongside educational writing and open learning materials. My focus is on making technical subjects understandable, useful, and applicable beyond the lesson itself.
 - **Open source:** I develop and maintain open-source projects, contribute to other people’s software, and publish reusable solutions for developers. My work spans frontend tooling, PHP, JavaScript, content-management systems, and practical development utilities.
 - **Books and publications:** I write and maintain practical educational publications, including open resources on SQL and Markdown. My publishing work focuses on making technical knowledge accessible through clear explanations, examples, and formats that readers can use at their own pace.
 - **Software:** I continue to work with software through independent development, technical problem-solving, and research and development. My background includes frontend engineering, application architecture, APIs, automation, testing, localization, and broader contract development. I remain interested in how software can solve practical problems and how existing systems can be improved.
 - **Tools:** I build small, practical tools in response to real needs, from time-zone and world-clock utilities to photography-planning tools based on solar data. These projects bring together software development, experimentation, and a preference for useful solutions that people can access without unnecessary complexity.
-
-## Teaching
 
 - **Courses:** 26
 - **Lessons:** 1,090

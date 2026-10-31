@@ -9,7 +9,8 @@ language: "en"
 robots: "index, follow"
 ---
 
-Legal
+1. [Home](https://sergeyromanenko.com/)
+2. Copyright & Licensing
 
 # Copyright & Licensing
 

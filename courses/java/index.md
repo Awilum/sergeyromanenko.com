@@ -9,6 +9,10 @@ language: "en"
 robots: "index, follow"
 ---
 
+1. [Home](https://sergeyromanenko.com/)
+2. [COURSES](https://sergeyromanenko.com/courses/)
+3. Practical Java Programming Trainer
+
 Online course
 
 Java · Stepik
