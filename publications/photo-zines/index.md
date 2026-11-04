@@ -12,7 +12,7 @@ robots: "noindex, follow"
 1. [Publications](https://sergeyromanenko.com/publications/)
 2. PHOTO ZINES
 
-An edition
+(An edition)
 
 # Photo Zines
 

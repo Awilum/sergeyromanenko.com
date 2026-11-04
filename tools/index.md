@@ -333,7 +333,7 @@ Privacy & Security
 
 ### Your Data Stays on Your Device
 
-74 of 78 tools run entirely in your browser — no uploads, no accounts, no tracking. Two tools make documented external requests.
+Every one of the 55 tools runs in your browser. No installs, no accounts, no tracking. Two make documented external requests.
 
 [Read details](https://sergeyromanenko.com/privacy-policy/)
 

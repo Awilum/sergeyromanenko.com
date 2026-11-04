@@ -1,7 +1,7 @@
 ---
 title: "A life spent exploring — through code, cameras, and the road."
-seo_title: "ABOUT — Sergey Romanenko"
-description: "Sergey Romanenko — explorer, photographer, creator and engineer. Independent photographic projects, 26 online courses with 72,982 enrollments, open-source software, books and practical tools."
+seo_title: "About — Sergey Romanenko"
+description: "Sergey Romanenko — explorer, photographer, creator and engineer. Independent photographic projects, 26 online courses with 73,411 enrollments, open-source software, books and practical tools."
 canonical_url: "https://sergeyromanenko.com/about/"
 markdown_url: "https://sergeyromanenko.com/about/index.md"
 section: "About"
@@ -56,22 +56,22 @@ The record
 ## What actually happened, and roughly when.
 
 1. 2016–present
-  #### Photography & Documentary Projects
+  ### Photography & Documentary Projects
   I develop independent photographic projects focused on people, places, streets and everyday life. My professional work has covered portraiture, street photography, fashion, photojournalism and documentary photography. Earlier in this period I also organized photography walks, creative projects and workshops, bringing photographers and models together to learn from one another. My current interests include travel photography, street photography, portraits, and visual documentation that captures the atmosphere and complexity of lived experience.
 2. 2023–present
-  #### Online Education
+  ### Online Education
   I create and teach programming courses on Stepik, covering subjects including SQL, JavaScript, Python, PHP, Go, Kotlin, Java, C# and Markdown. The catalog spans individual trainers and bundled career programs, and the figures behind it — courses, lessons, enrollments and learner reviews — are read from the same local dataset the course pages are built from, so they stay current without being typed in by hand.
 3. present
-  #### Software & Research and Development
+  ### Software & Research and Development
   I continue to work with software through independent development, technical problem-solving and research and development. My background includes frontend engineering, application architecture, APIs, automation, testing, localization, and broader contract development. I remain interested in how software can solve practical problems and how existing systems can be improved.
 4. 2010–present
-  #### Open-Source Software
+  ### Open-Source Software
   I develop and contribute to open-source software across PHP, JavaScript, frontend tooling, content-management systems and developer utilities. I build reusable solutions, improve existing projects, and share practical tools and knowledge with the wider development community.
 5. present
-  #### Books & Publications
+  ### Books & Publications
   I create educational publications and practical learning resources, including open materials. My publishing work focuses on making technical knowledge accessible through clear explanations, useful examples, and formats that readers can use independently.
 6. present
-  #### Independent Tools & Logic Games
+  ### Independent Tools & Logic Games
   I build small, practical tools and logic games in response to real needs. These projects combine software development, experimentation, and a preference for useful solutions without unnecessary complexity.
 
 ### Earlier Chapters
@@ -98,8 +98,8 @@ The record
 
 - **Courses:** 26
 - **Lessons:** 1,090
-- **Enrollments:** 72,982
-- **Learner reviews:** 1,343
+- **Enrollments:** 73,411
+- **Learner reviews:** 1,358
 
 ## Currently
 

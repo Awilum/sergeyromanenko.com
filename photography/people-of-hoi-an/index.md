@@ -12,20 +12,30 @@ robots: "index, follow"
 1. [PHOTOGRAPHY](https://sergeyromanenko.com/photography/)
 2. People of Hoi An
 
-PHOTOGRAPHY
-
-Hoi An, Vietnam
+(Hoi An, Vietnam)
 
 # People of Hoi An
 
 A photographic study of people, rituals and everyday life in Hoi An.
 
-- **Category:** PHOTOGRAPHY
-- **Year:** 2026
-- **Location:** Hoi An, Vietnam
-- **Format:** Photographic project
+2025 — Hoi An, Vietnam — Photographic project
+
+**Contents8 sections**
+
+1. Beyond the Lanterns
+2. The People
+3. Portraits Without Performance
+4. Why Black and White?
+5. A Town That Moves Slowly
+6. The City as a Character
+7. More Than a Collection of Portraits
+8. The Project
 
 ![Hoi An — an evening along the river](https://ik.imagekit.io/awilum/photography/people-of-hoian/hoi-an-2.jpg)
+
+> **This Photo Project Is a Work in Progress.**
+>
+> This page is currently under active development. The project is still evolving, and not all photographs, stories, and details have been published yet. More images, descriptions, and insights into the project will be added over time. Thank you for your patience and for being part of this journey. Stay tuned for future updates as the project continues to unfold.
 
 **A photographic journey into the quiet moments, and everyday life of one of Vietnam’s most atmospheric towns.** I began photographing Hội An while based in **Da Nang in 2025**. Just a short motorbike ride away, the town quickly became a place I returned to again and again — not simply to photograph its famous streets, but to **observe the people who make them alive**. I would arrive without a fixed destination, walk through the old streets, local neighborhoods, markets, and quieter corners, and simply see what was happening around me.
 
@@ -81,40 +91,83 @@ The people are at the heart of the project, but Hội An itself is never just a 
 
 Selected photographs
 
-10 photographs from this project.
+10 photographs in this selection.
 
 ![Portrait in Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/1.jpg)
 
+*01 / 10*
+
 ![Everyday life in Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/2.jpg)
+
+*02 / 10*
 
 ![People of Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/3.jpg)
 
+*03 / 10*
+
 ![Street life in Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/4.jpg)
+
+*04 / 10*
 
 ![Portrait in Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/5.jpg)
 
+*05 / 10*
+
 ![Portrait in Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/6.jpg)
+
+*06 / 10*
 
 ![Everyday life in Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/7.jpg)
 
+*07 / 10*
+
 ![People of Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/8.jpg)
+
+*08 / 10*
 
 ![Street life in Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/9.jpg)
 
+*09 / 10*
+
 ![Portrait in Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/10.jpg)
 
-Close ×
+*10 / 10*
+
+00 / 00
+
+Contents
+
+1. Beyond the Lanterns
+2. The People
+3. Portraits Without Performance
+4. Why Black and White?
+5. A Town That Moves Slowly
+6. The City as a Character
+7. More Than a Collection of Portraits
+8. The Project
+
+About this project
+
+- **Category:** Photography
+- **Year:** 2025
+- **Location:** Hoi An, Vietnam
+- **Format:** Photographic project
+- **Photographs:** 10
+
+All photography →
+
+Rights
+
+Rights & Licensing →
+
+Licensing and print enquiries:[hello@sergeyromanenko.com](mailto:hello@sergeyromanenko.com)
 
 Another project
 
-## People of Bangkok's Chinatown
+## Photo Walk and Model Agencies
 
-In 2025 I spent two months living in Bangkok and repeatedly explored Chinatown on foot - photographing street life, food culture, everyday characters, and the cats that appear to live comfortably among the neighborhood's activity. A personal travel journal of observation and return.
+From 2016 through 2022, I organized photo walks and brought photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working across fashion photography in shops, studios, and outdoor locations, and participating in photography events associated with Sigma Model Agency while scouting for Liberty Model Agency.
 
-Read the project →
+Read the project
 
-[Read the project →](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/)
-
-- [All photography](https://sergeyromanenko.com/photography/)
-- [About the photographer](https://sergeyromanenko.com/about/)
-- [Licensing & print enquiries](mailto:hello@sergeyromanenko.com)
+All photography

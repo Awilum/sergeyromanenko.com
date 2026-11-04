@@ -12,22 +12,33 @@ robots: "index, follow"
 1. [PHOTOGRAPHY](https://sergeyromanenko.com/photography/)
 2. From Da Nang to South and Back
 
-PHOTOGRAPHY
-
-Vietnam
+(Vietnam)
 
 # From Da Nang to South and Back
 
 A photographic journey across Vietnam, covering 7,700 kilometers from Da Nang to the southernmost point of the country and back.
 
-- **Category:** PHOTOGRAPHY
-- **Year:** 2026
-- **Location:** Vietnam
-- **Format:** Photographic project
+2026 — Vietnam — Photographic project
+
+**Contents9 sections**
+
+1. No Fixed Destination
+2. The Southern Edge
+3. The Journey Back
+4. 138 Days on the Road
+5. Photographing the Journey
+6. More Than a Road Trip
+7. A Thousand Photographs
+8. The Book
+9. The Project
 
 ![Mui Ca Mau, the southernmost point of Vietnam, at the far end of the ride](https://ik.imagekit.io/awilum/photography/from-danang-to-south-and-back/from-danang-to-south-and-back-mui-ca-mau.jpg)
 
 *Mui Ca Mau — 8.57° N, 104.82° E*
+
+> **This Photo Project Is a Work in Progress.**
+>
+> This page is currently under active development. The project is still evolving, and not all photographs, stories, and details have been published yet. More images, descriptions, and insights into the project will be added over time. Thank you for your patience and for being part of this journey. Stay tuned for future updates as the project continues to unfold.
 
 **A photographic journey across Vietnam, covering 7,700 kilometers from Da Nang to the southernmost point of the country and back.**
 
@@ -183,28 +194,52 @@ The photographs will take the journey further.
 
 Selected photographs
 
-3 photographs from this project.
+2 photographs in this selection.
 
 ![Love Pier near the Dragon Bridge in Da Nang, where the journey began](https://ik.imagekit.io/awilum/photography/from-danang-to-south-and-back/from-danang-to-south-and-back-1.jpg)
 
+*01 / 02*
+
 ![Arriving at Kham Duc, the first stop south](https://ik.imagekit.io/awilum/photography/from-danang-to-south-and-back/from-danang-to-south-and-back-2.jpg)
 
-![Mui Ca Mau, the southernmost point of Vietnam, at the far end of the ride](https://ik.imagekit.io/awilum/photography/from-danang-to-south-and-back/from-danang-to-south-and-back-mui-ca-mau.jpg)
+*02 / 02*
 
-*Mui Ca Mau — 8.57° N, 104.82° E*
+00 / 00
 
-Close ×
+Contents
+
+1. No Fixed Destination
+2. The Southern Edge
+3. The Journey Back
+4. 138 Days on the Road
+5. Photographing the Journey
+6. More Than a Road Trip
+7. A Thousand Photographs
+8. The Book
+9. The Project
+
+About this project
+
+- **Category:** Photography
+- **Year:** 2026
+- **Location:** Vietnam
+- **Format:** Photographic project
+- **Photographs:** 2
+
+All photography →
+
+Rights
+
+Rights & Licensing →
+
+Licensing and print enquiries:[hello@sergeyromanenko.com](mailto:hello@sergeyromanenko.com)
 
 Another project
 
-## People of Hoi An
+## People of Bangkok's Chinatown
 
-A photographic study of people, rituals and everyday life in Hoi An.
+In 2025 I spent two months living in Bangkok and repeatedly explored Chinatown on foot - photographing street life, food culture, everyday characters, and the cats that appear to live comfortably among the neighborhood's activity. A personal travel journal of observation and return.
 
-Read the project →
+Read the project
 
-[Read the project →](https://sergeyromanenko.com/photography/people-of-hoi-an/)
-
-- [All photography](https://sergeyromanenko.com/photography/)
-- [About the photographer](https://sergeyromanenko.com/about/)
-- [Licensing & print enquiries](mailto:hello@sergeyromanenko.com)
+All photography

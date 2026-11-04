@@ -1,5 +1,5 @@
 ---
-title: "SQL Knowledge Assessment and Interview Preparation"
+title: "SQL Interview"
 seo_title: "SQL Knowledge Test & Interview Preparation | Sergey Romanenko"
 description: "A free assessment course that tests your SQL knowledge and prepares you for interviews that require SQL. Questions across the whole topic range, each…"
 canonical_url: "https://sergeyromanenko.com/courses/sql-interview/"
@@ -10,26 +10,34 @@ robots: "index, follow"
 ---
 
 1. [COURSES](https://sergeyromanenko.com/courses/)
-2. SQL Knowledge Assessment and Interview Preparation
+2. SQL Interview
 
-SQL · Stepik
+(SQL · Stepik)
 
-# SQL Knowledge Assessment and Interview Preparation
+# SQL Interview
 
 A free assessment course that tests your SQL knowledge and prepares you for interviews that require SQL. Questions across the whole topic range, each with several answer options and one correct one.
 
-Free — 17 lessons — 857 enrollments — 33 reviews
+Free — 17 lessons — 923 enrollments — 34 reviews
 
 Start free on Stepik ↗
 
 Enrollment happens on Stepik
+
+SQL
+
+Beginner
+
+Russian
+
+Free
 
 ## At a glance
 
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 17
-- **Enrollments:** 857
+- **Enrollments:** 923
 
 ## About this course
 
@@ -46,24 +54,20 @@ Because each question covers a specific topic, the course works as a map of your
 
 ## What you will learn
 
-1. Analyse SQL queries and determine their result.
-2. Assess your own SQL level and identify gaps.
-3. Apply SQL knowledge in technical interviews.
-4. Move confidently across the key SQL topics.
+- Analyse SQL queries and determine their result.
+- Assess your own SQL level and identify gaps.
+- Apply SQL knowledge in technical interviews.
+- Move confidently across the key SQL topics.
 
 ## Curriculum
 
 3 modules · 17 lessons
 
-1. 01
-  Introduction
-  1 lesson
-2. 02
-  Basics
-  14 lessons
-3. 03
-  Conclusion
-  1 lesson
+1. 01Introduction1 lesson
+2. 02Basics14 lessons
+3. 03Conclusion1 lesson
+
+Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
 ## Who this course is for
 
@@ -73,9 +77,16 @@ For IT students, junior data analysts, QA testers, backend developers, business 
 
 Working knowledge of the SQL basics. If you have not studied SQL yet, take "SQL Introduction" or "SQL for Beginners" first.
 
-## Course details
+## Frequently asked questions
 
-SQL Knowledge Assessment and Interview Preparation is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 17 lessons, 857 enrollments, rated 4.7 out of 5 across 33 reviews and free to enroll.
+- **Is “SQL Interview” free or paid?:** “SQL Interview” is free to enroll in on Stepik.
+- **What language is “SQL Interview” taught in?:** “SQL Interview” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
+- **How much content is in “SQL Interview”?:** “SQL Interview” contains 17 lessons in 3 modules. It is self-paced, so you study on your own schedule.
+- **Who created “SQL Interview”?:** “SQL Interview” was created by Sergey Romanenko. It is published on Stepik.
+- **How many learners have reviewed “SQL Interview”?:** “SQL Interview” has 34 reviews on Stepik, with an average rating of 4.7 out of 5.
+- **How do I enroll in “SQL Interview”?:** Enrollment for “SQL Interview” happen on Stepik: open https://stepik.org/a/280145/ and start there.
+
+Course facts
 
 - **Platform:** Stepik
 - **Access:** Free
@@ -83,26 +94,49 @@ SQL Knowledge Assessment and Interview Preparation is a beginner SQL course, pub
 - **Language:** Russian
 - **Lessons:** 17
 - **Modules:** 3
-- **Enrollments:** 857
-- **Reviews:** 33
+- **Enrollments:** 923
+- **Reviews:** 34
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko
 - **Rating:** 4.7 / 5
 
-## Frequently asked questions
+Start free on Stepik ↗
 
-- **Is “SQL Knowledge Assessment and Interview Preparation” free or paid?:** “SQL Knowledge Assessment and Interview Preparation” is free to enroll in on Stepik.
-- **What language is “SQL Knowledge Assessment and Interview Preparation” taught in?:** “SQL Knowledge Assessment and Interview Preparation” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
-- **How much content is in “SQL Knowledge Assessment and Interview Preparation”?:** “SQL Knowledge Assessment and Interview Preparation” contains 17 lessons in 3 modules. It is self-paced, so you study on your own schedule.
-- **Who created “SQL Knowledge Assessment and Interview Preparation”?:** “SQL Knowledge Assessment and Interview Preparation” was created by Sergey Romanenko. It is published on Stepik.
-- **How many learners have reviewed “SQL Knowledge Assessment and Interview Preparation”?:** “SQL Knowledge Assessment and Interview Preparation” has 33 reviews on Stepik, with an average rating of 4.7 out of 5.
-- **How do I enroll in “SQL Knowledge Assessment and Interview Preparation”?:** Enrollment for “SQL Knowledge Assessment and Interview Preparation” happen on Stepik: open https://stepik.org/a/280145/ and start there.
+Enrollment happens on Stepik. This site does not sell the course.
+
+SQL Interview is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 17 lessons, 923 enrollments, rated 4.7 out of 5 across 34 reviews and free to enroll.
+
+## More in SQL
+
+Other courses on the same subject.
+
+All courses →
+
+Course · Beginner
+
+SQL Introduction
+
+30 lessons
+
+Course · Beginner
+
+SQL Introduction (RU)
+
+19 lessons
+
+Course · Beginner
+
+Practical SQL Programming Trainer
+
+26 lessons
 
 Next
 
 ## Start it free today.
 
-Enrollment and the course itself both happen on Stepik. This page is a description of what the course contains — the curriculum, the level and what you are expected to already know.
+Enrollment and the course itself both happen on Stepik. This page is
+a description of what the course contains — the curriculum, the level and what you are
+expected to already know.
 
 Start free on Stepik ↗
 

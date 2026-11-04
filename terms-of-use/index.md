@@ -9,11 +9,14 @@ language: "en"
 robots: "index, follow"
 ---
 
+1. [HOME](https://sergeyromanenko.com/)
+2. Terms of Use
+
 # Terms of Use
 
-Terms governing the use of sergeyromanenko.com — permitted use, free tools, course information, voluntary support, external links, and limitations.
+Terms governing the use of sergeyromanenko.com, with permitted use, free tools, course information, voluntary support, external links, and limitations.
 
-**Last updated:** October 20, 2026
+Last updated: October 20, 2026
 
 ## 1. Website Purpose
 

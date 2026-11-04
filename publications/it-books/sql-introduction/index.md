@@ -13,7 +13,7 @@ robots: "index, follow"
 2. [IT BOOKS](https://sergeyromanenko.com/publications/it-books/)
 3. SQL Introduction
 
-Book
+(Book)
 
 # SQL Introduction
 
@@ -24,6 +24,11 @@ IT Books — PDF, EPUB, source — Russian
 Read it free ↗
 
 Free to read and download. No account, no payment.
+
+**Contents2 sections**
+
+1. Formats
+2. Where it came from
 
 A book for people starting from zero: what SQL is, how a relational database stores and returns data, and how to write your first queries without having to guess at the syntax.
 
@@ -41,14 +46,6 @@ The same book, in whichever form suits how you read:
 
 The material is the same SQL teaching that runs in the online courses: the order in which the ideas have to arrive, and the misconceptions that have to be cleared up along the way. Writing it as a book was a way of making that sequence survive outside a single course page — so a learner who finds it years later still gets it in the right order.
 
-## About this book
-
-- **Edition:** IT Books
-- **Formats:** PDF, EPUB, source
-- **Language:** Russian
-- **Access:** Free to read
-- **Source:** [Read and download ↗](https://github.com/Awilum/sql-introduction)
-
 ## GitHub
 
 34
@@ -59,11 +56,38 @@ Stars
 
 Releases
 
-1,326
+1,359
 
 Release downloads
 
 Awilum/sql-introduction
+
+Contents
+
+1. Formats
+2. Where it came from
+
+About this book
+
+- **Edition:** IT Books
+- **Formats:** PDF, EPUB, source
+- **Language:** Russian
+- **Access:** Free to read
+- **Source:** [Read and download ↗](https://github.com/Awilum/sql-introduction)
+
+Read it free ↗
+
+No account, no payment. Every work here is free to read.
+
+On the shelf
+
+IT Books
+
+All IT Books →
+
+Also in this edition
+
+Markdown →
 
 Next
 
@@ -77,7 +101,9 @@ All IT Books
 
 All publications
 
-- [Travel Books](https://sergeyromanenko.com/publications/travel-books/)
-- [Photo Zines](https://sergeyromanenko.com/publications/photo-zines/)
-- [Travel Journals](https://sergeyromanenko.com/publications/travel-journals/)
-- [Essays](https://sergeyromanenko.com/publications/essays/)
+Other editions
+
+- [Travel Books Reserved](https://sergeyromanenko.com/publications/travel-books/)
+- [Photo Zines Reserved](https://sergeyromanenko.com/publications/photo-zines/)
+- [Travel Journals Reserved](https://sergeyromanenko.com/publications/travel-journals/)
+- [Essays Reserved](https://sergeyromanenko.com/publications/essays/)

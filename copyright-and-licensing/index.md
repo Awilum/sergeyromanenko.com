@@ -9,9 +9,14 @@ language: "en"
 robots: "index, follow"
 ---
 
+1. [HOME](https://sergeyromanenko.com/)
+2. Copyright & Licensing
+
 # Copyright & Licensing
 
 Copyright, intellectual property and licensing information for the original photographs, texts, videos, books, research and other creative materials published here.
+
+All rights reserved
 
 ## Copyright
 
@@ -152,53 +157,5 @@ For licensing requests, permission requests, copyright questions or concerns reg
 Please include the relevant material or URL and a description of the intended use.
 
 Sergey Romanenko
-
-awilum.dev@gmail.com
-
-## Copyright
-
-All original photographs, texts, videos, books, research, educational materials and other creative works are protected by copyright.
-
-## Ownership
-
-Copyright and intellectual property rights remain with Sergey Romanenko unless expressly transferred in writing.
-
-## All Rights Reserved
-
-No unauthorised copying, reproduction, publication, distribution, modification or commercial use.
-
-## Permission
-
-Use of copyrighted materials requires prior written permission unless otherwise permitted by applicable law.
-
-## Photography
-
-Street, documentary, portrait and other photographic works are protected by copyright.
-
-## Documentary Work
-
-Photography created in public spaces forms part of an ongoing artistic, journalistic and documentary practice.
-
-## Social Media
-
-Public availability does not place photographs or other materials in the public domain.
-
-## Commercial Use
-
-Commercial, advertising and promotional use requires prior written permission.
-
-## AI / ML
-
-Use of copyrighted materials for AI or machine-learning systems requires express written authorisation unless otherwise permitted by law.
-
-## Attribution
-
-Credit does not replace permission. Where required, attribution should be given as Sergey Romanenko.
-
-## Licensing
-
-Licensing is available on a case-by-case basis and applies only to the specific use agreed in writing.
-
-## Contact
 
 awilum.dev@gmail.com

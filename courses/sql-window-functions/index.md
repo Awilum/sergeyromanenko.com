@@ -12,24 +12,30 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. SQL Window Functions
 
-SQL · Stepik
+(SQL · Stepik)
 
 # SQL Window Functions
 
 Modern data analysis in SQL: window functions, offset functions, ranking functions, running calculations and complex in-query processing. A practical course in the analytical features that turn SQL into an analysis tool.
 
-Paid — 34 lessons — 508 enrollments — 22 reviews
+Paid — 34 lessons — 520 enrollments — 22 reviews
 
 Enroll on Stepik ↗
 
 Enrollment happens on Stepik
+
+SQL
+
+Intermediate
+
+Russian
 
 ## At a glance
 
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 34
-- **Enrollments:** 508
+- **Enrollments:** 520
 
 ## About this course
 
@@ -43,48 +49,30 @@ The course works through OVER(), PARTITION BY, ROW_NUMBER, RANK, DENSE_RANK, LAG
 
 ## What you will learn
 
-1. Use window functions in SQL queries.
-2. Work with the OVER() construction and partition data with PARTITION BY.
-3. Use aggregate functions as window functions.
-4. Compute running sums and averages.
-5. Rank with ROW_NUMBER(), RANK() and DENSE_RANK().
-6. Compare rows with LAG() and LEAD().
-7. Control window frames with ROWS and RANGE.
+- Use window functions in SQL queries.
+- Work with the OVER() construction and partition data with PARTITION BY.
+- Use aggregate functions as window functions.
+- Compute running sums and averages.
+- Rank with ROW_NUMBER(), RANK() and DENSE_RANK().
+- Compare rows with LAG() and LEAD().
+- Control window frames with ROWS and RANGE.
 
 ## Curriculum
 
 10 modules · 34 lessons
 
-1. 01
-  Introduction
-  4 lessons
-2. 02
-  Aggregate Window Functions
-  6 lessons
-3. 03
-  Practice with Aggregate Window Functions
-  1 lesson
-4. 04
-  Ranking Window Functions
-  6 lessons
-5. 05
-  Practice with Ranking Window Functions
-  1 lesson
-6. 06
-  Offset Window Functions
-  6 lessons
-7. 07
-  Practice with Offset Window Functions
-  1 lesson
-8. 08
-  Advanced Window Logic
-  5 lessons
-9. 09
-  Advanced Window Function Practice
-  1 lesson
-10. 10
-  Conclusion
-  1 lesson
+1. 01Introduction4 lessons
+2. 02Aggregate Window Functions6 lessons
+3. 03Practice with Aggregate Window Functions1 lesson
+4. 04Ranking Window Functions6 lessons
+5. 05Practice with Ranking Window Functions1 lesson
+6. 06Offset Window Functions6 lessons
+7. 07Practice with Offset Window Functions1 lesson
+8. 08Advanced Window Logic5 lessons
+9. 09Advanced Window Function Practice1 lesson
+10. 10Conclusion1 lesson
+
+Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
 ## Who this course is for
 
@@ -93,22 +81,6 @@ For data analysts, backend developers, testers, QA engineers, BI analysts, data 
 ## Prerequisites
 
 Basic SQL knowledge — SELECT, WHERE, GROUP BY, HAVING and aggregate functions. "SQL for Beginners" covers what you need.
-
-## Course details
-
-SQL Window Functions is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 34 lessons, 508 enrollments, rated 4.9 out of 5 across 22 reviews and a paid course.
-
-- **Platform:** Stepik
-- **Access:** Paid
-- **Level:** Intermediate
-- **Language:** Russian
-- **Lessons:** 34
-- **Modules:** 10
-- **Enrollments:** 508
-- **Reviews:** 22
-- **Certificates issued:** 78
-- **Author:** Sergey Romanenko
-- **Rating:** 4.9 / 5
 
 ## Frequently asked questions
 
@@ -120,11 +92,57 @@ SQL Window Functions is an intermediate SQL course, published on Stepik by Serge
 - **How many learners have reviewed “SQL Window Functions”?:** “SQL Window Functions” has 22 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL Window Functions”?:** Enrollment and payment for “SQL Window Functions” happen on Stepik: open https://stepik.org/a/282146/ and start there.
 
+Course facts
+
+- **Platform:** Stepik
+- **Access:** Paid
+- **Level:** Intermediate
+- **Language:** Russian
+- **Lessons:** 34
+- **Modules:** 10
+- **Enrollments:** 520
+- **Reviews:** 22
+- **Certificates issued:** 78
+- **Author:** Sergey Romanenko
+- **Rating:** 4.9 / 5
+
+Enroll on Stepik ↗
+
+Enrollment happens on Stepik. This site does not sell the course.
+
+SQL Window Functions is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 34 lessons, 520 enrollments, rated 4.9 out of 5 across 22 reviews and a paid course.
+
+## More in SQL
+
+Other courses on the same subject.
+
+All courses →
+
+Course · Beginner
+
+SQL Introduction
+
+30 lessons
+
+Course · Beginner
+
+SQL Introduction (RU)
+
+19 lessons
+
+Course · Beginner
+
+Practical SQL Programming Trainer
+
+26 lessons
+
 Next
 
 ## Enroll on Stepik.
 
-Enrollment and the course itself both happen on Stepik. This page is a description of what the course contains — the curriculum, the level and what you are expected to already know.
+Enrollment and the course itself both happen on Stepik. This page is
+a description of what the course contains — the curriculum, the level and what you are
+expected to already know.
 
 Enroll on Stepik ↗
 

@@ -30,6 +30,31 @@ Each work has its own page: what it covers, what it comes in as, and where to re
 - **Formats:** PDF, EPUB, source
 - **Access:** Free to read and download
 
+## All publications
+
+2 works
+
+- Book
+  No. 01
+  ### [Markdown](https://sergeyromanenko.com/publications/it-books/markdown/)
+  IT Books
+  A free beginner’s book on Markdown — the markup language behind most of what you read on the web, from headings and emphasis to tables and links.
+
+  - **Edition:** IT Books
+  - **Formats:** PDF, EPUB, source
+  - **Language:** Russian
+  Free to readOpen the work
+- Book
+  No. 02
+  ### [SQL Introduction](https://sergeyromanenko.com/publications/it-books/sql-introduction/)
+  IT Books
+  A free beginner’s book on SQL and how relational databases actually work — readable online, downloadable as PDF or EPUB, open source on GitHub.
+
+  - **Edition:** IT Books
+  - **Formats:** PDF, EPUB, source
+  - **Language:** Russian
+  Free to readOpen the work
+
 ## Editions
 
 1 shelf with work
@@ -37,7 +62,7 @@ Each work has its own page: what it covers, what it comes in as, and where to re
 - Edition
   ### [IT Books](https://sergeyromanenko.com/publications/it-books/)
   Practical books about programming, data, markup languages and digital technologies.
-  2 works
+  2 works · Markdown · SQL Introduction
 
 Reserved
 

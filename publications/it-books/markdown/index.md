@@ -13,7 +13,7 @@ robots: "index, follow"
 2. [IT BOOKS](https://sergeyromanenko.com/publications/it-books/)
 3. Markdown
 
-Book
+(Book)
 
 # Markdown
 
@@ -24,6 +24,11 @@ IT Books — PDF, EPUB, source — Russian
 Read it free ↗
 
 Free to read and download. No account, no payment.
+
+**Contents2 sections**
+
+1. Formats
+2. Why it is worth a book
 
 Markdown is the format almost everything you read online is written in — this page’s own source, most READMEs, most documentation, and a large share of published writing. It is also short enough to learn in an evening, which is what this book is for.
 
@@ -39,17 +44,9 @@ Free to read, free to download, open source on [GitHub](https://github.com/Awilu
 
 The syntax is genuinely small. What takes longer is judgement: when a heading is too loud, when a table is clearer than a list, when plain text says it better than emphasis. That is the part this book spends its pages on — the mechanics quickly, then the decisions.
 
-## About this book
-
-- **Edition:** IT Books
-- **Formats:** PDF, EPUB, source
-- **Language:** Russian
-- **Access:** Free to read
-- **Source:** [Read and download ↗](https://github.com/Awilum/markdown)
-
 ## GitHub
 
-41
+42
 
 Stars
 
@@ -57,11 +54,38 @@ Stars
 
 Releases
 
-699
+704
 
 Release downloads
 
 Awilum/markdown
+
+Contents
+
+1. Formats
+2. Why it is worth a book
+
+About this book
+
+- **Edition:** IT Books
+- **Formats:** PDF, EPUB, source
+- **Language:** Russian
+- **Access:** Free to read
+- **Source:** [Read and download ↗](https://github.com/Awilum/markdown)
+
+Read it free ↗
+
+No account, no payment. Every work here is free to read.
+
+On the shelf
+
+IT Books
+
+All IT Books →
+
+Also in this edition
+
+SQL Introduction →
 
 Next
 
@@ -75,7 +99,9 @@ All IT Books
 
 All publications
 
-- [Travel Books](https://sergeyromanenko.com/publications/travel-books/)
-- [Photo Zines](https://sergeyromanenko.com/publications/photo-zines/)
-- [Travel Journals](https://sergeyromanenko.com/publications/travel-journals/)
-- [Essays](https://sergeyromanenko.com/publications/essays/)
+Other editions
+
+- [Travel Books Reserved](https://sergeyromanenko.com/publications/travel-books/)
+- [Photo Zines Reserved](https://sergeyromanenko.com/publications/photo-zines/)
+- [Travel Journals Reserved](https://sergeyromanenko.com/publications/travel-journals/)
+- [Essays Reserved](https://sergeyromanenko.com/publications/essays/)

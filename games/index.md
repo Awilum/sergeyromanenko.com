@@ -1,7 +1,7 @@
 ---
 title: "Games for Your Journey."
 seo_title: "GAMES — Sergey Romanenko"
-description: "Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. 7 games, all running in the browser, all in one place."
+description: "Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. 8 games, all running in the browser, all in one place."
 canonical_url: "https://sergeyromanenko.com/games/"
 markdown_url: "https://sergeyromanenko.com/games/index.md"
 section: "Games"
@@ -13,13 +13,13 @@ robots: "index, follow"
 
 # Games for Your Journey.
 
-7 games · 7 tags · No account, no tracking
+8 games · 10 tags · No account, no tracking
 
 Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. Load them before you go and they stay ready whenever the journey has a pause.
 
 ## All games
 
-7 games
+8 games
 
 - **[2048](https://sergeyromanenko.com/games/2048/)**
   Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
@@ -50,6 +50,12 @@ Lightweight browser games built for travel — play offline on flights, trains, 
   travel
   entertainment
   +2 more
+- **[State Conquest](https://sergeyromanenko.com/games/state-conquest/)**
+  A turn-based territory-conquest strategy game. Command garrisons, capture strongholds, and eliminate rival commanders across tactical theaters.
+  games
+  strategy
+  turn-based
+  +1 more
 - **[Tic-Tac-Toe](https://sergeyromanenko.com/games/tic-tac-toe/)**
   Play Tic-Tac-Toe against an optimal computer opponent or challenge a friend on the same device. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
   games

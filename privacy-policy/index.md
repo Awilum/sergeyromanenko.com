@@ -9,11 +9,14 @@ language: "en"
 robots: "index, follow"
 ---
 
+1. [HOME](https://sergeyromanenko.com/)
+2. Privacy & Security Policy
+
 # Privacy & Security Policy
 
 How sergeyromanenko.com handles visitor data, browser-based tools, external services, and your rights.
 
-**Last updated:** October 26, 2026
+Last updated: October 26, 2026
 
 ## 1. Scope
 

@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [Publications](https://sergeyromanenko.com/publications/)
 2. IT BOOKS
 
-An edition
+(An edition)
 
 # IT Books
 
@@ -32,12 +32,16 @@ They are written for someone starting from nothing, and they take the order of i
 
   - **Formats:** PDF, EPUB, source
   - **Language:** Russian
+  Free to read
+  Open the work
 - Book
   ## [SQL Introduction](https://sergeyromanenko.com/publications/it-books/sql-introduction/)
   A free beginner’s book on SQL and how relational databases actually work — readable online, downloadable as PDF or EPUB, open source on GitHub.
 
   - **Formats:** PDF, EPUB, source
   - **Language:** Russian
+  Free to read
+  Open the work
 
 Elsewhere on the shelf
 

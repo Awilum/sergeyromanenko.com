@@ -12,42 +12,34 @@ robots: "index, follow"
 1. [PHOTOGRAPHY](https://sergeyromanenko.com/photography/)
 2. People of Bangkok's Chinatown
 
-PHOTOGRAPHY
-
-Chinatown, Bangkok, Thailand
+(Chinatown, Bangkok, Thailand)
 
 # People of Bangkok's Chinatown
 
 In 2025 I spent two months living in Bangkok and repeatedly explored Chinatown on foot - photographing street life, food culture, everyday characters, and the cats that appear to live comfortably among the neighborhood's activity. A personal travel journal of observation and return.
 
-- **Category:** PHOTOGRAPHY
-- **Year:** 2025
-- **Location:** Chinatown, Bangkok, Thailand
-- **Format:** Street and documentary photography
+2025 — Chinatown, Bangkok, Thailand — Street and documentary photography
 
-![Evening atmosphere in Chinatown, Bangkok](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-3.svg)
+**Contents4 sections**
+
+1. The Neighborhood as Subject
+2. Food as Daily Rhythm
+3. Returning
+4. The Project
+
+> **This Photo Project Is a Work in Progress.**
+>
+> This page is currently under active development. The project is still evolving, and not all photographs, stories, and details have been published yet. More images, descriptions, and insights into the project will be added over time. Thank you for your patience and for being part of this journey. Stay tuned for future updates as the project continues to unfold.
 
 **In 2025 I spent two months living in Bangkok and repeatedly explored Chinatown on foot — photographing street life, food culture, everyday characters, and the cats that appear to live comfortably among the neighborhood’s activity.**
 
 Bangkok’s Chinatown — Yaowarat to locals — is not a place you visit once and understand. It reveals itself in layers, and only to those who return. I lived in Bangkok for two months in 2025, and Chinatown became the place I kept coming back to. Not as a tourist checking a box, but as someone trying to learn the rhythm of a neighborhood by walking its streets again and again.
-
-![Chinatown street scene, Bangkok](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-1.svg)
-
-*Yaowarat Road — the main artery, morning light*
-
-![Food vendor in Bangkok Chinatown](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-2.svg)
-
-*Street kitchen — pork belly, rice, steam rising into the lane*
 
 ## The Neighborhood as Subject
 
 Chinatown attracts visitors for its atmosphere, its street food, its traditional urban fabric, and the people who live and work there. But the tourist gaze stops at the surface: the gold shops, the temples, the famous restaurants. I was interested in what happens beside and behind those — the vendor folding dumplings at 6 AM, the elderly woman reading a newspaper on a plastic stool, the motorbike mechanic wiping his hands on a rag, the cats that thread through it all as if they own the place.
 
 And they might. The cats of Chinatown are a presence unto themselves. They sleep on merchandise, perch on shrine steps, watch the wok turn. No one shoos them. They belong to the neighborhood in the way only animals can — without permission, without apology.
-
-![Evening atmosphere in Chinatown, Bangkok](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-3.svg)
-
-*Soi Yaowarat — neon, steam, the day winding down*
 
 ## Food as Daily Rhythm
 
@@ -67,42 +59,35 @@ Each return added a layer. A face seen before, now in different light. A street 
 
 The ten photographs selected here are placeholders for the work that will fill this project. The complete collection will grow as the edit develops.
 
-Selected photographs
+Contents
 
-10 photographs from this project.
+1. The Neighborhood as Subject
+2. Food as Daily Rhythm
+3. Returning
+4. The Project
 
-![Chinatown street scene, Bangkok](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-1.svg)
+About this project
 
-![Food vendor in Bangkok Chinatown](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-2.svg)
+- **Category:** Photography
+- **Year:** 2025
+- **Location:** Chinatown, Bangkok, Thailand
+- **Format:** Street and documentary photography
+- **Photographs:** 0
 
-![Evening atmosphere in Chinatown, Bangkok](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-3.svg)
+All photography →
 
-![Street vendor preparing food in Chinatown](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-4.svg)
+Rights
 
-![Cat resting on shrine steps in Chinatown](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-5.svg)
+Rights & Licensing →
 
-![Neon signs and steam in Yaowarat at night](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-6.svg)
-
-![Elderly resident reading newspaper on plastic stool](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-7.svg)
-
-![Motorcycle mechanic in narrow Chinatown alley](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-8.svg)
-
-![Market crowd at lunchtime in Chinatown](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-9.svg)
-
-![Street food stall with queue of customers](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/placeholder-10.svg)
-
-Close ×
+Licensing and print enquiries:[hello@sergeyromanenko.com](mailto:hello@sergeyromanenko.com)
 
 Another project
 
-## Photo Walk and Model Agencies
+## People of Hoi An
 
-From 2016 through 2022, I organized photo walks and brought photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working across fashion photography in shops, studios, and outdoor locations, and participating in photography events associated with Sigma Model Agency while scouting for Liberty Model Agency.
+A photographic study of people, rituals and everyday life in Hoi An.
 
-Read the project →
+Read the project
 
-[Read the project →](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/)
-
-- [All photography](https://sergeyromanenko.com/photography/)
-- [About the photographer](https://sergeyromanenko.com/about/)
-- [Licensing & print enquiries](mailto:hello@sergeyromanenko.com)
+All photography
