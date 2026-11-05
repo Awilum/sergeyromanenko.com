@@ -154,11 +154,11 @@ About this project
 - **Format:** Photographic project
 - **Photographs:** 10
 
-All photography →
+[All photography →](https://sergeyromanenko.com/photography/)
 
 Rights
 
-Rights & Licensing →
+[Rights & Licensing →](https://sergeyromanenko.com/copyright-and-licensing/)
 
 Another project
 
@@ -166,6 +166,6 @@ Another project
 
 From 2016 through 2022, I organized photo walks and brought photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working across fashion photography in shops, studios, and outdoor locations, and participating in photography events associated with Sigma Model Agency while scouting for Liberty Model Agency.
 
-Read the project
+[Read the project](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/)
 
-All photography
+[All photography](https://sergeyromanenko.com/photography/)

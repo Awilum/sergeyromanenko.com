@@ -20,7 +20,7 @@ A free assessment course that tests your JavaScript knowledge and prepares you f
 
 Free — 30 lessons — 9,676 enrollments — 141 reviews
 
-Start free on Stepik ↗
+[Start free on Stepik ↗](https://stepik.org/a/189305/)
 
 Enrollment happens on Stepik
 
@@ -101,7 +101,7 @@ Course facts
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
-Start free on Stepik ↗
+[Start free on Stepik ↗](https://stepik.org/a/189305/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -111,25 +111,13 @@ JavaScript Interview is an intermediate JavaScript course, published on Stepik b
 
 Other courses on the same subject.
 
-All courses →
+[All courses →](https://sergeyromanenko.com/courses/)
 
-Course · Beginner
+[Course · BeginnerJavaScript for Beginners303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
 
-JavaScript for Beginners
+[Course · IntermediatePractical JavaScript Programming Trainer56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
 
-303 lessons
-
-Course · Intermediate
-
-Practical JavaScript Programming Trainer
-
-56 lessons
-
-Course · Intermediate
-
-Practical JavaScript Code Reading Trainer
-
-12 lessons
+[Course · IntermediatePractical JavaScript Code Reading Trainer12 lessons](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/)
 
 Next
 
@@ -139,10 +127,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Start free on Stepik ↗
+[Start free on Stepik ↗](https://stepik.org/a/189305/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)

@@ -20,7 +20,7 @@ Modern data analysis in SQL: window functions, offset functions, ranking functio
 
 Paid — 34 lessons — 520 enrollments — 22 reviews
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/282146/)
 
 Enrollment happens on Stepik
 
@@ -106,7 +106,7 @@ Course facts
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/282146/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -116,25 +116,13 @@ SQL Window Functions is an intermediate SQL course, published on Stepik by Serge
 
 Other courses on the same subject.
 
-All courses →
+[All courses →](https://sergeyromanenko.com/courses/)
 
-Course · Beginner
+[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-SQL Introduction
+[Course · BeginnerSQL Introduction (RU)19 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
-30 lessons
-
-Course · Beginner
-
-SQL Introduction (RU)
-
-19 lessons
-
-Course · Beginner
-
-Practical SQL Programming Trainer
-
-26 lessons
+[Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 
 Next
 
@@ -144,10 +132,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/282146/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)

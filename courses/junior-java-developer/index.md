@@ -20,7 +20,7 @@ A complete training program for learning Java from scratch: the language, the Co
 
 Paid — 382 lessons — 376 enrollments — 800 reviews
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/212609/)
 
 Enrollment happens on Stepik
 
@@ -109,7 +109,7 @@ Course facts
 - **Authors:** Максим Бабанин, Татьяна Овчинникова, Андрей Сумин, Sergey Romanenko, Антон Петров, Pragmatic Programmer, Stepik Content Team
 - **Rating:** 4.9 / 5
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/212609/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -119,13 +119,9 @@ Junior Java Developer is a beginner Java career program, published on Stepik by 
 
 Other courses on the same subject.
 
-All courses →
+[All courses →](https://sergeyromanenko.com/courses/)
 
-Course · Intermediate
-
-Practical Java Programming Trainer
-
-34 lessons
+[Course · IntermediatePractical Java Programming Trainer34 lessons](https://sergeyromanenko.com/courses/java-practical-trainer/)
 
 Next
 
@@ -135,10 +131,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/212609/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)

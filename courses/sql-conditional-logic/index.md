@@ -20,7 +20,7 @@ For people who already know SQL basics and want to work with conditions and logi
 
 Paid — 28 lessons — 597 enrollments — 11 reviews
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/295190/)
 
 Enrollment happens on Stepik
 
@@ -101,7 +101,7 @@ Course facts
 - **Author:** Sergey Romanenko
 - **Rating:** 5.0 / 5
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/295190/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -111,25 +111,13 @@ SQL Conditional Logic is an intermediate SQL course, published on Stepik by Serg
 
 Other courses on the same subject.
 
-All courses →
+[All courses →](https://sergeyromanenko.com/courses/)
 
-Course · Beginner
+[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-SQL Introduction
+[Course · BeginnerSQL Introduction (RU)19 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
-30 lessons
-
-Course · Beginner
-
-SQL Introduction (RU)
-
-19 lessons
-
-Course · Beginner
-
-Practical SQL Programming Trainer
-
-26 lessons
+[Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 
 Next
 
@@ -139,10 +127,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/295190/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)

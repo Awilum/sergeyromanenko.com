@@ -20,7 +20,7 @@ A practical Go trainer built from a wide range of programming tasks — classic 
 
 Paid — 33 lessons — 765 enrollments — 13 reviews
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/175966/)
 
 Enrollment happens on Stepik
 
@@ -114,7 +114,7 @@ Course facts
 - **Author:** Sergey Romanenko
 - **Rating:** 4.7 / 5
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/175966/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -128,10 +128,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/175966/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)

@@ -24,19 +24,19 @@ Choose the option that works best for you. All links open in a new tab.
 
 - **Ko-fi**
   One-time or recurring support via Ko-fi
-  Support via Ko-fi
+  [Support via Ko-fi](https://ko-fi.com/sergey_romanenko)
 - **PayPal**
   Secure payment via PayPal
-  Support via PayPal
+  [Support via PayPal](https://paypal.me/sergeiromanenko)
 - **YouMoney**
   Support via YouMoney
-  Support via YouMoney
+  [Support via YouMoney](https://yoomoney.ru/to/4100117657353439)
 - **PayNow**
   Quick payment via PayNow
-  Support via PayNow
+  [Support via PayNow](https://nowpayments.io/donation/sergey.romanenko)
 
 Support is entirely voluntary. You can continue using my free tools without making a contribution.
 
 Note: Some courses, guides, and other digital products are sold separately and are not included in this voluntary support model.
 
-Back to Tools
+[Back to Tools](https://sergeyromanenko.com/tools/)

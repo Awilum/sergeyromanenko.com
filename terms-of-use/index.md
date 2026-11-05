@@ -146,7 +146,7 @@ These Terms of Use may be updated as the website evolves. The “Last updated”
 
 For questions about these Terms, contact:
 
-awilum.dev@gmail.com
+[awilum.dev@gmail.com](mailto:awilum.dev@gmail.com)
 
 ## Related Pages
 

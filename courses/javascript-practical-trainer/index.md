@@ -20,7 +20,7 @@ A JavaScript trainer made entirely of practical tasks, from classic programming 
 
 Paid — 56 lessons — 882 enrollments — 10 reviews
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/172576/)
 
 Enrollment happens on Stepik
 
@@ -110,7 +110,7 @@ Course facts
 - **Author:** Sergey Romanenko
 - **Rating:** 5.0 / 5
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/172576/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -120,25 +120,13 @@ Practical JavaScript Programming Trainer is an intermediate JavaScript course, p
 
 Other courses on the same subject.
 
-All courses →
+[All courses →](https://sergeyromanenko.com/courses/)
 
-Course · Intermediate
+[Course · IntermediateJavaScript Interview30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
 
-JavaScript Interview
+[Course · BeginnerJavaScript for Beginners303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
 
-30 lessons
-
-Course · Beginner
-
-JavaScript for Beginners
-
-303 lessons
-
-Course · Intermediate
-
-Practical JavaScript Code Reading Trainer
-
-12 lessons
+[Course · IntermediatePractical JavaScript Code Reading Trainer12 lessons](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/)
 
 Next
 
@@ -148,10 +136,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/172576/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)

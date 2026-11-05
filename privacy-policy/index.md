@@ -38,7 +38,7 @@ This website is operated by **Sergey Romanenko** as a personal portfolio and pub
 
 For questions about this Privacy and Security Policy or data practices, contact:
 
-awilum.dev@gmail.com
+[awilum.dev@gmail.com](mailto:awilum.dev@gmail.com)
 
 No separate legal entity, company registration, or postal address is associated with this website. The operator is an individual acting in a personal capacity.
 
@@ -301,7 +301,7 @@ For material changes affecting data practices, a notice may be posted on the web
 
 For questions about this Privacy and Security Policy or data practices, contact:
 
-awilum.dev@gmail.com
+[awilum.dev@gmail.com](mailto:awilum.dev@gmail.com)
 
 ## Related Pages
 

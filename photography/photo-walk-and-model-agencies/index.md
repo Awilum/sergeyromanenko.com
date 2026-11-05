@@ -101,11 +101,11 @@ About this project
 - **Format:** Documentary, fashion, and collaborative portrait photography
 - **Photographs:** 3
 
-All photography →
+[All photography →](https://sergeyromanenko.com/photography/)
 
 Rights
 
-Rights & Licensing →
+[Rights & Licensing →](https://sergeyromanenko.com/copyright-and-licensing/)
 
 Another project
 
@@ -113,6 +113,6 @@ Another project
 
 A photographic journey across Vietnam, covering 7,700 kilometers from Da Nang to the southernmost point of the country and back.
 
-Read the project
+[Read the project](https://sergeyromanenko.com/photography/from-danang-to-south-and-back/)
 
-All photography
+[All photography](https://sergeyromanenko.com/photography/)

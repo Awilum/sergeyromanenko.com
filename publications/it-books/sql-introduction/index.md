@@ -21,7 +21,7 @@ A free beginner’s book on SQL and how relational databases actually work — r
 
 IT Books — PDF, EPUB, source — Russian
 
-Read it free ↗
+[Read it free ↗](https://github.com/Awilum/sql-introduction)
 
 Free to read and download. No account, no payment.
 
@@ -56,11 +56,11 @@ Stars
 
 Releases
 
-1,364
+1,366
 
 Release downloads
 
-Awilum/sql-introduction
+[Awilum/sql-introduction](https://github.com/Awilum/sql-introduction)
 
 Contents
 
@@ -75,7 +75,7 @@ About this book
 - **Access:** Free to read
 - **Source:** [Read and download ↗](https://github.com/Awilum/sql-introduction)
 
-Read it free ↗
+[Read it free ↗](https://github.com/Awilum/sql-introduction)
 
 No account, no payment. Every work here is free to read.
 
@@ -83,11 +83,11 @@ On the shelf
 
 IT Books
 
-All IT Books →
+[All IT Books →](https://sergeyromanenko.com/publications/it-books/)
 
 Also in this edition
 
-Markdown →
+[Markdown →](https://sergeyromanenko.com/publications/it-books/markdown/)
 
 Next
 
@@ -95,11 +95,11 @@ Next
 
 A free beginner’s book on Markdown — the markup language behind most of what you read on the web, from headings and emphasis to tables and links.
 
-Markdown →
+[Markdown →](https://sergeyromanenko.com/publications/it-books/markdown/)
 
-All IT Books
+[All IT Books](https://sergeyromanenko.com/publications/it-books/)
 
-All publications
+[All publications](https://sergeyromanenko.com/publications/)
 
 Other editions
 

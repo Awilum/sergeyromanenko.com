@@ -111,4 +111,4 @@ I’m focused on developing my own independent projects across photography, educ
 - [Stepik@awilum](https://stepik.org/users/awilum)
 - [Telegram@awilum](https://awilum.t.me)
 
-Get in touch
+[Get in touch](mailto:awilum.dev@gmail.com)

@@ -26,7 +26,7 @@ Nothing published yet
 
 Nothing published in this edition yet. It exists so the work has somewhere to go when it is ready — the section is announced, not filled.
 
-All publications
+[All publications](https://sergeyromanenko.com/publications/)
 
 Elsewhere on the shelf
 

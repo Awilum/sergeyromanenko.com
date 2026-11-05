@@ -20,7 +20,7 @@ A hands-on Java trainer built around a wide range of programming tasks, from cla
 
 Paid — 34 lessons — 19,477 enrollments — 32 reviews
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/182389/)
 
 Enrollment happens on Stepik
 
@@ -108,7 +108,7 @@ Course facts
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/182389/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -118,13 +118,9 @@ Practical Java Programming Trainer is an intermediate Java course, published on 
 
 Other courses on the same subject.
 
-All courses →
+[All courses →](https://sergeyromanenko.com/courses/)
 
-Program · Beginner
-
-Junior Java Developer
-
-382 lessons
+[Program · BeginnerJunior Java Developer382 lessons](https://sergeyromanenko.com/courses/junior-java-developer/)
 
 Next
 
@@ -134,10 +130,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/182389/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)

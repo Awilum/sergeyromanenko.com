@@ -21,7 +21,7 @@ A free beginner’s book on Markdown — the markup language behind most of what
 
 IT Books — PDF, EPUB, source — Russian
 
-Read it free ↗
+[Read it free ↗](https://github.com/Awilum/markdown)
 
 Free to read and download. No account, no payment.
 
@@ -58,7 +58,7 @@ Releases
 
 Release downloads
 
-Awilum/markdown
+[Awilum/markdown](https://github.com/Awilum/markdown)
 
 Contents
 
@@ -73,7 +73,7 @@ About this book
 - **Access:** Free to read
 - **Source:** [Read and download ↗](https://github.com/Awilum/markdown)
 
-Read it free ↗
+[Read it free ↗](https://github.com/Awilum/markdown)
 
 No account, no payment. Every work here is free to read.
 
@@ -81,11 +81,11 @@ On the shelf
 
 IT Books
 
-All IT Books →
+[All IT Books →](https://sergeyromanenko.com/publications/it-books/)
 
 Also in this edition
 
-SQL Introduction →
+[SQL Introduction →](https://sergeyromanenko.com/publications/it-books/sql-introduction/)
 
 Next
 
@@ -93,11 +93,11 @@ Next
 
 A free beginner’s book on SQL and how relational databases actually work — readable online, downloadable as PDF or EPUB, open source on GitHub.
 
-SQL Introduction →
+[SQL Introduction →](https://sergeyromanenko.com/publications/it-books/sql-introduction/)
 
-All IT Books
+[All IT Books](https://sergeyromanenko.com/publications/it-books/)
 
-All publications
+[All publications](https://sergeyromanenko.com/publications/)
 
 Other editions
 

@@ -20,7 +20,7 @@ The next stage of a JavaScript education. If you already know the fundamentals a
 
 Paid — 173 lessons — 814 enrollments — 17 reviews
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/177315/)
 
 Enrollment happens on Stepik
 
@@ -126,7 +126,7 @@ Course facts
 - **Author:** Sergey Romanenko
 - **Rating:** 4.5 / 5
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/177315/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -136,25 +136,13 @@ JavaScript for Experienced is an intermediate JavaScript course, published on St
 
 Other courses on the same subject.
 
-All courses →
+[All courses →](https://sergeyromanenko.com/courses/)
 
-Course · Intermediate
+[Course · IntermediateJavaScript Interview30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
 
-JavaScript Interview
+[Course · BeginnerJavaScript for Beginners303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
 
-30 lessons
-
-Course · Beginner
-
-JavaScript for Beginners
-
-303 lessons
-
-Course · Intermediate
-
-Practical JavaScript Programming Trainer
-
-56 lessons
+[Course · IntermediatePractical JavaScript Programming Trainer56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
 
 Next
 
@@ -164,10 +152,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/177315/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)

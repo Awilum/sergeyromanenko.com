@@ -226,11 +226,11 @@ About this project
 - **Format:** Photographic project
 - **Photographs:** 2
 
-All photography →
+[All photography →](https://sergeyromanenko.com/photography/)
 
 Rights
 
-Rights & Licensing →
+[Rights & Licensing →](https://sergeyromanenko.com/copyright-and-licensing/)
 
 Another project
 
@@ -238,6 +238,6 @@ Another project
 
 In 2025 I spent two months living in Bangkok and repeatedly explored Chinatown on foot - photographing street life, food culture, everyday characters, and the cats that appear to live comfortably among the neighborhood's activity. A personal travel journal of observation and return.
 
-Read the project
+[Read the project](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/)
 
-All photography
+[All photography](https://sergeyromanenko.com/photography/)

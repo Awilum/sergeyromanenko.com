@@ -20,7 +20,7 @@ Awarded one of the best courses of 2023 and a consistent best-seller. A complete
 
 Paid — 303 lessons — 2,221 enrollments — 86 reviews
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/134850/)
 
 Enrollment happens on Stepik
 
@@ -145,7 +145,7 @@ Course facts
 - **Author:** Sergey Romanenko
 - **Rating:** 4.8 / 5
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/134850/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -155,25 +155,13 @@ JavaScript for Beginners is a beginner JavaScript course, published on Stepik by
 
 Other courses on the same subject.
 
-All courses →
+[All courses →](https://sergeyromanenko.com/courses/)
 
-Course · Intermediate
+[Course · IntermediateJavaScript Interview30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
 
-JavaScript Interview
+[Course · IntermediatePractical JavaScript Programming Trainer56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
 
-30 lessons
-
-Course · Intermediate
-
-Practical JavaScript Programming Trainer
-
-56 lessons
-
-Course · Intermediate
-
-Practical JavaScript Code Reading Trainer
-
-12 lessons
+[Course · IntermediatePractical JavaScript Code Reading Trainer12 lessons](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/)
 
 Next
 
@@ -183,10 +171,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/134850/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)

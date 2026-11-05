@@ -20,7 +20,7 @@ A beginner-friendly SQL course that takes you from zero to working with database
 
 Free — 19 lessons — 2,881 enrollments — 97 reviews
 
-Start free on Stepik ↗
+[Start free on Stepik ↗](https://stepik.org/a/290855/)
 
 Enrollment happens on Stepik
 
@@ -103,7 +103,7 @@ Course facts
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
-Start free on Stepik ↗
+[Start free on Stepik ↗](https://stepik.org/a/290855/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -113,25 +113,13 @@ SQL Introduction (RU) is a beginner SQL course, published on Stepik by Sergey Ro
 
 Other courses on the same subject.
 
-All courses →
+[All courses →](https://sergeyromanenko.com/courses/)
 
-Course · Beginner
+[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-SQL Introduction
+[Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 
-30 lessons
-
-Course · Beginner
-
-Practical SQL Programming Trainer
-
-26 lessons
-
-Course · Beginner
-
-SQL for Beginners
-
-85 lessons
+[Course · BeginnerSQL for Beginners85 lessons](https://sergeyromanenko.com/courses/sql-for-beginners/)
 
 Next
 
@@ -141,10 +129,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Start free on Stepik ↗
+[Start free on Stepik ↗](https://stepik.org/a/290855/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)

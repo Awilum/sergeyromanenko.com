@@ -146,41 +146,23 @@ PaidOpen the path
 
 20 courses · 9 subjects
 
-SQL
+SQL 8
 
-8
+JavaScript 5
 
-JavaScript
+C#1
 
-5
+Go 1
 
-C#
+Java 1
 
-1
+Kotlin 1
 
-Go
+Markdown 1
 
-1
+PHP 1
 
-Java
-
-1
-
-Kotlin
-
-1
-
-Markdown
-
-1
-
-PHP
-
-1
-
-Python
-
-1
+Python 1
 
 01
 
@@ -499,7 +481,7 @@ In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of th
 
 ## Growth — last 30 days
 
-stepstat.ru ↗
+[stepstat.ru ↗](https://stepstat.ru/)
 
 - **Learners:** +848
 - **Followers:** +500
@@ -524,12 +506,8 @@ are free. The
 practical trainers are the ones built to be finished rather than sampled — pick a language you
 already half-know and push it past the point where it becomes easy.
 
-Browse
+Browse 26 courses
 
-26
-
-courses
-
-All on Stepik ↗
+[All on Stepik ↗](https://stepik.org/users/awilum/teach)
 
 Course facts — enrollments, ratings, review counts, lesson and module counts, curriculum, awards and the profile and growth figures — come from the local course dataset, periodically refreshed from the public StepStat API. Individual learner reviews are not shown here; only the counts the API reports are. Enrollment and payment happen on Stepik, the platform where these courses are published.

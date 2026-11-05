@@ -74,11 +74,11 @@ About this project
 - **Format:** Street and documentary photography
 - **Photographs:** 0
 
-All photography →
+[All photography →](https://sergeyromanenko.com/photography/)
 
 Rights
 
-Rights & Licensing →
+[Rights & Licensing →](https://sergeyromanenko.com/copyright-and-licensing/)
 
 Another project
 
@@ -86,6 +86,6 @@ Another project
 
 A photographic study of people, rituals and everyday life in Hoi An.
 
-Read the project
+[Read the project](https://sergeyromanenko.com/photography/people-of-hoi-an/)
 
-All photography
+[All photography](https://sergeyromanenko.com/photography/)

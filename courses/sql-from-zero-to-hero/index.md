@@ -20,7 +20,7 @@ A large SQL program — from the first queries to advanced language features and
 
 Paid — 226 lessons — 79 enrollments — 288 reviews
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/279994/)
 
 Enrollment happens on Stepik
 
@@ -106,7 +106,7 @@ Course facts
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/279994/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
@@ -116,25 +116,13 @@ SQL from Zero to Hero is a beginner SQL career program, published on Stepik by S
 
 Other courses on the same subject.
 
-All courses →
+[All courses →](https://sergeyromanenko.com/courses/)
 
-Course · Beginner
+[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-SQL Introduction
+[Course · BeginnerSQL Introduction (RU)19 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
-30 lessons
-
-Course · Beginner
-
-SQL Introduction (RU)
-
-19 lessons
-
-Course · Beginner
-
-Practical SQL Programming Trainer
-
-26 lessons
+[Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 
 Next
 
@@ -144,10 +132,6 @@ Enrollment and the course itself both happen on Stepik. This page is
 a description of what the course contains — the curriculum, the level and what you are
 expected to already know.
 
-Enroll on Stepik ↗
+[Enroll on Stepik ↗](https://stepik.org/a/279994/)
 
-← All
-
-26
-
-courses
+[← All 26 courses](https://sergeyromanenko.com/courses/)
