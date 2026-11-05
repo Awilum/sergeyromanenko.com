@@ -19,7 +19,7 @@ A turn-based territory-conquest strategy game. Command garrisons, capture strong
 ## At a glance
 
 - **Gameplay:** Turn-based
-- **Maps:** 3 theaters
+- **Maps:** 4 theaters
 - **Players:** 1 to 4
 - **Offline support:** Yes
 
@@ -28,13 +28,13 @@ A turn-based territory-conquest strategy game. Command garrisons, capture strong
 1. **Strictly turn-based tactical command**
   Take your actions sequentially, march armies along connection corridors, and pass the turn to the opponent.
 2. **Tactical force allocation**
-  Dispatch 25%, 50%, 75%, or all moveable garrison troops while always keeping defenders behind to guard the base.
+  Dispatch an exact troop count with the force slider or pick 25%, 50%, 75%, or all moveable troops; one defender always stays behind.
 3. **Local AI with three difficulty tiers**
   Compete against Easy, Normal, or Hard computer-controlled commanders operating under identical game rules.
 4. **Local pass-and-play multiplayer**
   Command rival factions on the same device with friends and family without needing an internet connection.
 5. **Multiple balanced theaters**
-  Engage across Small Arena (2p), Crossroads (3p), and Archipelago (4p) handcrafted maps.
+  Engage across Micro Arena (2p), Small Arena (2p), Crossroads (2-3p), and Archipelago (2-4p) handcrafted maps.
 6. **Works offline**
   Runs entirely in your browser with local persistence and offline service worker caching.
 
@@ -44,7 +44,7 @@ Command territories across tactical map networks in a turn-based battle of expan
 
 ## Turn-Based Structure
 
-Gameplay proceeds in sequential rounds. During your turn, examine the board, march garrisons to capture territories or reinforce allies, and press **End Turn** when your maneuvers are complete. The opposing commander then evaluates the theater and executes their moves before handing initiative back to you.
+Gameplay proceeds in sequential rounds. During your turn, examine the board, march garrisons to capture territories or reinforce allies, and press **End Turn** when your maneuvers are complete. Every opposing march is then drawn on the map in that commander’s color: the source, the attack line, the target, and whether the position was captured or held.
 
 ### Tactical Dispatch
 
@@ -55,6 +55,18 @@ Every territory holds a garrison count. When launching an attack or reinforcemen
 - **Base Defense Guarantee:** At least 1 troop must always remain behind to guard your stronghold.
 - **Combat Resolution:** Attacking and defending forces eliminate each other one-to-one. If your attacking force exceeds the defenders, you capture the position, and surviving troops form the new garrison.
 
+## Territory Types
+
+Territories come in five kinds, each drawn with its own marker on the map:
+
+- **City:** the standard territory, +1 troop per round.
+- **Castle:** +1 troop per round, fortified with +2 structural defense.
+- **Citadel:** +1 troop per round, a major stronghold with +4 structural defense.
+- **Military Camp:** +3 troops per round, unfortified.
+- **Capital:** each commander’s seat of power, +2 troops per round and +2 structural defense.
+
+Structural defense represents walls and prepared positions: it absorbs attacking strength before the garrison is touched. A Castle held by 6 defenders needs at least 9 attackers to fall. Neutral territories produce nothing until captured, and a newly captured territory starts producing on its new owner’s next turn. Losing a Capital does not eliminate you; you are eliminated only when you hold no territories at all.
+
 ## Game Modes
 
 ### Single Player vs AI
@@ -63,7 +75,9 @@ Command your forces against computer-controlled opponents across three difficult
 
 - **Easy:** Conservative expansion into weak neutral nodes with occasional defensive hesitation.
 - **Normal:** Balanced strategic evaluation of territory production, garrison ratios, and frontline reinforcement.
-- **Hard:** Aggressive focus on high-value capitals, choke points, and coordinated multi-node pressure.
+- **Hard:** Aggressive focus on high-value Capitals, Castles, Citadels, and Military Camps, with coordinated multi-node pressure.
+
+The AI plans through the same combat rules as human players, with no hidden information or bonuses.
 
 ### Local Pass and Play
 
@@ -71,15 +85,16 @@ Challenge friends and family on the same device. Commanders take turns sequentia
 
 ## Theaters
 
-Choose from three handcrafted map layouts:
+Choose from four handcrafted map layouts:
 
-1. **Small Arena:** A compact 12-territory duel ground for focused, quick matches (2 players).
-2. **Crossroads:** A triangular 20-territory crossroads with high-value central citadels (2 to 3 players).
-3. **Archipelago:** An expansive 30-territory island theater with narrow bridges and waterways (2 to 4 players).
+1. **Micro Arena:** Seven territories for two commanders. The fastest complete match, ideal for learning the rules.
+2. **Small Arena:** A compact nine-territory proving ground with a fortified center for focused matches (2 players).
+3. **Crossroads:** A thirteen-territory triangular battleground with high-value central crossings (2 to 3 players).
+4. **Archipelago:** A twenty-one-territory island theater whose central Isle of Kings is reachable only through the military camps (2 to 4 players).
 
 ## Offline Play
 
-State Conquest is built entirely with native browser technologies (Vue 3, SVG, and CSS) and zero external game engines. Once loaded in your browser, the game operates offline on trains, flights, or anywhere without internet access. Game settings and statistics are preserved in local storage.
+State Conquest is built entirely with native browser technologies (Vue 3, SVG, and CSS) and zero external game engines. Once loaded in your browser, the game operates offline on trains, flights, or anywhere without internet access. Game settings, statistics, and interrupted matches are preserved in local storage.
 
 ## Details
 
@@ -89,28 +104,28 @@ State Conquest is built entirely with native browser technologies (Vue 3, SVG, a
 
 ## Related — both of these are about games
 
-1. **[2048](https://sergeyromanenko.com/games/2048/)**
+1. **[Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/)**
+  The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
+
+  - [games](https://sergeyromanenko.com/games/?tag=games)
+  - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
+  - [classic](https://sergeyromanenko.com/games/?tag=classic)
+  - [pencil-and-paper](https://sergeyromanenko.com/games/?tag=pencil-and-paper)
+2. **[Nim](https://sergeyromanenko.com/games/nim/)**
+  The classic mathematical strategy game. Take turns removing objects from heaps, master the XOR nim-sum, and challenge the Optimal computer opponent or a friend on your own device.
+
+  - [games](https://sergeyromanenko.com/games/?tag=games)
+  - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
+  - [math](https://sergeyromanenko.com/games/?tag=math)
+  - [classic](https://sergeyromanenko.com/games/?tag=classic)
+  - [two-player](https://sergeyromanenko.com/games/?tag=two-player)
+3. **[2048](https://sergeyromanenko.com/games/2048/)**
   Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
 
   - [games](https://sergeyromanenko.com/games/?tag=games)
   - [puzzle](https://sergeyromanenko.com/games/?tag=puzzle)
   - [numbers](https://sergeyromanenko.com/games/?tag=numbers)
   - [logic](https://sergeyromanenko.com/games/?tag=logic)
-2. **[Lights Out](https://sergeyromanenko.com/games/lights-out/)**
-  Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
-
-  - [games](https://sergeyromanenko.com/games/?tag=games)
-  - [travel](https://sergeyromanenko.com/games/?tag=travel)
-  - [entertainment](https://sergeyromanenko.com/games/?tag=entertainment)
-  - [puzzle](https://sergeyromanenko.com/games/?tag=puzzle)
-  - [logic](https://sergeyromanenko.com/games/?tag=logic)
-3. **[Memory Game](https://sergeyromanenko.com/games/memory-game/)**
-  Test your memory with this classic card matching game. Multiple difficulties, themes, and game modes. Play offline on flights, trains, and during travel.
-
-  - [games](https://sergeyromanenko.com/games/?tag=games)
-  - [travel](https://sergeyromanenko.com/games/?tag=travel)
-  - [entertainment](https://sergeyromanenko.com/games/?tag=entertainment)
-  - [memory](https://sergeyromanenko.com/games/?tag=memory)
 
 - [games](https://sergeyromanenko.com/games/?tag=games)
 - [strategy](https://sergeyromanenko.com/games/?tag=strategy)

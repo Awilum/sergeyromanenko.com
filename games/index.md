@@ -1,7 +1,7 @@
 ---
 title: "Games for Your Journey."
 seo_title: "GAMES — Sergey Romanenko"
-description: "Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. 8 games, all running in the browser, all in one place."
+description: "Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. 10 games, all running in the browser, all in one place."
 canonical_url: "https://sergeyromanenko.com/games/"
 markdown_url: "https://sergeyromanenko.com/games/index.md"
 section: "Games"
@@ -13,19 +13,25 @@ robots: "index, follow"
 
 # Games for Your Journey.
 
-8 games · 10 tags · No account, no tracking
+10 games · 14 tags · No account, no tracking
 
 Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. Load them before you go and they stay ready whenever the journey has a pause.
 
 ## All games
 
-8 games
+10 games
 
 - **[2048](https://sergeyromanenko.com/games/2048/)**
   Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
   games
   puzzle
   numbers
+  +1 more
+- **[Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/)**
+  The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
+  games
+  strategy
+  classic
   +1 more
 - **[Lights Out](https://sergeyromanenko.com/games/lights-out/)**
   Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
@@ -39,6 +45,12 @@ Lightweight browser games built for travel — play offline on flights, trains, 
   travel
   entertainment
   +1 more
+- **[Nim](https://sergeyromanenko.com/games/nim/)**
+  The classic mathematical strategy game. Take turns removing objects from heaps, master the XOR nim-sum, and challenge the Optimal computer opponent or a friend on your own device.
+  games
+  strategy
+  math
+  +2 more
 - **[Rock Paper Scissors](https://sergeyromanenko.com/games/rock-paper-scissors/)**
   Play Rock Paper Scissors against the computer. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
   games

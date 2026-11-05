@@ -220,14 +220,18 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Games
 
-- [Games for Your Journey.](https://sergeyromanenko.com/games/): Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. 8 games, all running in the browser, all in one place.
+- [Games for Your Journey.](https://sergeyromanenko.com/games/): Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. 10 games, all running in the browser, all in one place.
   - [Markdown](https://sergeyromanenko.com/games/index.md)
 - [2048](https://sergeyromanenko.com/games/2048/): Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
   - [Markdown](https://sergeyromanenko.com/games/2048/index.md)
+- [Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/): The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
+  - [Markdown](https://sergeyromanenko.com/games/dots-and-boxes/index.md)
 - [Lights Out](https://sergeyromanenko.com/games/lights-out/): Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
   - [Markdown](https://sergeyromanenko.com/games/lights-out/index.md)
 - [Memory Game](https://sergeyromanenko.com/games/memory-game/): Test your memory with this classic card matching game. Multiple difficulties, themes, and game modes. Play offline on flights, trains, and during travel.
   - [Markdown](https://sergeyromanenko.com/games/memory-game/index.md)
+- [Nim](https://sergeyromanenko.com/games/nim/): The classic mathematical strategy game. Take turns removing objects from heaps, master the XOR nim-sum, and challenge the Optimal computer opponent or a friend on your own device.
+  - [Markdown](https://sergeyromanenko.com/games/nim/index.md)
 - [Rock Paper Scissors](https://sergeyromanenko.com/games/rock-paper-scissors/): Play Rock Paper Scissors against the computer. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
   - [Markdown](https://sergeyromanenko.com/games/rock-paper-scissors/index.md)
 - [Simon](https://sergeyromanenko.com/games/simon/): Watch the colored pads light up in a growing sequence, then repeat it exactly. Each round adds one more step. One wrong tap ends the game. Sounds, mute, and local best scores.
@@ -250,7 +254,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/copyright-and-licensing/index.md)
 - [Privacy & Security Policy](https://sergeyromanenko.com/privacy-policy/): Privacy and Security Policy for sergeyromanenko.com — how this website handles visitor data, browser-based tools and games, external services, and your rights.
   - [Markdown](https://sergeyromanenko.com/privacy-policy/index.md)
-- [Sitemap: all sections and pages](https://sergeyromanenko.com/sitemap/): Full site structure — all sections and pages of Sergey Romanenko.
+- [Sitemap: all sections and pages](https://sergeyromanenko.com/sitemap/): Every section and page of sergeyromanenko.com — photography, courses, publications, tools and games — as one linked tree.
   - [Markdown](https://sergeyromanenko.com/sitemap/index.md)
 - [Support Independent Development](https://sergeyromanenko.com/support/): Voluntary support options for independent development of free browser-based tools, educational resources, and digital projects.
   - [Markdown](https://sergeyromanenko.com/support/index.md)
