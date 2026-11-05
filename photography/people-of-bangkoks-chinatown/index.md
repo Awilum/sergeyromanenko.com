@@ -80,8 +80,6 @@ Rights
 
 Rights & Licensing →
 
-Licensing and print enquiries:[hello@sergeyromanenko.com](mailto:hello@sergeyromanenko.com)
-
 Another project
 
 ## People of Hoi An

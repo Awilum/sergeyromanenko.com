@@ -107,8 +107,6 @@ Rights
 
 Rights & Licensing →
 
-Licensing and print enquiries:[hello@sergeyromanenko.com](mailto:hello@sergeyromanenko.com)
-
 Another project
 
 ## From Da Nang to South and Back
