@@ -56,7 +56,7 @@ Stars
 
 Releases
 
-1,366
+1,376
 
 Release downloads
 

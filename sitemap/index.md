@@ -15,11 +15,11 @@ robots: "index, follow"
 
 The complete structure of the site, shown as a tree of folders and pages. Every entry is a direct link, and the tree is generated from the same content the XML sitemap lists.
 
-110 internal pages
+99 internal pages
 
 31 external links
 
-Total: 141
+Total: 130
 
 How to use
 
@@ -58,6 +58,8 @@ For crawlers there is also the[XML sitemap](https://sergeyromanenko.com/sitemap-
     - [Data Engineer](https://sergeyromanenko.com/courses/data-engineer/)
   - [Games](https://sergeyromanenko.com/games/) — Browser games built for travel
     - [2048](https://sergeyromanenko.com/games/2048/) — Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
+    - [Battleships](https://sergeyromanenko.com/games/battleships/) — The classic fleet-hunting game, no-touch edition. Place five ships with a cell of water between each, trade shots with a probability-hunting computer opponent, and sink all seventeen enemy cells.
+    - [Catch the Cat](https://sergeyromanenko.com/games/catch-the-cat/) — The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
     - [Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/) — The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
     - [Lights Out](https://sergeyromanenko.com/games/lights-out/) — Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
     - [Memory Game](https://sergeyromanenko.com/games/memory-game/) — Test your memory with this classic card matching game. Multiple difficulties, themes, and game modes. Play offline on flights, trains, and during travel.
@@ -84,29 +86,16 @@ For crawlers there is also the[XML sitemap](https://sergeyromanenko.com/sitemap-
     - [Markdown Editor](https://sergeyromanenko.com/tools/markdown-editor/) — Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
     - [Pseudocode Editor](https://sergeyromanenko.com/tools/pseudocode-editor/) — Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
     - [SQL Editor](https://sergeyromanenko.com/tools/sql-editor/) — Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
-    - [Caesar Cipher](https://sergeyromanenko.com/tools/caesar-cipher/) — Shift letters by a configurable number of positions — perfect for encoding travel notes and exploring hidden messages on your journey.
     - [Currency Converter](https://sergeyromanenko.com/tools/currency-converter/) — Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
     - [GPS Coordinate Converter](https://sergeyromanenko.com/tools/gps-coordinate-converter/) — Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
     - [Percentage Calculator](https://sergeyromanenko.com/tools/percentage-calculator/) — Calculate a percentage of a number, what percentage one number is of another, percentage change, adding or subtracting a percentage, and percentage difference.
-    - [ROT13](https://sergeyromanenko.com/tools/rot13/) — Shift every letter by exactly 13 positions — a quick and dirty way to obscure travel itineraries and journal entries while keeping them readable.
     - [Speed, Distance, and Time Calculator](https://sergeyromanenko.com/tools/speed-distance-time-calculator/) — Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
     - [The World Clock](https://sergeyromanenko.com/tools/world-clock/) — A live clock for every city that matters to you — the current time, date, and daylight for your city and anywhere your people are, all at once.
     - [Time Difference Calculator](https://sergeyromanenko.com/tools/time-difference-calculator/) — Compare local times, daylight, and time differences across the cities that matter wherever you travel.
     - [Unit Converter](https://sergeyromanenko.com/tools/unit-converter/) — Convert length, weight, temperature, volume, area, speed, fuel economy and data transfer rates between metric, US and Imperial units.
-    - [Affine Cipher](https://sergeyromanenko.com/tools/affine-cipher/) — An affine cipher uses a mathematical formula E(x) = (ax + b) mod 26 — perfect for calculating travel distances and converting coordinates.
-    - [Beaufort Cipher](https://sergeyromanenko.com/tools/beaufort-cipher/) — Encrypt and decrypt text using the Beaufort cipher - a self-inverse substitution cipher.
-    - [Bifid Cipher](https://sergeyromanenko.com/tools/bifid-cipher/) — Encrypt and decrypt text using the Bifid cipher with a Polybius square and fractionation.
-    - [Columnar Transposition Cipher](https://sergeyromanenko.com/tools/columnar-transposition/) — Arrange text in a grid based on a keyword, then read columns in keyword order — perfect for creating structured travel itineraries and destination orders.
+    - [Cipher Toolkit](https://sergeyromanenko.com/tools/cipher-toolkit/) — Fourteen classical ciphers in one place. Choose a cipher, set its key, and encrypt or decrypt text with the algorithm running entirely in your browser.
     - [Encryption](https://sergeyromanenko.com/tools/encryption/) — Encrypt and decrypt text in your browser with AES-256-GCM or the OpenSSL-compatible AES-256-CBC format.
     - [Hash Text](https://sergeyromanenko.com/tools/hash-text/) — Hash text with MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA3-512 or RIPEMD-160, entirely in your browser.
-    - [Hill Cipher](https://sergeyromanenko.com/tools/hill-cipher/) — Encrypt and decrypt text using the Hill cipher with matrix multiplication modulo 26.
-    - [Monoalphabetic Substitution](https://sergeyromanenko.com/tools/monoalphabetic-substitution/) — Create your own substitution alphabet — perfect for encoding travel memories and personal journey symbols with a custom 26-letter mapping.
-    - [Playfair Cipher](https://sergeyromanenko.com/tools/playfair-cipher/) — Encode digraphs using a 5×5 matrix built from a keyword — perfect for secure travel coordination and journey planning.
-    - [Rail Fence Cipher](https://sergeyromanenko.com/tools/rail-fence-cipher/) — Write text in a zigzag across multiple rails and read line by line — perfect for creating hidden travel routes and journey patterns.
-    - [Scytale Cipher](https://sergeyromanenko.com/tools/scytale-cipher/) — Wrap text around a cylinder to create a spiral transposition — perfect for encoding ancient travel routes and historical journeys.
-    - [Vigenère Cipher](https://sergeyromanenko.com/tools/vigenere-cipher/) — A polyalphabetic cipher using a keyword to select different Caesar shifts for each letter — ideal for securing complex travel itineraries and multi-leg journeys.
-    - [Atbash Cipher](https://sergeyromanenko.com/tools/atbash-cipher/) — Reverse the alphabet — A becomes Z, B becomes Y, and so on. Perfect for creating mirror travel memories and palindromic messages about journeys.
-    - [Bacon's Cipher](https://sergeyromanenko.com/tools/bacons-cipher/) — Encode letters as five-symbol sequences of A and B — perfect for secret travel notes and covert journey communications.
     - [Binary Converter](https://sergeyromanenko.com/tools/binary-converter/) — Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
     - [Case Converter](https://sergeyromanenko.com/tools/case-converter/) — Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
     - [Emoji Picker](https://sergeyromanenko.com/tools/emoji-picker/) — Search and copy emoji from a set bundled with the page — no API call, no tracking, and the picker keeps working offline once the page has loaded.
@@ -132,7 +121,7 @@ For crawlers there is also the[XML sitemap](https://sergeyromanenko.com/sitemap-
     - [XML to JSON Converter](https://sergeyromanenko.com/tools/xml-to-json/) — Convert XML documents to JSON in your browser, with a documented mapping for attributes, repeated elements and mixed content.
     - [YAML Formatter](https://sergeyromanenko.com/tools/yaml-formatter/) — Validate and format YAML in your browser, with parser errors reported as a line and a column you can find.
     - [YouTube on Repeat](https://sergeyromanenko.com/tools/youtube-on-repeat/) — Paste a YouTube URL and loop the whole video or a precise A–B section, with playback-speed control and keyboard shortcuts. Runs entirely in your browser.
-  - [Support](https://sergeyromanenko.com/support/) — Support and contact
+  - [Support](https://sergeyromanenko.com/support/) — Voluntary support for independent development
   - [Sitemap](https://sergeyromanenko.com/sitemap/) — This page: the full site structure
   - [Copyright and Licensing](https://sergeyromanenko.com/copyright-and-licensing/) — Rights, licenses and attribution
   - [Privacy Policy](https://sergeyromanenko.com/privacy-policy/) — Data privacy

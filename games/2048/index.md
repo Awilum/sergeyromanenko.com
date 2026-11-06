@@ -116,13 +116,12 @@ The game runs entirely in your browser. After the first visit it works without a
   - [entertainment](https://sergeyromanenko.com/games/?tag=entertainment)
   - [puzzle](https://sergeyromanenko.com/games/?tag=puzzle)
   - [logic](https://sergeyromanenko.com/games/?tag=logic)
-3. **[Simon](https://sergeyromanenko.com/games/simon/)**
-  Watch the colored pads light up in a growing sequence, then repeat it exactly. Each round adds one more step. One wrong tap ends the game. Sounds, mute, and local best scores.
+3. **[Catch the Cat](https://sergeyromanenko.com/games/catch-the-cat/)**
+  The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
 
   - [games](https://sergeyromanenko.com/games/?tag=games)
-  - [travel](https://sergeyromanenko.com/games/?tag=travel)
-  - [entertainment](https://sergeyromanenko.com/games/?tag=entertainment)
-  - [memory](https://sergeyromanenko.com/games/?tag=memory)
+  - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
+  - [classic](https://sergeyromanenko.com/games/?tag=classic)
   - [puzzle](https://sergeyromanenko.com/games/?tag=puzzle)
 
 - [games](https://sergeyromanenko.com/games/?tag=games)

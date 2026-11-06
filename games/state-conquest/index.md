@@ -104,28 +104,27 @@ State Conquest is built entirely with native browser technologies (Vue 3, SVG, a
 
 ## Related — both of these are about games
 
-1. **[Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/)**
+1. **[Battleships](https://sergeyromanenko.com/games/battleships/)**
+  The classic fleet-hunting game, no-touch edition. Place five ships with a cell of water between each, trade shots with a probability-hunting computer opponent, and sink all seventeen enemy cells.
+
+  - [games](https://sergeyromanenko.com/games/?tag=games)
+  - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
+  - [classic](https://sergeyromanenko.com/games/?tag=classic)
+  - [pencil-and-paper](https://sergeyromanenko.com/games/?tag=pencil-and-paper)
+2. **[Catch the Cat](https://sergeyromanenko.com/games/catch-the-cat/)**
+  The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
+
+  - [games](https://sergeyromanenko.com/games/?tag=games)
+  - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
+  - [classic](https://sergeyromanenko.com/games/?tag=classic)
+  - [puzzle](https://sergeyromanenko.com/games/?tag=puzzle)
+3. **[Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/)**
   The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
 
   - [games](https://sergeyromanenko.com/games/?tag=games)
   - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
   - [classic](https://sergeyromanenko.com/games/?tag=classic)
   - [pencil-and-paper](https://sergeyromanenko.com/games/?tag=pencil-and-paper)
-2. **[Nim](https://sergeyromanenko.com/games/nim/)**
-  The classic mathematical strategy game. Take turns removing objects from heaps, master the XOR nim-sum, and challenge the Optimal computer opponent or a friend on your own device.
-
-  - [games](https://sergeyromanenko.com/games/?tag=games)
-  - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
-  - [math](https://sergeyromanenko.com/games/?tag=math)
-  - [classic](https://sergeyromanenko.com/games/?tag=classic)
-  - [two-player](https://sergeyromanenko.com/games/?tag=two-player)
-3. **[2048](https://sergeyromanenko.com/games/2048/)**
-  Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
-
-  - [games](https://sergeyromanenko.com/games/?tag=games)
-  - [puzzle](https://sergeyromanenko.com/games/?tag=puzzle)
-  - [numbers](https://sergeyromanenko.com/games/?tag=numbers)
-  - [logic](https://sergeyromanenko.com/games/?tag=logic)
 
 - [games](https://sergeyromanenko.com/games/?tag=games)
 - [strategy](https://sergeyromanenko.com/games/?tag=strategy)

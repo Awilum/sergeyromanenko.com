@@ -80,29 +80,29 @@ Move history, undo (rewind to your last decision), restart, and preference persi
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related — both of these are about games
+## Related — both of these are about classic
 
-1. **[Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/)**
+1. **[Battleships](https://sergeyromanenko.com/games/battleships/)**
+  The classic fleet-hunting game, no-touch edition. Place five ships with a cell of water between each, trade shots with a probability-hunting computer opponent, and sink all seventeen enemy cells.
+
+  - [games](https://sergeyromanenko.com/games/?tag=games)
+  - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
+  - [classic](https://sergeyromanenko.com/games/?tag=classic)
+  - [pencil-and-paper](https://sergeyromanenko.com/games/?tag=pencil-and-paper)
+2. **[Catch the Cat](https://sergeyromanenko.com/games/catch-the-cat/)**
+  The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
+
+  - [games](https://sergeyromanenko.com/games/?tag=games)
+  - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
+  - [classic](https://sergeyromanenko.com/games/?tag=classic)
+  - [puzzle](https://sergeyromanenko.com/games/?tag=puzzle)
+3. **[Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/)**
   The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
 
   - [games](https://sergeyromanenko.com/games/?tag=games)
   - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
   - [classic](https://sergeyromanenko.com/games/?tag=classic)
   - [pencil-and-paper](https://sergeyromanenko.com/games/?tag=pencil-and-paper)
-2. **[State Conquest](https://sergeyromanenko.com/games/state-conquest/)**
-  A turn-based territory-conquest strategy game. Command garrisons, capture strongholds, and eliminate rival commanders across tactical theaters.
-
-  - [games](https://sergeyromanenko.com/games/?tag=games)
-  - [strategy](https://sergeyromanenko.com/games/?tag=strategy)
-  - [turn-based](https://sergeyromanenko.com/games/?tag=turn-based)
-  - [tactics](https://sergeyromanenko.com/games/?tag=tactics)
-3. **[2048](https://sergeyromanenko.com/games/2048/)**
-  Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
-
-  - [games](https://sergeyromanenko.com/games/?tag=games)
-  - [puzzle](https://sergeyromanenko.com/games/?tag=puzzle)
-  - [numbers](https://sergeyromanenko.com/games/?tag=numbers)
-  - [logic](https://sergeyromanenko.com/games/?tag=logic)
 
 - [games](https://sergeyromanenko.com/games/?tag=games)
 - [strategy](https://sergeyromanenko.com/games/?tag=strategy)

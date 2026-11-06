@@ -34,9 +34,9 @@ How I work
 
 ## Where to start
 
-- [TeachingCoursesPractical programming courses on Stepik, mostly trainers — long sequences of problems to solve rather than videos to watch.73,411 enrollments · 26 courses](https://sergeyromanenko.com/courses/)
+- [TeachingCoursesPractical programming courses on Stepik, mostly trainers — long sequences of problems to solve rather than videos to watch.73,458 enrollments · 26 courses](https://sergeyromanenko.com/courses/)
 - [ObservationPhotographyDocumentary work about people and the places they make their lives in. Shot slowly, on foot, mostly in black and white.15 photographs · 4 projects](https://sergeyromanenko.com/photography/)
 - [WritingPublicationsPractical books on SQL and Markdown, written to be kept and returned to. Clear explanations, useful examples.2 books · Educational writing](https://sergeyromanenko.com/publications/)
-- [MakingToolsSmall, practical tools built around specific needs — from time zones and world clocks to planning a shoot around the sun.55 tools · No network required](https://sergeyromanenko.com/tools/)
+- [MakingToolsSmall, practical tools built around specific needs — from time zones and world clocks to planning a shoot around the sun.42 tools · No network required](https://sergeyromanenko.com/tools/)
 - [PlayingGamesLightweight browser games for travel — play against an optimal AI or challenge a friend on the same device.Offline games for the journey](https://sergeyromanenko.com/games/)
 - [To understandThe personHow the disciplines connect, and where the work stands now.The thread connecting the work](https://sergeyromanenko.com/about/)

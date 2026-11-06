@@ -16,7 +16,7 @@ robots: "index, follow"
 
 Terms governing the use of sergeyromanenko.com, with permitted use, free tools, course information, voluntary support, external links, and limitations.
 
-Last updated: October 20, 2026
+Last updated: November 6, 2026
 
 ## 1. Website Purpose
 
@@ -30,7 +30,7 @@ Last updated: October 20, 2026
 - **About** — biographical and professional background
 - **Support** — a page for voluntary contributions via external payment providers
 
-The website does not sell products directly, process payments, provide user accounts, or handle course enrollment.
+This website itself does not provide checkout, process payments, provide user accounts, or handle course enrollment. Some courses and other paid products are available through external platforms, where enrollment, purchases, and delivery take place under those platforms' respective terms.
 
 ## 2. Permitted Use
 
@@ -42,6 +42,8 @@ You may use this website for lawful, personal, and non-commercial purposes, incl
 - Contacting the operator via the provided email address
 - Making voluntary contributions via the Support page
 
+Permission to use the website's functionality, including the browser-based tools and games, is limited to their intended purposes. It is not a licence to copy, redistribute, modify, or commercially exploit the underlying implementation, source code, or other protected materials. Copyright and licensing conditions are described in Section 4 and on the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page.
+
 You must not:
 
 - Attempt unauthorized access to any part of the website, its hosting infrastructure, or related systems
@@ -52,7 +54,7 @@ You must not:
 
 ## 3. Free Tools and Games
 
-The tools in the [Tools](https://sergeyromanenko.com/tools/) section and the games in the [Games](https://sergeyromanenko.com/games/) section are provided free of charge. They are made available on an **“as is” and “as available” basis**, to the fullest extent permitted by applicable law.
+The tools in the [Tools](https://sergeyromanenko.com/tools/) section and the games in the [Games](https://sergeyromanenko.com/games/) section are provided free of charge for their intended functionality. Free-of-charge availability concerns access to that functionality only; it does not grant additional copyright or redistribution permissions, which remain subject to Section 4 and the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page. The tools and games are made available on an **“as is” and “as available” basis**, to the fullest extent permitted by applicable law.
 
 No warranty of any kind is provided, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, reliability, or non-infringement. The operator does not warrant that the tools or games will be uninterrupted, error-free, secure, or suitable for your specific needs.
 
@@ -68,9 +70,9 @@ All original content on this website — including photographs, texts, publicati
 
 - All rights in original content are reserved by Sergey Romanenko unless expressly stated otherwise.
 - Publication on this website does not place content in the public domain.
-- Third-party open-source libraries and dependencies are used under their respective licenses (primarily MIT, BSD, Apache-2.0). See the [Browser-Based Tools](https://sergeyromanenko.com/privacy-policy/#tools) section of the Privacy & Security Policy for details.
+- Third-party open-source libraries and dependencies are used under their respective licenses (primarily MIT, BSD, Apache-2.0). See the [Browser-Based Tools and Games](https://sergeyromanenko.com/privacy-policy/#tools-games) section of the Privacy & Security Policy for details.
 - Use of copyrighted materials beyond what is expressly permitted requires prior written permission.
-- The website source code is open source under the MIT License.
+- The website's source code is publicly available on GitHub for inspection and independent verification. Public availability of source code does not by itself grant a licence to reuse, modify, or redistribute it; such use requires prior written permission unless expressly granted by an applicable licence.
 
 For licensing requests, permission inquiries, or copyright questions, contact [awilum.dev@gmail.com](mailto:awilum.dev@gmail.com).
 
@@ -86,9 +88,9 @@ Course information on this site (descriptions, curricula, statistics) is provide
 
 The [Support](https://sergeyromanenko.com/support/) page offers visitors the option to make voluntary financial contributions to support the operator's independent development work.
 
-**Support is entirely voluntary.** It is not a purchase, subscription, or payment for goods or services. You can continue using all free tools, publications, and resources without making a contribution.
+**Support is entirely voluntary.** It is not a purchase, subscription, or payment for goods or services. Visitors can continue accessing content expressly offered free of charge and using the browser-based tools and games provided free of charge for their intended functionality without making a contribution. Such access remains subject to these Terms and the copyright and licensing conditions described on the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page.
 
-Contributions are processed by external payment providers (Ko-fi, PayPal, YouMoney, PayNow). The operator does not receive or process payment data. Each provider's terms, fees, and privacy policies apply. Refunds, disputes, and receipts are handled by the respective provider.
+Contributions are processed by external payment providers (Ko-fi, PayPal, YouMoney, PayNow) and may be one-time or recurring where a provider supports it; any recurring arrangement is set up and managed with that provider. The operator does not receive or process payment data. Each provider's terms, fees, and privacy policies apply. Refunds, disputes, and receipts are handled by the respective provider.
 
 Some courses, guides, and other digital products are sold separately on their respective platforms and are not included in this voluntary support model.
 

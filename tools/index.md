@@ -1,7 +1,7 @@
 ---
 title: "Tools I Built Along the Way."
 seo_title: "TOOLS — Sergey Romanenko"
-description: "Practical tools built during the journey — things I needed, could not find, built, and shared. They run in your browser, they are free, and none of them asks for an account. 55 tools, all running in the browser, all in one place."
+description: "Practical tools built during the journey — things I needed, could not find, built, and shared. They run in your browser, they are free, and none of them asks for an account. 42 tools, all running in the browser, all in one place."
 canonical_url: "https://sergeyromanenko.com/tools/"
 markdown_url: "https://sergeyromanenko.com/tools/index.md"
 section: "Tools"
@@ -13,13 +13,13 @@ robots: "index, follow"
 
 # Tools I Built Along the Way.
 
-55 tools · 161 tags · No account, no tracking
+42 tools · 102 tags · No account, no tracking
 
 A collection of browser-based tools shaped by years of studying, working, and building projects. I created them to solve everyday problems I encountered along the way, and made them available for everyone to use — free, with no account required.
 
 ## All tools
 
-55 tools
+42 tools
 
 - **[Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/)**
   Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
@@ -63,12 +63,6 @@ A collection of browser-based tools shaped by years of studying, working, and bu
   databases
   editing
   +2 more
-- **[Caesar Cipher](https://sergeyromanenko.com/tools/caesar-cipher/)**
-  Shift letters by a configurable number of positions — perfect for encoding travel notes and exploring hidden messages on your journey.
-  caesar
-  substitution
-  travel
-  +3 more
 - **[Currency Converter](https://sergeyromanenko.com/tools/currency-converter/)**
   Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
   travel
@@ -84,12 +78,6 @@ A collection of browser-based tools shaped by years of studying, working, and bu
   math
   finance
   travel
-- **[ROT13](https://sergeyromanenko.com/tools/rot13/)**
-  Shift every letter by exactly 13 positions — a quick and dirty way to obscure travel itineraries and journal entries while keeping them readable.
-  rot13
-  caesar
-  substitution
-  +3 more
 - **[Speed, Distance, and Time Calculator](https://sergeyromanenko.com/tools/speed-distance-time-calculator/)**
   Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
   travel
@@ -112,30 +100,12 @@ A collection of browser-based tools shaped by years of studying, working, and bu
   travel
   measurement
   conversion
-- **[Affine Cipher](https://sergeyromanenko.com/tools/affine-cipher/)**
-  An affine cipher uses a mathematical formula E(x) = (ax + b) mod 26 — perfect for calculating travel distances and converting coordinates.
-  affine
-  linear substitution
-  mathematical
-  +4 more
-- **[Beaufort Cipher](https://sergeyromanenko.com/tools/beaufort-cipher/)**
-  Encrypt and decrypt text using the Beaufort cipher - a self-inverse substitution cipher.
-  cryptography
-  ciphers
+- **[Cipher Toolkit](https://sergeyromanenko.com/tools/cipher-toolkit/)**
+  Fourteen classical ciphers in one place. Choose a cipher, set its key, and encrypt or decrypt text with the algorithm running entirely in your browser.
+  cipher
   classical
-  +1 more
-- **[Bifid Cipher](https://sergeyromanenko.com/tools/bifid-cipher/)**
-  Encrypt and decrypt text using the Bifid cipher with a Polybius square and fractionation.
   cryptography
-  ciphers
-  classical
-  +1 more
-- **[Columnar Transposition Cipher](https://sergeyromanenko.com/tools/columnar-transposition/)**
-  Arrange text in a grid based on a keyword, then read columns in keyword order — perfect for creating structured travel itineraries and destination orders.
-  columnar-transposition
-  keyword
-  grid
-  +4 more
+  +2 more
 - **[Encryption](https://sergeyromanenko.com/tools/encryption/)**
   Encrypt and decrypt text in your browser with AES-256-GCM or the OpenSSL-compatible AES-256-CBC format.
   encryption
@@ -146,50 +116,6 @@ A collection of browser-based tools shaped by years of studying, working, and bu
   hashing
   security
   checksums
-- **[Hill Cipher](https://sergeyromanenko.com/tools/hill-cipher/)**
-  Encrypt and decrypt text using the Hill cipher with matrix multiplication modulo 26.
-  cryptography
-  ciphers
-  classical
-  +1 more
-- **[Monoalphabetic Substitution](https://sergeyromanenko.com/tools/monoalphabetic-substitution/)**
-  Create your own substitution alphabet — perfect for encoding travel memories and personal journey symbols with a custom 26-letter mapping.
-  substitution
-  custom-alphabet
-  travel mapping
-  +4 more
-- **[Playfair Cipher](https://sergeyromanenko.com/tools/playfair-cipher/)**
-  Encode digraphs using a 5×5 matrix built from a keyword — perfect for secure travel coordination and journey planning.
-  playfair
-  digraph
-  5x5 matrix
-  +4 more
-- **[Rail Fence Cipher](https://sergeyromanenko.com/tools/rail-fence-cipher/)**
-  Write text in a zigzag across multiple rails and read line by line — perfect for creating hidden travel routes and journey patterns.
-  rail-fence
-  zigzag
-  transposition
-  +4 more
-- **[Scytale Cipher](https://sergeyromanenko.com/tools/scytale-cipher/)**
-  Wrap text around a cylinder to create a spiral transposition — perfect for encoding ancient travel routes and historical journeys.
-  scytale
-  spiral
-  transposition
-  +4 more
-- **[Vigenère Cipher](https://sergeyromanenko.com/tools/vigenere-cipher/)**
-  A polyalphabetic cipher using a keyword to select different Caesar shifts for each letter — ideal for securing complex travel itineraries and multi-leg journeys.
-  vigenere
-  polyalphabetic
-  keyword
-  +4 more
-- **[Atbash Cipher](https://sergeyromanenko.com/tools/atbash-cipher/)**
-  Reverse the alphabet — A becomes Z, B becomes Y, and so on. Perfect for creating mirror travel memories and palindromic messages about journeys.
-- **[Bacon's Cipher](https://sergeyromanenko.com/tools/bacons-cipher/)**
-  Encode letters as five-symbol sequences of A and B — perfect for secret travel notes and covert journey communications.
-  bacon
-  binary
-  five-symbol
-  +4 more
 - **[Binary Converter](https://sergeyromanenko.com/tools/binary-converter/)**
   Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
   binary
@@ -333,7 +259,7 @@ Privacy & Security
 
 ### Your Data Stays on Your Device
 
-Every one of the 55 tools runs in your browser. No installs, no accounts, no tracking. Two make documented external requests.
+Every one of the 42 tools runs in your browser. No installs, no accounts, no tracking. Two make documented external requests.
 
 [Read details](https://sergeyromanenko.com/privacy-policy/)
 

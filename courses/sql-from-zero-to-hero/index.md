@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A large SQL program — from the first queries to advanced language features and practical problem solving. The courses cover the language step by step, reinforce each topic with practice, and build a confident habit of working with data.
 
-Paid — 226 lessons — 79 enrollments — 288 reviews
+Paid — 226 lessons — 79 enrollments — 291 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/279994/)
 
@@ -89,7 +89,7 @@ No prior SQL is required to start the path. The advanced courses assume confiden
 - **What language is “SQL from Zero to Hero” taught in?:** “SQL from Zero to Hero” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL from Zero to Hero”?:** “SQL from Zero to Hero” contains 226 lessons in 7 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “SQL from Zero to Hero”?:** “SQL from Zero to Hero” was created by Sergey Romanenko. It is published on Stepik.
-- **How many learners have reviewed “SQL from Zero to Hero”?:** “SQL from Zero to Hero” has 288 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **How many learners have reviewed “SQL from Zero to Hero”?:** “SQL from Zero to Hero” has 291 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL from Zero to Hero”?:** Enrollment and payment for “SQL from Zero to Hero” happen on Stepik: open https://stepik.org/a/279994/ and start there.
 
 Course facts
@@ -101,7 +101,7 @@ Course facts
 - **Lessons:** 226
 - **Courses in program:** 7
 - **Enrollments:** 79
-- **Reviews:** 288
+- **Reviews:** 291
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
@@ -110,7 +110,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL from Zero to Hero is a beginner SQL career program, published on Stepik by Sergey Romanenko, taught in Russian, 226 lessons, 79 enrollments, rated 4.9 out of 5 across 288 reviews and a paid course.
+SQL from Zero to Hero is a beginner SQL career program, published on Stepik by Sergey Romanenko, taught in Russian, 226 lessons, 79 enrollments, rated 4.9 out of 5 across 291 reviews and a paid course.
 
 ## More in SQL
 

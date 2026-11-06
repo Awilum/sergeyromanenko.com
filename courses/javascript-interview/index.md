@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A free assessment course that tests your JavaScript knowledge and prepares you for JavaScript developer interviews. Every question comes with answer options, hints and full explanations, so you learn from the ones you get wrong.
 
-Free — 30 lessons — 9,676 enrollments — 141 reviews
+Free — 30 lessons — 9,680 enrollments — 141 reviews
 
 [Start free on Stepik ↗](https://stepik.org/a/189305/)
 
@@ -37,7 +37,7 @@ Free
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 30
-- **Enrollments:** 9,676
+- **Enrollments:** 9,680
 
 ## About this course
 
@@ -95,7 +95,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 30
 - **Modules:** 5
-- **Enrollments:** 9,676
+- **Enrollments:** 9,680
 - **Reviews:** 141
 - **Certificates issued:** 900
 - **Author:** Sergey Romanenko
@@ -105,7 +105,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-JavaScript Interview is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 30 lessons, 9,676 enrollments, rated 4.9 out of 5 across 141 reviews and free to enroll.
+JavaScript Interview is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 30 lessons, 9,680 enrollments, rated 4.9 out of 5 across 141 reviews and free to enroll.
 
 ## More in JavaScript
 

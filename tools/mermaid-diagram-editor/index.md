@@ -27,20 +27,24 @@ Write Mermaid source, watch it render as a live diagram, and download it as a PN
 
 1. **Live preview as you type**
   The diagram re-renders a moment after you stop typing, so the source and the picture stay in step without a reload or a render button.
-2. **Six diagram types to start from**
+2. **Three visual themes**
+  Sand, Monochrome and Synthwave presets, each a complete Mermaid palette, with a background choice — white, dark, sand or transparent — that stays independent of the theme.
+3. **Drop shadow toggle**
+  Turn the diagram shadow off for a completely flat rendering or on for the theme’s own tuned shadow, in the preview and in the downloaded file alike.
+4. **Six diagram types to start from**
   Flowchart, sequence, class, entity relationship, Gantt and state examples, each valid for the Mermaid version this page ships.
-3. **PNG export**
-  A PNG rasterised from the vector geometry at 1×, 2× or 3×, never a screenshot of the page.
-4. **Zoom and fit without touching the export**
+5. **PNG export**
+  A PNG rasterised from the vector geometry at 1×, 2× or 3×, never a screenshot of the page, carrying the same theme and background as the preview.
+6. **Zoom and fit without touching the export**
   Zoom the preview to inspect a large diagram; the downloaded file keeps the dimensions you asked for.
-5. **Runs entirely in your browser**
+7. **Runs entirely in your browser**
   Mermaid is bundled with the page and the export is rasterised locally, so there is no request to make and nothing to upload.
 
 ## How it works
 
 Mermaid Diagram Editor
 
-Two panes: Mermaid source on the left, the diagram it produces on the right. Seven examples to start from, and a PNG download at 1×, 2× or 3×.
+Two panes: Mermaid source on the left, the diagram it produces on the right. Six examples to start from, three visual themes with an independent background choice and a drop-shadow toggle, and a PNG download at 1×, 2× or 3×.
 
 Everything runs in your browser. Your source is never sent anywhere, and nothing is stored.
 
@@ -48,12 +52,21 @@ Everything runs in your browser. Your source is never sent anywhere, and nothing
 
 A converter takes a finished diagram and gives you a file. This is an editor, because most of the work of a diagram is the small loop between writing a line and looking at what it drew. The preview updates as you type, so the loop is a keystroke rather than a reload.
 
+## Themes and backgrounds
+
+Three presets draw the diagram: **Sand**, warm creams and browns; **Monochrome**, black on white; and **Synthwave**, a dark retro palette in neon pink, cyan and violet. The background is a separate choice: the theme’s own ground, white, a dark canvas, sand, or transparent, and any background works with any theme.
+
+They are independent because they answer different questions. The theme decides what the shapes and lines look like; the background decides what they sit on. When a theme is drawn on the other kind of ground — Synthwave on white, Sand on a dark canvas — the parts that touch the background directly, like edge labels and signal text, switch to the ink that stays readable there. The shapes keep their own colours, because a shape’s contrast is with its own fill.
+
+The drop shadow is its own switch. Off, the diagram is completely flat; on, each theme draws the shadow its palette asks for, and the downloaded PNG carries exactly what the preview showed.
+
 ## What a diagram is worth as an image
 
-The PNG export rasterises the diagram’s own vector geometry at a fixed scale, not a screenshot of the page. Two consequences follow:
+The PNG export rasterises the diagram’s own vector geometry at a fixed scale, not a screenshot of the page. Three consequences follow:
 
 - **The file is the diagram.** No browser chrome, no pane padding, no scrollbars, and not whatever the preview happened to be zoomed to at the time.
 - **The scale is yours.** At 2× the text and lines are drawn twice as large as the diagram itself, which is what a presentation or a Retina display needs.
+- **The file matches the pane.** The export carries the same theme, the same background and the same typeface as the preview, including transparency, because both are drawn by one rendering pipeline.
 
 PNG is the only image format offered. The diagram’s vector geometry is still the source of the file, so it is the diagram that is scaled and not a copy of a copy, but the download itself is a raster image at the resolution you pick.
 

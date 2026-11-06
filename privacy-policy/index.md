@@ -16,14 +16,14 @@ robots: "index, follow"
 
 How sergeyromanenko.com handles visitor data, browser-based tools, external services, and your rights.
 
-Last updated: October 26, 2026
+Last updated: November 6, 2026
 
 ## 1. Scope
 
 This Privacy and Security Policy applies to **sergeyromanenko.com** and its subpages, including:
 
 - **Photography** — documentary and street photography projects
-- **Tools** — free browser-based utilities (78 tools as of this writing)
+- **Tools** — free browser-based utilities (42 tools as of this writing)
 - **Games** — free browser-based games (6 games as of this writing)
 - **Publications** — books, photo zines, travel journals, and essays
 - **Courses** — informational pages describing courses hosted on Stepik
@@ -129,13 +129,13 @@ A GDPR legal basis for personal-data processing (Article 6) is distinct from con
 
 ## 7. Browser-Based Tools and Games
 
-The [Tools](https://sergeyromanenko.com/tools/) section provides 78 free browser-based utilities, and the [Games](https://sergeyromanenko.com/games/) section provides 6 free browser-based games. Both collections share the same privacy and security architecture, described in detail below.
+The [Tools](https://sergeyromanenko.com/tools/) section provides 42 free browser-based utilities, and the [Games](https://sergeyromanenko.com/games/) section provides 6 free browser-based games. Both collections share the same privacy and security architecture, described in detail below.
 
-### 7.1 Local-first processing (74 of 78 tools; all 6 games)
+### 7.1 Local-first processing (40 of 42 tools; all 6 games)
 
-For 74 tools and all 6 games, all processing occurs in the visitor's browser using JavaScript and WebAssembly. No network requests are made after the initial page load. This includes:
+For 40 tools and all 6 games, all processing occurs in the visitor's browser using JavaScript and WebAssembly. No network requests are made after the initial page load. This includes:
 
-- All 14 classical ciphers (Caesar, ROT13, Atbash, Vigenère, Affine, Monoalphabetic Substitution, Rail Fence, Columnar Transposition, Scytale, Bacon, Playfair, Hill, Beaufort, Bifid)
+- The Cipher Toolkit, covering the fourteen classical ciphers (Caesar, ROT13, Affine, Atbash, Vigenère, Beaufort, Monoalphabetic Substitution, Playfair, Hill, Bifid, Rail Fence, Scytale, Columnar Transposition, Bacon)
 - Encryption & Hashing tools (AES Encryption, Hash Text, ULID Generator)
 - Text processing tools (Analyzer, Case Converter, Cleaner, Find & Replace, Formatter, List Processor, Splitter, Diff, Truncator, Lorem Ipsum, Emoji Picker, Binary Converter, Token Generator)
 - Data formatters (JSON Formatter, JSON↔YAML, XML→JSON, YAML Formatter, Front Matter Editor)
@@ -161,13 +161,13 @@ Tools that accept files (image tools, SQL Editor database import, QR Code Genera
 
 ### 7.4 Offline functionality
 
-Once the page and its required assets (JavaScript, WebAssembly modules, bundled data files) have loaded, 74 tools and all 6 games work completely without an internet connection. The two exceptions are Currency Converter and YouTube on Repeat, which require live network connections for their core functionality.
+Once the page and its required assets (JavaScript, WebAssembly modules, bundled data files) have loaded, 40 tools and all 6 games work completely without an internet connection. The two exceptions are Currency Converter and YouTube on Repeat, which require live network connections for their core functionality.
 
 "Offline" means the tool's or game's core function works without network access after the initial page load. It does *not* mean the page is a PWA, assets are guaranteed to be cached, or you can open the tool for the first time while offline. For guaranteed offline access, save the page (Ctrl+S / Cmd+S) or use a browser extension that archives pages.
 
 ### 7.5 Confidential files and limitations
 
-For the 74 fully-local tools: **yes, with the caveats below.** Your files, source code, passwords, private keys, and personal data never leave your browser. The processing happens in memory and the results are either displayed on screen or offered as a download you explicitly trigger.
+For the 40 fully-local tools: **yes, with the caveats below.** Your files, source code, passwords, private keys, and personal data never leave your browser. The processing happens in memory and the results are either displayed on screen or offered as a download you explicitly trigger.
 
 **Important limitations:**
 
@@ -245,9 +245,9 @@ Course information on this site (descriptions, curricula, statistics) is provide
 
 The [Support](https://sergeyromanenko.com/support/) page offers visitors the option to make voluntary financial contributions to support the operator's independent development work.
 
-**Support is entirely voluntary.** It is not a purchase, subscription, or payment for goods or services. You can continue using all free tools, publications, and resources without making a contribution.
+**Support is entirely voluntary.** It is not a purchase, subscription, or payment for goods or services. Visitors can continue accessing content expressly offered free of charge and using the browser-based tools and games provided free of charge for their intended functionality without making a contribution. Such access remains subject to the [Terms of Use](https://sergeyromanenko.com/terms-of-use/) and the copyright and licensing conditions described on the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page.
 
-Contributions are processed by external payment providers (Ko-fi, PayPal, YouMoney, PayNow). The operator does not receive or process payment data. Each provider's terms, fees, and privacy policies apply. Refunds, disputes, and receipts are handled by the respective provider.
+Contributions are processed by external payment providers (Ko-fi, PayPal, YouMoney, PayNow) and may be one-time or recurring where a provider supports it; any recurring arrangement is set up and managed with that provider. This website does not itself process payments. The operator does not receive or process payment data. Each provider's terms, fees, and privacy policies apply. Refunds, disputes, and receipts are handled by the respective provider.
 
 Some courses, guides, and other digital products are sold separately on their respective platforms and are not included in this voluntary support model.
 
@@ -263,7 +263,7 @@ The website is served over HTTPS via GitHub Pages' CDN. The static architecture 
 
 However, no absolute security guarantees are made. The tools are not suitable for regulated environments or highly sensitive data without your own assessment. Browser extensions, compromised devices, and network-level attacks can compromise data processed in the browser — this is true of any web application.
 
-The source code is publicly available on [GitHub](https://github.com/Awilum/sergeyromanenko.com) under the MIT License, allowing independent verification of the implementation.
+The source code is publicly available on [GitHub](https://github.com/Awilum/sergeyromanenko.src) for inspection and independent verification of the implementation. Public availability of source code does not by itself grant a licence to reuse, modify, or redistribute it.
 
 ## 14. International Transfers
 

@@ -50,16 +50,16 @@ All inputs are assumed to be WGS84 geographic coordinates. This tool converts be
 
 ## Related also travel
 
-- **[Caesar Cipher](https://sergeyromanenko.com/tools/caesar-cipher/)**
-  Shift letters by a configurable number of positions — perfect for encoding travel notes and exploring hidden messages on your journey.
-
-  - travel
 - **[Currency Converter](https://sergeyromanenko.com/tools/currency-converter/)**
   Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
 
   - travel
 - **[Percentage Calculator](https://sergeyromanenko.com/tools/percentage-calculator/)**
   Calculate a percentage of a number, what percentage one number is of another, percentage change, adding or subtracting a percentage, and percentage difference.
+
+  - travel
+- **[Speed, Distance, and Time Calculator](https://sergeyromanenko.com/tools/speed-distance-time-calculator/)**
+  Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
 
   - travel
 

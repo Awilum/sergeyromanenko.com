@@ -60,8 +60,8 @@ Percentage change and percentage difference are kept separate. The first measure
 
   - travel
   - math
-- **[Caesar Cipher](https://sergeyromanenko.com/tools/caesar-cipher/)**
-  Shift letters by a configurable number of positions — perfect for encoding travel notes and exploring hidden messages on your journey.
+- **[GPS Coordinate Converter](https://sergeyromanenko.com/tools/gps-coordinate-converter/)**
+  Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
 
   - travel
 

@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A practical Python trainer built from a wide range of programming tasks — classic exercises and the problems asked in interviews at large companies — covering variables, data types, control structures, loops, functions and algorithms.
 
-Paid — 55 lessons — 1,222 enrollments — 16 reviews
+Paid — 55 lessons — 1,224 enrollments — 16 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/173184/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 55
-- **Enrollments:** 1,222
+- **Enrollments:** 1,224
 
 ## About this course
 
@@ -112,7 +112,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 55
 - **Modules:** 22
-- **Enrollments:** 1,222
+- **Enrollments:** 1,224
 - **Reviews:** 16
 - **Certificates issued:** 43
 - **Author:** Sergey Romanenko
@@ -122,7 +122,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Practical Python Programming Trainer is an intermediate Python course, published on Stepik by Sergey Romanenko, taught in Russian, 55 lessons, 1,222 enrollments, rated 4.5 out of 5 across 16 reviews and a paid course.
+Practical Python Programming Trainer is an intermediate Python course, published on Stepik by Sergey Romanenko, taught in Russian, 55 lessons, 1,224 enrollments, rated 4.5 out of 5 across 16 reviews and a paid course.
 
 Next
 

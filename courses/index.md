@@ -1,7 +1,7 @@
 ---
 title: "Teaching what took me *years* to work out."
 seo_title: "Sergey Romanenko Online Programming Courses"
-description: "26 Sergey Romanenko online courses with 73,411 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik."
+description: "26 Sergey Romanenko online courses with 73,458 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik."
 canonical_url: "https://sergeyromanenko.com/courses/"
 markdown_url: "https://sergeyromanenko.com/courses/index.md"
 section: "Courses"
@@ -13,7 +13,7 @@ robots: "index, follow"
 
 # Teaching what took me *years* to work out.
 
-73,411 enrollments — 26 courses — 1,090 lessons — 25 Russian — 1 English
+73,458 enrollments — 26 courses — 1,090 lessons — 25 Russian — 1 English
 
 26 courses on programming and data, most of them trainers: long sequences of problems to solve rather than videos to sit through. They exist because the hard part of learning to program is not understanding syntax — it is finding out, forty times in a row, whether you actually understood what you thought you understood.
 
@@ -21,7 +21,7 @@ robots: "index, follow"
 
 Total enrollments across all published courses
 
-73,411
+73,458
 
 Every figure on this page comes from the local course dataset, refreshed from the Stepik statistics API. It counts enrollments: someone who enrolled in several courses is counted once per course. Enrollment happens on Stepik.
 
@@ -29,9 +29,9 @@ Every figure on this page comes from the local course dataset, refreshed from th
 - **Programs:** 6
 - **Free courses:** 5
 - **Paid courses:** 21
-- **Reviews:** 1,358
+- **Reviews:** 1,361
 - **Average rating:** 4.86
-- **Certificates issued:** 6,917
+- **Certificates issued:** 6,923
 - **Lessons:** 1,090
 
 ## Learning paths
@@ -178,7 +178,7 @@ Python 1
   - **Language:** English
   - **Lessons:** 30 lessons
   - **Modules:** 10 modules
-  - **Enrollments:** 7,866 enrollments
+  - **Enrollments:** 7,869 enrollments
   - **Rating:** 4.8 ★ (253)
   Free
   View course
@@ -190,8 +190,8 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 19 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 2,881 enrollments
-  - **Rating:** 4.9 ★ (97)
+  - **Enrollments:** 2,893 enrollments
+  - **Rating:** 4.9 ★ (99)
   Free
   View course
 - Course
@@ -214,7 +214,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 85 lessons
   - **Modules:** 19 modules
-  - **Enrollments:** 903 enrollments
+  - **Enrollments:** 904 enrollments
   - **Rating:** 4.8 ★ (77)
   Paid
   View course
@@ -226,7 +226,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 17 lessons
   - **Modules:** 3 modules
-  - **Enrollments:** 923 enrollments
+  - **Enrollments:** 926 enrollments
   - **Rating:** 4.7 ★ (34)
   Free
   View course
@@ -238,8 +238,8 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 28 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 597 enrollments
-  - **Rating:** 5.0 ★ (11)
+  - **Enrollments:** 599 enrollments
+  - **Rating:** 5.0 ★ (12)
   Paid
   View course
 - Course
@@ -250,7 +250,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 34 lessons
   - **Modules:** 10 modules
-  - **Enrollments:** 520 enrollments
+  - **Enrollments:** 522 enrollments
   - **Rating:** 4.9 ★ (22)
   Paid
   View course
@@ -262,7 +262,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 17 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 395 enrollments
+  - **Enrollments:** 396 enrollments
   - **Rating:** 4.9 ★ (17)
   Paid
   View course
@@ -281,7 +281,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 30 lessons
   - **Modules:** 5 modules
-  - **Enrollments:** 9,676 enrollments
+  - **Enrollments:** 9,680 enrollments
   - **Rating:** 4.9 ★ (141)
   Free
   View course
@@ -293,7 +293,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 303 lessons
   - **Modules:** 43 modules
-  - **Enrollments:** 2,221 enrollments
+  - **Enrollments:** 2,224 enrollments
   - **Rating:** 4.8 ★ (86)
   Paid
   View course
@@ -305,7 +305,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 56 lessons
   - **Modules:** 13 modules
-  - **Enrollments:** 882 enrollments
+  - **Enrollments:** 884 enrollments
   - **Rating:** 5.0 ★ (10)
   Paid
   View course
@@ -317,7 +317,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 12 lessons
   - **Modules:** 6 modules
-  - **Enrollments:** 1,008 enrollments
+  - **Enrollments:** 1,009 enrollments
   - **Rating:** 5.0 ★ (9)
   Paid
   View course
@@ -329,7 +329,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 173 lessons
   - **Modules:** 26 modules
-  - **Enrollments:** 814 enrollments
+  - **Enrollments:** 815 enrollments
   - **Rating:** 4.5 ★ (17)
   Paid
   View course
@@ -367,7 +367,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 33 lessons
   - **Modules:** 18 modules
-  - **Enrollments:** 765 enrollments
+  - **Enrollments:** 768 enrollments
   - **Rating:** 4.7 ★ (13)
   Paid
   View course
@@ -386,7 +386,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 34 lessons
   - **Modules:** 9 modules
-  - **Enrollments:** 19,477 enrollments
+  - **Enrollments:** 19,479 enrollments
   - **Rating:** 4.9 ★ (32)
   Paid
   View course
@@ -405,7 +405,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 29 lessons
   - **Modules:** 13 modules
-  - **Enrollments:** 249 enrollments
+  - **Enrollments:** 251 enrollments
   - **Rating:** 5.0 ★ (2)
   Paid
   View course
@@ -424,7 +424,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 31 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 6,388 enrollments
+  - **Enrollments:** 6,391 enrollments
   - **Rating:** 4.9 ★ (476)
   Free
   View course
@@ -462,7 +462,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 55 lessons
   - **Modules:** 22 modules
-  - **Enrollments:** 1,222 enrollments
+  - **Enrollments:** 1,224 enrollments
   - **Rating:** 4.5 ★ (16)
   Paid
   View course
@@ -473,7 +473,7 @@ About the author
 
 **Knowledge collected during the journey and shared.** What began as an independent IT education project on the **Stepik platform** has grown into a broader practice: turning field experience into practical learning. The catalog covers **programming, software development, data analysis, and related areas of information technology**, combining structured courses, interactive exercises, and hands-on training.
 
-These courses are designed to turn theoretical knowledge into **practical skills through hands-on learning and interactive tasks**. The project has reached **73,411 enrollments** across its **26 published courses** on Stepik, backed by **1,358 learner reviews** — an established independent educational project with a growing international audience.
+These courses are designed to turn theoretical knowledge into **practical skills through hands-on learning and interactive tasks**. The project has reached **73,458 enrollments** across its **26 published courses** on Stepik, backed by **1,361 learner reviews** — an established independent educational project with a growing international audience.
 
 In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of the Year” category** for the project, recognizing its development and achievements on the platform. The courses also regularly appear among **Stepik’s best-selling and fastest-growing courses**, reflecting their continued reach and engagement among learners.
 
@@ -483,13 +483,13 @@ In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of th
 
 [stepstat.ru ↗](https://stepstat.ru/)
 
-- **Learners:** +848
-- **Followers:** +500
-- **Certificates:** +273
-- **Reviews:** +28
-- **Reputation:** +32,657
+- **Learners:** +811
+- **Followers:** +481
+- **Certificates:** +267
+- **Reviews:** +27
+- **Reputation:** +30,871
 - **Courses:** 0
-- **Lessons:** +96
+- **Lessons:** +36
 - **Rating:** +0.003
 
 Next

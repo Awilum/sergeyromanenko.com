@@ -1,0 +1,1 @@
+var e={photography:`/photography/`,courses:`/courses/`,publications:`/publications/`,tools:`/tools/`,games:`/games/`};e.photography,e.courses,e.publications,e.tools,e.games;var t=`cipher`;function n(e,t){let n=new URLSearchParams(e);n.delete(`tag`),t!==null&&t!==``&&n.set(`tag`,t);let r=n.toString();return r===``?``:`?${r}`}export{n,t};

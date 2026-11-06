@@ -36,6 +36,12 @@ The fact that any material is publicly accessible, searchable, viewable, downloa
 
 **Credit, attribution, tagging the author, mentioning Sergey Romanenko, or linking to this website does not by itself constitute permission to use any copyrighted material.**
 
+## Free-of-Charge Access and Downloads
+
+Some materials on this website are expressly offered free of charge. The browser-based tools and games may be used on this website for their intended functionality, and publications that are expressly offered for free download may be downloaded and kept for personal, non-commercial reading.
+
+Free-of-charge access does not place these materials in the public domain and does not grant the right to republish, redistribute, commercially exploit, modify, adapt, or otherwise reuse them beyond what is expressly permitted by applicable law or an applicable licence. All other provisions on this page continue to apply in full.
+
 ## Protected Materials
 
 The protected materials published on this website may include, without limitation:
@@ -149,6 +155,14 @@ Where appropriate, I may request that the unauthorised use cease, that the mater
 **Unauthorised use may constitute copyright infringement or infringement of other applicable rights, depending on the circumstances and the law applicable to the particular use.**
 
 Nothing on this page limits or waives any rights, claims, remedies or legal protections available to the copyright holder under applicable law.
+
+## Source Code
+
+The website's source code is publicly available on [GitHub](https://github.com/Awilum/sergeyromanenko.src) for viewing and independent verification.
+
+Public availability of source code does not constitute a licence to reuse, modify, redistribute, or incorporate it into other works; such use requires prior written permission unless it is expressly granted by an applicable licence. Third-party open-source libraries and dependencies used by the website remain under their respective licences.
+
+Original photographs, publications, educational materials, visual assets, website text, and other creative works are not covered by any open-source licence and remain fully protected as described on this page.
 
 ## Contact
 

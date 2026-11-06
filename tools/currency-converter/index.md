@@ -67,12 +67,12 @@ Rates are published on business days. Weekends and holidays usually repeat the p
 
   - finance
   - travel
-- **[Caesar Cipher](https://sergeyromanenko.com/tools/caesar-cipher/)**
-  Shift letters by a configurable number of positions — perfect for encoding travel notes and exploring hidden messages on your journey.
-
-  - travel
 - **[GPS Coordinate Converter](https://sergeyromanenko.com/tools/gps-coordinate-converter/)**
   Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
+
+  - travel
+- **[Speed, Distance, and Time Calculator](https://sergeyromanenko.com/tools/speed-distance-time-calculator/)**
+  Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
 
   - travel
 

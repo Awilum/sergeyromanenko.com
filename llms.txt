@@ -29,7 +29,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Courses
 
-- [Teaching what took me *years* to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 73,411 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
+- [Teaching what took me *years* to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 73,458 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
   - [Markdown](https://sergeyromanenko.com/courses/index.md)
 - [Data Engineer](https://sergeyromanenko.com/courses/data-engineer/): A complete path to becoming a data engineer from zero: Python and Git first, then SQL from syntax to window functions, Pandas for data work, ClickHouse…
   - [Markdown](https://sergeyromanenko.com/courses/data-engineer/index.md)
@@ -105,30 +105,18 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Tools
 
-- [Tools I Built Along the Way.](https://sergeyromanenko.com/tools/): Practical tools built during the journey — things I needed, could not find, built, and shared. They run in your browser, they are free, and none of them asks for an account. 55 tools, all running in the browser, all in one place.
+- [Tools I Built Along the Way.](https://sergeyromanenko.com/tools/): Practical tools built during the journey — things I needed, could not find, built, and shared. They run in your browser, they are free, and none of them asks for an account. 42 tools, all running in the browser, all in one place.
   - [Markdown](https://sergeyromanenko.com/tools/index.md)
-- [Affine Cipher](https://sergeyromanenko.com/tools/affine-cipher/): An affine cipher uses a mathematical formula E(x) = (ax + b) mod 26 — perfect for calculating travel distances and converting coordinates.
-  - [Markdown](https://sergeyromanenko.com/tools/affine-cipher/index.md)
-- [Atbash Cipher](https://sergeyromanenko.com/tools/atbash-cipher/): Reverse the alphabet — A becomes Z, B becomes Y, and so on. Perfect for creating mirror travel memories and palindromic messages about journeys.
-  - [Markdown](https://sergeyromanenko.com/tools/atbash-cipher/index.md)
-- [Bacon's Cipher](https://sergeyromanenko.com/tools/bacons-cipher/): Encode letters as five-symbol sequences of A and B — perfect for secret travel notes and covert journey communications.
-  - [Markdown](https://sergeyromanenko.com/tools/bacons-cipher/index.md)
-- [Beaufort Cipher](https://sergeyromanenko.com/tools/beaufort-cipher/): Encrypt and decrypt text using the Beaufort cipher - a self-inverse substitution cipher.
-  - [Markdown](https://sergeyromanenko.com/tools/beaufort-cipher/index.md)
-- [Bifid Cipher](https://sergeyromanenko.com/tools/bifid-cipher/): Encrypt and decrypt text using the Bifid cipher with a Polybius square and fractionation.
-  - [Markdown](https://sergeyromanenko.com/tools/bifid-cipher/index.md)
 - [Binary Converter](https://sergeyromanenko.com/tools/binary-converter/): Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
   - [Markdown](https://sergeyromanenko.com/tools/binary-converter/index.md)
 - [Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/): Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
   - [Markdown](https://sergeyromanenko.com/tools/brainfuck-editor/index.md)
-- [Caesar Cipher](https://sergeyromanenko.com/tools/caesar-cipher/): Shift letters by a configurable number of positions — perfect for encoding travel notes and exploring hidden messages on your journey.
-  - [Markdown](https://sergeyromanenko.com/tools/caesar-cipher/index.md)
 - [Case Converter](https://sergeyromanenko.com/tools/case-converter/): Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
   - [Markdown](https://sergeyromanenko.com/tools/case-converter/index.md)
+- [Cipher Toolkit](https://sergeyromanenko.com/tools/cipher-toolkit/): Fourteen classical ciphers in one place. Choose a cipher, set its key, and encrypt or decrypt text with the algorithm running entirely in your browser.
+  - [Markdown](https://sergeyromanenko.com/tools/cipher-toolkit/index.md)
 - [Code Editor](https://sergeyromanenko.com/tools/code-editor/): Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
   - [Markdown](https://sergeyromanenko.com/tools/code-editor/index.md)
-- [Columnar Transposition Cipher](https://sergeyromanenko.com/tools/columnar-transposition/): Arrange text in a grid based on a keyword, then read columns in keyword order — perfect for creating structured travel itineraries and destination orders.
-  - [Markdown](https://sergeyromanenko.com/tools/columnar-transposition/index.md)
 - [Currency Converter](https://sergeyromanenko.com/tools/currency-converter/): Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
   - [Markdown](https://sergeyromanenko.com/tools/currency-converter/index.md)
 - [Emoji Picker](https://sergeyromanenko.com/tools/emoji-picker/): Search and copy emoji from a set bundled with the page — no API call, no tracking, and the picker keeps working offline once the page has loaded.
@@ -145,8 +133,6 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/tools/gps-coordinate-converter/index.md)
 - [Hash Text](https://sergeyromanenko.com/tools/hash-text/): Hash text with MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA3-512 or RIPEMD-160, entirely in your browser.
   - [Markdown](https://sergeyromanenko.com/tools/hash-text/index.md)
-- [Hill Cipher](https://sergeyromanenko.com/tools/hill-cipher/): Encrypt and decrypt text using the Hill cipher with matrix multiplication modulo 26.
-  - [Markdown](https://sergeyromanenko.com/tools/hill-cipher/index.md)
 - [HTTP Status Codes](https://sergeyromanenko.com/tools/http-status-codes/): A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
   - [Markdown](https://sergeyromanenko.com/tools/http-status-codes/index.md)
 - [Image Cropper](https://sergeyromanenko.com/tools/image-cropper/): Crop images in your browser. Choose freeform or fixed aspect ratios, rotate and flip, zoom, preview, and download the result. Nothing is uploaded.
@@ -165,24 +151,14 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/tools/markdown-editor/index.md)
 - [Mermaid Diagram Editor](https://sergeyromanenko.com/tools/mermaid-diagram-editor/): Write Mermaid source, watch it render as a live diagram, and download it as a PNG file, all in your browser.
   - [Markdown](https://sergeyromanenko.com/tools/mermaid-diagram-editor/index.md)
-- [Monoalphabetic Substitution](https://sergeyromanenko.com/tools/monoalphabetic-substitution/): Create your own substitution alphabet — perfect for encoding travel memories and personal journey symbols with a custom 26-letter mapping.
-  - [Markdown](https://sergeyromanenko.com/tools/monoalphabetic-substitution/index.md)
 - [Percentage Calculator](https://sergeyromanenko.com/tools/percentage-calculator/): Calculate a percentage of a number, what percentage one number is of another, percentage change, adding or subtracting a percentage, and percentage difference.
   - [Markdown](https://sergeyromanenko.com/tools/percentage-calculator/index.md)
 - [Placeholder Text Generator](https://sergeyromanenko.com/tools/lorem-ipsum/): Generate placeholder text by paragraph, sentence or word count, with or without the traditional opening, and repeatably when you need the same text twice.
   - [Markdown](https://sergeyromanenko.com/tools/lorem-ipsum/index.md)
-- [Playfair Cipher](https://sergeyromanenko.com/tools/playfair-cipher/): Encode digraphs using a 5×5 matrix built from a keyword — perfect for secure travel coordination and journey planning.
-  - [Markdown](https://sergeyromanenko.com/tools/playfair-cipher/index.md)
 - [Pseudocode Editor](https://sergeyromanenko.com/tools/pseudocode-editor/): Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
   - [Markdown](https://sergeyromanenko.com/tools/pseudocode-editor/index.md)
 - [QR Code Generator](https://sergeyromanenko.com/tools/qr-code-generator/): Create custom QR codes for URLs, text, Wi-Fi, contacts, email, phone numbers, locations, and more. Customize colors, styles, and logos, then download as PNG. Generate QR codes privately in your browser without third-party QR APIs.
   - [Markdown](https://sergeyromanenko.com/tools/qr-code-generator/index.md)
-- [Rail Fence Cipher](https://sergeyromanenko.com/tools/rail-fence-cipher/): Write text in a zigzag across multiple rails and read line by line — perfect for creating hidden travel routes and journey patterns.
-  - [Markdown](https://sergeyromanenko.com/tools/rail-fence-cipher/index.md)
-- [ROT13](https://sergeyromanenko.com/tools/rot13/): Shift every letter by exactly 13 positions — a quick and dirty way to obscure travel itineraries and journal entries while keeping them readable.
-  - [Markdown](https://sergeyromanenko.com/tools/rot13/index.md)
-- [Scytale Cipher](https://sergeyromanenko.com/tools/scytale-cipher/): Wrap text around a cylinder to create a spiral transposition — perfect for encoding ancient travel routes and historical journeys.
-  - [Markdown](https://sergeyromanenko.com/tools/scytale-cipher/index.md)
 - [Speed, Distance, and Time Calculator](https://sergeyromanenko.com/tools/speed-distance-time-calculator/): Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
   - [Markdown](https://sergeyromanenko.com/tools/speed-distance-time-calculator/index.md)
 - [SQL Editor](https://sergeyromanenko.com/tools/sql-editor/): Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
@@ -209,8 +185,6 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/tools/ulid-generator/index.md)
 - [Unit Converter](https://sergeyromanenko.com/tools/unit-converter/): Convert length, weight, temperature, volume, area, speed, fuel economy and data transfer rates between metric, US and Imperial units.
   - [Markdown](https://sergeyromanenko.com/tools/unit-converter/index.md)
-- [Vigenère Cipher](https://sergeyromanenko.com/tools/vigenere-cipher/): A polyalphabetic cipher using a keyword to select different Caesar shifts for each letter — ideal for securing complex travel itineraries and multi-leg journeys.
-  - [Markdown](https://sergeyromanenko.com/tools/vigenere-cipher/index.md)
 - [XML to JSON Converter](https://sergeyromanenko.com/tools/xml-to-json/): Convert XML documents to JSON in your browser, with a documented mapping for attributes, repeated elements and mixed content.
   - [Markdown](https://sergeyromanenko.com/tools/xml-to-json/index.md)
 - [YAML Formatter](https://sergeyromanenko.com/tools/yaml-formatter/): Validate and format YAML in your browser, with parser errors reported as a line and a column you can find.
@@ -220,10 +194,14 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Games
 
-- [Games for Your Journey.](https://sergeyromanenko.com/games/): Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. 10 games, all running in the browser, all in one place.
+- [Games for Your Journey.](https://sergeyromanenko.com/games/): Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. 12 games, all running in the browser, all in one place.
   - [Markdown](https://sergeyromanenko.com/games/index.md)
 - [2048](https://sergeyromanenko.com/games/2048/): Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
   - [Markdown](https://sergeyromanenko.com/games/2048/index.md)
+- [Battleships](https://sergeyromanenko.com/games/battleships/): The classic fleet-hunting game, no-touch edition. Place five ships with a cell of water between each, trade shots with a probability-hunting computer opponent, and sink all seventeen enemy cells.
+  - [Markdown](https://sergeyromanenko.com/games/battleships/index.md)
+- [Catch the Cat](https://sergeyromanenko.com/games/catch-the-cat/): The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
+  - [Markdown](https://sergeyromanenko.com/games/catch-the-cat/index.md)
 - [Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/): The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
   - [Markdown](https://sergeyromanenko.com/games/dots-and-boxes/index.md)
 - [Lights Out](https://sergeyromanenko.com/games/lights-out/): Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
@@ -245,7 +223,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## About
 
-- [A life spent exploring — through code, cameras, and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — explorer, photographer, creator and engineer. Independent photographic projects, 26 online courses with 73,411 enrollments, open-source software, books and practical tools.
+- [A life spent exploring through the code, commerce and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 73,458 enrollments, open-source software, books and practical tools.
   - [Markdown](https://sergeyromanenko.com/about/index.md)
 
 ## Site
@@ -256,7 +234,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/privacy-policy/index.md)
 - [Sitemap: all sections and pages](https://sergeyromanenko.com/sitemap/): Every section and page of sergeyromanenko.com — photography, courses, publications, tools and games — as one linked tree.
   - [Markdown](https://sergeyromanenko.com/sitemap/index.md)
-- [Support Independent Development](https://sergeyromanenko.com/support/): Voluntary support options for independent development of free browser-based tools, educational resources, and digital projects.
+- [Support Independent Development](https://sergeyromanenko.com/support/): Selected browser-based tools and games are available free of charge. Support the independent development of these projects with a voluntary contribution.
   - [Markdown](https://sergeyromanenko.com/support/index.md)
 - [Terms of Use](https://sergeyromanenko.com/terms-of-use/): Terms of Use for sergeyromanenko.com — permitted use, free tools, course information, voluntary support, external links, and limitations.
   - [Markdown](https://sergeyromanenko.com/terms-of-use/index.md)

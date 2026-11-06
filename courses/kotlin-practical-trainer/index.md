@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A practical Kotlin trainer built from a wide range of programming tasks — classic exercises and interview problems — covering variables, data types, control structures, loops, functions and algorithms.
 
-Paid — 29 lessons — 249 enrollments — 2 reviews
+Paid — 29 lessons — 251 enrollments — 2 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/187934/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 29
-- **Enrollments:** 249
+- **Enrollments:** 251
 
 ## About this course
 
@@ -103,7 +103,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 29
 - **Modules:** 13
-- **Enrollments:** 249
+- **Enrollments:** 251
 - **Reviews:** 2
 - **Certificates issued:** 12
 - **Author:** Sergey Romanenko
@@ -113,7 +113,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Practical Kotlin Programming Trainer is an intermediate Kotlin course, published on Stepik by Sergey Romanenko, taught in Russian, 29 lessons, 249 enrollments, rated 5.0 out of 5 across 2 reviews and a paid course.
+Practical Kotlin Programming Trainer is an intermediate Kotlin course, published on Stepik by Sergey Romanenko, taught in Russian, 29 lessons, 251 enrollments, rated 5.0 out of 5 across 2 reviews and a paid course.
 
 Next
 

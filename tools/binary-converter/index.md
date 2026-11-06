@@ -72,12 +72,8 @@ Left and right shifts, logical or arithmetic, over a chosen width. Shift amounts
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related also binary
+## Related also developers
 
-- **[Bacon's Cipher](https://sergeyromanenko.com/tools/bacons-cipher/)**
-  Encode letters as five-symbol sequences of A and B — perfect for secret travel notes and covert journey communications.
-
-  - binary
 - **[HTTP Status Codes](https://sergeyromanenko.com/tools/http-status-codes/)**
   A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
 

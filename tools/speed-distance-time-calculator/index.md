@@ -55,12 +55,12 @@ Results are mathematical estimates. Real journeys depend on traffic, terrain, st
 
   - math
   - travel
-- **[Caesar Cipher](https://sergeyromanenko.com/tools/caesar-cipher/)**
-  Shift letters by a configurable number of positions — perfect for encoding travel notes and exploring hidden messages on your journey.
-
-  - travel
 - **[Currency Converter](https://sergeyromanenko.com/tools/currency-converter/)**
   Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
+
+  - travel
+- **[GPS Coordinate Converter](https://sergeyromanenko.com/tools/gps-coordinate-converter/)**
+  Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
 
   - travel
 

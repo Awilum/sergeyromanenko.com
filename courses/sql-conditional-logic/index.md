@@ -18,7 +18,7 @@ robots: "index, follow"
 
 For people who already know SQL basics and want to work with conditions and logic confidently: TRUE, FALSE and UNKNOWN, NULL, comparison operators, AND, OR, NOT, BETWEEN, IN, LIKE and CASE — applied across SELECT, GROUP BY, HAVING and UPDATE.
 
-Paid — 28 lessons — 597 enrollments — 11 reviews
+Paid — 28 lessons — 599 enrollments — 12 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/295190/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 28
-- **Enrollments:** 597
+- **Enrollments:** 599
 
 ## About this course
 
@@ -83,8 +83,8 @@ Confident use of SELECT, WHERE, ORDER BY, GROUP BY, HAVING and aggregate functio
 - **What language is “SQL Conditional Logic” taught in?:** “SQL Conditional Logic” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL Conditional Logic”?:** “SQL Conditional Logic” contains 28 lessons in 4 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Conditional Logic”?:** “SQL Conditional Logic” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Conditional Logic” give a certificate?:** Yes. Stepik has issued 54 certificates to learners who completed “SQL Conditional Logic”.
-- **How many learners have reviewed “SQL Conditional Logic”?:** “SQL Conditional Logic” has 11 reviews on Stepik, with an average rating of 5.0 out of 5.
+- **Does “SQL Conditional Logic” give a certificate?:** Yes. Stepik has issued 55 certificates to learners who completed “SQL Conditional Logic”.
+- **How many learners have reviewed “SQL Conditional Logic”?:** “SQL Conditional Logic” has 12 reviews on Stepik, with an average rating of 5.0 out of 5.
 - **How do I enroll in “SQL Conditional Logic”?:** Enrollment and payment for “SQL Conditional Logic” happen on Stepik: open https://stepik.org/a/295190/ and start there.
 
 Course facts
@@ -95,9 +95,9 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 28
 - **Modules:** 4
-- **Enrollments:** 597
-- **Reviews:** 11
-- **Certificates issued:** 54
+- **Enrollments:** 599
+- **Reviews:** 12
+- **Certificates issued:** 55
 - **Author:** Sergey Romanenko
 - **Rating:** 5.0 / 5
 
@@ -105,7 +105,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL Conditional Logic is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 28 lessons, 597 enrollments, rated 5.0 out of 5 across 11 reviews and a paid course.
+SQL Conditional Logic is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 28 lessons, 599 enrollments, rated 5.0 out of 5 across 12 reviews and a paid course.
 
 ## More in SQL
 
