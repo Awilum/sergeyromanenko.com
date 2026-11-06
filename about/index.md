@@ -103,7 +103,7 @@ Professional endorsements
 
 ## Colleagues who endorsed my skills.
 
-Professional recognition begins with the people behind it. These are colleagues I have worked with, each of whom endorsed specific skills on my LinkedIn profile. Every name below links to the person who gave that recognition, with the skills they endorsed listed underneath.
+Professional recognition begins with the people behind it. These are colleagues, each of whom endorsed specific skills on my LinkedIn profile. Every name below links to the person who gave that recognition, with the skills they endorsed listed underneath.
 
 - 01
   ### [Anastasiia Greca](https://www.linkedin.com/in/aastudiospro)
