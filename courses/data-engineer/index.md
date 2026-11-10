@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A complete path to becoming a data engineer from zero: Python and Git first, then SQL from syntax to window functions, Pandas for data work, ClickHouse as the analytical database, and a first data platform built on Airflow, PostgreSQL and DataLens.
 
-Paid — 389 lessons — 4 enrollments — 540 reviews
+Paid — 389 lessons — 4 enrollments — 520 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/297594/)
 
@@ -65,7 +65,7 @@ The end point is a finished project — from a data source through a medallion-s
 
 1. 01Apache Airflow: An ETL Project on PostgreSQL and DataLens (Yandex Cloud)38 lessons
 2. 02ClickHouse from Zero41 lessons
-3. 03ClickHouse from Zero: Practice with Author Support22 lessons
+3. 03ClickHouse с нуля: практика22 lessons
 4. 04Git and GitHub [Beginner+]61 lessons
 5. 05[SQL Window Functions](https://sergeyromanenko.com/courses/sql-window-functions/)34 lessons
 6. 06SQL from Zero: Training and Practice for Analysts and Data Engineers48 lessons
@@ -88,7 +88,7 @@ A willingness to learn and a computer with internet access.
 - **What language is “Data Engineer” taught in?:** “Data Engineer” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “Data Engineer”?:** “Data Engineer” contains 389 lessons in 8 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “Data Engineer”?:** “Data Engineer” was created by Роман Медведев, Иван Натаров, Кузьмин Дмитрий, Влад Бурмистров, Sergey Romanenko, Stepik Content Team, Люди Будущего / Future People, Максим Мигутин. It is published on Stepik.
-- **How many learners have reviewed “Data Engineer”?:** “Data Engineer” has 540 reviews on Stepik, with an average rating of 4.7 out of 5.
+- **How many learners have reviewed “Data Engineer”?:** “Data Engineer” has 520 reviews on Stepik, with an average rating of 4.7 out of 5.
 - **How do I enroll in “Data Engineer”?:** Enrollment and payment for “Data Engineer” happen on Stepik: open https://stepik.org/a/297594/ and start there.
 
 Course facts
@@ -100,7 +100,7 @@ Course facts
 - **Lessons:** 389
 - **Courses in program:** 8
 - **Enrollments:** 4
-- **Reviews:** 540
+- **Reviews:** 520
 - **Certificates issued:** 0
 - **Authors:** Роман Медведев, Иван Натаров, Кузьмин Дмитрий, Влад Бурмистров, Sergey Romanenko, Stepik Content Team, Люди Будущего / Future People, Максим Мигутин
 - **Rating:** 4.7 / 5
@@ -109,7 +109,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Data Engineer is a beginner Data Engineering career program, published on Stepik by Sergey Romanenko with 7 co-authors, taught in Russian, 389 lessons, 4 enrollments, rated 4.7 out of 5 across 540 reviews and a paid course.
+Data Engineer is a beginner Data Engineering career program, published on Stepik by Sergey Romanenko with 7 co-authors, taught in Russian, 389 lessons, 4 enrollments, rated 4.7 out of 5 across 520 reviews and a paid course.
 
 Next
 

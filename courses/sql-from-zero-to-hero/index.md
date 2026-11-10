@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A large SQL program — from the first queries to advanced language features and practical problem solving. The courses cover the language step by step, reinforce each topic with practice, and build a confident habit of working with data.
 
-Paid — 226 lessons — 79 enrollments — 291 reviews
+Paid — 228 lessons — 78 enrollments — 299 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/279994/)
 
@@ -36,8 +36,8 @@ Russian
 
 - **Level:** Beginner
 - **Language:** Russian
-- **Lessons:** 226
-- **Enrollments:** 79
+- **Lessons:** 228
+- **Enrollments:** 78
 
 ## About this course
 
@@ -63,9 +63,9 @@ Every course is also available separately. Taking the bundle makes sense when yo
 
 ## Program content
 
-7 bundled courses · 226 lessons
+7 bundled courses · 228 lessons
 
-1. 01[SQL Introduction (RU)](https://sergeyromanenko.com/courses/sql-introduction-ru/)19 lessons
+1. 01[SQL Introduction (RU)](https://sergeyromanenko.com/courses/sql-introduction-ru/)21 lessons
 2. 02[SQL Common Table Expressions](https://sergeyromanenko.com/courses/sql-common-table-expressions/)17 lessons
 3. 03[SQL Window Functions](https://sergeyromanenko.com/courses/sql-window-functions/)34 lessons
 4. 04[SQL Conditional Logic](https://sergeyromanenko.com/courses/sql-conditional-logic/)28 lessons
@@ -87,9 +87,9 @@ No prior SQL is required to start the path. The advanced courses assume confiden
 
 - **Is “SQL from Zero to Hero” free or paid?:** “SQL from Zero to Hero” is a paid program on Stepik.
 - **What language is “SQL from Zero to Hero” taught in?:** “SQL from Zero to Hero” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
-- **How much content is in “SQL from Zero to Hero”?:** “SQL from Zero to Hero” contains 226 lessons in 7 bundled courses. It is self-paced, so you study on your own schedule.
+- **How much content is in “SQL from Zero to Hero”?:** “SQL from Zero to Hero” contains 228 lessons in 7 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “SQL from Zero to Hero”?:** “SQL from Zero to Hero” was created by Sergey Romanenko. It is published on Stepik.
-- **How many learners have reviewed “SQL from Zero to Hero”?:** “SQL from Zero to Hero” has 291 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **How many learners have reviewed “SQL from Zero to Hero”?:** “SQL from Zero to Hero” has 299 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL from Zero to Hero”?:** Enrollment and payment for “SQL from Zero to Hero” happen on Stepik: open https://stepik.org/a/279994/ and start there.
 
 Course facts
@@ -98,10 +98,10 @@ Course facts
 - **Access:** Paid
 - **Level:** Beginner
 - **Language:** Russian
-- **Lessons:** 226
+- **Lessons:** 228
 - **Courses in program:** 7
-- **Enrollments:** 79
-- **Reviews:** 291
+- **Enrollments:** 78
+- **Reviews:** 299
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
@@ -110,7 +110,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL from Zero to Hero is a beginner SQL career program, published on Stepik by Sergey Romanenko, taught in Russian, 226 lessons, 79 enrollments, rated 4.9 out of 5 across 291 reviews and a paid course.
+SQL from Zero to Hero is a beginner SQL career program, published on Stepik by Sergey Romanenko, taught in Russian, 228 lessons, 78 enrollments, rated 4.9 out of 5 across 299 reviews and a paid course.
 
 ## More in SQL
 
@@ -120,7 +120,7 @@ Other courses on the same subject.
 
 [Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · BeginnerSQL Introduction (RU)19 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
+[Course · BeginnerSQL Introduction (RU)21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
 [Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 

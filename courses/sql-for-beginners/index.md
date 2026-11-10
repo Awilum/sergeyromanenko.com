@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A structured SQL course covering syntax, core functions and language constructs, and how to work with SQL databases. Theory, tests and practical tasks take you from the first query to joins, subqueries and unions.
 
-Paid — 85 lessons — 904 enrollments — 77 reviews
+Paid — 85 lessons — 905 enrollments — 77 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/133728/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 85
-- **Enrollments:** 904
+- **Enrollments:** 905
 
 ## About this course
 
@@ -109,7 +109,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 85
 - **Modules:** 19
-- **Enrollments:** 904
+- **Enrollments:** 905
 - **Reviews:** 77
 - **Certificates issued:** 291
 - **Author:** Sergey Romanenko
@@ -119,7 +119,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL for Beginners is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 85 lessons, 904 enrollments, rated 4.8 out of 5 across 77 reviews and a paid course.
+SQL for Beginners is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 85 lessons, 905 enrollments, rated 4.8 out of 5 across 77 reviews and a paid course.
 
 ## More in SQL
 
@@ -129,7 +129,7 @@ Other courses on the same subject.
 
 [Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · BeginnerSQL Introduction (RU)19 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
+[Course · BeginnerSQL Introduction (RU)21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
 [Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 

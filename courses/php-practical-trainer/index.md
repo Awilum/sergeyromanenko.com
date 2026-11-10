@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A practical PHP trainer with a wide range of programming tasks, including problems of the kind asked at Google, Amazon, Apple, Twitter and Microsoft. Variables, data types, control structures, loops, functions and algorithms, practised until they are automatic.
 
-Paid — 40 lessons — 236 enrollments — 3 reviews
+Paid — 40 lessons — 237 enrollments — 3 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/174887/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 40
-- **Enrollments:** 236
+- **Enrollments:** 237
 
 ## About this course
 
@@ -109,7 +109,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 40
 - **Modules:** 19
-- **Enrollments:** 236
+- **Enrollments:** 237
 - **Reviews:** 3
 - **Certificates issued:** 11
 - **Author:** Sergey Romanenko
@@ -119,7 +119,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Practical PHP Code Reading Trainer is an intermediate PHP course, published on Stepik by Sergey Romanenko, taught in Russian, 40 lessons, 236 enrollments, rated 5.0 out of 5 across 3 reviews and a paid course.
+Practical PHP Code Reading Trainer is an intermediate PHP course, published on Stepik by Sergey Romanenko, taught in Russian, 40 lessons, 237 enrollments, rated 5.0 out of 5 across 3 reviews and a paid course.
 
 Next
 

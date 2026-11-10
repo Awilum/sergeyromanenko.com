@@ -1,7 +1,7 @@
 ---
 title: "A life spent exploring through the code, commerce and the road."
 seo_title: "About — Sergey Romanenko"
-description: "Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 73,458 enrollments, open-source software, books and practical tools."
+description: "Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 73,701 enrollments, open-source software, books and practical tools."
 canonical_url: "https://sergeyromanenko.com/about/"
 markdown_url: "https://sergeyromanenko.com/about/index.md"
 section: "About"
@@ -63,11 +63,11 @@ Stepik
 
 ## Practical education at scale.
 
-73,458
+73,701
 
 Course enrollments
 
-1,361
+1,369
 
 Course reviews
 
@@ -75,11 +75,11 @@ Course reviews
 
 Published courses
 
-1,090
+1,092
 
 Lessons
 
-Source: [Stepik Stats](https://stepstat.ru/user/561566563)· Snapshot: November 5, 2026 · Entire author catalog. Enrollment counts are enrollments, not unique learners.
+Source: [Stepik Stats](https://stepstat.ru/user/561566563)· Snapshot: November 10, 2026 · Entire author catalog. Enrollment counts are enrollments, not unique learners.
 
 Recognition
 
@@ -107,122 +107,136 @@ Professional recognition begins with the people behind it. These are colleagues,
 
 - 01
   ### [Anastasiia Greca](https://www.linkedin.com/in/aastudiospro)
+  AA Studios Founder
   Endorsed my skills in AJAX, Bower, CodeIgniter, CSS, Front-end, FuelPHP, Git, GruntJS, GulpJS, HTML, JavaScript, JIRA, jQuery, jQuery Mobile, LESS, Material Design, Mercurial, Monstra, Node.js, Open Source, PHP, Scrum, SEO, Subversion, User Interface Design, Web Design, Web Development, Web Performance, XML, Yii.
   30 skills endorsed
 - 02
   ### [Artsiom Rusau](https://www.linkedin.com/in/artsiomrusau)
+  Founder of Rusau Learn
   Endorsed my skills in C#, Data Engineering, Educational Programs, English, HTML, Java, JavaScript, Kotlin, Online Course Creation, PHP, Python (Programming Language), SQL, Teaching, Technical Writing.
   14 skills endorsed
 - 03
   ### [Elena Uvarova](https://www.linkedin.com/in/elenauvarova)
+  Product Designer & UX/UI Designer
   Endorsed my skills in AJAX, API Development, Bower, C++, CodeIgniter, CSS, Delphi, English, Front-end, FuelPHP, Git, GruntJS, GulpJS, HTML, JavaScript, JIRA, jQuery, jQuery Mobile, JSON, Kanban, Laravel, LESS, Material Design, Mentoring, Mercurial, MongoDB, MySQL, Node.js, Open Source, PHP, PostgreSQL, QA Engineering, Quality Assurance, REST APIs, Scrum, SEO, SQL, Subversion, Symfony Framework, Teaching, Web Design, Web Development, Web Performance, WordPress, XML, YAML, Yii.
   47 skills endorsed
 - 04
   ### [Katsiaryna Lebiadzevich](https://www.linkedin.com/in/lebedevich-es)
+  Senior QA Engineer
   Endorsed my skills in C++, CSS, Delphi, English, Front-end, Git, GruntJS, HTML, JavaScript, Laravel, Mentoring, MongoDB, MySQL, PHP, PostgreSQL, REST APIs, SEO, SQL, Symfony Framework, Teaching, Web Development, WordPress, Yii.
   23 skills endorsed
 - 05
   ### [Igor Aniskevich](https://www.linkedin.com/in/igor-aniskevich)
+  Senior Full-Stack Engineer
   Endorsed my skills in AJAX, API Development, Bower, C++, CodeIgniter, CSS, Delphi, English, Front-end, FuelPHP, Git, GruntJS, GulpJS, HTML, JavaScript, JIRA, jQuery, jQuery Mobile, Kanban, LESS, Mentoring, Mercurial, MongoDB, MySQL, Node.js, Open Source, PHP, PostgreSQL, QA Engineering, Quality Assurance, REST APIs, Scrum, SEO, SQL, Subversion, Symfony Framework, Teaching, User Interface Design, Web Design, Web Development, Web Performance, WordPress, XML, YAML, Yii.
   45 skills endorsed
 - 06
   ### [Alexander Filetkin](https://www.linkedin.com/in/alexander-filetkin)
+  Senior Technical Product Manager
   Endorsed my skills in CSS, Front-end, Git, GruntJS, GulpJS, HTML, JavaScript, jQuery, jQuery Mobile, LESS, Mentoring, Node.js, PHP, REST APIs, SEO, SQL, Teaching, Web Development, Yii.
   19 skills endorsed
 - 07
-  ### [ΑΘΑΝΑΣΙΟΣ ΚΟΛΛΥΡΗΣ](https://www.linkedin.com/in/athanassioskollyris)
-  Endorsed my skills in Front-end.
-  1 skill endorsed
-- 08
-  ### [Chandima Jayawardana](https://www.linkedin.com/in/chandima-jayawardana-710604155)
-  Endorsed my skills in C++, CSS, English, Front-end, HTML, JavaScript, Mentoring, MongoDB, MySQL, PostgreSQL, SQL, Web Development.
-  12 skills endorsed
-- 09
-  ### [Kate Tarycheva](https://www.linkedin.com/in/kate-tarycheva)
-  Endorsed my skills in English, PostgreSQL, WordPress.
-  3 skills endorsed
-- 10
-  ### [Игорь Поюров](https://www.linkedin.com/in/poiurov)
-  Endorsed my skills in CSS, English, Front-end, Git, HTML, JavaScript, Mentoring, MongoDB, MySQL, PHP, PostgreSQL, REST APIs, SEO, SQL, Symfony Framework, Teaching, Web Development, WordPress, Yii.
-  19 skills endorsed
-- 11
-  ### [Maiia Bocharova, PhD](https://www.linkedin.com/in/maiia-bocharova-phd-2533b51b6)
-  Endorsed my skills in English, Mentoring, MongoDB, MySQL, PostgreSQL, Symfony Framework, WordPress, Yii.
-  8 skills endorsed
-- 12
-  ### [Dmitry Vorushilo](https://www.linkedin.com/in/dvorushilo)
-  Endorsed my skills in CSS, Front-end, Git, GruntJS, GulpJS, HTML, JavaScript, jQuery, jQuery Mobile, LESS, Mentoring, Node.js, PHP, REST APIs, SEO, SQL, Teaching, Web Development, Yii.
-  19 skills endorsed
-- 13
-  ### [Liliya Shageyeva](https://www.linkedin.com/in/liliya-shageyeva)
-  Endorsed my skills in Front-end, HTML, JavaScript, PHP, SQL, Teaching.
-  6 skills endorsed
-- 14
-  ### [Oksana Ramashchenko](https://www.linkedin.com/in/aksana-ramashchanka)
-  Endorsed my skills in CSS, Front-end, Git, GruntJS, GulpJS, HTML, JavaScript, jQuery, jQuery Mobile, LESS, Node.js, PHP, REST APIs, SEO, SQL, Web Development, Yii.
-  17 skills endorsed
-- 15
-  ### [Ivan Doronin](https://www.linkedin.com/in/ivandoronin)
-  Endorsed my skills in Front-end, PHP, Web Development.
-  3 skills endorsed
-- 16
-  ### [Oleh Kutsenko](https://www.linkedin.com/in/inthedark122)
-  Endorsed my skills in AJAX, CSS, Front-end, Git, GruntJS, GulpJS, HTML, JavaScript, JIRA, jQuery, LESS, Node.js, Open Source, PHP, REST APIs, Scrum, SEO, Web Development, Yii.
-  19 skills endorsed
-- 17
-  ### [Emre Ergin](https://www.linkedin.com/in/emre-ergin-9786a323b)
-  Endorsed my skills in Front-end, JavaScript, Web Development.
-  3 skills endorsed
-- 18
-  ### [Anton Riabukha](https://www.linkedin.com/in/anton-riabukha)
-  Endorsed my skills in CSS, Web Development.
-  2 skills endorsed
-- 19
-  ### [Eugene Loy](https://www.linkedin.com/in/eugeneloy)
-  Endorsed my skills in CSS, Front-end, HTML, JavaScript, LESS, Monstra, PHP, Web Development.
-  8 skills endorsed
-- 20
-  ### [Maxim Bondarenko](https://www.linkedin.com/in/ma-bondarenko)
-  Endorsed my skills in CSS, Front-end, Git, GruntJS, GulpJS, HTML, JavaScript, LESS, PHP, Web Development.
-  10 skills endorsed
-- 21
-  ### [Vlad Yershov](https://www.linkedin.com/in/ershowvlad)
-  Endorsed my skills in CSS, Web Development.
-  2 skills endorsed
-- 22
   ### [Anton Pinchuk](https://www.linkedin.com/in/antonpinchuk)
+  AI & Engineering Transformation Leader
   Endorsed my skills in CSS, Web Development.
   2 skills endorsed
-- 23
-  ### [Vladyslav Kudryk](https://www.linkedin.com/in/vkudrik)
-  Endorsed my skills in CSS, Front-end, PHP, Web Development.
-  4 skills endorsed
-- 24
-  ### [Sergey Yehorov](https://www.linkedin.com/in/ehorov)
-  Endorsed my skills in CSS, Front-end, Git, GruntJS, GulpJS, HTML, JavaScript, LESS, PHP, Web Development.
-  10 skills endorsed
-- 25
-  ### [Victor Pristupa](https://www.linkedin.com/in/vadiazu)
-  Endorsed my skills in AJAX, CSS, Front-end, Git, JavaScript, jQuery, PHP, Web Development, XML.
-  9 skills endorsed
-- 26
-  ### [Dmytro Shykalenko](https://www.linkedin.com/in/shikalenko)
-  Endorsed my skills in AJAX, Bower, CodeIgniter, CSS, Front-end, FuelPHP, Git, GruntJS, GulpJS, HTML, JavaScript, JIRA, jQuery, jQuery Mobile, Kanban, LESS, Node.js, Open Source, PHP, Subversion, User Interface Design, Web Development, Web Performance, XML, Yii.
-  25 skills endorsed
-- 27
+- 08
   ### [Alex Belous](https://www.linkedin.com/in/alexbelous)
+  CTO at Onix-Systems
   Endorsed my skills in JavaScript, Web Development.
   2 skills endorsed
-- 28
+- 09
+  ### [Athanasios Kollyris](https://www.linkedin.com/in/athanassioskollyris)
+  Web Designer & UX Designer
+  Endorsed my skills in Front-end.
+  1 skill endorsed
+- 10
+  ### [Chandima Jayawardana](https://www.linkedin.com/in/chandima-jayawardana-710604155)
+  People Management and Delivery
+  Endorsed my skills in C++, CSS, English, Front-end, HTML, JavaScript, Mentoring, MongoDB, MySQL, PostgreSQL, SQL, Web Development.
+  12 skills endorsed
+- 11
+  ### [Kate Tarycheva](https://www.linkedin.com/in/kate-tarycheva)
+  Founder of the Pandalang Chinese Language school
+  Endorsed my skills in English, PostgreSQL, WordPress.
+  3 skills endorsed
+- 12
+  ### [Игорь Поюров](https://www.linkedin.com/in/poiurov)
+  Head of recruitment
+  Endorsed my skills in CSS, English, Front-end, Git, HTML, JavaScript, Mentoring, MongoDB, MySQL, PHP, PostgreSQL, REST APIs, SEO, SQL, Symfony Framework, Teaching, Web Development, WordPress, Yii.
+  19 skills endorsed
+- 13
+  ### [Maiia Bocharova](https://www.linkedin.com/in/maiia-bocharova-phd-2533b51b6)
+  Senior NLP engineer
+  Endorsed my skills in English, Mentoring, MongoDB, MySQL, PostgreSQL, Symfony Framework, WordPress, Yii.
+  8 skills endorsed
+- 14
+  ### [Dmitry Vorushilo](https://www.linkedin.com/in/dvorushilo)
+  Senior Backend Software Engineer
+  Endorsed my skills in CSS, Front-end, Git, GruntJS, GulpJS, HTML, JavaScript, jQuery, jQuery Mobile, LESS, Mentoring, Node.js, PHP, REST APIs, SEO, SQL, Teaching, Web Development, Yii.
+  19 skills endorsed
+- 15
+  ### [Liliya Shageyeva](https://www.linkedin.com/in/liliya-shageyeva)
+  Product & Program Delivery Leader
+  Endorsed my skills in Front-end, HTML, JavaScript, PHP, SQL, Teaching.
+  6 skills endorsed
+- 16
+  ### [Oksana Ramashchenko](https://www.linkedin.com/in/aksana-ramashchanka)
+  Delivery & Governance Leader. Certified Professional Scrum Master
+  Endorsed my skills in CSS, Front-end, Git, GruntJS, GulpJS, HTML, JavaScript, jQuery, jQuery Mobile, LESS, Node.js, PHP, REST APIs, SEO, SQL, Web Development, Yii.
+  17 skills endorsed
+- 17
+  ### [Ivan Doronin](https://www.linkedin.com/in/ivandoronin)
+  AI & Digital Transformation Leader
+  Endorsed my skills in Front-end, PHP, Web Development.
+  3 skills endorsed
+- 18
+  ### [Emre Ergin](https://www.linkedin.com/in/emre-ergin-9786a323b)
+  Assistant Professor at Bolu Abant İzzet Baysal University
+  Endorsed my skills in Front-end, JavaScript, Web Development.
+  3 skills endorsed
+- 19
+  ### [Anton Riabukha](https://www.linkedin.com/in/anton-riabukha)
+  Operations & Delivery Leader
+  Endorsed my skills in CSS, Web Development.
+  2 skills endorsed
+- 20
+  ### [Eugene Loy](https://www.linkedin.com/in/eugeneloy)
+  Software Developer
+  Endorsed my skills in CSS, Front-end, HTML, JavaScript, LESS, Monstra, PHP, Web Development.
+  8 skills endorsed
+- 21
+  ### [Maxim Bondarenko](https://www.linkedin.com/in/ma-bondarenko)
+  Senior Frontend Developer
+  Endorsed my skills in CSS, Front-end, Git, GruntJS, GulpJS, HTML, JavaScript, LESS, PHP, Web Development.
+  10 skills endorsed
+- 22
+  ### [Vladyslav Kudryk](https://www.linkedin.com/in/vkudrik)
+  DevOps & Cloud Infrastructure Leader. Cybersecurity & Digital Resilience
+  Endorsed my skills in CSS, Front-end, PHP, Web Development.
+  4 skills endorsed
+- 23
+  ### [Victor Pristupa](https://www.linkedin.com/in/vadiazu)
+  Frontend Developer
+  Endorsed my skills in AJAX, CSS, Front-end, Git, JavaScript, jQuery, PHP, Web Development, XML.
+  9 skills endorsed
+- 24
+  ### [Dmytro Shykalenko](https://www.linkedin.com/in/shikalenko)
+  JavaScript Software Engineer
+  Endorsed my skills in AJAX, Bower, CodeIgniter, CSS, Front-end, FuelPHP, Git, GruntJS, GulpJS, HTML, JavaScript, JIRA, jQuery, jQuery Mobile, Kanban, LESS, Node.js, Open Source, PHP, Subversion, User Interface Design, Web Development, Web Performance, XML, Yii.
+  25 skills endorsed
+- 25
   ### [Anastasiia Loiko](https://www.linkedin.com/in/anastasiia-loiko-6904b298)
+  Software Engineer
   Endorsed my skills in JavaScript, PHP, Web Development.
   3 skills endorsed
-- 29
+- 26
   ### [Igor Pastin](https://www.linkedin.com/in/ipastin)
+  Senior UX/UI Designer. Design Systems Architect
   Endorsed my skills in CSS, HTML, PHP, Web Development.
   4 skills endorsed
 
-Based on 376 accepted LinkedIn endorsements from 29 colleagues. Source: LinkedIn Basic Data Export, November 2026.
+Based on 345 accepted LinkedIn endorsements from 26 colleagues. Source: LinkedIn Basic Data Export, November 2026.
 
 Individual profiles are listed on [my LinkedIn profile](https://www.linkedin.com/in/sergey-romanenko/).
 
@@ -246,7 +260,7 @@ A free beginner’s book on Markdown — the markup language behind most of what
 
 2 releases
 
-714 release downloads
+725 release downloads
 
 [Awilum/markdown ↗](https://github.com/Awilum/markdown)
 
@@ -266,7 +280,7 @@ A free beginner’s book on SQL and how relational databases actually work — r
 
 5 releases
 
-1,376 release downloads
+1,418 release downloads
 
 [Awilum/sql-introduction ↗](https://github.com/Awilum/sql-introduction)
 
@@ -306,6 +320,44 @@ From 2016 through 2022, I organized photo walks and brought photographers and mo
 
 All projects live on [/photography/](https://sergeyromanenko.com/photography/).
 
+Photographic recognition
+
+## Recognized along the road.
+
+Photography groups and communities have repeatedly selected my pictures as their photographs of the day and of the week, curated collections, group covers and excellence awards. Five of the most recognized:
+
+1. ![Young souvenir seller in a white shirt covering a smile with her hand, looking into the camera](https://ik.imagekit.io/awilum/photography/recognition/photographs/the-hidden-smile.webp)
+  ### The hidden smile, Hoi An
+  10 recognitions
+  Master Shot Award · Twoim obiektywem - With Your Lens
+  September 4, 2025
+2. ![Elderly man in a white shirt standing in a dark doorway, lit from the side, looking slightly away from the camera](https://ik.imagekit.io/awilum/photography/recognition/photographs/the-doorway.webp)
+  ### The doorway, Hoi An
+  6 recognitions
+  B&W Artist of the Day · Best B&W Photo of the Day
+  July 24, 2025
+3. ![Boy leaning on the open window frame of a train carriage, arms folded, watching outward](https://ik.imagekit.io/awilum/photography/recognition/photographs/train-window.webp)
+  ### At the train window
+  5 recognitions
+  Group cover photo · OCULUS - International Photography Group
+  August 23, 2025
+4. ![Elderly woman seated behind a closed scissor security gate, looking out at the street](https://ik.imagekit.io/awilum/photography/recognition/photographs/behind-the-gate.webp)
+  ### Behind the security gate
+  4 recognitions
+  Photo of the Day · Fotoğraf Mahallesi
+  July 24, 2025
+5. ![Street vendor laughing with her arms full of goods on a sidewalk](https://ik.imagekit.io/awilum/photography/recognition/photographs/the-laughing-vendor.webp)
+  ### The laughing vendor, Saigon
+  3 recognitions
+  Photo of the Day · IASFG (Face Group)
+  August 9, 2025
+
+[View all recognitions](https://sergeyromanenko.com/photography/recognitions/)
+
+60 recognitions · 24 groups and communities
+
+00 / 00
+
 The record
 
 ## What actually happened, and roughly when.
@@ -321,7 +373,7 @@ The record
   I continue to work with software through independent development, technical problem-solving and research and development. My background includes frontend engineering, application architecture, APIs, automation, testing, localization, and broader contract development. I remain interested in how software can solve practical problems and how existing systems can be improved.
 4. 2010–present
   ### Open-Source Software
-  I develop and contribute to open-source software across PHP, JavaScript, frontend tooling, content-management systems and developer utilities. I build reusable solutions, improve existing projects, and share practical tools and knowledge with the wider development community.
+  I develop and contribute to open-source software across PHP, JavaScript, frontend tooling, content-management systems and developer utilities. In 2010 I created Monstra, a flat-file CMS that received the Softpedia Pick Award and Softpedia Script of the Day, and I actively developed it, maintaining and supporting the community that grew around it. In 2018 I worked on Flextype, another CMS, which is included in the collection of content management systems featured on Jamstack.org. I also contribute to other open-source projects and take part in smaller developer communities, building reusable solutions and sharing practical tools and knowledge.
 5. present
   ### Books & Publications
   I create educational publications and practical learning resources, including open materials. My publishing work focuses on making technical knowledge accessible through clear explanations, useful examples, and formats that readers can use independently.
@@ -362,3 +414,16 @@ I’m focused on developing my own independent projects across photography, educ
 - [Telegram@awilum](https://awilum.t.me)
 
 [Get in touch](mailto:awilum.dev@gmail.com)
+
+Visual identity
+
+## Brandbook
+
+How the colours, type and feeling of this website grew out of living and travelling in
+South East Asia.
+
+A personal brandbook: the relationship between travel, everyday life, personal style and design.
+
+[Open the Brandbook](https://sergeyromanenko.com/about/brandbook/)
+
+Everything on this page, from the software and tools to the teaching, the books, the photographs and the road, belongs to the same pursuit. Awilum is the online name I’ve carried since the beginning of my IT career. Derived from the Akkadian awīlum, meaning “human being” or “person”, it reaches back to the ancient world of Mesopotamia. Over the years, it has become more than a nickname. It represents my curiosity, independence, and fascination with exploring unfamiliar worlds, ideas, and possibilities. A small part of my own Wonderland.
