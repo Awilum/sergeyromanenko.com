@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Modern data analysis in SQL: window functions, offset functions, ranking functions, running calculations and complex in-query processing. A practical course in the analytical features that turn SQL into an analysis tool.
 
-Paid — 34 lessons — 522 enrollments — 22 reviews
+Paid — 34 lessons — 531 enrollments — 22 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/282146/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 34
-- **Enrollments:** 522
+- **Enrollments:** 531
 
 ## About this course
 
@@ -88,7 +88,7 @@ Basic SQL knowledge — SELECT, WHERE, GROUP BY, HAVING and aggregate functions.
 - **What language is “SQL Window Functions” taught in?:** “SQL Window Functions” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL Window Functions”?:** “SQL Window Functions” contains 34 lessons in 10 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Window Functions”?:** “SQL Window Functions” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Window Functions” give a certificate?:** Yes. Stepik has issued 79 certificates to learners who completed “SQL Window Functions”.
+- **Does “SQL Window Functions” give a certificate?:** Yes. Stepik has issued 80 certificates to learners who completed “SQL Window Functions”.
 - **How many learners have reviewed “SQL Window Functions”?:** “SQL Window Functions” has 22 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL Window Functions”?:** Enrollment and payment for “SQL Window Functions” happen on Stepik: open https://stepik.org/a/282146/ and start there.
 
@@ -100,9 +100,9 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 34
 - **Modules:** 10
-- **Enrollments:** 522
+- **Enrollments:** 531
 - **Reviews:** 22
-- **Certificates issued:** 79
+- **Certificates issued:** 80
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
@@ -110,7 +110,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL Window Functions is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 34 lessons, 522 enrollments, rated 4.9 out of 5 across 22 reviews and a paid course.
+SQL Window Functions is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 34 lessons, 531 enrollments, rated 4.9 out of 5 across 22 reviews and a paid course.
 
 ## More in SQL
 

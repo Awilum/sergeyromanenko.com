@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A structured SQL course covering syntax, core functions and language constructs, and how to work with SQL databases. Theory, tests and practical tasks take you from the first query to joins, subqueries and unions.
 
-Paid — 85 lessons — 905 enrollments — 77 reviews
+Paid — 85 lessons — 915 enrollments — 78 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/133728/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 85
-- **Enrollments:** 905
+- **Enrollments:** 915
 
 ## About this course
 
@@ -97,8 +97,8 @@ Basic computer science. No prior SQL is assumed; the course builds from first pr
 - **What language is “SQL for Beginners” taught in?:** “SQL for Beginners” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL for Beginners”?:** “SQL for Beginners” contains 85 lessons in 19 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL for Beginners”?:** “SQL for Beginners” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL for Beginners” give a certificate?:** Yes. Stepik has issued 291 certificates to learners who completed “SQL for Beginners”.
-- **How many learners have reviewed “SQL for Beginners”?:** “SQL for Beginners” has 77 reviews on Stepik, with an average rating of 4.8 out of 5.
+- **Does “SQL for Beginners” give a certificate?:** Yes. Stepik has issued 293 certificates to learners who completed “SQL for Beginners”.
+- **How many learners have reviewed “SQL for Beginners”?:** “SQL for Beginners” has 78 reviews on Stepik, with an average rating of 4.8 out of 5.
 - **How do I enroll in “SQL for Beginners”?:** Enrollment and payment for “SQL for Beginners” happen on Stepik: open https://stepik.org/a/133728/ and start there.
 
 Course facts
@@ -109,9 +109,9 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 85
 - **Modules:** 19
-- **Enrollments:** 905
-- **Reviews:** 77
-- **Certificates issued:** 291
+- **Enrollments:** 915
+- **Reviews:** 78
+- **Certificates issued:** 293
 - **Author:** Sergey Romanenko
 - **Rating:** 4.8 / 5
 
@@ -119,7 +119,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL for Beginners is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 85 lessons, 905 enrollments, rated 4.8 out of 5 across 77 reviews and a paid course.
+SQL for Beginners is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 85 lessons, 915 enrollments, rated 4.8 out of 5 across 78 reviews and a paid course.
 
 ## More in SQL
 

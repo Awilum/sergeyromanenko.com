@@ -1,7 +1,7 @@
 ---
 title: "A life spent exploring through the code, commerce and the road."
 seo_title: "About — Sergey Romanenko"
-description: "Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 73,701 enrollments, open-source software, books and practical tools."
+description: "Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,098 enrollments, open-source software, books and practical tools."
 canonical_url: "https://sergeyromanenko.com/about/"
 markdown_url: "https://sergeyromanenko.com/about/index.md"
 section: "About"
@@ -21,11 +21,11 @@ Hoi An, Vietnam
 
 ## Sergey Romanenko
 
-I am a software engineer and independent author of programming courses on Stepik, with more than 17 years of commercial software development experience across application architecture, web development, automation, and testing.
+I am a software engineer and independent author of programming courses on [Stepik](https://sergeyromanenko.com/about/stepik/), with more than 17 years of commercial software development experience across application architecture, web development, automation, and testing.
 
 Since 2022, I have been creating practical programming courses in SQL, JavaScript, Python, Go, PHP, Kotlin, and other subjects. My courses combine structured explanations, exercises, and verifiable assignments, helping learners develop practical skills and work independently with each technology.
 
-I have contributed to commercial and open-source software projects, previously worked as a mentor at Solvery.io, and authored technical books and learning materials on SQL and Markdown. Alongside software engineering and education, I pursue photography and develop independent creative projects.
+I have contributed to commercial and open-source software projects, previously worked as a mentor at [Solvery.io](https://sergeyromanenko.com/about/solvery/) (2022–2023), and authored technical books and learning materials on SQL and Markdown. Alongside software engineering and education, I pursue photography and develop independent creative projects.
 
 I’ve spent my life moving between disciplines, places, and ways of understanding the world. I began with computers and software, learning to take complicated systems apart and understand how they work. Over time, that curiosity expanded beyond the screen into teaching, photography, independent projects, and the experience of living and travelling across different places and cultures.
 
@@ -63,11 +63,11 @@ Stepik
 
 ## Practical education at scale.
 
-73,701
+74,098
 
 Course enrollments
 
-1,369
+1,379
 
 Course reviews
 
@@ -79,7 +79,7 @@ Published courses
 
 Lessons
 
-Source: [Stepik Stats](https://stepstat.ru/user/561566563)· Snapshot: November 10, 2026 · Entire author catalog. Enrollment counts are enrollments, not unique learners.
+Source: [Stepik Stats](https://stepstat.ru/user/561566563)· Snapshot: November 16, 2026 · Entire author catalog. Enrollment counts are enrollments, not unique learners. [The full Stepik project →](https://sergeyromanenko.com/about/stepik/)
 
 Recognition
 
@@ -91,13 +91,15 @@ No. 25
 
 Stepik Stats author reputation ranking
 
-Ranked No. 25 in the[Stepik Stats author reputation ranking](https://stepstat.ru/authors)(as of November 4, 2026).
+Ranked No. 25 in the[Stepik Stats author reputation ranking](https://stepstat.ru/authors)(as of November 16, 2026).
 
 Stepik Awards 2023
 
 Прорыв года · Breakthrough of the Year
 
 [Stepik Awards 2023 record ↗](https://stepstat.ru/awards?year=2023&nomination=%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2%20%D0%B3%D0%BE%D0%B4%D0%B0)
+
+The full story — the catalog, trainers, reviews and the engineering approach behind the courses — is on the [Stepik project page →](https://sergeyromanenko.com/about/stepik/)
 
 Professional endorsements
 
@@ -260,7 +262,7 @@ A free beginner’s book on Markdown — the markup language behind most of what
 
 2 releases
 
-725 release downloads
+745 release downloads
 
 [Awilum/markdown ↗](https://github.com/Awilum/markdown)
 
@@ -280,7 +282,7 @@ A free beginner’s book on SQL and how relational databases actually work — r
 
 5 releases
 
-1,418 release downloads
+1,489 release downloads
 
 [Awilum/sql-introduction ↗](https://github.com/Awilum/sql-introduction)
 
@@ -318,7 +320,7 @@ A photographic study of people, rituals and everyday life in Hoi An.
 
 From 2016 through 2022, I organized photo walks and brought photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working across fashion photography in shops, studios, and outdoor locations, and participating in photography events associated with Sigma Model Agency while scouting for Liberty Model Agency.
 
-All projects live on [/photography/](https://sergeyromanenko.com/photography/).
+All projects live on [/photography/](https://sergeyromanenko.com/photography/). The motorcycle that carried the journey is documented in my [Yamaha PG-1 long-distance touring experience in Vietnam](https://sergeyromanenko.com/about/yamaha-pg-1/).
 
 Photographic recognition
 
@@ -383,7 +385,7 @@ The record
 
 ### Earlier Chapters
 
-1. 2022–2024
+1. 2022–2023
   #### Professional Mentoring
   I mentored developers through Solvery.io, providing individualized programming guidance, practical technical advice, and support with professional development. The work combined my engineering experience with helping other developers understand concepts, evaluate approaches, and grow in their practice.
 2. 2018–2019
@@ -405,7 +407,7 @@ The record
 
 ## Currently
 
-I’m focused on developing my own independent projects across photography, education, publishing, and software, creating photographic series, online courses, educational publications, and practical digital tools.
+I’m focused on developing my own independent projects across photography, education, publishing, and software, creating photographic series, [online courses](https://sergeyromanenko.com/about/stepik/), educational publications, and practical digital tools.
 
 ## Elsewhere
 
@@ -425,5 +427,7 @@ South East Asia.
 A personal brandbook: the relationship between travel, everyday life, personal style and design.
 
 [Open the Brandbook](https://sergeyromanenko.com/about/brandbook/)
+
+[My Yellow Yamaha PG-1](https://sergeyromanenko.com/about/yamaha-pg-1/)
 
 Everything on this page, from the software and tools to the teaching, the books, the photographs and the road, belongs to the same pursuit. Awilum is the online name I’ve carried since the beginning of my IT career. Derived from the Akkadian awīlum, meaning “human being” or “person”, it reaches back to the ancient world of Mesopotamia. Over the years, it has become more than a nickname. It represents my curiosity, independence, and fascination with exploring unfamiliar worlds, ideas, and possibilities. A small part of my own Wonderland.

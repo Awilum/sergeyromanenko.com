@@ -42,6 +42,8 @@ A photographic journey across Vietnam, covering 7,700 kilometers from Da Nang to
 
 **A photographic journey across Vietnam, covering 7,700 kilometers from Da Nang to the southernmost point of the country and back.**
 
+The motorcycle that carried me is documented in my [Yamaha PG-1 long-distance touring experience in Vietnam](https://sergeyromanenko.com/about/yamaha-pg-1/), an owner review written after 37,000+ km.
+
 I began this journey on **December 6, 2025**, in Da Nang. There was no carefully planned route, no detailed itinerary, and no fixed destination waiting for me at the end of the road. I simply left from **Love Pier near the Dragon Bridge in Da Nang**, got on my Yamaha PG-1, and started riding south.
 
 ![Love Pier near the Dragon Bridge in Da Nang](https://ik.imagekit.io/awilum/photography/from-danang-to-south-and-back/from-danang-to-south-and-back-1.jpg)

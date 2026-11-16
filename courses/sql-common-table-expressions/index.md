@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Learn to write professional SQL with common table expressions, together with the book "SQL Common Table Expressions", included for every student. Step-by-step data processing, multiple CTEs and nested queries — the foundation for window functions and analytical work.
 
-Paid — 17 lessons — 396 enrollments — 18 reviews
+Paid — 17 lessons — 407 enrollments — 18 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/294493/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 17
-- **Enrollments:** 396
+- **Enrollments:** 407
 
 ## About this course
 
@@ -84,7 +84,7 @@ Confident use of SELECT, WHERE, GROUP BY, HAVING, ORDER BY and aggregate functio
 - **What language is “SQL Common Table Expressions” taught in?:** “SQL Common Table Expressions” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL Common Table Expressions”?:** “SQL Common Table Expressions” contains 17 lessons in 4 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Common Table Expressions”?:** “SQL Common Table Expressions” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Common Table Expressions” give a certificate?:** Yes. Stepik has issued 71 certificates to learners who completed “SQL Common Table Expressions”.
+- **Does “SQL Common Table Expressions” give a certificate?:** Yes. Stepik has issued 73 certificates to learners who completed “SQL Common Table Expressions”.
 - **How many learners have reviewed “SQL Common Table Expressions”?:** “SQL Common Table Expressions” has 18 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL Common Table Expressions”?:** Enrollment and payment for “SQL Common Table Expressions” happen on Stepik: open https://stepik.org/a/294493/ and start there.
 
@@ -96,9 +96,9 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 17
 - **Modules:** 4
-- **Enrollments:** 396
+- **Enrollments:** 407
 - **Reviews:** 18
-- **Certificates issued:** 71
+- **Certificates issued:** 73
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
@@ -106,7 +106,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL Common Table Expressions is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 17 lessons, 396 enrollments, rated 4.9 out of 5 across 18 reviews and a paid course.
+SQL Common Table Expressions is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 17 lessons, 407 enrollments, rated 4.9 out of 5 across 18 reviews and a paid course.
 
 ## More in SQL
 

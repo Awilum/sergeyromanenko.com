@@ -189,6 +189,22 @@ EIGER is a personal source of inspiration, not an official partner or sponsor of
 
 References: [eigeradventure.com](https://www.eigeradventure.com/) · [eigerindo.co.id/About/history](https://www.eigerindo.co.id/About/history)
 
+![Placeholder — an EIGER waist bag carried in Indonesia](https://picsum.photos/seed/eiger-accessories-1/2400/1350)
+
+*EIGER · 01*
+
+![Placeholder — an EIGER travel accessory in earthy colours](https://picsum.photos/seed/eiger-accessories-2/2400/1350)
+
+*EIGER · 02*
+
+![Placeholder — an everyday EIGER accessory, detail view](https://picsum.photos/seed/eiger-accessories-3/2400/1350)
+
+*EIGER · 03*
+
+![Placeholder — EIGER gear packed for travel](https://picsum.photos/seed/eiger-accessories-4/2400/1350)
+
+*EIGER · 04*
+
 04 · Yamaha PG-1
 
 ## Yellow motorcycle, green bandana, freedom of movement.
@@ -200,13 +216,25 @@ Yellow represents sunlight, warmth, energy and movement. Green represents nature
 
 The motorcycle is how I take smaller roads, discover new places and experience everyday life. It represents the freedom to explore at my own pace. These personal objects relate to the broader visual identity of the website: the same yellow and green reappear in the palette, the same practicality in the design, the same sense of movement in the way the pages are composed.
 
-![Yamaha PG-1 · Đắk Lắk is a province in the South Central Coast and Central Highlands region of Vietnam.](https://ik.imagekit.io/awilum/brandbook/vietnam-daklak-my-yellow-yamaha-pg-1.webp)
+![Yellow Yamaha PG-1 loaded with touring luggage on a mountain pass road in Vietnam](https://ik.imagekit.io/awilum/brandbook/vietnam-daklak-my-yellow-yamaha-pg-1.webp)
 
-![Yamaha PG-1 · Đà Nẵng is a coastal city in Central Vietnam, located on the South Central Coast.](https://ik.imagekit.io/awilum/brandbook/vietnam-daklak-my-yellow-yamaha-pg-1-v2-1.webp)
+*Yamaha PG-1 · Đắk Lắk is a province in the South Central Coast and Central Highlands region of Vietnam.*
 
-![Yamaha PG-1 · Đà Lạt is a city in the Central Highlands region of Vietnam.](https://ik.imagekit.io/awilum/brandbook/vietnam-daklak-my-yellow-yamaha-pg-1-v2-2.webp)
+![Yellow Yamaha PG-1 parked on the seafront in Da Nang, Vietnam](https://ik.imagekit.io/awilum/brandbook/vietnam-daklak-my-yellow-yamaha-pg-1-v2-1.webp)
 
-![Yamaha PG-1 · Mũi Cà Mau is the southernmost point of mainland Vietnam, located in Cà Mau province.](https://ik.imagekit.io/awilum/brandbook/vietnam-daklak-my-yellow-yamaha-pg-1-v2-3.webp)
+*Yamaha PG-1 · Đà Nẵng is a coastal city in Central Vietnam, located on the South Central Coast.*
+
+![Yellow Yamaha PG-1 on a dirt path in Da Lat, Vietnam](https://ik.imagekit.io/awilum/brandbook/vietnam-daklak-my-yellow-yamaha-pg-1-v2-2.webp)
+
+*Yamaha PG-1 · Đà Lạt is a city in the Central Highlands region of Vietnam.*
+
+![Yellow Yamaha PG-1 at Mui Ca Mau, southern Vietnam](https://ik.imagekit.io/awilum/brandbook/vietnam-daklak-my-yellow-yamaha-pg-1-v2-3.webp)
+
+*Yamaha PG-1 · Mũi Cà Mau is the southernmost point of mainland Vietnam, located in Cà Mau province.*
+
+The full story of this motorcycle — 37,000+ km across Vietnam, every modification, technical specifications, and lessons from the road — lives on its own page:
+
+[Yamaha PG-1 long-distance touring experience in Vietnam →](https://sergeyromanenko.com/about/yamaha-pg-1/)
 
 05 · Personal style
 

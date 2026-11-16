@@ -15,11 +15,11 @@ robots: "index, follow"
 
 The complete structure of the site, shown as a tree of folders and pages. Every entry is a direct link, and the tree is generated from the same content the XML sitemap lists.
 
-99 internal pages
+103 internal pages
 
 31 external links
 
-Total: 130
+Total: 134
 
 How to use
 
@@ -29,6 +29,10 @@ For crawlers there is also the[XML sitemap](https://sergeyromanenko.com/sitemap-
 
 - [Home](https://sergeyromanenko.com/) — Sergey Romanenko — photography, courses, publications, tools and games
   - [About](https://sergeyromanenko.com/about/) — Biography and project information
+  - [Stepik](https://sergeyromanenko.com/about/stepik/) — The Stepik educational project: courses, trainers, reviews and the 2026 Stepik CLI workflow
+  - [Solvery](https://sergeyromanenko.com/about/solvery/) — Professional mentoring at Solvery (2022–2023), with student testimonials
+  - [My Yellow Yamaha PG-1](https://sergeyromanenko.com/about/yamaha-pg-1/) — Long-term Yamaha PG-1 owner review after 37,000+ km in Vietnam: modifications, maintenance, reliability, pros and cons
+  - [Brandbook](https://sergeyromanenko.com/about/brandbook/) — Visual identity shaped by travel and everyday life
   - [Courses](https://sergeyromanenko.com/courses/) — Online courses on Stepik
     - [Practical Java Programming Trainer](https://sergeyromanenko.com/courses/java-practical-trainer/)
     - [Practical C# Programming Trainer](https://sergeyromanenko.com/courses/csharp-practical-trainer/)

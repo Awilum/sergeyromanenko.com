@@ -18,7 +18,7 @@ robots: "index, follow"
 
 An SQL trainer where you learn through real tasks instead of theory. You work with user, order and product data shaped like the data of a real company, writing queries and analysing results until simple SELECTs turn into full analytical tasks.
 
-Paid — 26 lessons — 2,304 enrollments — 30 reviews
+Paid — 26 lessons — 2,313 enrollments — 30 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/279399/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 26
-- **Enrollments:** 2,304
+- **Enrollments:** 2,313
 
 ## About this course
 
@@ -83,7 +83,7 @@ Basic logical and mathematical thinking and a first look at SQL. If your theory 
 - **What language is “Practical SQL Programming Trainer” taught in?:** “Practical SQL Programming Trainer” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “Practical SQL Programming Trainer”?:** “Practical SQL Programming Trainer” contains 26 lessons in 6 modules. It is self-paced, so you study on your own schedule.
 - **Who created “Practical SQL Programming Trainer”?:** “Practical SQL Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “Practical SQL Programming Trainer” give a certificate?:** Yes. Stepik has issued 117 certificates to learners who completed “Practical SQL Programming Trainer”.
+- **Does “Practical SQL Programming Trainer” give a certificate?:** Yes. Stepik has issued 118 certificates to learners who completed “Practical SQL Programming Trainer”.
 - **How many learners have reviewed “Practical SQL Programming Trainer”?:** “Practical SQL Programming Trainer” has 30 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “Practical SQL Programming Trainer”?:** Enrollment and payment for “Practical SQL Programming Trainer” happen on Stepik: open https://stepik.org/a/279399/ and start there.
 
@@ -95,9 +95,9 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 26
 - **Modules:** 6
-- **Enrollments:** 2,304
+- **Enrollments:** 2,313
 - **Reviews:** 30
-- **Certificates issued:** 117
+- **Certificates issued:** 118
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
@@ -105,7 +105,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Practical SQL Programming Trainer is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 26 lessons, 2,304 enrollments, rated 4.9 out of 5 across 30 reviews and a paid course.
+Practical SQL Programming Trainer is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 26 lessons, 2,313 enrollments, rated 4.9 out of 5 across 30 reviews and a paid course.
 
 ## More in SQL
 

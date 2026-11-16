@@ -18,7 +18,7 @@ robots: "index, follow"
 
 The most popular Markdown course on Stepik, together with a free book. A complete course in the Markdown markup language, from the first line to advanced features, for producing professionally formatted documents, articles and technical documentation.
 
-Free — 31 lessons — 6,407 enrollments — 476 reviews
+Free — 31 lessons — 6,433 enrollments — 477 reviews
 
 [Start free on Stepik ↗](https://stepik.org/a/187888/)
 
@@ -37,7 +37,7 @@ Free
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 31
-- **Enrollments:** 6,407
+- **Enrollments:** 6,433
 
 ## About this course
 
@@ -85,8 +85,8 @@ None. A basic understanding of HTML is helpful later, because Markdown occasiona
 - **What language is “Markdown” taught in?:** “Markdown” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “Markdown”?:** “Markdown” contains 31 lessons in 4 modules. It is self-paced, so you study on your own schedule.
 - **Who created “Markdown”?:** “Markdown” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “Markdown” give a certificate?:** Yes. Stepik has issued 2,606 certificates to learners who completed “Markdown”.
-- **How many learners have reviewed “Markdown”?:** “Markdown” has 476 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **Does “Markdown” give a certificate?:** Yes. Stepik has issued 2,613 certificates to learners who completed “Markdown”.
+- **How many learners have reviewed “Markdown”?:** “Markdown” has 477 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “Markdown”?:** Enrollment for “Markdown” happen on Stepik: open https://stepik.org/a/187888/ and start there.
 
 Course facts
@@ -97,9 +97,9 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 31
 - **Modules:** 4
-- **Enrollments:** 6,407
-- **Reviews:** 476
-- **Certificates issued:** 2,606
+- **Enrollments:** 6,433
+- **Reviews:** 477
+- **Certificates issued:** 2,613
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
@@ -107,7 +107,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Markdown is a beginner Markdown course, published on Stepik by Sergey Romanenko, taught in Russian, 31 lessons, 6,407 enrollments, rated 4.9 out of 5 across 476 reviews and free to enroll.
+Markdown is a beginner Markdown course, published on Stepik by Sergey Romanenko, taught in Russian, 31 lessons, 6,433 enrollments, rated 4.9 out of 5 across 477 reviews and free to enroll.
 
 Next
 
