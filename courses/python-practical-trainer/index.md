@@ -100,7 +100,7 @@ Basic computer science and mathematics, plus a basic working knowledge of Python
 - **What language is “Practical Python Programming Trainer” taught in?:** “Practical Python Programming Trainer” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “Practical Python Programming Trainer”?:** “Practical Python Programming Trainer” contains 55 lessons in 22 modules. It is self-paced, so you study on your own schedule.
 - **Who created “Practical Python Programming Trainer”?:** “Practical Python Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “Practical Python Programming Trainer” give a certificate?:** Yes. Stepik has issued 43 certificates to learners who completed “Practical Python Programming Trainer”.
+- **Does “Practical Python Programming Trainer” give a certificate?:** Yes. Stepik has issued 44 certificates to learners who completed “Practical Python Programming Trainer”.
 - **How many learners have reviewed “Practical Python Programming Trainer”?:** “Practical Python Programming Trainer” has 16 reviews on Stepik, with an average rating of 4.5 out of 5.
 - **How do I enroll in “Practical Python Programming Trainer”?:** Enrollment and payment for “Practical Python Programming Trainer” happen on Stepik: open https://stepik.org/a/173184/ and start there.
 
@@ -114,7 +114,7 @@ Course facts
 - **Modules:** 22
 - **Enrollments:** 1,236
 - **Reviews:** 16
-- **Certificates issued:** 43
+- **Certificates issued:** 44
 - **Author:** Sergey Romanenko
 - **Rating:** 4.5 / 5
 

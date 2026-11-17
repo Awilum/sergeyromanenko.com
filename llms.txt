@@ -24,14 +24,14 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/index.md)
 - [People of Hoi An](https://sergeyromanenko.com/photography/people-of-hoi-an/): A photographic study of people, rituals and everyday life in Hoi An.
   - [Markdown](https://sergeyromanenko.com/photography/people-of-hoi-an/index.md)
-- [Photo Walk and Model Agencies](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/): From 2016 through 2022, I organized photo walks and brought photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working across fashion photography in shops, studios, and outdoor locations, and participating in photography events associated with Sigma Model Agency while scouting for Liberty Model Agency.
+- [Photo Walk and Model Agencies](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/): From 2016 through 2019, I organized creative photo shoots and founded and organized photo walks, bringing photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working directly with models on creative shoots and other photography projects, providing freelance photography coverage for Sigma Models' fashion shows and agency events, and working as a freelance model scout for Liberty Model Agency.
   - [Markdown](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/index.md)
 - [Recognized along the road: the photographs *communities chose*.](https://sergeyromanenko.com/photography/recognitions/): The photographic recognition archive: 60 selections, features and awards for 27 photographs, recognized by 24 photography groups and communities.
   - [Markdown](https://sergeyromanenko.com/photography/recognitions/index.md)
 
 ## Courses
 
-- [Teaching what took me *years* to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 74,098 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
+- [Teaching what took me *years* to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 74,135 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
   - [Markdown](https://sergeyromanenko.com/courses/index.md)
 - [Data Engineer](https://sergeyromanenko.com/courses/data-engineer/): A complete path to becoming a data engineer from zero: Python and Git first, then SQL from syntax to window functions, Pandas for data work, ClickHouse…
   - [Markdown](https://sergeyromanenko.com/courses/data-engineer/index.md)
@@ -225,7 +225,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## About
 
-- [A life spent exploring through the code, commerce and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,098 enrollments, open-source software, books and practical tools.
+- [A life spent exploring through the code, cameras and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,135 enrollments, open-source software, books and practical tools.
   - [Markdown](https://sergeyromanenko.com/about/index.md)
 - [A visual identity shaped by travel and everyday life.](https://sergeyromanenko.com/about/brandbook/): A personal brandbook for sergeyromanenko.com — how its colours, typography and visual identity grew out of living and travelling in Bali, Indonesia.
   - [Markdown](https://sergeyromanenko.com/about/brandbook/index.md)
@@ -233,6 +233,8 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/about/stepik/index.md)
 - [My Yellow Yamaha PG-1: 37,000 km of Riding in Vietnam](https://sergeyromanenko.com/about/yamaha-pg-1/): A real-world Yamaha PG-1 owner review after 37,000+ km in Vietnam, including a 7,740-km journey, touring modifications, maintenance, reliability, pros and cons.
   - [Markdown](https://sergeyromanenko.com/about/yamaha-pg-1/index.md)
+- [Photography, Creative Projects & Model Scouting](https://sergeyromanenko.com/about/photography-and-model-scouting/): A first-person account of my photography and model-related work from 2016 to 2019: creative photography projects, the Photo Walks community I founded and organized, fashion and event photography with Sigma Models, freelance model scouting for Liberty Model Agency, and selected photographs and testimonials.
+  - [Markdown](https://sergeyromanenko.com/about/photography-and-model-scouting/index.md)
 - [Professional Mentoring at Solvery](https://sergeyromanenko.com/about/solvery/): I served as a mentor at Solvery (2022–2023), providing individualized mentoring for aspiring developers — the technologies and topics I covered, and student testimonials.
   - [Markdown](https://sergeyromanenko.com/about/solvery/index.md)
 

@@ -21,7 +21,7 @@ exercises and practical programming trainers. What started as a single SQL cours
 developed into a broad educational project covering SQL, JavaScript, Python, Java, C#, Go,
 Kotlin, PHP and Markdown.
 
-Online education · 2023–present · Independent course author26 published courses · 1,548 lessons · 74,098 enrollments · Snapshot: November 16, 2026
+Online education · 2023–present · Independent course author26 published courses · 1,548 lessons · 74,135 enrollments · Snapshot: November 17, 2026
 
 02 · How it started
 
@@ -34,7 +34,7 @@ I gradually expanded the project, developing new courses, refining existing mate
 - **First published course:** SQL Introduction (English) · 2023
 - **Role:** Independent course author
 - **Format:** Text-based courses with practical assignments
-- **Today:** 26 published courses · snapshot November 16, 2026
+- **Today:** 26 published courses · snapshot November 17, 2026
 
 03 · The project today
 
@@ -42,7 +42,7 @@ I gradually expanded the project, developing new courses, refining existing mate
 
 Course enrollments across the whole catalog
 
-74,098
+74,135
 
 This is the number of enrollments reported by the profile, not a count of unique learners — someone enrolled in several courses is counted once per course.
 
@@ -50,13 +50,13 @@ This is the number of enrollments reported by the profile, not a count of unique
 - **Lessons:** 1,548
 - **Quizzes:** 3,418
 - **Programming tasks:** 4,550
-- **Certificates issued:** 7,031
-- **Followers:** 58,403
+- **Certificates issued:** 7,037
+- **Followers:** 58,432
 - **Received reviews:** 1,389
-- **Reputation:** 3,023,341
+- **Reputation:** 3,025,476
 - **Average rating:** 4.86 / 5
 
-Source: [Stepik Stats profile](https://stepstat.ru/user/561566563) · Snapshot: November 16, 2026. Course and lesson counts include the whole catalog.
+Source: [Stepik Stats profile](https://stepstat.ru/user/561566563) · Snapshot: November 17, 2026. Course and lesson counts include the whole catalog.
 
 04 · Recognition
 
@@ -64,11 +64,11 @@ Source: [Stepik Stats profile](https://stepstat.ru/user/561566563) · Snapshot: 
 
 The ranking reflects reputation accumulated across the whole author catalog, not the rating of any individual course. It is measured by an independent statistics service built on the Stepik API.
 
-No. 25
+No. 24
 
 Stepik Stats author reputation ranking
 
-Ranked No. 25 in the [Stepik Stats author reputation ranking](https://stepstat.ru/authors) (as of November 16, 2026).
+Ranked No. 24 in the [Stepik Stats author reputation ranking](https://stepstat.ru/authors) (as of November 17, 2026).
 
 Stepik Awards 2023
 
@@ -132,8 +132,8 @@ A central part of the project is a family of programming trainers covering JavaS
 
 - JavaScript[Practical JavaScript Programming Trainer](https://sergeyromanenko.com/courses/javascript-practical-trainer/)893 enrollments
 - Python[Practical Python Programming Trainer](https://sergeyromanenko.com/courses/python-practical-trainer/)1,236 enrollments
-- Java[Practical Java Programming Trainer](https://sergeyromanenko.com/courses/java-practical-trainer/)19,479 enrollments
-- C#[Practical C# Programming Trainer](https://sergeyromanenko.com/courses/csharp-practical-trainer/)13,432 enrollments
+- Java[Practical Java Programming Trainer](https://sergeyromanenko.com/courses/java-practical-trainer/)19,477 enrollments
+- C#[Practical C# Programming Trainer](https://sergeyromanenko.com/courses/csharp-practical-trainer/)13,431 enrollments
 - Go[Practical Go Programming Trainer](https://sergeyromanenko.com/courses/go-practical-trainer/)773 enrollments
 - Kotlin[Practical Kotlin Programming Trainer](https://sergeyromanenko.com/courses/kotlin-practical-trainer/)256 enrollments
 - PHP[Practical PHP Code Reading Trainer](https://sergeyromanenko.com/courses/php-practical-trainer/)238 enrollments
@@ -232,12 +232,8 @@ Stepik CLI is my independent developer tool, not an official Stepik product. It 
 
 ## What students say.
 
-Reviews from my Stepik profile, collected November 16, 2026. English translations
-shown; the original Russian text is preserved alongside each review.
-
 1. 01
   ### Глеб Великий
-  ★★★★★
   Well, I have now finished this wonderful course at 99% (why not 100% — you will find out later). The whole journey took me 28 days. I think I could have managed in less time if I had not slacked off or lazed around, or in more if I had been burdened by work and other things. So now I will try to share my impressions of this course: for those who save their time, a short summary first: 9/10. I recommend it. And now the detailed story of my impressions.
   PROS OF THE COURSE There are far more pros than cons. The course is well made, information is sorted onto its shelves, and the tasks help you absorb the theory.
 
@@ -255,7 +251,6 @@ shown; the original Russian text is preserved alongside each review.
   Course: [JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/) · December 25, 2024
 2. 02
   ### Родион Викторович
-  ★★★★★
   An excellent learning guide, representing the ideal balance between convenience, content and practical skills. This course not only reads like a book, but also lets you learn flexibly in any situation and place. I previously had experience with video courses, which are extremely inconvenient for learning programming, and the text format of presenting information is much more convenient and effective to work with and learn from. Moreover, it is easy to find the material you have covered and use it as a reference for solving problems and preparing for interviews.
   One of this course's main pluses is the abundance of tests and tasks. The test questions not only check understanding of the material, but also stimulate its assimilation and encourage you to study code examples. Moreover, this course has a large collection of practical tasks — there are really many, from simple to complex algorithmic ones — which develops thinking and allows you to maximally reinforce the theoretical material in practice, and this is very important when preparing for interviews. For some tasks you need to recall your math, since there are, for example, tasks on matrices and more. The course also mentions a good selection of books on algorithms; reading "Grokking Algorithms" can help solve some complex tasks in the arrays module.
   This course stands out from similar ones in the catalog thanks to the extensive set of topics covered. The modules on sorting and search algorithms are an important resource for those aiming to successfully pass interviews for the position of JavaScript developer. Additionally, the modules covering work with arrays, strings, objects, dates and math provide all the necessary tools for effective programming in JavaScript. I especially want to highlight the module on regular expressions and error handling. These topics are often considered difficult to understand, but thanks to the simple presentation they become more understandable. These modules also include tasks and tests for better memorization of the theory.
@@ -265,7 +260,6 @@ shown; the original Russian text is preserved alongside each review.
   Course: [JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/) · August 14, 2023
 3. 03
   ### Сергей Босов
-  ★★★★★
   I have successfully completed the Markdown course, and now I want to share my experience. The course turned out to be very useful and rich in new information, even though I already had some initial knowledge of this language. After completing the course, I significantly improved my Markdown skills. Now I confidently create documents using this markup language, easily format tables, lists, headings of various levels and insert links. In addition, I mastered working with images and code blocks, which allows me to create high-quality technical documents and articles.
   One of the most useful discoveries was understanding the nuances of using Markdown in different contexts. For example, I learned how to properly format long texts so they look neat and readable. I also mastered the extended capabilities of Markdown, such as creating notes and highlighting important fragments of text.
   I especially liked the course's approach to teaching. All materials were clearly structured and logically organized, which allowed a gradual immersion into the topic without overload. The practical tasks were varied and interesting, they helped reinforce new knowledge at each stage. I also want to note the accessibility of the explanations and examples. Even complex topics were broken down in such detail that no questions remained. And being able to ask the instructor questions and receive prompt feedback made the learning process even more comfortable.
@@ -276,7 +270,6 @@ shown; the original Russian text is preserved alongside each review.
   Course: [Markdown](https://sergeyromanenko.com/courses/markdown/) · December 22, 2024
 4. 04
   ### Алекс Бык
-  ★★★★★
   This course is a real find for everyone who wants to learn JavaScript from scratch and build a solid foundation for further development in programming. Developed with attention to detail and relying on the author's many years of experience, it covers all the key aspects of working with this language, from basic concepts to the practical skills that are in demand in today's IT industry. Web development, creating games, mobile applications — a foundation for everything!
   The course systematically leads you to understanding JavaScript, starting simple and gradually deepening into more complex topics. The fundamentals of the language: variables, data types, functions, loops and arrays — are presented in a convenient for learning form with an emphasis on practical application. All the material is backed by tasks that let you practise each new concept. This is not just a set of theory, but an opportunity in practice to solve tasks, encounter real programming scenarios and find effective solutions. Thanks also to the other students of the course for the opportunity to look at their published solutions!
   The text format of the course makes it accessible and convenient. You can study the material at a convenient time, return to difficult topics, thoughtfully read and analyze information. This is the format that lets you learn at your own pace and focus on the aspects that really matter to you. The text format of learning is the best format! And this format lets you use the course as a reference! — which you cannot say about video course formats on programming languages.
@@ -286,7 +279,6 @@ shown; the original Russian text is preserved alongside each review.
   Course: [JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/) · November 23, 2024
 5. 05
   ### Anonymous 608745149
-  ★★★★★
   This is my first online coding course. After a very long break I decided to try entering a new profession through this JavaScript course (I followed a link from a reply in a Twitter thread). Old habits do help the material sink in, but in some places I had to fill in quite large gaps. If the basic set (variables, loops, functions, arrays, objects and the like) still lends itself to comprehension/recollection somehow, then working with regular expressions turned out to be a big white spot in the "archives". It is exactly regular expressions where the course's theory/reference information needs worked-through examples; otherwise nothing is clear — you seem to understand what and why, but how it works at all is not covered.
   The practical tasks are decent and in sufficient quantity, and I would not say they are easy — for a beginner they might even turn out to be unmanageable (the ones worth three or four e-points). I noticed that in the arrays section the methods push, pop, shift are described, but unshift is not described (I do not understand why, although the platform supports it). There are also some unnecessary tasks — of no practical value — this is the first question mark after the theoretical part where you need to mark "yes" and continue your path — I suppose it is done to reinforce information, but it only works at the beginning of the course; later you do it on autopilot without reading the question.
   The author responds to questions promptly, but does not exactly coddle the "students" (no time to chew everything for everyone, I understand) — so you need to be ready to search for information on your own. I will assess the course 5* in advance in the hope that the author takes the remarks and wishes into account. Overall, I liked it; I have also bought another SQL course from Sergey Romanenko — let's continue).
@@ -295,7 +287,6 @@ shown; the original Russian text is preserved alongside each review.
   Course: [JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/) · September 12, 2023
 6. 06
   ### Volha Charnukha
-  ★★★★★
   This is a very good course. In some ways it resembles the grandiose Python course on Stepik. But it is not for absolute beginners. If you take it from zero with absolutely no programming experience, it will not work for 99%. I.e. it is like a base for those who already know something. It systematizes knowledge, shows what you need to study further. And if this course were for beginners, the practical tasks would be better made from easy to hard. And progressive. But here it is all jumbled together. At first it is a bit irritating. Then you get used to it. Well, there is no such thing as perfect.
   Also, at the beginning of the course description there is a question about how important it is to know good mathematics for this course. But that is not really the case. Yes, you need logic. But not mathematics (or at least not the kind that often frightens people), but rather arithmetic. I would have liked more very simple tasks for beginners. I really liked the many great tasks in the arrays and strings sections. I do not quite understand why strings come after objects, for example. Or sets. Also, in the practical tasks on strings there are quite a few tasks where solving with a regular expression is simpler than without one. But regular expressions come in the chapter after. These are trifles, of course, but in my opinion they affect the perception and understanding of the course material. If the chapters were logically tidied up a bit and very simple practical tasks where you need to write code (for complete beginners) were added, it would not be a course, it would be a bomb-) I will definitely recommend the course)
   **Read the original (Russian)**
@@ -303,7 +294,6 @@ shown; the original Russian text is preserved alongside each review.
   Course: [JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/) · July 24, 2024
 7. 07
   ### Александр Терехов
-  ★★★★★
   I will try to write to the point, so the review is genuinely useful. If you are just starting to study JavaScript and it is your first language, the course will bring great benefit. It covers the basic topics well, gives the first algorithmic tasks, and it is through practice that syntax sticks best. So for beginners I recommend taking both of this author's courses right away and definitely trying to solve every task independently. Turn to AI only after 20-30 minutes of trying — this way learning will be more effective.
   I am studying JavaScript after Python. Many tasks were familiar to me. My goal is to master the syntax as quickly as possible, so I solved some tasks myself, and checked some against AI to quickly understand where I made a mistake. In this mode the course turned out to be very useful for me. In my opinion, it is better than similar materials on Stepik. I saw negative reviews, but pay attention to who writes them — most often these are people who have completed one or two courses, and that explains a lot. As someone who has gone through a large number of learning programs and has something to compare them with, I can say: the course is composed competently, the structure is well thought out, and the complaints in negative reviews are mostly unconstructive. Thank you, author, for the work you have done. The course deserves a solid 5+.
   **Read the original (Russian)**
@@ -311,7 +301,6 @@ shown; the original Russian text is preserved alongside each review.
   Course: [JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/) · January 17, 2026
 8. 08
   ### Михаил Петрушков
-  ★★★★★
   A positive impression of the course. Pros: It was interesting and useful for me to read about: 1) Software design principles — never encountered them before, it was useful 2) The software development life cycle — never encountered it before, it was useful 3) Objects in JavaScript — theory and practice 4) Object prototypes — theory and practice 5) Classes — theory and practice — never encountered it before, it was useful 6) Object-oriented programming — never encountered it before, it was useful 7) The "Advanced work with functions" block — learned something new, reinforced the old 8) A huge (even a bit too much) number of various tasks in block 19, practice working with data structures 9) Introduction and detailed analysis of design patterns 10) Asynchronous programming — the theory is well presented, but there is no practice.
   Cons: The main drawback for me personally was the lack of practice and practical tasks on asynchronicity. I previously passed the course https://stepik.org/course/134850/promo#toc — the author delivers the material well, and the amount of practice is sufficient.
   **Read the original (Russian)**
@@ -319,7 +308,6 @@ shown; the original Russian text is preserved alongside each review.
   Course: [JavaScript for Experienced](https://sergeyromanenko.com/courses/javascript-for-experienced/) · December 19, 2024
 9. 09
   ### Томирис Жасыузак
-  ★★★★★
   This course gave me useful information and practical skills in SQL. I learned to perform various operations with databases, such as creating tables, changing their structure, adding, updating and deleting data. I also understood how to use different types of JOINs to work with multiple tables and how to manipulate data using various operators.
   What I liked: well-structured and clear explanations of SQL queries. Practical tasks that helped reinforce the theoretical material. Accessibility and simplicity of the material.
   What could be improved: perhaps more real-world examples demonstrating work with large volumes of data. Some topics could be covered in more detail, for example working with subqueries and query optimization. I chose this course because it fit my level well and covered the basic SQL topics. I decided to take it to improve my database skills and be better prepared for work with real projects.
@@ -328,7 +316,6 @@ shown; the original Russian text is preserved alongside each review.
   Course: [SQL Introduction](https://sergeyromanenko.com/courses/sql-introduction/) · January 8, 2025
 10. 10
   ### Богдан Булах
-  ★★★★★
   One of the best courses on basic JavaScript on Stepik (possibly beyond it too). When I started this course, I had no programming experience at all. So even the simplest tasks gave me trouble. I had to study a lot of extra material from outside sources (though the author himself recommends this). This helped me finish the course and understand the base with which I can now solve the tasks I need and implement my ideas.
   What I want to note additionally: 1. Fast feedback from the author and fixes for errors, if any. 2. Constant content updates (since purchase, the amount of material has increased, probably by a factor of one and a half). 3. Important topics rarely found in other courses, such as software design principles, developing algorithmic thinking, debugging code, algorithms and others. 4. In parallel with the course I was taking the analogous one from freeCodeCamp and watching various authors on YouTube. In the end this course looked the most substantive to me.
   In general, I recommend the course :) And my next step is moving on to the advanced level and the JS trainer.
@@ -336,7 +323,7 @@ shown; the original Russian text is preserved alongside each review.
   Один из лучших курсов по базовому JavaScript на Stepik (возможно и за его пределами). Когда я начал этот курс, у меня вообще не было опыта программирования. Поэтому даже самые простые задачи вызывали у меня трудности. Приходилось много чего изучать дополнительно из сторонних источников (но это как раз советует автор) Это помогло мне окончить курс и понять базу, с которой я теперь могу решать нужные мне задачи и реализовывать свои идеи. Что хочется отметить дополнительно: 1. Быстрый фидбек автора и исправление ошибок, если они есть. 2. Постоянный апдейт контента (с момента покупки курса количество материалов увеличилось, наверное, в полтора раза). 3. Важные темы, которые редко встретишь на других курсах, такие как принципы проектирования ПО, развитие алгоритмического мышления, отладка кода, алгоритмы и другие. 4. Параллельно с курсом я проходил аналогичный от freeCodeCamp и смотрел различных авторов на YouTube. В итоге этот курс показался самым содержательным. В общем, курс рекомендую :) А я следующим шагом перехожу к продвинутому уровню и JS тренажеру
   Course: [JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/) · February 8, 2024
 
-Showing the 10 longest reviews (1,379 fetched on November 16, 2026). Translations are mine; the original Russian text is preserved verbatim behind each review. [All reviews on Stepik Stats ↗](https://stepstat.ru/user/561566563/reviews)
+[All reviews on Stepik Stats ↗](https://stepstat.ru/user/561566563/reviews)
 
 Next
 

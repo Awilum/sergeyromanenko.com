@@ -15,11 +15,11 @@ robots: "index, follow"
 
 The complete structure of the site, shown as a tree of folders and pages. Every entry is a direct link, and the tree is generated from the same content the XML sitemap lists.
 
-103 internal pages
+104 internal pages
 
 31 external links
 
-Total: 134
+Total: 135
 
 How to use
 
@@ -31,6 +31,7 @@ For crawlers there is also the[XML sitemap](https://sergeyromanenko.com/sitemap-
   - [About](https://sergeyromanenko.com/about/) — Biography and project information
   - [Stepik](https://sergeyromanenko.com/about/stepik/) — The Stepik educational project: courses, trainers, reviews and the 2026 Stepik CLI workflow
   - [Solvery](https://sergeyromanenko.com/about/solvery/) — Professional mentoring at Solvery (2022–2023), with student testimonials
+  - [Photography, Creative Projects & Model Scouting](https://sergeyromanenko.com/about/photography-and-model-scouting/) — Creative photography projects, the Photo Walks community I founded, event and fashion photography with Sigma Models, freelance model scouting for Liberty Model Agency, equipment and testimonials (2016–2019)
   - [My Yellow Yamaha PG-1](https://sergeyromanenko.com/about/yamaha-pg-1/) — Long-term Yamaha PG-1 owner review after 37,000+ km in Vietnam: modifications, maintenance, reliability, pros and cons
   - [Brandbook](https://sergeyromanenko.com/about/brandbook/) — Visual identity shaped by travel and everyday life
   - [Courses](https://sergeyromanenko.com/courses/) — Online courses on Stepik
@@ -77,7 +78,7 @@ For crawlers there is also the[XML sitemap](https://sergeyromanenko.com/sitemap-
     - [From Da Nang to South and Back](https://sergeyromanenko.com/photography/from-danang-to-south-and-back/) — A photographic journey across Vietnam, covering 7,700 kilometers from Da Nang to the southernmost point of the country and back.
     - [People of Bangkok's Chinatown](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/) — In 2025 I spent two months living in Bangkok and repeatedly explored Chinatown on foot - photographing street life, food culture, everyday characters, and the cats that appear to live comfortably among the neighborhood's activity. A personal travel journal of observation and return.
     - [People of Hoi An](https://sergeyromanenko.com/photography/people-of-hoi-an/) — A photographic study of people, rituals and everyday life in Hoi An.
-    - [Photo Walk and Model Agencies](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/) — From 2016 through 2022, I organized photo walks and brought photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working across fashion photography in shops, studios, and outdoor locations, and participating in photography events associated with Sigma Model Agency while scouting for Liberty Model Agency.
+    - [Photo Walk and Model Agencies](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/) — From 2016 through 2019, I organized creative photo shoots and founded and organized photo walks, bringing photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working directly with models on creative shoots and other photography projects, providing freelance photography coverage for Sigma Models' fashion shows and agency events, and working as a freelance model scout for Liberty Model Agency.
   - [Publications](https://sergeyromanenko.com/publications/) — Books, zines and journals
     - [IT Books](https://sergeyromanenko.com/publications/it-books/) — Practical books about programming, data, markup languages and digital technologies.
       - [Markdown](https://sergeyromanenko.com/publications/it-books/markdown/) — A free beginner’s book on Markdown — the markup language behind most of what you read on the web, from headings and emphasis to tables and links.

@@ -1,7 +1,7 @@
 ---
 title: "Teaching what took me *years* to work out."
 seo_title: "Sergey Romanenko Online Programming Courses"
-description: "26 Sergey Romanenko online courses with 74,098 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik."
+description: "26 Sergey Romanenko online courses with 74,135 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik."
 canonical_url: "https://sergeyromanenko.com/courses/"
 markdown_url: "https://sergeyromanenko.com/courses/index.md"
 section: "Courses"
@@ -13,7 +13,7 @@ robots: "index, follow"
 
 # Teaching what took me *years* to work out.
 
-74,098 enrollments — 26 courses — 1,092 lessons — 25 Russian — 1 English
+74,135 enrollments — 26 courses — 1,092 lessons — 25 Russian — 1 English
 
 26 courses on programming and data, most of them trainers: long sequences of problems to solve rather than videos to sit through. They exist because the hard part of learning to program is not understanding syntax — it is finding out, forty times in a row, whether you actually understood what you thought you understood.
 
@@ -21,7 +21,7 @@ robots: "index, follow"
 
 Total enrollments across all published courses
 
-74,098
+74,135
 
 Every figure on this page comes from the local course dataset, refreshed from the Stepik statistics API. It counts enrollments: someone who enrolled in several courses is counted once per course. Enrollment happens on Stepik.
 
@@ -31,7 +31,7 @@ Every figure on this page comes from the local course dataset, refreshed from th
 - **Paid courses:** 21
 - **Reviews:** 1,379
 - **Average rating:** 4.86
-- **Certificates issued:** 7,031
+- **Certificates issued:** 7,037
 - **Lessons:** 1,092
 
 ## Learning paths
@@ -190,7 +190,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 21 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 3,252 enrollments
+  - **Enrollments:** 3,280 enrollments
   - **Rating:** 4.9 ★ (108)
   Free
   View course
@@ -226,7 +226,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 17 lessons
   - **Modules:** 3 modules
-  - **Enrollments:** 1,009 enrollments
+  - **Enrollments:** 1,015 enrollments
   - **Rating:** 4.6 ★ (37)
   Free
   View course
@@ -281,7 +281,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 30 lessons
   - **Modules:** 5 modules
-  - **Enrollments:** 9,714 enrollments
+  - **Enrollments:** 9,718 enrollments
   - **Rating:** 4.9 ★ (142)
   Free
   View course
@@ -348,7 +348,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 38 lessons
   - **Modules:** 16 modules
-  - **Enrollments:** 13,432 enrollments
+  - **Enrollments:** 13,431 enrollments
   - **Rating:** 5.0 ★ (10)
   Paid
   View course
@@ -386,7 +386,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 34 lessons
   - **Modules:** 9 modules
-  - **Enrollments:** 19,479 enrollments
+  - **Enrollments:** 19,477 enrollments
   - **Rating:** 4.9 ★ (32)
   Paid
   View course
@@ -424,7 +424,7 @@ Python 1
   - **Language:** Russian
   - **Lessons:** 31 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 6,433 enrollments
+  - **Enrollments:** 6,435 enrollments
   - **Rating:** 4.9 ★ (477)
   Free
   View course
@@ -473,7 +473,7 @@ About the author
 
 **Knowledge collected during the journey and shared.** What began as an independent IT education project on the **Stepik platform** has grown into a broader practice: turning field experience into practical learning. The catalog covers **programming, software development, data analysis, and related areas of information technology**, combining structured courses, interactive exercises, and hands-on training.
 
-These courses are designed to turn theoretical knowledge into **practical skills through hands-on learning and interactive tasks**. The project has reached **74,098 enrollments** across its **26 published courses** on Stepik, backed by **1,379 learner reviews** — an established independent educational project with a growing international audience.
+These courses are designed to turn theoretical knowledge into **practical skills through hands-on learning and interactive tasks**. The project has reached **74,135 enrollments** across its **26 published courses** on Stepik, backed by **1,379 learner reviews** — an established independent educational project with a growing international audience.
 
 In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of the Year” category** for the project, recognizing its development and achievements on the platform. The courses also regularly appear among **Stepik’s best-selling and fastest-growing courses**, reflecting their continued reach and engagement among learners.
 
@@ -483,11 +483,11 @@ In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of th
 
 [stepstat.ru ↗](https://stepstat.ru/)
 
-- **Learners:** +1,265
-- **Followers:** +722
-- **Certificates:** +352
+- **Learners:** +1,302
+- **Followers:** +751
+- **Certificates:** +358
 - **Reviews:** +39
-- **Reputation:** +46,266
+- **Reputation:** +48,401
 - **Courses:** 0
 - **Lessons:** +4
 - **Rating:** +0.002

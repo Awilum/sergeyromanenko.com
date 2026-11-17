@@ -45,9 +45,6 @@ In short
 
 This is my personal Yamaha PG-1, purchased in Vietnam in 2025. We have travelled more than **37,000 km** together, including a longest documented journey of **7,740 km over 138 days**. I modified it for long-distance exploration and mixed road conditions. This article documents real ownership: the modifications, the maintenance, what the motorcycle does well, and where it falls short.
 
-Words and photographs by Sergey Romanenko.
-First published 14 November 2026, last updated 15 November 2026.
-
 ![Sergey Romanenko selfie at the Mui Ca Mau memorial, the southernmost point of Vietnam](https://ik.imagekit.io/awilum/photography/from-danang-to-south-and-back/from-danang-to-south-and-back-mui-ca-mau.jpg)
 
 *Mũi Cà Mau · THE SOUTHERNMOST POINT · 7,740 KM ROUND TRIP*

@@ -84,7 +84,7 @@ Confident use of SELECT, WHERE, GROUP BY, HAVING, ORDER BY and aggregate functio
 - **What language is “SQL Common Table Expressions” taught in?:** “SQL Common Table Expressions” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL Common Table Expressions”?:** “SQL Common Table Expressions” contains 17 lessons in 4 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Common Table Expressions”?:** “SQL Common Table Expressions” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Common Table Expressions” give a certificate?:** Yes. Stepik has issued 73 certificates to learners who completed “SQL Common Table Expressions”.
+- **Does “SQL Common Table Expressions” give a certificate?:** Yes. Stepik has issued 74 certificates to learners who completed “SQL Common Table Expressions”.
 - **How many learners have reviewed “SQL Common Table Expressions”?:** “SQL Common Table Expressions” has 18 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL Common Table Expressions”?:** Enrollment and payment for “SQL Common Table Expressions” happen on Stepik: open https://stepik.org/a/294493/ and start there.
 
@@ -98,7 +98,7 @@ Course facts
 - **Modules:** 4
 - **Enrollments:** 407
 - **Reviews:** 18
-- **Certificates issued:** 73
+- **Certificates issued:** 74
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 

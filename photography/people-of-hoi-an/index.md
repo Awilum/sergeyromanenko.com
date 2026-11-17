@@ -164,7 +164,7 @@ Another project
 
 ## Photo Walk and Model Agencies
 
-From 2016 through 2022, I organized photo walks and brought photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working across fashion photography in shops, studios, and outdoor locations, and participating in photography events associated with Sigma Model Agency while scouting for Liberty Model Agency.
+From 2016 through 2019, I organized creative photo shoots and founded and organized photo walks, bringing photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working directly with models on creative shoots and other photography projects, providing freelance photography coverage for Sigma Models' fashion shows and agency events, and working as a freelance model scout for Liberty Model Agency.
 
 [Read the project](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/)
 

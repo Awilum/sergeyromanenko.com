@@ -1,7 +1,7 @@
 ---
-title: "A life spent exploring through the code, commerce and the road."
+title: "A life spent exploring through the code, cameras and the road."
 seo_title: "About — Sergey Romanenko"
-description: "Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,098 enrollments, open-source software, books and practical tools."
+description: "Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,135 enrollments, open-source software, books and practical tools."
 canonical_url: "https://sergeyromanenko.com/about/"
 markdown_url: "https://sergeyromanenko.com/about/index.md"
 section: "About"
@@ -11,7 +11,7 @@ robots: "index, follow"
 
 1. About
 
-# A life spent exploring through the code, commerce and the road.
+# A life spent exploring through the code, cameras and the road.
 
 Photographer · Educator · Author · Software engineer
 
@@ -63,7 +63,7 @@ Stepik
 
 ## Practical education at scale.
 
-74,098
+74,135
 
 Course enrollments
 
@@ -79,7 +79,7 @@ Published courses
 
 Lessons
 
-Source: [Stepik Stats](https://stepstat.ru/user/561566563)· Snapshot: November 16, 2026 · Entire author catalog. Enrollment counts are enrollments, not unique learners. [The full Stepik project →](https://sergeyromanenko.com/about/stepik/)
+Source: [Stepik Stats](https://stepstat.ru/user/561566563)· Snapshot: November 17, 2026 · Entire author catalog. Enrollment counts are enrollments, not unique learners. [The full Stepik project →](https://sergeyromanenko.com/about/stepik/)
 
 Recognition
 
@@ -87,11 +87,11 @@ Recognition
 
 Educational work measured by an independent statistics service built on the Stepik API. The ranking reflects reputation accumulated across the whole author catalog.
 
-No. 25
+No. 24
 
 Stepik Stats author reputation ranking
 
-Ranked No. 25 in the[Stepik Stats author reputation ranking](https://stepstat.ru/authors)(as of November 16, 2026).
+Ranked No. 24 in the[Stepik Stats author reputation ranking](https://stepstat.ru/authors)(as of November 17, 2026).
 
 Stepik Awards 2023
 
@@ -262,7 +262,7 @@ A free beginner’s book on Markdown — the markup language behind most of what
 
 2 releases
 
-745 release downloads
+748 release downloads
 
 [Awilum/markdown ↗](https://github.com/Awilum/markdown)
 
@@ -282,7 +282,7 @@ A free beginner’s book on SQL and how relational databases actually work — r
 
 5 releases
 
-1,489 release downloads
+1,500 release downloads
 
 [Awilum/sql-introduction ↗](https://github.com/Awilum/sql-introduction)
 
@@ -318,7 +318,7 @@ A photographic study of people, rituals and everyday life in Hoi An.
 
 ### [Photo Walk and Model Agencies](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/)
 
-From 2016 through 2022, I organized photo walks and brought photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working across fashion photography in shops, studios, and outdoor locations, and participating in photography events associated with Sigma Model Agency while scouting for Liberty Model Agency.
+From 2016 through 2019, I organized creative photo shoots and founded and organized photo walks, bringing photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working directly with models on creative shoots and other photography projects, providing freelance photography coverage for Sigma Models' fashion shows and agency events, and working as a freelance model scout for Liberty Model Agency.
 
 All projects live on [/photography/](https://sergeyromanenko.com/photography/). The motorcycle that carried the journey is documented in my [Yamaha PG-1 long-distance touring experience in Vietnam](https://sergeyromanenko.com/about/yamaha-pg-1/).
 
@@ -365,32 +365,35 @@ The record
 ## What actually happened, and roughly when.
 
 1. 2016–present
-  ### Photography & Documentary Projects
+  #### Photography & Documentary Projects
   I develop independent photographic projects focused on people, places, streets and everyday life. My professional work has covered portraiture, street photography, fashion, photojournalism and documentary photography. Earlier in this period I also organized photography walks, creative projects and workshops, bringing photographers and models together to learn from one another. My current interests include travel photography, street photography, portraits, and visual documentation that captures the atmosphere and complexity of lived experience.
 2. 2023–present
-  ### Online Education
+  #### [Online Education](https://sergeyromanenko.com/about/stepik/)
+  [Read the full chapter →](https://sergeyromanenko.com/about/stepik/)
   I create and teach programming courses on Stepik, covering subjects including SQL, JavaScript, Python, PHP, Go, Kotlin, Java, C# and Markdown. The catalog spans individual trainers and bundled career programs, and the figures behind it — courses, lessons, enrollments and learner reviews — are read from the same local dataset the course pages are built from, so they stay current without being typed in by hand.
 3. present
-  ### Software & Research and Development
+  #### Software & Research and Development
   I continue to work with software through independent development, technical problem-solving and research and development. My background includes frontend engineering, application architecture, APIs, automation, testing, localization, and broader contract development. I remain interested in how software can solve practical problems and how existing systems can be improved.
 4. 2010–present
-  ### Open-Source Software
+  #### Open-Source Software
   I develop and contribute to open-source software across PHP, JavaScript, frontend tooling, content-management systems and developer utilities. In 2010 I created Monstra, a flat-file CMS that received the Softpedia Pick Award and Softpedia Script of the Day, and I actively developed it, maintaining and supporting the community that grew around it. In 2018 I worked on Flextype, another CMS, which is included in the collection of content management systems featured on Jamstack.org. I also contribute to other open-source projects and take part in smaller developer communities, building reusable solutions and sharing practical tools and knowledge.
 5. present
-  ### Books & Publications
+  #### Books & Publications
   I create educational publications and practical learning resources, including open materials. My publishing work focuses on making technical knowledge accessible through clear explanations, useful examples, and formats that readers can use independently.
 6. present
-  ### Independent Tools & Logic Games
+  #### Independent Tools & Logic Games
   I build small, practical tools and logic games in response to real needs. These projects combine software development, experimentation, and a preference for useful solutions without unnecessary complexity.
 
 ### Earlier Chapters
 
 1. 2022–2023
-  #### Professional Mentoring
+  #### [Professional Mentoring](https://sergeyromanenko.com/about/solvery/)
+  [Read the full chapter →](https://sergeyromanenko.com/about/solvery/)
   I mentored developers through Solvery.io, providing individualized programming guidance, practical technical advice, and support with professional development. The work combined my engineering experience with helping other developers understand concepts, evaluate approaches, and grow in their practice.
-2. 2018–2019
-  #### Event Photography & Model Scouting
-  I combined freelance event photography with model scouting for Liberty and Sigma Model Agency, developing my photographic skills while working closely with models and aspiring talent. Through social media, fashion events and local communities, I identified promising candidates for modeling opportunities and connected them with an international modeling agency. This experience strengthened my eye for composition, visual storytelling, portraiture and the distinctive qualities that make a face stand out.
+2. 2016–2019
+  #### [Photography, Creative Projects & Model Scouting](https://sergeyromanenko.com/about/photography-and-model-scouting/)
+  [Read the full chapter →](https://sergeyromanenko.com/about/photography-and-model-scouting/)
+  I was actively involved in photography, independent creative photography projects, photography community initiatives and model agency activities from 2016 to 2019. I founded and organized Photo Walks, worked on photography assignments connected with Sigma Models, and carried out freelance model scouting for Liberty Model Agency. The Photo Walks community continued after my departure. This work strengthened my eye for composition, visual storytelling, portraiture and the distinctive qualities that make a face stand out.
 3. 2010–2020
   #### Software Engineering & Contract Development
   I worked in software engineering and frontend development for an international print-on-demand company, progressing from Software Engineer to Senior Frontend Developer. My responsibilities evolved from core software development to building and maintaining customer-facing web interfaces and supporting the company’s web infrastructure. I focused on frontend architecture, user interface development, reusable components, responsive design, performance optimization, API integrations and cross-system compatibility. Working in the print-on-demand and e-commerce industry gave me experience with the technical challenges of digital platforms connecting online customer experiences with complex business and production workflows. I also contributed to software quality, testing, automation, localization and technical documentation, helping maintain reliable and consistent user experiences across the company’s web ecosystem. Alongside my primary role, I pursued independent development and contract projects across different areas of software engineering.

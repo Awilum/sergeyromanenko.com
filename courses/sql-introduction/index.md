@@ -91,7 +91,7 @@ Elementary computer science and mathematics. No prior database experience is req
 - **What language is “SQL Introduction” taught in?:** “SQL Introduction” is taught in English. This page describes it in English; the lessons themselves are in English.
 - **How much content is in “SQL Introduction”?:** “SQL Introduction” contains 30 lessons in 10 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Introduction”?:** “SQL Introduction” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Introduction” give a certificate?:** Yes. Stepik has issued 1,312 certificates to learners who completed “SQL Introduction”.
+- **Does “SQL Introduction” give a certificate?:** Yes. Stepik has issued 1,313 certificates to learners who completed “SQL Introduction”.
 - **How many learners have reviewed “SQL Introduction”?:** “SQL Introduction” has 253 reviews on Stepik, with an average rating of 4.8 out of 5.
 - **How do I enroll in “SQL Introduction”?:** Enrollment for “SQL Introduction” happen on Stepik: open https://stepik.org/a/132225/ and start there.
 
@@ -105,7 +105,7 @@ Course facts
 - **Modules:** 10
 - **Enrollments:** 7,888
 - **Reviews:** 253
-- **Certificates issued:** 1,312
+- **Certificates issued:** 1,313
 - **Author:** Sergey Romanenko
 - **Rating:** 4.8 / 5
 
