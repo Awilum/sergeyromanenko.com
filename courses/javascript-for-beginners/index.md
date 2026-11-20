@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Awarded one of the best courses of 2023 and a consistent best-seller. A complete JavaScript course for beginner programmers covering the core language — variables, data types, control structures, loops, functions and objects — with a large volume of practical exercises.
 
-Paid — 303 lessons — 2,229 enrollments — 86 reviews
+Paid — 303 lessons — 2,228 enrollments — 86 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/134850/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 303
-- **Enrollments:** 2,229
+- **Enrollments:** 2,228
 
 ## About this course
 
@@ -127,7 +127,7 @@ Basic computer science and mathematics. The course assumes no prior JavaScript.
 - **What language is “JavaScript for Beginners” taught in?:** “JavaScript for Beginners” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “JavaScript for Beginners”?:** “JavaScript for Beginners” contains 303 lessons in 43 modules. It is self-paced, so you study on your own schedule.
 - **Who created “JavaScript for Beginners”?:** “JavaScript for Beginners” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “JavaScript for Beginners” give a certificate?:** Yes. Stepik has issued 325 certificates to learners who completed “JavaScript for Beginners”.
+- **Does “JavaScript for Beginners” give a certificate?:** Yes. Stepik has issued 326 certificates to learners who completed “JavaScript for Beginners”.
 - **How many learners have reviewed “JavaScript for Beginners”?:** “JavaScript for Beginners” has 86 reviews on Stepik, with an average rating of 4.8 out of 5.
 - **How do I enroll in “JavaScript for Beginners”?:** Enrollment and payment for “JavaScript for Beginners” happen on Stepik: open https://stepik.org/a/134850/ and start there.
 
@@ -139,9 +139,9 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 303
 - **Modules:** 43
-- **Enrollments:** 2,229
+- **Enrollments:** 2,228
 - **Reviews:** 86
-- **Certificates issued:** 325
+- **Certificates issued:** 326
 - **Author:** Sergey Romanenko
 - **Rating:** 4.8 / 5
 
@@ -149,7 +149,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-JavaScript for Beginners is a beginner JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 303 lessons, 2,229 enrollments, rated 4.8 out of 5 across 86 reviews and a paid course.
+JavaScript for Beginners is a beginner JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 303 lessons, 2,228 enrollments, rated 4.8 out of 5 across 86 reviews and a paid course.
 
 ## More in JavaScript
 

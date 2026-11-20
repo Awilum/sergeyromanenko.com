@@ -48,7 +48,7 @@ The material is the same SQL teaching that runs in the online courses: the order
 
 ## GitHub
 
-34
+35
 
 Stars
 
@@ -56,7 +56,7 @@ Stars
 
 Releases
 
-1,500
+1,551
 
 Release downloads
 

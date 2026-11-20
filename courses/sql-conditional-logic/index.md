@@ -83,7 +83,7 @@ Confident use of SELECT, WHERE, ORDER BY, GROUP BY, HAVING and aggregate functio
 - **What language is “SQL Conditional Logic” taught in?:** “SQL Conditional Logic” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL Conditional Logic”?:** “SQL Conditional Logic” contains 28 lessons in 4 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Conditional Logic”?:** “SQL Conditional Logic” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Conditional Logic” give a certificate?:** Yes. Stepik has issued 68 certificates to learners who completed “SQL Conditional Logic”.
+- **Does “SQL Conditional Logic” give a certificate?:** Yes. Stepik has issued 69 certificates to learners who completed “SQL Conditional Logic”.
 - **How many learners have reviewed “SQL Conditional Logic”?:** “SQL Conditional Logic” has 14 reviews on Stepik, with an average rating of 5.0 out of 5.
 - **How do I enroll in “SQL Conditional Logic”?:** Enrollment and payment for “SQL Conditional Logic” happen on Stepik: open https://stepik.org/a/295190/ and start there.
 
@@ -97,7 +97,7 @@ Course facts
 - **Modules:** 4
 - **Enrollments:** 609
 - **Reviews:** 14
-- **Certificates issued:** 68
+- **Certificates issued:** 69
 - **Author:** Sergey Romanenko
 - **Rating:** 5.0 / 5
 

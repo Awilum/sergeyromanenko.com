@@ -189,22 +189,6 @@ EIGER is a personal source of inspiration, not an official partner or sponsor of
 
 References: [eigeradventure.com](https://www.eigeradventure.com/) · [eigerindo.co.id/About/history](https://www.eigerindo.co.id/About/history)
 
-![Placeholder — an EIGER waist bag carried in Indonesia](https://picsum.photos/seed/eiger-accessories-1/2400/1350)
-
-*EIGER · 01*
-
-![Placeholder — an EIGER travel accessory in earthy colours](https://picsum.photos/seed/eiger-accessories-2/2400/1350)
-
-*EIGER · 02*
-
-![Placeholder — an everyday EIGER accessory, detail view](https://picsum.photos/seed/eiger-accessories-3/2400/1350)
-
-*EIGER · 03*
-
-![Placeholder — EIGER gear packed for travel](https://picsum.photos/seed/eiger-accessories-4/2400/1350)
-
-*EIGER · 04*
-
 04 · Yamaha PG-1
 
 ## Yellow motorcycle, green bandana, freedom of movement.

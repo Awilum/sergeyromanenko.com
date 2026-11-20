@@ -88,7 +88,7 @@ Basic SQL knowledge — SELECT, WHERE, GROUP BY, HAVING and aggregate functions.
 - **What language is “SQL Window Functions” taught in?:** “SQL Window Functions” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL Window Functions”?:** “SQL Window Functions” contains 34 lessons in 10 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Window Functions”?:** “SQL Window Functions” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Window Functions” give a certificate?:** Yes. Stepik has issued 80 certificates to learners who completed “SQL Window Functions”.
+- **Does “SQL Window Functions” give a certificate?:** Yes. Stepik has issued 81 certificates to learners who completed “SQL Window Functions”.
 - **How many learners have reviewed “SQL Window Functions”?:** “SQL Window Functions” has 22 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL Window Functions”?:** Enrollment and payment for “SQL Window Functions” happen on Stepik: open https://stepik.org/a/282146/ and start there.
 
@@ -102,7 +102,7 @@ Course facts
 - **Modules:** 10
 - **Enrollments:** 531
 - **Reviews:** 22
-- **Certificates issued:** 80
+- **Certificates issued:** 81
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 

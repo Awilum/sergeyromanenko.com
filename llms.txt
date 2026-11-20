@@ -31,7 +31,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Courses
 
-- [Teaching what took me *years* to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 74,135 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
+- [Teaching what took me *years* to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 74,233 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
   - [Markdown](https://sergeyromanenko.com/courses/index.md)
 - [Data Engineer](https://sergeyromanenko.com/courses/data-engineer/): A complete path to becoming a data engineer from zero: Python and Git first, then SQL from syntax to window functions, Pandas for data work, ClickHouse…
   - [Markdown](https://sergeyromanenko.com/courses/data-engineer/index.md)
@@ -225,7 +225,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## About
 
-- [A life spent exploring through the code, cameras and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,135 enrollments, open-source software, books and practical tools.
+- [A life spent exploring through the code, cameras and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,233 enrollments, open-source software, books and practical tools.
   - [Markdown](https://sergeyromanenko.com/about/index.md)
 - [A visual identity shaped by travel and everyday life.](https://sergeyromanenko.com/about/brandbook/): A personal brandbook for sergeyromanenko.com — how its colours, typography and visual identity grew out of living and travelling in Bali, Indonesia.
   - [Markdown](https://sergeyromanenko.com/about/brandbook/index.md)

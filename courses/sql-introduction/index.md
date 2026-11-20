@@ -18,7 +18,7 @@ robots: "index, follow"
 
 An English-language introduction to SQL: what relational databases are, how tables relate to each other, and how to write queries that retrieve, filter, sort, group and join real data. Theory, quizzes and practice in one free course.
 
-Free — 30 lessons — 7,888 enrollments — 253 reviews
+Free — 30 lessons — 7,890 enrollments — 253 reviews
 
 [Start free on Stepik ↗](https://stepik.org/a/132225/)
 
@@ -37,7 +37,7 @@ Free
 - **Level:** Beginner
 - **Language:** English
 - **Lessons:** 30
-- **Enrollments:** 7,888
+- **Enrollments:** 7,890
 
 ## About this course
 
@@ -103,7 +103,7 @@ Course facts
 - **Language:** English
 - **Lessons:** 30
 - **Modules:** 10
-- **Enrollments:** 7,888
+- **Enrollments:** 7,890
 - **Reviews:** 253
 - **Certificates issued:** 1,313
 - **Author:** Sergey Romanenko
@@ -113,7 +113,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL Introduction is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in English, 30 lessons, 7,888 enrollments, rated 4.8 out of 5 across 253 reviews and free to enroll.
+SQL Introduction is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in English, 30 lessons, 7,890 enrollments, rated 4.8 out of 5 across 253 reviews and free to enroll.
 
 ## More in SQL
 
