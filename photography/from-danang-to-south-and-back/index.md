@@ -206,7 +206,7 @@ Selected photographs
 
 *02 / 02*
 
-00 / 00
+## 00 / 00
 
 Contents
 

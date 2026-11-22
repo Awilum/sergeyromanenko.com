@@ -89,7 +89,7 @@ Selected photographs
 
 *03 / 03*
 
-00 / 00
+## 00 / 00
 
 Contents
 

@@ -268,4 +268,4 @@ Closing
 
 The design of this website is not an arbitrary collection of colours and fonts. It is a visual representation of the places I have lived, the objects I carry, the roads I travel, and the person I have become. Warm paper, photographs, ruled lines, quiet type — and underneath all of it, the sand and the green of South East Asia.
 
-00 / 00
+## 00 / 00

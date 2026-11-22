@@ -221,4 +221,4 @@ Every entry above is documented by an archived post: the original announcement t
 
 Dates follow the recognition date stated in each post, or the post date when none was stated. Photograph titles are descriptive: the posts did not give the pictures official names.
 
-00 / 00
+## 00 / 00
