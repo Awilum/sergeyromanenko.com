@@ -50,8 +50,8 @@ The start value, the separator and the uppercase setting are yours. What matters
 
 **Number every line, or only the lines with content?** These are two different questions and they give different numbers.
 
-- *Every line* counts physical lines. Line 12 is the twelfth line of the file, even if three of the first eleven were blank.
-- *Only lines with content* counts what a reader sees. The number matches a citation of “paragraph 3”.
+- Every line counts physical lines. Line 12 is the twelfth line of the file, even if three of the first eleven were blank.
+- Only lines with content counts what a reader sees. The number matches a citation of “paragraph 3”.
 
 Most people citing a document want the second. Most people preparing a transcript want the first. Both are offered and neither is the default guess.
 

@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [PHOTOGRAPHY](https://sergeyromanenko.com/photography/)
 2. People of Hoi An
 
-(Hoi An, Vietnam)
+( Hoi An, Vietnam )
 
 # People of Hoi An
 
@@ -20,7 +20,7 @@ A photographic study of people, rituals and everyday life in Hoi An.
 
 2025 — Hoi An, Vietnam — Photographic project
 
-**Contents8 sections**
+**Contents 8 sections**
 
 1. Beyond the Lanterns
 2. The People
@@ -51,7 +51,7 @@ Hội An is often represented through its **yellow walls, lanterns, ancient hous
 
 ## The People
 
-The idea behind *People of Hội An* was simple: **to capture the soul of a place through its people.** I was interested in ordinary moments — people working, resting, waiting, talking, or simply existing within their surroundings. These were not staged scenes created for the camera. They were **fragments of real life**, discovered while walking through the city. As a foreigner carrying a camera, I was often welcomed with something very small: a glance, a smile, a moment of curiosity, or a brief acknowledgment. For me, these encounters became just as important as the photographs themselves. **Photography became a way of creating a connection between two strangers.**
+The idea behind People of Hội An was simple: **to capture the soul of a place through its people.** I was interested in ordinary moments — people working, resting, waiting, talking, or simply existing within their surroundings. These were not staged scenes created for the camera. They were **fragments of real life**, discovered while walking through the city. As a foreigner carrying a camera, I was often welcomed with something very small: a glance, a smile, a moment of curiosity, or a brief acknowledgment. For me, these encounters became just as important as the photographs themselves. **Photography became a way of creating a connection between two strangers.**
 
 ![Portrait in Hoi An](https://ik.imagekit.io/awilum/photography/people-of-hoian/hoi-an-1.jpg)
 
@@ -83,7 +83,7 @@ The people are at the heart of the project, but Hội An itself is never just a 
 
 ## More Than a Collection of Portraits
 
-*People of Hội An* began as a way of documenting the people I encountered during my regular journeys from Da Nang. Over time, it became something more personal. It became an attempt to **preserve a particular period of life** — the streets I walked, the people I met, the conversations I had, and the quiet moments that might otherwise have disappeared. The project is also a record of how I was learning to look at the world. Every photograph became a small act of attention. A decision to stop. To notice. To connect. And to remember.
+People of Hội An began as a way of documenting the people I encountered during my regular journeys from Da Nang. Over time, it became something more personal. It became an attempt to **preserve a particular period of life** — the streets I walked, the people I met, the conversations I had, and the quiet moments that might otherwise have disappeared. The project is also a record of how I was learning to look at the world. Every photograph became a small act of attention. A decision to stop. To notice. To connect. And to remember.
 
 ## The Project
 

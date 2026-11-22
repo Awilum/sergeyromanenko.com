@@ -12,13 +12,13 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. JavaScript for Beginners
 
-(JavaScript · Stepik)
+( JavaScript · Stepik )
 
 # JavaScript for Beginners
 
 Awarded one of the best courses of 2023 and a consistent best-seller. A complete JavaScript course for beginner programmers covering the core language — variables, data types, control structures, loops, functions and objects — with a large volume of practical exercises.
 
-Paid — 303 lessons — 2,228 enrollments — 86 reviews
+Paid — 303 lessons — 2,229 enrollments — 86 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/134850/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 303
-- **Enrollments:** 2,228
+- **Enrollments:** 2,229
 
 ## About this course
 
@@ -67,49 +67,49 @@ Theory, tests and practical assignments are interleaved throughout, which is why
 
 43 modules · 303 lessons
 
-1. 01Introduction11 lessons
-2. 02Introduction to Programming8 lessons
-3. 03Software Design Principles8 lessons
-4. 04Software Development Life Cycle7 lessons
-5. 05Algorithmic Thinking7 lessons
-6. 06Basics10 lessons
-7. 07Practice with the Basics2 lessons
-8. 08Operators12 lessons
-9. 09Practice with Operators2 lessons
-10. 10Control Structures6 lessons
-11. 11Practice with Control Structures2 lessons
-12. 12Data Types9 lessons
-13. 13Data Structures3 lessons
-14. 14Practice with Data Types3 lessons
-15. 15Functions9 lessons
-16. 16Practice with Functions2 lessons
-17. 17Sorting Algorithms7 lessons
-18. 18Search Algorithms3 lessons
-19. 19Code Debugging5 lessons
-20. 20Debugging with the console Object15 lessons
-21. 21Practice Debugging Code2 lessons
-22. 22Error Handling5 lessons
-23. 23Set Theory10 lessons
-24. 24Working with Sets10 lessons
-25. 25Practice with Sets2 lessons
-26. 26Working with Arrays22 lessons
-27. 27Practice with Arrays7 lessons
-28. 28Working with Objects17 lessons
-29. 29Practice with Objects2 lessons
-30. 30Working with Strings20 lessons
-31. 31Practice with Strings4 lessons
-32. 32Working with Dates and Times21 lessons
-33. 33Practice with Dates and Times2 lessons
-34. 34Working with Mathematics11 lessons
-35. 35Practice with Mathematics3 lessons
-36. 36Working with JSON4 lessons
-37. 37Practice with JSON2 lessons
-38. 38Regular Expressions9 lessons
-39. 39Working with Regular Expressions7 lessons
-40. 40Practice with Regular Expressions3 lessons
-41. 41Reading and Understanding Code4 lessons
-42. 42Practice Reading Other People’s Code3 lessons
-43. 43Conclusion1 lesson
+1. 01 Introduction 11 lessons
+2. 02 Introduction to Programming 8 lessons
+3. 03 Software Design Principles 8 lessons
+4. 04 Software Development Life Cycle 7 lessons
+5. 05 Algorithmic Thinking 7 lessons
+6. 06 Basics 10 lessons
+7. 07 Practice with the Basics 2 lessons
+8. 08 Operators 12 lessons
+9. 09 Practice with Operators 2 lessons
+10. 10 Control Structures 6 lessons
+11. 11 Practice with Control Structures 2 lessons
+12. 12 Data Types 9 lessons
+13. 13 Data Structures 3 lessons
+14. 14 Practice with Data Types 3 lessons
+15. 15 Functions 9 lessons
+16. 16 Practice with Functions 2 lessons
+17. 17 Sorting Algorithms 7 lessons
+18. 18 Search Algorithms 3 lessons
+19. 19 Code Debugging 5 lessons
+20. 20 Debugging with the console Object 15 lessons
+21. 21 Practice Debugging Code 2 lessons
+22. 22 Error Handling 5 lessons
+23. 23 Set Theory 10 lessons
+24. 24 Working with Sets 10 lessons
+25. 25 Practice with Sets 2 lessons
+26. 26 Working with Arrays 22 lessons
+27. 27 Practice with Arrays 7 lessons
+28. 28 Working with Objects 17 lessons
+29. 29 Practice with Objects 2 lessons
+30. 30 Working with Strings 20 lessons
+31. 31 Practice with Strings 4 lessons
+32. 32 Working with Dates and Times 21 lessons
+33. 33 Practice with Dates and Times 2 lessons
+34. 34 Working with Mathematics 11 lessons
+35. 35 Practice with Mathematics 3 lessons
+36. 36 Working with JSON 4 lessons
+37. 37 Practice with JSON 2 lessons
+38. 38 Regular Expressions 9 lessons
+39. 39 Working with Regular Expressions 7 lessons
+40. 40 Practice with Regular Expressions 3 lessons
+41. 41 Reading and Understanding Code 4 lessons
+42. 42 Practice Reading Other People’s Code 3 lessons
+43. 43 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -139,7 +139,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 303
 - **Modules:** 43
-- **Enrollments:** 2,228
+- **Enrollments:** 2,229
 - **Reviews:** 86
 - **Certificates issued:** 326
 - **Author:** Sergey Romanenko
@@ -149,7 +149,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-JavaScript for Beginners is a beginner JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 303 lessons, 2,228 enrollments, rated 4.8 out of 5 across 86 reviews and a paid course.
+JavaScript for Beginners is a beginner JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 303 lessons, 2,229 enrollments, rated 4.8 out of 5 across 86 reviews and a paid course.
 
 ## More in JavaScript
 
@@ -157,11 +157,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · IntermediateJavaScript Interview30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
+[Course · Intermediate JavaScript Interview 30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
 
-[Course · IntermediatePractical JavaScript Programming Trainer56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
+[Course · Intermediate Practical JavaScript Programming Trainer 56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
 
-[Course · IntermediatePractical JavaScript Code Reading Trainer12 lessons](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/)
+[Course · Intermediate Practical JavaScript Code Reading Trainer 12 lessons](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/)
 
 Next
 

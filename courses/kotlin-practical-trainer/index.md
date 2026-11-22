@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. Practical Kotlin Programming Trainer
 
-(Kotlin · Stepik)
+( Kotlin · Stepik )
 
 # Practical Kotlin Programming Trainer
 
@@ -61,19 +61,19 @@ The exercise set is deliberately close to what appears in technical interviews, 
 
 13 modules · 29 lessons
 
-1. 01Introduction5 lessons
-2. 02Basics (★)1 lesson
-3. 03Operators (★)1 lesson
-4. 04Control Structures (★)1 lesson
-5. 05Control Structures (★★)1 lesson
-6. 06Lists (★)5 lessons
-7. 07Lists (★★)2 lessons
-8. 08Lists (★★★)3 lessons
-9. 09Strings (★)5 lessons
-10. 10Strings (★★)1 lesson
-11. 11Strings (★★★)1 lesson
-12. 12Mathematics (★)2 lessons
-13. 13Conclusion1 lesson
+1. 01 Introduction 5 lessons
+2. 02 Basics (★) 1 lesson
+3. 03 Operators (★) 1 lesson
+4. 04 Control Structures (★) 1 lesson
+5. 05 Control Structures (★★) 1 lesson
+6. 06 Lists (★) 5 lessons
+7. 07 Lists (★★) 2 lessons
+8. 08 Lists (★★★) 3 lessons
+9. 09 Strings (★) 5 lessons
+10. 10 Strings (★★) 1 lesson
+11. 11 Strings (★★★) 1 lesson
+12. 12 Mathematics (★) 2 lessons
+13. 13 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 

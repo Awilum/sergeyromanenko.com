@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. SQL Common Table Expressions
 
-(SQL · Stepik)
+( SQL · Stepik )
 
 # SQL Common Table Expressions
 
@@ -63,10 +63,10 @@ Because CTEs are a structuring tool rather than a computation tool, the course a
 
 4 modules · 17 lessons
 
-1. 01Introduction3 lessons
-2. 02Basics9 lessons
-3. 03Practice2 lessons
-4. 04Conclusion1 lesson
+1. 01 Introduction 3 lessons
+2. 02 Basics 9 lessons
+3. 03 Practice 2 lessons
+4. 04 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -114,11 +114,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
+[Course · Beginner SQL Introduction 30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · BeginnerSQL Introduction (RU)21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
+[Course · Beginner SQL Introduction (RU) 21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
-[Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
+[Course · Beginner Practical SQL Programming Trainer 26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 
 Next
 

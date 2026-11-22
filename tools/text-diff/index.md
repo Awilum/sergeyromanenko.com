@@ -64,7 +64,7 @@ Any one of them is enough to read the result, and removing any one of them degra
 
 ## Word-level detail inside a changed line
 
-Switch the comparison from lines to words and a changed line shows *which words* differ rather than the whole line being flagged.
+Switch the comparison from lines to words and a changed line shows which words differ rather than the whole line being flagged.
 
 The reassembled line is character-for-character identical to what went in. That matters more than it sounds: a word diff that dropped the space after a changed word would render a line matching neither input, which is the one thing a diff must never do.
 
@@ -73,7 +73,7 @@ The reassembled line is character-for-character identical to what went in. That 
 Four switches, each of which changes what “the same” means:
 
 - **Ignore case** — `Colour` and `color` are the same word here.
-- **Ignore trailing whitespace** — but the line still *displays* its original spacing. Ignoring a difference in the comparison does not delete it from the text you are shown, because you are looking at the file, not at a normalised copy of it.
+- **Ignore trailing whitespace** — but the line still displays its original spacing. Ignoring a difference in the comparison does not delete it from the text you are shown, because you are looking at the file, not at a normalised copy of it.
 - **Ignore all whitespace** — `a b c` and `abc` compare as equal.
 - **Ignore blank lines** — for documents where the spacing is decorative.
 

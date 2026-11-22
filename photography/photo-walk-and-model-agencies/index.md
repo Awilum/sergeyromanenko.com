@@ -18,7 +18,7 @@ From 2016 through 2019, I organized creative photo shoots and founded and organi
 
 2016 — Documentary, fashion, and collaborative portrait photography
 
-**Contents6 sections**
+**Contents 6 sections**
 
 1. The Independent Initiative
 2. Sigma Models: Fashion Shows and Agency Events

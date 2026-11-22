@@ -16,7 +16,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Photography
 
-- [Photographs about *people*, taken slowly, in places I actually live.](https://sergeyromanenko.com/photography/): Documentary photography about people and the places they make their lives in — long-form projects photographed on foot in Vietnam.
+- [Photographs about people, taken slowly, in places I actually live.](https://sergeyromanenko.com/photography/): Documentary photography about people and the places they make their lives in — long-form projects photographed on foot in Vietnam.
   - [Markdown](https://sergeyromanenko.com/photography/index.md)
 - [From Da Nang to South and Back](https://sergeyromanenko.com/photography/from-danang-to-south-and-back/): A photographic journey across Vietnam, covering 7,700 kilometers from Da Nang to the southernmost point of the country and back.
   - [Markdown](https://sergeyromanenko.com/photography/from-danang-to-south-and-back/index.md)
@@ -26,12 +26,12 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/photography/people-of-hoi-an/index.md)
 - [Photo Walk and Model Agencies](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/): From 2016 through 2019, I organized creative photo shoots and founded and organized photo walks, bringing photographers and models together to create opportunities for practical experience, collaboration, and portfolio development - working directly with models on creative shoots and other photography projects, providing freelance photography coverage for Sigma Models' fashion shows and agency events, and working as a freelance model scout for Liberty Model Agency.
   - [Markdown](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/index.md)
-- [Recognized along the road: the photographs *communities chose*.](https://sergeyromanenko.com/photography/recognitions/): The photographic recognition archive: 60 selections, features and awards for 27 photographs, recognized by 24 photography groups and communities.
+- [Recognized along the road: the photographs communities chose.](https://sergeyromanenko.com/photography/recognitions/): The photographic recognition archive: 60 selections, features and awards for 27 photographs, recognized by 24 photography groups and communities.
   - [Markdown](https://sergeyromanenko.com/photography/recognitions/index.md)
 
 ## Courses
 
-- [Teaching what took me *years* to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 74,233 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
+- [Teaching what took me years to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 74,296 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
   - [Markdown](https://sergeyromanenko.com/courses/index.md)
 - [Data Engineer](https://sergeyromanenko.com/courses/data-engineer/): A complete path to becoming a data engineer from zero: Python and Git first, then SQL from syntax to window functions, Pandas for data work, ClickHouse…
   - [Markdown](https://sergeyromanenko.com/courses/data-engineer/index.md)
@@ -88,7 +88,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Publications
 
-- [Things written down and *given away*.](https://sergeyromanenko.com/publications/): Books, photo zines and travel journals — free to read and free to download, an independent archive of observations, research and discoveries. 2 works published so far, free to read and free to download.
+- [Things written down and given away.](https://sergeyromanenko.com/publications/): Books, photo zines and travel journals — free to read and free to download, an independent archive of observations, research and discoveries. 2 works published so far, free to read and free to download.
   - [Markdown](https://sergeyromanenko.com/publications/index.md)
 - [Essays](https://sergeyromanenko.com/publications/essays/): Long-form essays combining personal observation, photography, travel, culture and research.
   - [Markdown](https://sergeyromanenko.com/publications/essays/index.md)
@@ -225,7 +225,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## About
 
-- [A life spent exploring through the code, cameras and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,233 enrollments, open-source software, books and practical tools.
+- [A life spent exploring through the code, cameras and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,296 enrollments, open-source software, books and practical tools.
   - [Markdown](https://sergeyromanenko.com/about/index.md)
 - [A visual identity shaped by travel and everyday life.](https://sergeyromanenko.com/about/brandbook/): A personal brandbook for sergeyromanenko.com — how its colours, typography and visual identity grew out of living and travelling in Bali, Indonesia.
   - [Markdown](https://sergeyromanenko.com/about/brandbook/index.md)

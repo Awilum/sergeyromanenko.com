@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. Front-End Development
 
-(Front-End Development · Stepik)
+( Front-End Development · Stepik )
 
 # Front-End Development
 
@@ -66,11 +66,11 @@ Enrolling once gives you the whole path, and the final result is a set of workin
 
 5 bundled courses · 677 lessons
 
-1. 01Bootstrap for Beginners22 lessons
-2. 02React for Modern Web Applications92 lessons
-3. 03HTML and CSS Fundamentals87 lessons
-4. 04[JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/)303 lessons
-5. 05[JavaScript for Experienced](https://sergeyromanenko.com/courses/javascript-for-experienced/)173 lessons
+1. 01 Bootstrap for Beginners 22 lessons
+2. 02 React for Modern Web Applications 92 lessons
+3. 03 HTML and CSS Fundamentals 87 lessons
+4. 04 [JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/) 303 lessons
+5. 05 [JavaScript for Experienced](https://sergeyromanenko.com/courses/javascript-for-experienced/) 173 lessons
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 

@@ -58,7 +58,7 @@ Your document is never replaced when parsing fails. The text you pasted stays in
 
 ## The YAML dialect
 
-This formatter uses the YAML 1.2 *core* schema, the variant that agrees with JSON most closely. Two consequences worth knowing:
+This formatter uses the YAML 1.2 core schema, the variant that agrees with JSON most closely. Two consequences worth knowing:
 
 - `yes` and `no` are **strings**, not booleans. They were booleans in YAML 1.1, which is what a lot of older tooling still assumes.
 - A bare `2026-10-14` is **text**, not a date. Converting it to a date is something the parser can only do by picking a timezone, and a timezone it cannot know.

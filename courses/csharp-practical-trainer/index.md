@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. Practical C# Programming Trainer
 
-(C# · Stepik)
+( C# · Stepik )
 
 # Practical C# Programming Trainer
 
@@ -62,22 +62,22 @@ Because the exercises are drawn from both traditional problem sets and real inte
 
 16 modules · 38 lessons
 
-1. 01Introduction4 lessons
-2. 02Basics (★)1 lesson
-3. 03Operators (★)1 lesson
-4. 04Control Structures (★)1 lesson
-5. 05Control Structures (★★)1 lesson
-6. 06Lists (★)6 lessons
-7. 07Lists (★★)2 lessons
-8. 08Lists (★★★)3 lessons
-9. 09Strings (★)7 lessons
-10. 10Strings (★★)2 lessons
-11. 11Strings (★★★)1 lesson
-12. 12Mathematics (★)3 lessons
-13. 13Mathematics (★★)2 lessons
-14. 14Regular Expressions (★★)2 lessons
-15. 15Regular Expressions (★★★)1 lesson
-16. 16Conclusion1 lesson
+1. 01 Introduction 4 lessons
+2. 02 Basics (★) 1 lesson
+3. 03 Operators (★) 1 lesson
+4. 04 Control Structures (★) 1 lesson
+5. 05 Control Structures (★★) 1 lesson
+6. 06 Lists (★) 6 lessons
+7. 07 Lists (★★) 2 lessons
+8. 08 Lists (★★★) 3 lessons
+9. 09 Strings (★) 7 lessons
+10. 10 Strings (★★) 2 lessons
+11. 11 Strings (★★★) 1 lesson
+12. 12 Mathematics (★) 3 lessons
+13. 13 Mathematics (★★) 2 lessons
+14. 14 Regular Expressions (★★) 2 lessons
+15. 15 Regular Expressions (★★★) 1 lesson
+16. 16 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 

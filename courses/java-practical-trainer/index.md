@@ -12,13 +12,13 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. Practical Java Programming Trainer
 
-(Java · Stepik)
+( Java · Stepik )
 
 # Practical Java Programming Trainer
 
 A hands-on Java trainer built around a wide range of programming tasks, from classic exercises to the problems asked in technical interviews at large companies. You work through variables, data types, control structures, loops, functions and algorithms until writing Java becomes second nature.
 
-Paid — 34 lessons — 19,469 enrollments — 32 reviews
+Paid — 34 lessons — 19,468 enrollments — 32 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/182389/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 34
-- **Enrollments:** 19,469
+- **Enrollments:** 19,468
 
 ## About this course
 
@@ -64,15 +64,15 @@ The task set mirrors what appears in technical interviews at large companies, wh
 
 9 modules · 34 lessons
 
-1. 01Introduction4 lessons
-2. 02Basics1 lesson
-3. 03Operators1 lesson
-4. 04Control Structures2 lessons
-5. 05Lists10 lessons
-6. 06Strings7 lessons
-7. 07Regular Expressions3 lessons
-8. 08Mathematics (★)1 lesson
-9. 09Conclusion1 lesson
+1. 01 Introduction 4 lessons
+2. 02 Basics 1 lesson
+3. 03 Operators 1 lesson
+4. 04 Control Structures 2 lessons
+5. 05 Lists 10 lessons
+6. 06 Strings 7 lessons
+7. 07 Regular Expressions 3 lessons
+8. 08 Mathematics (★) 1 lesson
+9. 09 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -90,7 +90,7 @@ Basic computer science and mathematics, plus a basic working knowledge of Java. 
 - **What language is “Practical Java Programming Trainer” taught in?:** “Practical Java Programming Trainer” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “Practical Java Programming Trainer”?:** “Practical Java Programming Trainer” contains 34 lessons in 9 modules. It is self-paced, so you study on your own schedule.
 - **Who created “Practical Java Programming Trainer”?:** “Practical Java Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “Practical Java Programming Trainer” give a certificate?:** Yes. Stepik has issued 202 certificates to learners who completed “Practical Java Programming Trainer”.
+- **Does “Practical Java Programming Trainer” give a certificate?:** Yes. Stepik has issued 203 certificates to learners who completed “Practical Java Programming Trainer”.
 - **How many learners have reviewed “Practical Java Programming Trainer”?:** “Practical Java Programming Trainer” has 32 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “Practical Java Programming Trainer”?:** Enrollment and payment for “Practical Java Programming Trainer” happen on Stepik: open https://stepik.org/a/182389/ and start there.
 
@@ -102,9 +102,9 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 34
 - **Modules:** 9
-- **Enrollments:** 19,469
+- **Enrollments:** 19,468
 - **Reviews:** 32
-- **Certificates issued:** 202
+- **Certificates issued:** 203
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
@@ -112,7 +112,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Practical Java Programming Trainer is an intermediate Java course, published on Stepik by Sergey Romanenko, taught in Russian, 34 lessons, 19,469 enrollments, rated 4.9 out of 5 across 32 reviews and a paid course.
+Practical Java Programming Trainer is an intermediate Java course, published on Stepik by Sergey Romanenko, taught in Russian, 34 lessons, 19,468 enrollments, rated 4.9 out of 5 across 32 reviews and a paid course.
 
 ## More in Java
 
@@ -120,7 +120,7 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Program · BeginnerJunior Java Developer382 lessons](https://sergeyromanenko.com/courses/junior-java-developer/)
+[Program · Beginner Junior Java Developer 382 lessons](https://sergeyromanenko.com/courses/junior-java-developer/)
 
 Next
 

@@ -13,7 +13,7 @@ robots: "index, follow"
 2. [IT BOOKS](https://sergeyromanenko.com/publications/it-books/)
 3. SQL Introduction
 
-(Book)
+( Book )
 
 # SQL Introduction
 
@@ -25,7 +25,7 @@ IT Books — PDF, EPUB, source — Russian
 
 Free to read and download. No account, no payment.
 
-**Contents2 sections**
+**Contents 2 sections**
 
 1. Formats
 2. Where it came from
@@ -56,7 +56,7 @@ Stars
 
 Releases
 
-1,551
+1,571
 
 Release downloads
 

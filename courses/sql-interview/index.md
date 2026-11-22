@@ -12,13 +12,13 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. SQL Interview
 
-(SQL · Stepik)
+( SQL · Stepik )
 
 # SQL Interview
 
 A free assessment course that tests your SQL knowledge and prepares you for interviews that require SQL. Questions across the whole topic range, each with several answer options and one correct one.
 
-Free — 17 lessons — 1,033 enrollments — 37 reviews
+Free — 17 lessons — 1,047 enrollments — 38 reviews
 
 [Start free on Stepik ↗](https://stepik.org/a/280145/)
 
@@ -37,7 +37,7 @@ Free
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 17
-- **Enrollments:** 1,033
+- **Enrollments:** 1,047
 
 ## About this course
 
@@ -63,9 +63,9 @@ Because each question covers a specific topic, the course works as a map of your
 
 3 modules · 17 lessons
 
-1. 01Introduction1 lesson
-2. 02Basics14 lessons
-3. 03Conclusion1 lesson
+1. 01 Introduction 1 lesson
+2. 02 Basics 14 lessons
+3. 03 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -83,7 +83,7 @@ Working knowledge of the SQL basics. If you have not studied SQL yet, take "SQL 
 - **What language is “SQL Interview” taught in?:** “SQL Interview” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL Interview”?:** “SQL Interview” contains 17 lessons in 3 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Interview”?:** “SQL Interview” was created by Sergey Romanenko. It is published on Stepik.
-- **How many learners have reviewed “SQL Interview”?:** “SQL Interview” has 37 reviews on Stepik, with an average rating of 4.6 out of 5.
+- **How many learners have reviewed “SQL Interview”?:** “SQL Interview” has 38 reviews on Stepik, with an average rating of 4.7 out of 5.
 - **How do I enroll in “SQL Interview”?:** Enrollment for “SQL Interview” happen on Stepik: open https://stepik.org/a/280145/ and start there.
 
 Course facts
@@ -94,17 +94,17 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 17
 - **Modules:** 3
-- **Enrollments:** 1,033
-- **Reviews:** 37
+- **Enrollments:** 1,047
+- **Reviews:** 38
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko
-- **Rating:** 4.6 / 5
+- **Rating:** 4.7 / 5
 
 [Start free on Stepik ↗](https://stepik.org/a/280145/)
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL Interview is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 17 lessons, 1,033 enrollments, rated 4.6 out of 5 across 37 reviews and free to enroll.
+SQL Interview is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 17 lessons, 1,047 enrollments, rated 4.7 out of 5 across 38 reviews and free to enroll.
 
 ## More in SQL
 
@@ -112,11 +112,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
+[Course · Beginner SQL Introduction 30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · BeginnerSQL Introduction (RU)21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
+[Course · Beginner SQL Introduction (RU) 21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
-[Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
+[Course · Beginner Practical SQL Programming Trainer 26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 
 Next
 

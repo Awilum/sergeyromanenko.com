@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [PHOTOGRAPHY](https://sergeyromanenko.com/photography/)
 2. From Da Nang to South and Back
 
-(Vietnam)
+( Vietnam )
 
 # From Da Nang to South and Back
 
@@ -20,7 +20,7 @@ A photographic journey across Vietnam, covering 7,700 kilometers from Da Nang to
 
 2026 — Vietnam — Photographic project
 
-**Contents9 sections**
+**Contents 9 sections**
 
 1. No Fixed Destination
 2. The Southern Edge

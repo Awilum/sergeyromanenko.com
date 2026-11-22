@@ -264,7 +264,7 @@ collaborative shoots documented throughout this chapter.
 
 ### Lilia
 
-These frames are part of the same archive documented in [Photo Walk and Model Agencies](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/). The full collection is considerably larger than this selection and will grow as the original archive is prepared for publication.
+These frames are part of the same archive documented in [Photo Walk and Model Agencies](https://sergeyromanenko.com/photography/photo-walk-and-model-agencies/) . The full collection is considerably larger than this selection and will grow as the original archive is prepared for publication.
 
 10 · What People Said
 

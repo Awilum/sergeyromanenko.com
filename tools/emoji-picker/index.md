@@ -44,7 +44,7 @@ Search for an emoji, click it, copy it. No account, no API call, nothing stored.
 
 Most emoji pickers call an API. This one does not, and the reasons are the same ones that apply to everything else here:
 
-- **It works offline once the page is loaded.** There is no API behind the picker and nothing is fetched, so the search and the grid keep working on a train. That is a claim about the tool, not about the website: this site has no service worker, so the *page* still needs a connection to open in the first place.
+- **It works offline once the page is loaded.** There is no API behind the picker and nothing is fetched, so the search and the grid keep working on a train. That is a claim about the tool, not about the website: this site has no service worker, so the page still needs a connection to open in the first place.
 - **Your searches are not sent to anyone.** Every keystroke in a search box is text a person typed; sending it to a third party because they were looking for a picture of a thumbs-up is not a trade anyone should have to accept quietly.
 - **Nothing is added to this site.** A picker component is about 250 kB of UI framework plus its own data set, to draw a grid of buttons.
 

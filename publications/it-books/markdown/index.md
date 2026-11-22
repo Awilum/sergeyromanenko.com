@@ -13,7 +13,7 @@ robots: "index, follow"
 2. [IT BOOKS](https://sergeyromanenko.com/publications/it-books/)
 3. Markdown
 
-(Book)
+( Book )
 
 # Markdown
 
@@ -25,7 +25,7 @@ IT Books — PDF, EPUB, source — Russian
 
 Free to read and download. No account, no payment.
 
-**Contents2 sections**
+**Contents 2 sections**
 
 1. Formats
 2. Why it is worth a book
@@ -54,7 +54,7 @@ Stars
 
 Releases
 
-754
+759
 
 Release downloads
 

@@ -50,7 +50,7 @@ Most of these are straightforward, and three are not. Those three are the ones w
 
 **Characters are grapheme clusters, not code units.** `"🇻🇳".length` is 4 — two regional indicators, each a surrogate pair — while you see one flag. The same is true of a family emoji joined with zero-width joiners, and of a letter carrying a combining accent. Every count here goes through the platform’s own text segmentation, so what you see is what is counted. The **UTF-8 bytes** row is separate and is the number a file or a database column actually stores.
 
-**Sentences are punctuation, not meaning.** The platform’s segmentation rules break a line at a full stop followed by a space and a capital. So `"Mr. Smith left."` counts as two sentences. No amount of tuning fixes that without a language model, and a heuristic that guessed would be worse than one that is consistently wrong in a way you can see. It is a count of sentence *boundaries*, and the figure says so.
+**Sentences are punctuation, not meaning.** The platform’s segmentation rules break a line at a full stop followed by a space and a capital. So `"Mr. Smith left."` counts as two sentences. No amount of tuning fixes that without a language model, and a heuristic that guessed would be worse than one that is consistently wrong in a way you can see. It is a count of sentence boundaries, and the figure says so.
 
 **Words are segments, not dictionary entries.** Latin scripts that use spaces, Cyrillic and Vietnamese segment accurately. Thai does too — ICU carries a dictionary for it. Chinese, Japanese and Korean do not: Han text arrives as one run, because there is no word-segmentation dictionary for it and any tool claiming otherwise is either shipping a large dataset or guessing. Read those counts as “words as an editor sees them”.
 
@@ -64,17 +64,17 @@ The same is true of pages. 250 words to a page is a convention, and it assumes a
 
 ## The vocabulary
 
-The frequency ranking is the useful half of this tool and the stop-word filter is what makes it useful. Without it, the list opens with *the*, *and* and *of* — which is true, and which every reader already knows. The list that ships is short on purpose: it holds the words that carry no topical signal in running prose and nothing else. A writer looking for a repetition in their own draft usually wants *said* or *just* visible, and those stay in.
+The frequency ranking is the useful half of this tool and the stop-word filter is what makes it useful. Without it, the list opens with the, and and of — which is true, and which every reader already knows. The list that ships is short on purpose: it holds the words that carry no topical signal in running prose and nothing else. A writer looking for a repetition in their own draft usually wants said or just visible, and those stay in.
 
 It is an **English** list, and the interface says so. A stop list for another language is a different list; inventing one from the shape of this one would be guessing, and a Vietnamese or Russian draft would lose real words to it.
 
-Turn **ignore case** off to see that *The* and *the* are different words, which is what most search engines do and what a copy editor checking a repeated heading wants.
+Turn **ignore case** off to see that The and the are different words, which is what most search engines do and what a copy editor checking a repeated heading wants.
 
 ## Repetition
 
 A word used three times is often deliberate. A phrase of three or more words used three times is usually a habit, and that is the more interesting list.
 
-The phrases are found by sliding a window of consecutive words across the text, so a phrase that straddles a comma still matches — which is usually the point. Overlapping windows are counted deliberately: in *“very very good”*, *very very* is a repeated phrase whether or not you were looking for it.
+The phrases are found by sliding a window of consecutive words across the text, so a phrase that straddles a comma still matches — which is usually the point. Overlapping windows are counted deliberately: in “very very good”, very very is a repeated phrase whether or not you were looking for it.
 
 ## What it does not do
 

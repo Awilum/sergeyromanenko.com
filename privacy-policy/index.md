@@ -46,7 +46,7 @@ No separate legal entity, company registration, or postal address is associated 
 
 The website is built with **Astro.js** and statically generated at build time. The output is a collection of static HTML, CSS, and JavaScript files with no server-side runtime.
 
-The site is deployed to **GitHub Pages** from the `main` branch of the [source repository](https://github.com/Awilum/sergeyromanenko.com). GitHub Pages serves the static files over HTTPS via a global CDN.
+The site is deployed to **GitHub Pages** from the `main` branch of the [source repository](https://github.com/Awilum/sergeyromanenko.com) . GitHub Pages serves the static files over HTTPS via a global CDN.
 
 The custom domain `sergeyromanenko.com` is registered with **Namecheap** and configured to point to GitHub Pages via DNS (CNAME and A records). Namecheap acts solely as the domain registrar and DNS provider; it does not process website visitor data beyond standard DNS resolution.
 
@@ -92,11 +92,11 @@ This information is processed by your email provider, the operator's email provi
 
 This website uses **Cloudflare Web Analytics** for aggregate traffic measurement. The analytics script is loaded on every page from a single shared location in the site's layout; it is not duplicated per page. The intended metrics are page views, popular pages, referring sources, visitor geography where available, and aggregate website performance.
 
-Cloudflare Web Analytics is designed to operate without cookies or`localStorage` for analytics and, according to Cloudflare's documentation, does not use cross-site visitor tracking or individual visitor profiles. The service still processes technical information required to generate analytics, such as IP address, user agent, requested URL, referrer, and approximate location derived from the IP address. The operator does not claim that no personal data or IP-related information is processed.
+Cloudflare Web Analytics is designed to operate without cookies or `localStorage` for analytics and, according to Cloudflare's documentation, does not use cross-site visitor tracking or individual visitor profiles. The service still processes technical information required to generate analytics, such as IP address, user agent, requested URL, referrer, and approximate location derived from the IP address. The operator does not claim that no personal data or IP-related information is processed.
 
 Cloudflare Web Analytics is provided by Cloudflare, Inc., a third party with its own privacy documentation and applicable service terms. The operator receives analytics reports through the Cloudflare dashboard; it does not operate a self-hosted database of raw visitor records unless a separate analytics database is actually configured (none is at present).
 
-For Cloudflare's own description of the service and its data handling, see: [Cloudflare Web Analytics documentation](https://developers.cloudflare.com/web-analytics/) and [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+For Cloudflare's own description of the service and its data handling, see: [Cloudflare Web Analytics documentation](https://developers.cloudflare.com/web-analytics/) and [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) .
 
 ## 5. Legal Bases and Purposes (Where GDPR Applies)
 
@@ -163,7 +163,7 @@ Tools that accept files (image tools, SQL Editor database import, QR Code Genera
 
 Once the page and its required assets (JavaScript, WebAssembly modules, bundled data files) have loaded, 40 tools and all 6 games work completely without an internet connection. The two exceptions are Currency Converter and YouTube on Repeat, which require live network connections for their core functionality.
 
-"Offline" means the tool's or game's core function works without network access after the initial page load. It does *not* mean the page is a PWA, assets are guaranteed to be cached, or you can open the tool for the first time while offline. For guaranteed offline access, save the page (Ctrl+S / Cmd+S) or use a browser extension that archives pages.
+"Offline" means the tool's or game's core function works without network access after the initial page load. It does not mean the page is a PWA, assets are guaranteed to be cached, or you can open the tool for the first time while offline. For guaranteed offline access, save the page (Ctrl+S / Cmd+ S) or use a browser extension that archives pages.
 
 ### 7.5 Confidential files and limitations
 
@@ -171,7 +171,7 @@ For the 40 fully-local tools: **yes, with the caveats below.** Your files, sourc
 
 **Important limitations:**
 
-- **Browser memory.** Data you paste or upload exists in the browser's JavaScript heap and, for image tools, in canvas memory. Closing the tab releases this memory. A memory dump of the browser process (by malware, a compromised extension, or forensic tooling) could theoretically recover it. This is true of *any* web application.
+- **Browser memory.** Data you paste or upload exists in the browser's JavaScript heap and, for image tools, in canvas memory. Closing the tab releases this memory. A memory dump of the browser process (by malware, a compromised extension, or forensic tooling) could theoretically recover it. This is true of any web application.
 - **Browser extensions.** Extensions you have installed can read the DOM, intercept network requests, and access `localStorage`. We cannot control what your extensions do.
 - **Sharing links.** Several tools (Token Generator, Encryption, QR Code Generator, Code Editor, SQL Editor, Mermaid Diagram Editor, Markdown Editor, Lua Editor, Time Difference Calculator, World Clock) offer a "Share link" feature. This encodes the tool's state into the URL hash fragment (the part after `#`). **Hash fragments are never sent to the server** — they are purely client-side. However, anyone with the full URL can reconstruct the state. Do not share links containing confidential material.
 - **Lua Editor localStorage.** The Lua Editor persists your source code, input, and saved snippets to `localStorage`. This survives browser restarts. Clear it via the tool's "Clear" button or your browser's storage settings if needed.
@@ -253,7 +253,7 @@ Some courses, guides, and other digital products are sold separately on their re
 
 ## 12. Email Correspondence
 
-The website provides a direct email contact: [awilum.dev@gmail.com](mailto:awilum.dev@gmail.com). No contact form exists on the website.
+The website provides a direct email contact: [awilum.dev@gmail.com](mailto:awilum.dev@gmail.com) . No contact form exists on the website.
 
 When you send an email, you voluntarily provide your email address, message content, and associated metadata to your email provider and the operator's email provider (Google). This information is not processed by the website itself. The operator's retention of email correspondence follows standard email practices; no automated deletion or fixed retention period is enforced by this website.
 
@@ -289,7 +289,7 @@ Because the operator does not maintain a database of personal data and does not 
 
 Cloudflare Web Analytics records are processed and retained by Cloudflare. The operator has no mechanism to identify or delete individual visitor records in Cloudflare's systems and cannot promise deletion of individual analytics records on request. Requests concerning analytics data held by Cloudflare must be directed to Cloudflare in accordance with its privacy policy.
 
-To exercise any rights regarding data the operator may hold (such as email correspondence), contact [awilum.dev@gmail.com](mailto:awilum.dev@gmail.com). The operator will respond within the limits of the data it actually holds.
+To exercise any rights regarding data the operator may hold (such as email correspondence), contact [awilum.dev@gmail.com](mailto:awilum.dev@gmail.com) . The operator will respond within the limits of the data it actually holds.
 
 ## 16. Changes to This Policy
 

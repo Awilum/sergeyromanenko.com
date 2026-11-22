@@ -1,5 +1,5 @@
 ---
-title: "Photographs about *people*, taken slowly, in places I actually live."
+title: "Photographs about people, taken slowly, in places I actually live."
 seo_title: "PHOTOGRAPHY — Sergey Romanenko"
 description: "Documentary photography about people and the places they make their lives in — long-form projects photographed on foot in Vietnam."
 canonical_url: "https://sergeyromanenko.com/photography/"
@@ -11,7 +11,7 @@ robots: "index, follow"
 
 1. Photography
 
-# Photographs about *people*, taken slowly, in places I actually live.
+# Photographs about people, taken slowly, in places I actually live.
 
 Documentary work about people and the places they make their lives in. Shot on foot, over
 months rather than afternoons, and edited as sequences rather than single frames.
@@ -36,7 +36,7 @@ months rather than afternoons, and edited as sequences rather than single frames
 
 Photographic recognition
 
-## Photographs the *communities chose*.
+## Photographs the communities chose.
 
 Along the road, photography groups and communities selected these pictures as their photographs of the day and of the week, curated collections, group covers, gallery features and excellence awards. The five most recognized are shown here; every photograph opens with the banner or certificate that recognized it.
 

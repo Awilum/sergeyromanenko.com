@@ -62,7 +62,7 @@ JSON and YAML are both widely used and neither is a superset of the other, so so
 - **Anchors, aliases and merge keys.** They describe how a document is written, not what it says, so they are replaced by the values they pointed at.
 - **Number notation.** JSON has one number type. `1.0`, `001`, `1e3`, `0x1F` and `0o17` all arrive as `1`, `1`, `1000`, `31` and `15`, because JSON has no way to tell `1.0` from `1`.
 
-**The YAML dialect.** This converter uses the YAML 1.2 *core* schema, which is the variant that agrees with JSON most closely: `yes` and `no` are strings rather than booleans, and a bare date stays text. That choice is what keeps everything listed above intact.
+**The YAML dialect.** This converter uses the YAML 1.2 core schema, which is the variant that agrees with JSON most closely: `yes` and `no` are strings rather than booleans, and a bare date stays text. That choice is what keeps everything listed above intact.
 
 ## Why an editor rather than a converter
 

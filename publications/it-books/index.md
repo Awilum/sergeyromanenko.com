@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [Publications](https://sergeyromanenko.com/publications/)
 2. IT BOOKS
 
-(An edition)
+( An edition )
 
 # IT Books
 

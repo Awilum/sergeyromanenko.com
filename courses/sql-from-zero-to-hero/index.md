@@ -12,13 +12,13 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. SQL from Zero to Hero
 
-(SQL · Stepik)
+( SQL · Stepik )
 
 # SQL from Zero to Hero
 
 A large SQL program — from the first queries to advanced language features and practical problem solving. The courses cover the language step by step, reinforce each topic with practice, and build a confident habit of working with data.
 
-Paid — 228 lessons — 86 enrollments — 308 reviews
+Paid — 228 lessons — 86 enrollments — 310 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/279994/)
 
@@ -65,13 +65,13 @@ Every course is also available separately. Taking the bundle makes sense when yo
 
 7 bundled courses · 228 lessons
 
-1. 01[SQL Introduction (RU)](https://sergeyromanenko.com/courses/sql-introduction-ru/)21 lessons
-2. 02[SQL Common Table Expressions](https://sergeyromanenko.com/courses/sql-common-table-expressions/)17 lessons
-3. 03[SQL Window Functions](https://sergeyromanenko.com/courses/sql-window-functions/)34 lessons
-4. 04[SQL Conditional Logic](https://sergeyromanenko.com/courses/sql-conditional-logic/)28 lessons
-5. 05[SQL for Beginners](https://sergeyromanenko.com/courses/sql-for-beginners/)85 lessons
-6. 06[Practical SQL Programming Trainer](https://sergeyromanenko.com/courses/sql-practical-trainer/)26 lessons
-7. 07[SQL Interview](https://sergeyromanenko.com/courses/sql-interview/)17 lessons
+1. 01 [SQL Introduction (RU)](https://sergeyromanenko.com/courses/sql-introduction-ru/) 21 lessons
+2. 02 [SQL Common Table Expressions](https://sergeyromanenko.com/courses/sql-common-table-expressions/) 17 lessons
+3. 03 [SQL Window Functions](https://sergeyromanenko.com/courses/sql-window-functions/) 34 lessons
+4. 04 [SQL Conditional Logic](https://sergeyromanenko.com/courses/sql-conditional-logic/) 28 lessons
+5. 05 [SQL for Beginners](https://sergeyromanenko.com/courses/sql-for-beginners/) 85 lessons
+6. 06 [Practical SQL Programming Trainer](https://sergeyromanenko.com/courses/sql-practical-trainer/) 26 lessons
+7. 07 [SQL Interview](https://sergeyromanenko.com/courses/sql-interview/) 17 lessons
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -89,7 +89,7 @@ No prior SQL is required to start the path. The advanced courses assume confiden
 - **What language is “SQL from Zero to Hero” taught in?:** “SQL from Zero to Hero” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL from Zero to Hero”?:** “SQL from Zero to Hero” contains 228 lessons in 7 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “SQL from Zero to Hero”?:** “SQL from Zero to Hero” was created by Sergey Romanenko. It is published on Stepik.
-- **How many learners have reviewed “SQL from Zero to Hero”?:** “SQL from Zero to Hero” has 308 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **How many learners have reviewed “SQL from Zero to Hero”?:** “SQL from Zero to Hero” has 310 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL from Zero to Hero”?:** Enrollment and payment for “SQL from Zero to Hero” happen on Stepik: open https://stepik.org/a/279994/ and start there.
 
 Course facts
@@ -101,7 +101,7 @@ Course facts
 - **Lessons:** 228
 - **Courses in program:** 7
 - **Enrollments:** 86
-- **Reviews:** 308
+- **Reviews:** 310
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
@@ -110,7 +110,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL from Zero to Hero is a beginner SQL career program, published on Stepik by Sergey Romanenko, taught in Russian, 228 lessons, 86 enrollments, rated 4.9 out of 5 across 308 reviews and a paid course.
+SQL from Zero to Hero is a beginner SQL career program, published on Stepik by Sergey Romanenko, taught in Russian, 228 lessons, 86 enrollments, rated 4.9 out of 5 across 310 reviews and a paid course.
 
 ## More in SQL
 
@@ -118,11 +118,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
+[Course · Beginner SQL Introduction 30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · BeginnerSQL Introduction (RU)21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
+[Course · Beginner SQL Introduction (RU) 21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
-[Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
+[Course · Beginner Practical SQL Programming Trainer 26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 
 Next
 

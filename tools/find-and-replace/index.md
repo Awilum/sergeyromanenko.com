@@ -60,7 +60,7 @@ So: literal matching by default, the switch beside it, and a note on the switch 
 
 Replacing `$5.00` with `$10.00` gives you `$10.00`.
 
-JavaScript’s own `String.replace` treats `$1` and `$&` in the *replacement* as references to capture groups. That is useful when you asked for it and a disaster when you did not — a reader searching for a price would get an empty string and a confusing bug report.
+JavaScript’s own `String.replace` treats `$1` and `$&` in the replacement as references to capture groups. That is useful when you asked for it and a disaster when you did not — a reader searching for a price would get an empty string and a confusing bug report.
 
 So the replacement is inserted verbatim, and **use capture groups** is a separate switch. With it on, `$1`, `$2` … and `$&` work as the reference tool’s conventions say they do. With it off, they are text.
 

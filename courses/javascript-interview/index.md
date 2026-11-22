@@ -12,13 +12,13 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. JavaScript Interview
 
-(JavaScript · Stepik)
+( JavaScript · Stepik )
 
 # JavaScript Interview
 
 A free assessment course that tests your JavaScript knowledge and prepares you for JavaScript developer interviews. Every question comes with answer options, hints and full explanations, so you learn from the ones you get wrong.
 
-Free — 30 lessons — 9,724 enrollments — 142 reviews
+Free — 30 lessons — 9,726 enrollments — 142 reviews
 
 [Start free on Stepik ↗](https://stepik.org/a/189305/)
 
@@ -37,7 +37,7 @@ Free
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 30
-- **Enrollments:** 9,724
+- **Enrollments:** 9,726
 
 ## About this course
 
@@ -61,11 +61,11 @@ Each question carries a hint and an explanation. That makes the course useful tw
 
 5 modules · 30 lessons
 
-1. 01Introduction1 lesson
-2. 02Basic Level15 lessons
-3. 03Objects in JavaScript12 lessons
-4. 04Classes [in development]1 lesson
-5. 05Conclusion1 lesson
+1. 01 Introduction 1 lesson
+2. 02 Basic Level 15 lessons
+3. 03 Objects in JavaScript 12 lessons
+4. 04 Classes [in development] 1 lesson
+5. 05 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -95,7 +95,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 30
 - **Modules:** 5
-- **Enrollments:** 9,724
+- **Enrollments:** 9,726
 - **Reviews:** 142
 - **Certificates issued:** 904
 - **Author:** Sergey Romanenko
@@ -105,7 +105,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-JavaScript Interview is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 30 lessons, 9,724 enrollments, rated 4.9 out of 5 across 142 reviews and free to enroll.
+JavaScript Interview is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 30 lessons, 9,726 enrollments, rated 4.9 out of 5 across 142 reviews and free to enroll.
 
 ## More in JavaScript
 
@@ -113,11 +113,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · BeginnerJavaScript for Beginners303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
+[Course · Beginner JavaScript for Beginners 303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
 
-[Course · IntermediatePractical JavaScript Programming Trainer56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
+[Course · Intermediate Practical JavaScript Programming Trainer 56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
 
-[Course · IntermediatePractical JavaScript Code Reading Trainer12 lessons](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/)
+[Course · Intermediate Practical JavaScript Code Reading Trainer 12 lessons](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/)
 
 Next
 

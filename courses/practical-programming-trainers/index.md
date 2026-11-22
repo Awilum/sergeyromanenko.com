@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. Practical Programming Trainers
 
-(Programming · Stepik)
+( Programming · Stepik )
 
 # Practical Programming Trainers
 
@@ -65,14 +65,14 @@ Taking the bundle makes sense when you are comparing languages or working throug
 
 8 bundled courses · 311 lessons
 
-1. 01[Practical C# Programming Trainer](https://sergeyromanenko.com/courses/csharp-practical-trainer/)38 lessons
-2. 02[Practical Go Programming Trainer](https://sergeyromanenko.com/courses/go-practical-trainer/)33 lessons
-3. 03[Practical Java Programming Trainer](https://sergeyromanenko.com/courses/java-practical-trainer/)34 lessons
-4. 04[Practical JavaScript Programming Trainer](https://sergeyromanenko.com/courses/javascript-practical-trainer/)56 lessons
-5. 05[Practical Kotlin Programming Trainer](https://sergeyromanenko.com/courses/kotlin-practical-trainer/)29 lessons
-6. 06[Practical PHP Code Reading Trainer](https://sergeyromanenko.com/courses/php-practical-trainer/)40 lessons
-7. 07[Practical Python Programming Trainer](https://sergeyromanenko.com/courses/python-practical-trainer/)55 lessons
-8. 08[Practical SQL Programming Trainer](https://sergeyromanenko.com/courses/sql-practical-trainer/)26 lessons
+1. 01 [Practical C# Programming Trainer](https://sergeyromanenko.com/courses/csharp-practical-trainer/) 38 lessons
+2. 02 [Practical Go Programming Trainer](https://sergeyromanenko.com/courses/go-practical-trainer/) 33 lessons
+3. 03 [Practical Java Programming Trainer](https://sergeyromanenko.com/courses/java-practical-trainer/) 34 lessons
+4. 04 [Practical JavaScript Programming Trainer](https://sergeyromanenko.com/courses/javascript-practical-trainer/) 56 lessons
+5. 05 [Practical Kotlin Programming Trainer](https://sergeyromanenko.com/courses/kotlin-practical-trainer/) 29 lessons
+6. 06 [Practical PHP Code Reading Trainer](https://sergeyromanenko.com/courses/php-practical-trainer/) 40 lessons
+7. 07 [Practical Python Programming Trainer](https://sergeyromanenko.com/courses/python-practical-trainer/) 55 lessons
+8. 08 [Practical SQL Programming Trainer](https://sergeyromanenko.com/courses/sql-practical-trainer/) 26 lessons
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 

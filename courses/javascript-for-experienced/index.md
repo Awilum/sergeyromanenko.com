@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. JavaScript for Experienced
 
-(JavaScript · Stepik)
+( JavaScript · Stepik )
 
 # JavaScript for Experienced
 
@@ -65,32 +65,32 @@ Alongside the language itself you work through design principles, algorithms, so
 
 26 modules · 173 lessons
 
-1. 01Introduction6 lessons
-2. 02Programming Fundamentals8 lessons
-3. 03Software Design Principles7 lessons
-4. 04Software Development Life Cycle6 lessons
-5. 05Algorithmic Thinking10 lessons
-6. 06Sorting Algorithms6 lessons
-7. 07Search Algorithms2 lessons
-8. 08Objects in JavaScript22 lessons
-9. 09Practice with Objects3 lessons
-10. 10Object Prototypes6 lessons
-11. 11Practice with Object Prototypes2 lessons
-12. 12Classes13 lessons
-13. 13Practice with Classes2 lessons
-14. 14Object-Oriented Programming5 lessons
-15. 15Advanced Functions12 lessons
-16. 16Practice with Functions1 lesson
-17. 17Introduction to Data Structures2 lessons
-18. 18Data Structures7 lessons
-19. 19Practice with Data Structures7 lessons
-20. 20Introduction to Design Patterns4 lessons
-21. 21Creational Design Patterns4 lessons
-22. 22Structural Design Patterns7 lessons
-23. 23Behavioral Design Patterns8 lessons
-24. 24Asynchronous Programming7 lessons
-25. 25Modules15 lessons
-26. 26Conclusion1 lesson
+1. 01 Introduction 6 lessons
+2. 02 Programming Fundamentals 8 lessons
+3. 03 Software Design Principles 7 lessons
+4. 04 Software Development Life Cycle 6 lessons
+5. 05 Algorithmic Thinking 10 lessons
+6. 06 Sorting Algorithms 6 lessons
+7. 07 Search Algorithms 2 lessons
+8. 08 Objects in JavaScript 22 lessons
+9. 09 Practice with Objects 3 lessons
+10. 10 Object Prototypes 6 lessons
+11. 11 Practice with Object Prototypes 2 lessons
+12. 12 Classes 13 lessons
+13. 13 Practice with Classes 2 lessons
+14. 14 Object-Oriented Programming 5 lessons
+15. 15 Advanced Functions 12 lessons
+16. 16 Practice with Functions 1 lesson
+17. 17 Introduction to Data Structures 2 lessons
+18. 18 Data Structures 7 lessons
+19. 19 Practice with Data Structures 7 lessons
+20. 20 Introduction to Design Patterns 4 lessons
+21. 21 Creational Design Patterns 4 lessons
+22. 22 Structural Design Patterns 7 lessons
+23. 23 Behavioral Design Patterns 8 lessons
+24. 24 Asynchronous Programming 7 lessons
+25. 25 Modules 15 lessons
+26. 26 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -138,11 +138,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · IntermediateJavaScript Interview30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
+[Course · Intermediate JavaScript Interview 30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
 
-[Course · BeginnerJavaScript for Beginners303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
+[Course · Beginner JavaScript for Beginners 303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
 
-[Course · IntermediatePractical JavaScript Programming Trainer56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
+[Course · Intermediate Practical JavaScript Programming Trainer 56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
 
 Next
 

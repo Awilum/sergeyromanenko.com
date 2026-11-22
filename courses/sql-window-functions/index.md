@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. SQL Window Functions
 
-(SQL · Stepik)
+( SQL · Stepik )
 
 # SQL Window Functions
 
@@ -61,16 +61,16 @@ The course works through OVER(), PARTITION BY, ROW_NUMBER, RANK, DENSE_RANK, LAG
 
 10 modules · 34 lessons
 
-1. 01Introduction4 lessons
-2. 02Aggregate Window Functions6 lessons
-3. 03Practice with Aggregate Window Functions1 lesson
-4. 04Ranking Window Functions6 lessons
-5. 05Practice with Ranking Window Functions1 lesson
-6. 06Offset Window Functions6 lessons
-7. 07Practice with Offset Window Functions1 lesson
-8. 08Advanced Window Logic5 lessons
-9. 09Advanced Window Function Practice1 lesson
-10. 10Conclusion1 lesson
+1. 01 Introduction 4 lessons
+2. 02 Aggregate Window Functions 6 lessons
+3. 03 Practice with Aggregate Window Functions 1 lesson
+4. 04 Ranking Window Functions 6 lessons
+5. 05 Practice with Ranking Window Functions 1 lesson
+6. 06 Offset Window Functions 6 lessons
+7. 07 Practice with Offset Window Functions 1 lesson
+8. 08 Advanced Window Logic 5 lessons
+9. 09 Advanced Window Function Practice 1 lesson
+10. 10 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -118,11 +118,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
+[Course · Beginner SQL Introduction 30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · BeginnerSQL Introduction (RU)21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
+[Course · Beginner SQL Introduction (RU) 21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
-[Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
+[Course · Beginner Practical SQL Programming Trainer 26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 
 Next
 

@@ -146,7 +146,7 @@ The interpreter runs entirely in your browser. The program, input, output and va
 - Cambridge International AS & A Level Computer Science (9618) syllabus
 - Cambridge International AS & A Level Computer Science (0478) syllabus
 - Cambridge 9618/21 Paper 2 Insert (May/June 2026 examination series onward)
-- *This editor is an independent implementation and is not affiliated with or endorsed by Cambridge Assessment International Education.*
+- This editor is an independent implementation and is not affiliated with or endorsed by Cambridge Assessment International Education.
 
 ## Details
 

@@ -12,13 +12,13 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. Practical SQL Programming Trainer
 
-(SQL · Stepik)
+( SQL · Stepik )
 
 # Practical SQL Programming Trainer
 
 An SQL trainer where you learn through real tasks instead of theory. You work with user, order and product data shaped like the data of a real company, writing queries and analysing results until simple SELECTs turn into full analytical tasks.
 
-Paid — 26 lessons — 2,311 enrollments — 30 reviews
+Paid — 26 lessons — 2,310 enrollments — 30 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/279399/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 26
-- **Enrollments:** 2,311
+- **Enrollments:** 2,310
 
 ## About this course
 
@@ -60,12 +60,12 @@ The tasks progress from straightforward selection through filtering, sorting, gr
 
 6 modules · 26 lessons
 
-1. 01Introduction2 lessons
-2. 02Online Store6 lessons
-3. 03Address Book5 lessons
-4. 04Hotels6 lessons
-5. 05Conclusion1 lesson
-6. 06Gaming Platform5 lessons
+1. 01 Introduction 2 lessons
+2. 02 Online Store 6 lessons
+3. 03 Address Book 5 lessons
+4. 04 Hotels 6 lessons
+5. 05 Conclusion 1 lesson
+6. 06 Gaming Platform 5 lessons
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -95,7 +95,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 26
 - **Modules:** 6
-- **Enrollments:** 2,311
+- **Enrollments:** 2,310
 - **Reviews:** 30
 - **Certificates issued:** 118
 - **Author:** Sergey Romanenko
@@ -105,7 +105,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Practical SQL Programming Trainer is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 26 lessons, 2,311 enrollments, rated 4.9 out of 5 across 30 reviews and a paid course.
+Practical SQL Programming Trainer is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 26 lessons, 2,310 enrollments, rated 4.9 out of 5 across 30 reviews and a paid course.
 
 ## More in SQL
 
@@ -113,11 +113,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
+[Course · Beginner SQL Introduction 30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · BeginnerSQL Introduction (RU)21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
+[Course · Beginner SQL Introduction (RU) 21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
-[Course · BeginnerSQL for Beginners85 lessons](https://sergeyromanenko.com/courses/sql-for-beginners/)
+[Course · Beginner SQL for Beginners 85 lessons](https://sergeyromanenko.com/courses/sql-for-beginners/)
 
 Next
 

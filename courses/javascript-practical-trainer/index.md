@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. Practical JavaScript Programming Trainer
 
-(JavaScript · Stepik)
+( JavaScript · Stepik )
 
 # Practical JavaScript Programming Trainer
 
@@ -62,19 +62,19 @@ The exercise set deliberately includes interview-style problems, so the course w
 
 13 modules · 56 lessons
 
-1. 01Introduction10 lessons
-2. 02Basics2 lessons
-3. 03Operators2 lessons
-4. 04Control Structures2 lessons
-5. 05Data Types3 lessons
-6. 06Sets3 lessons
-7. 07Objects3 lessons
-8. 08Arrays10 lessons
-9. 09Strings8 lessons
-10. 10Dates and Times2 lessons
-11. 11Mathematics6 lessons
-12. 12Regular Expressions4 lessons
-13. 13Conclusion1 lesson
+1. 01 Introduction 10 lessons
+2. 02 Basics 2 lessons
+3. 03 Operators 2 lessons
+4. 04 Control Structures 2 lessons
+5. 05 Data Types 3 lessons
+6. 06 Sets 3 lessons
+7. 07 Objects 3 lessons
+8. 08 Arrays 10 lessons
+9. 09 Strings 8 lessons
+10. 10 Dates and Times 2 lessons
+11. 11 Mathematics 6 lessons
+12. 12 Regular Expressions 4 lessons
+13. 13 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -122,11 +122,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · IntermediateJavaScript Interview30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
+[Course · Intermediate JavaScript Interview 30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
 
-[Course · BeginnerJavaScript for Beginners303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
+[Course · Beginner JavaScript for Beginners 303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
 
-[Course · IntermediatePractical JavaScript Code Reading Trainer12 lessons](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/)
+[Course · Intermediate Practical JavaScript Code Reading Trainer 12 lessons](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/)
 
 Next
 

@@ -37,9 +37,9 @@ Documentary facts from the road. No estimates, no rounding up.
 
 I bought the motorcycle in 2025, shortly before my birthday. It was my first motorcycle in Vietnam and has become my favourite motorcycle here. Since purchasing it, I have travelled more than **37,000 kilometres** on it.
 
-My longest journey was a trip from Da Nang to southern Vietnam and back —**7,740 kilometres over 138 days**. That journey is documented in the photographic project [From Da Nang to South and Back](https://sergeyromanenko.com/photography/from-danang-to-south-and-back/).
+My longest journey was a trip from Da Nang to southern Vietnam and back — **7,740 kilometres over 138 days**. That journey is documented in the photographic project [From Da Nang to South and Back](https://sergeyromanenko.com/photography/from-danang-to-south-and-back/) .
 
-The motorcycle was originally completely stock. I gradually modified and improved it based on my actual travel experience. My objective was not to build a powerful adventure motorcycle. I wanted a compact, practical, relatively lightweight *mini Explorer Bike* that would allow me to explore Vietnam at my own pace.
+The motorcycle was originally completely stock. I gradually modified and improved it based on my actual travel experience. My objective was not to build a powerful adventure motorcycle. I wanted a compact, practical, relatively lightweight mini Explorer Bike that would allow me to explore Vietnam at my own pace.
 
 In short
 
@@ -92,7 +92,7 @@ I did not modify everything at once. Each change was a response to a specific si
 
 Vietnamese motorcycle mechanics and welding specialists were essential to this process. Custom brackets, reinforced mounting points, fabricated luggage racks — these are not catalogue items. They were made in small workshops by people who understand metal and motorcycles. The ability to walk into a welding shop with a sketch and leave with a finished part the same day is one of Vietnam's hidden advantages for motorcycle travellers.
 
-It is worth noting that a Yamaha PG-1 can be adapted to different personal styles. Some owners build street-inspired machines with lowered suspension and cast wheels. Others go mini-enduro with knobby tyres, high pipes, and enduro bars. My direction is the third: a *mini Explorer / travel configuration* — practical luggage, protective guards, auxiliary lighting, comfortable ergonomics, and the reliability to keep moving day after day.
+It is worth noting that a Yamaha PG-1 can be adapted to different personal styles. Some owners build street-inspired machines with lowered suspension and cast wheels. Others go mini-enduro with knobby tyres, high pipes, and enduro bars. My direction is the third: a mini Explorer / travel configuration — practical luggage, protective guards, auxiliary lighting, comfortable ergonomics, and the reliability to keep moving day after day.
 
 These modifications are my personal choices. They are not endorsed by Yamaha Motor Vietnam or Yamaha Motor Co., Ltd., and they may affect the motorcycle's warranty, handling, or legal compliance. Every rider must make their own assessments.
 
@@ -206,7 +206,7 @@ This is personal experience and a practical packing principle, not an absolute e
 
 #### Payload distinction
 
-The motorcycle's maximum permissible load (including rider, passenger, luggage and accessories) is a legal and structural limit set by the manufacturer and documented in the owner's manual. I do not quote a figure here. My luggage recommendations are about *handling quality* within that limit. A motorcycle can be within its rated payload and still handle poorly if the weight is badly distributed. Check the applicable figure for your model year in the owner's manual before loading heavily.
+The motorcycle's maximum permissible load (including rider, passenger, luggage and accessories) is a legal and structural limit set by the manufacturer and documented in the owner's manual. I do not quote a figure here. My luggage recommendations are about handling quality within that limit. A motorcycle can be within its rated payload and still handle poorly if the weight is badly distributed. Check the applicable figure for your model year in the owner's manual before loading heavily.
 
 - **Side luggage:** Yellow Yamaha MotoWolf expandable side bags
 - **Centre top case:** ≈ 45 litres
@@ -256,11 +256,7 @@ I do not invent service intervals, oil grades, pressures, torque values, or part
 
 Authoritative information from Yamaha Motor Vietnam and the owner's manual. This is the
 original specification — my modified sprockets, tyres, seat, lighting, luggage rack, and
-other components are
-
-not
-
-factory equipment.
+other components are not factory equipment.
 
 - **Engine type:** Single-cylinder, 4-stroke, SOHC, 2-valve, air-cooled
 - **Displacement:** 113.7 cc
@@ -295,7 +291,7 @@ factory equipment.
 
 Source: Yamaha Motor Vietnam's published PG-1 documentation, cross-checked against Yamaha Motor Co., Ltd.'s technical literature. Values are consistent across the 2023 launch model, the September 2025 refresh and the 2026 model year, except where the 2025 refresh split the range: the ABS (premium and limited) versions carry a 245 mm front disc with front-wheel ABS, a 109 kg kerb weight, a 1,055 mm overall height, a 12 V 3.5 Ah battery and a round LCD instrument panel, while the standard version keeps the pre-refresh specification. This motorcycle was purchased in Vietnam in 2025. Missing values are omitted rather than invented.
 
-References: [Yamaha PG-1 standard version (Yamaha Motor Vietnam)](https://yamaha-motor.com.vn/xe/pg-1-phien-ban-tieu-chuan-moi-2026-bns3/), [Yamaha PG-1 ABS premium version (Yamaha Motor Vietnam)](https://yamaha-motor.com.vn/xe/pg-1-abs-moi-phien-ban-cao-cap-mau-moi-dg13/), [Yamaha Technical Review No. 59 (development report; confirms the 13T/40T factory secondary reduction)](https://global.yamaha-motor.com/jp/design_technology/technical/product/pdf/browse/59ss01.pdf)
+References: [Yamaha PG-1 standard version (Yamaha Motor Vietnam)](https://yamaha-motor.com.vn/xe/pg-1-phien-ban-tieu-chuan-moi-2026-bns3/) , [Yamaha PG-1 ABS premium version (Yamaha Motor Vietnam)](https://yamaha-motor.com.vn/xe/pg-1-abs-moi-phien-ban-cao-cap-mau-moi-dg13/) , [Yamaha Technical Review No. 59 (development report; confirms the 13T/40T factory secondary reduction)](https://global.yamaha-motor.com/jp/design_technology/technical/product/pdf/browse/59ss01.pdf)
 
 **Important distinction:** This is the original factory specification section. My modified sprockets, tyres, seat, lighting, luggage rack, CarPlay display, TPMS, and other components must not be presented as factory equipment.
 
@@ -345,7 +341,7 @@ Who may enjoy this motorcycle, and where its limitations lie.
 - **People who like slower travel.** The PG-1 rewards a pace that lets you notice the landscape, the villages, and the people. It is not a motorcycle for covering ground quickly.
 - **Travellers exploring smaller Vietnamese roads.** Narrow mountain passes, unpaved village lanes, ferry ramps, and tight city alleys are where this motorcycle feels at home.
 - **Riders who want a compact and manageable motorcycle.** Low seat height, light weight, and automatic clutch make it accessible to a wide range of riders, including those with less off-road experience.
-- **People interested in customizing and improving their own motorcycle.**The PG-1 has a huge aftermarket in Vietnam, and local fabrication makes one-off parts affordable.
+- **People interested in customizing and improving their own motorcycle.** The PG-1 has a huge aftermarket in Vietnam, and local fabrication makes one-off parts affordable.
 - **Travellers who value flexibility over speed and engine power.** The trade-off is deliberate: less power, more options.
 
 #### Limitations

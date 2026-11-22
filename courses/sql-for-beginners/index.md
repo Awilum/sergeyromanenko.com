@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. SQL for Beginners
 
-(SQL · Stepik)
+( SQL · Stepik )
 
 # SQL for Beginners
 
@@ -61,25 +61,25 @@ The path runs through SELECT, filtering, sorting, grouping, joins, unions, neste
 
 19 modules · 85 lessons
 
-1. 01Introduction1 lesson
-2. 02Basics15 lessons
-3. 03Practice2 lessons
-4. 04Aggregate Functions6 lessons
-5. 05String Functions16 lessons
-6. 06Practice1 lesson
-7. 07Numeric Functions6 lessons
-8. 08Date and Time Functions16 lessons
-9. 09Expressions5 lessons
-10. 10Practice1 lesson
-11. 11Joining Tables8 lessons
-12. 12Table Operations9 lessons
-13. 13Practice1 lesson
-14. 14Conclusion1 lesson
-15. 15Advanced LevelSelf-paced
-16. 16Practice1 lesson
-17. 17Practice1 lesson
-18. 18Practice2 lessons
-19. 19Practice1 lesson
+1. 01 Introduction 1 lesson
+2. 02 Basics 15 lessons
+3. 03 Practice 2 lessons
+4. 04 Aggregate Functions 6 lessons
+5. 05 String Functions 16 lessons
+6. 06 Practice 1 lesson
+7. 07 Numeric Functions 6 lessons
+8. 08 Date and Time Functions 16 lessons
+9. 09 Expressions 5 lessons
+10. 10 Practice 1 lesson
+11. 11 Joining Tables 8 lessons
+12. 12 Table Operations 9 lessons
+13. 13 Practice 1 lesson
+14. 14 Conclusion 1 lesson
+15. 15 Advanced Level Self-paced
+16. 16 Practice 1 lesson
+17. 17 Practice 1 lesson
+18. 18 Practice 2 lessons
+19. 19 Practice 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -97,7 +97,7 @@ Basic computer science. No prior SQL is assumed; the course builds from first pr
 - **What language is “SQL for Beginners” taught in?:** “SQL for Beginners” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL for Beginners”?:** “SQL for Beginners” contains 85 lessons in 19 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL for Beginners”?:** “SQL for Beginners” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL for Beginners” give a certificate?:** Yes. Stepik has issued 293 certificates to learners who completed “SQL for Beginners”.
+- **Does “SQL for Beginners” give a certificate?:** Yes. Stepik has issued 294 certificates to learners who completed “SQL for Beginners”.
 - **How many learners have reviewed “SQL for Beginners”?:** “SQL for Beginners” has 78 reviews on Stepik, with an average rating of 4.8 out of 5.
 - **How do I enroll in “SQL for Beginners”?:** Enrollment and payment for “SQL for Beginners” happen on Stepik: open https://stepik.org/a/133728/ and start there.
 
@@ -111,7 +111,7 @@ Course facts
 - **Modules:** 19
 - **Enrollments:** 916
 - **Reviews:** 78
-- **Certificates issued:** 293
+- **Certificates issued:** 294
 - **Author:** Sergey Romanenko
 - **Rating:** 4.8 / 5
 
@@ -127,11 +127,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
+[Course · Beginner SQL Introduction 30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · BeginnerSQL Introduction (RU)21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
+[Course · Beginner SQL Introduction (RU) 21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
-[Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
+[Course · Beginner Practical SQL Programming Trainer 26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 
 Next
 

@@ -12,13 +12,13 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. Practical Go Programming Trainer
 
-(Go · Stepik)
+( Go · Stepik )
 
 # Practical Go Programming Trainer
 
 A practical Go trainer built from a wide range of programming tasks — classic exercises and interview problems — covering variables, data types, control structures, loops, functions and algorithms in Go.
 
-Paid — 33 lessons — 772 enrollments — 13 reviews
+Paid — 33 lessons — 773 enrollments — 13 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/175966/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 33
-- **Enrollments:** 772
+- **Enrollments:** 773
 
 ## About this course
 
@@ -61,24 +61,24 @@ The problems are drawn from both traditional exercise sets and the questions ask
 
 18 modules · 33 lessons
 
-1. 01Introduction4 lessons
-2. 02Basics (★☆☆)1 lesson
-3. 03Operators (★☆☆)1 lesson
-4. 04Control Structures (★☆☆)1 lesson
-5. 05Sets (★☆☆)1 lesson
-6. 06Arrays (★☆☆)5 lessons
-7. 07Arrays (★★☆)2 lessons
-8. 08Arrays (★★★)2 lessons
-9. 09Strings (★☆☆)5 lessons
-10. 10Strings (★★☆)1 lesson
-11. 11Strings (★★★)1 lesson
-12. 12Dates and Times (★☆☆)1 lesson
-13. 13Dates and Times (★★☆)1 lesson
-14. 14Mathematics (★☆☆)2 lessons
-15. 15Regular Expressions (★★☆)2 lessons
-16. 16Mathematics (★★☆)1 lesson
-17. 17Regular Expressions (★★★)1 lesson
-18. 18Conclusion1 lesson
+1. 01 Introduction 4 lessons
+2. 02 Basics (★☆☆) 1 lesson
+3. 03 Operators (★☆☆) 1 lesson
+4. 04 Control Structures (★☆☆) 1 lesson
+5. 05 Sets (★☆☆) 1 lesson
+6. 06 Arrays (★☆☆) 5 lessons
+7. 07 Arrays (★★☆) 2 lessons
+8. 08 Arrays (★★★) 2 lessons
+9. 09 Strings (★☆☆) 5 lessons
+10. 10 Strings (★★☆) 1 lesson
+11. 11 Strings (★★★) 1 lesson
+12. 12 Dates and Times (★☆☆) 1 lesson
+13. 13 Dates and Times (★★☆) 1 lesson
+14. 14 Mathematics (★☆☆) 2 lessons
+15. 15 Regular Expressions (★★☆) 2 lessons
+16. 16 Mathematics (★★☆) 1 lesson
+17. 17 Regular Expressions (★★★) 1 lesson
+18. 18 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -108,7 +108,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 33
 - **Modules:** 18
-- **Enrollments:** 772
+- **Enrollments:** 773
 - **Reviews:** 13
 - **Certificates issued:** 46
 - **Author:** Sergey Romanenko
@@ -118,7 +118,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Practical Go Programming Trainer is an intermediate Go course, published on Stepik by Sergey Romanenko, taught in Russian, 33 lessons, 772 enrollments, rated 4.7 out of 5 across 13 reviews and a paid course.
+Practical Go Programming Trainer is an intermediate Go course, published on Stepik by Sergey Romanenko, taught in Russian, 33 lessons, 773 enrollments, rated 4.7 out of 5 across 13 reviews and a paid course.
 
 Next
 

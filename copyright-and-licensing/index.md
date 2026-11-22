@@ -62,7 +62,7 @@ Unless expressly stated otherwise, all such materials are protected and remain s
 
 ## Street & Documentary Photography
 
-A significant part of my photographic practice consists of**street photography, documentary photography** and the observation of everyday life, people, cultures, places and human expression.
+A significant part of my photographic practice consists of **street photography, documentary photography** and the observation of everyday life, people, cultures, places and human expression.
 
 Photographs created in public spaces are part of an ongoing personal artistic and documentary practice. They may be presented as artistic, journalistic, editorial, cultural or documentary work, depending on the context of publication.
 
@@ -98,7 +98,7 @@ Any use outside the agreed scope requires separate written permission.
 
 ## Requesting Permission
 
-If you would like to use any photograph, image, video, text, publication, educational material, research material or other copyrighted work published on this website, please contact me**before** downloading, reproducing, publishing, distributing, modifying or otherwise using the material.
+If you would like to use any photograph, image, video, text, publication, educational material, research material or other copyrighted work published on this website, please contact me **before** downloading, reproducing, publishing, distributing, modifying or otherwise using the material.
 
 When making a licensing or permission request, please provide the relevant material or URL, intended use, name of the publication, organisation, client or project, type of media or platform, territory, expected audience, duration of use and proposed publication date.
 

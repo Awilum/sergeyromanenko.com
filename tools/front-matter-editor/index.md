@@ -58,7 +58,7 @@ Extraction takes the body exactly as it was written and reconstruction puts it b
 
 ## What formatting does not survive
 
-The metadata is parsed and written back out, which means it is a *value* by the time it comes back. YAML comments, quoting style and the order of mapping keys live in the source, not in the value, so they are resolved away. A reader who wrote:
+The metadata is parsed and written back out, which means it is a value by the time it comes back. YAML comments, quoting style and the order of mapping keys live in the source, not in the value, so they are resolved away. A reader who wrote:
 
 ```yaml
 tags:  # keep this list short

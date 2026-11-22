@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [PHOTOGRAPHY](https://sergeyromanenko.com/photography/)
 2. People of Bangkok's Chinatown
 
-(Chinatown, Bangkok, Thailand)
+( Chinatown, Bangkok, Thailand )
 
 # People of Bangkok's Chinatown
 
@@ -20,7 +20,7 @@ In 2025 I spent two months living in Bangkok and repeatedly explored Chinatown o
 
 2025 — Chinatown, Bangkok, Thailand — Street and documentary photography
 
-**Contents4 sections**
+**Contents 4 sections**
 
 1. The Neighborhood as Subject
 2. Food as Daily Rhythm
@@ -51,7 +51,7 @@ I photographed the food because I could not separate it from the people. The wom
 
 The photographs in this project were made over dozens of returns. The first walk was orientation. The tenth walk revealed a courtyard I had missed. The twentieth walk brought a conversation with a shopkeeper who recognized me. The fortieth walk — I stopped counting.
 
-Each return added a layer. A face seen before, now in different light. A street that felt chaotic on day three, familiar by day thirty. The project is not a portrait of Chinatown. It is a record of *my* Chinatown — the one built from repeated presence, from slowing down, from choosing to walk the same streets until they stopped being foreign.
+Each return added a layer. A face seen before, now in different light. A street that felt chaotic on day three, familiar by day thirty. The project is not a portrait of Chinatown. It is a record of my Chinatown — the one built from repeated presence, from slowing down, from choosing to walk the same streets until they stopped being foreign.
 
 ## The Project
 

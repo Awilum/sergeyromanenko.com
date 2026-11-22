@@ -73,7 +73,7 @@ The rules, in full:
 - **An empty element** becomes `null`.
 - **A repeated tag becomes an array.** `<item/>` once is an object, `<item/>` twice is an array of two objects. This is what every XML-to-JSON tool does, and it means the one-to-many transition changes the shape — which is visible rather than hidden.
 - **Namespaces** are kept in the names as the document wrote them, so `<ns:root>` has the key `ns:root` and `xmlns:ns` appears as an attribute like any other.
-- **Whitespace** around an element’s text is trimmed. Whitespace *inside* the text is preserved.
+- **Whitespace** around an element’s text is trimmed. Whitespace inside the text is preserved.
 
 ## Everything is a string
 

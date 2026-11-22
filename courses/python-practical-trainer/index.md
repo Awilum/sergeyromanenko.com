@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. Practical Python Programming Trainer
 
-(Python · Stepik)
+( Python · Stepik )
 
 # Practical Python Programming Trainer
 
@@ -61,28 +61,28 @@ Because the same concepts recur across dozens of problems in different disguises
 
 22 modules · 55 lessons
 
-1. 01Introduction10 lessons
-2. 02Basics (★)1 lesson
-3. 03Operators (★)1 lesson
-4. 04Control Structures (★)1 lesson
-5. 05Control Structures (★★)1 lesson
-6. 06Sets (★)1 lesson
-7. 07Sets (★★)1 lesson
-8. 08Dictionaries (★)4 lessons
-9. 09Dictionaries (★★)1 lesson
-10. 10Lists (★)6 lessons
-11. 11Lists (★★)2 lessons
-12. 12Lists (★★★)3 lessons
-13. 13Strings (★)7 lessons
-14. 14Strings (★★)3 lessons
-15. 15Strings (★★★)2 lessons
-16. 16Mathematics (★)3 lessons
-17. 17Mathematics (★★)2 lessons
-18. 18Dates and Times (★)1 lesson
-19. 19Dates and Times (★★)1 lesson
-20. 20Regular Expressions (★★)2 lessons
-21. 21Regular Expressions (★★★)1 lesson
-22. 22Conclusion1 lesson
+1. 01 Introduction 10 lessons
+2. 02 Basics (★) 1 lesson
+3. 03 Operators (★) 1 lesson
+4. 04 Control Structures (★) 1 lesson
+5. 05 Control Structures (★★) 1 lesson
+6. 06 Sets (★) 1 lesson
+7. 07 Sets (★★) 1 lesson
+8. 08 Dictionaries (★) 4 lessons
+9. 09 Dictionaries (★★) 1 lesson
+10. 10 Lists (★) 6 lessons
+11. 11 Lists (★★) 2 lessons
+12. 12 Lists (★★★) 3 lessons
+13. 13 Strings (★) 7 lessons
+14. 14 Strings (★★) 3 lessons
+15. 15 Strings (★★★) 2 lessons
+16. 16 Mathematics (★) 3 lessons
+17. 17 Mathematics (★★) 2 lessons
+18. 18 Dates and Times (★) 1 lesson
+19. 19 Dates and Times (★★) 1 lesson
+20. 20 Regular Expressions (★★) 2 lessons
+21. 21 Regular Expressions (★★★) 1 lesson
+22. 22 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 

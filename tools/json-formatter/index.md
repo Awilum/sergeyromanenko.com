@@ -54,7 +54,7 @@ Indentation is yours: 2 spaces for source control, 4 spaces for a document that 
 
 ## Errors that point at something
 
-`JSON.parse` reports a character *position*, which is useless when you are looking at the fifth line of a config file. Every error raised here is converted to a line and a column first, so:
+`JSON.parse` reports a character position, which is useless when you are looking at the fifth line of a config file. Every error raised here is converted to a line and a column first, so:
 
 ```plaintext
 Unexpected token } in JSON at position 148 (line 12, column 3)
@@ -64,7 +64,7 @@ The source is never replaced when parsing fails — the text you pasted stays in
 
 ## What it is not
 
-It is not a schema validator: `{"port": "8080"}` where `"8080"` should be a number is valid JSON and this tool accepts it. Checking what a document *means* is a different job from checking that it parses.
+It is not a schema validator: `{"port": "8080"}` where `"8080"` should be a number is valid JSON and this tool accepts it. Checking what a document means is a different job from checking that it parses.
 
 ## Details
 

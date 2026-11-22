@@ -9,7 +9,7 @@ language: "en"
 robots: "index, follow"
 ---
 
-# *Go* out into the world. Look closer. *Discover* what lies beneath. *Make* something worth *sharing*.
+# Go out into the world. Look closer. Discover what lies beneath. Make something worth sharing.
 
 — Sergey Romanenko
 
@@ -17,7 +17,7 @@ I work in two places at once. There is the physical world, which I get to know b
 
 How I work
 
-## There is no method. Just a few *habits* that keep returning.
+## There is no method. Just a few habits that keep returning.
 
 1. 01
   ### Go and see
@@ -34,9 +34,9 @@ How I work
 
 ## Where to start
 
-- [TeachingCoursesPractical programming courses on Stepik, mostly trainers — long sequences of problems to solve rather than videos to watch.74,233 enrollments · 26 courses](https://sergeyromanenko.com/courses/)
-- [ObservationPhotographyDocumentary work about people and the places they make their lives in. Shot slowly, on foot, mostly in black and white.15 photographs · 4 projects](https://sergeyromanenko.com/photography/)
-- [WritingPublicationsPractical books on SQL and Markdown, written to be kept and returned to. Clear explanations, useful examples.2 books · Educational writing](https://sergeyromanenko.com/publications/)
-- [MakingToolsSmall, practical tools built around specific needs — from time zones and world clocks to planning a shoot around the sun.42 tools · No network required](https://sergeyromanenko.com/tools/)
-- [PlayingGamesLightweight browser games for travel — play against an optimal AI or challenge a friend on the same device.Offline games for the journey](https://sergeyromanenko.com/games/)
-- [To understandThe personHow the disciplines connect, and where the work stands now.The thread connecting the work](https://sergeyromanenko.com/about/)
+- [Teaching Courses Practical programming courses on Stepik, mostly trainers — long sequences of problems to solve rather than videos to watch. 74,296 enrollments · 26 courses](https://sergeyromanenko.com/courses/)
+- [Observation Photography Documentary work about people and the places they make their lives in. Shot slowly, on foot, mostly in black and white. 15 photographs · 4 projects](https://sergeyromanenko.com/photography/)
+- [Writing Publications Practical books on SQL and Markdown, written to be kept and returned to. Clear explanations, useful examples. 2 books · Educational writing](https://sergeyromanenko.com/publications/)
+- [Making Tools Small, practical tools built around specific needs — from time zones and world clocks to planning a shoot around the sun. 42 tools · No network required](https://sergeyromanenko.com/tools/)
+- [Playing Games Lightweight browser games for travel — play against an optimal AI or challenge a friend on the same device. Offline games for the journey](https://sergeyromanenko.com/games/)
+- [To understand The person How the disciplines connect, and where the work stands now. The thread connecting the work](https://sergeyromanenko.com/about/)

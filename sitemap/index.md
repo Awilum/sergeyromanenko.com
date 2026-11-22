@@ -25,7 +25,7 @@ How to use
 
 Folders represent categories; files represent pages. Each entry is a direct link.
 
-For crawlers there is also the[XML sitemap](https://sergeyromanenko.com/sitemap-index.xml).
+For crawlers there is also the [XML sitemap](https://sergeyromanenko.com/sitemap-index.xml).
 
 - [Home](https://sergeyromanenko.com/) — Sergey Romanenko — photography, courses, publications, tools and games
   - [About](https://sergeyromanenko.com/about/) — Biography and project information

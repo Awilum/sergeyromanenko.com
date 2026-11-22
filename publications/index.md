@@ -1,5 +1,5 @@
 ---
-title: "Things written down and *given away*."
+title: "Things written down and given away."
 seo_title: "PUBLICATIONS — Sergey Romanenko"
 description: "Books, photo zines and travel journals — free to read and free to download, an independent archive of observations, research and discoveries. 2 works published so far, free to read and free to download."
 canonical_url: "https://sergeyromanenko.com/publications/"
@@ -11,7 +11,7 @@ robots: "index, follow"
 
 1. Publications
 
-# Things written down and *given away*.
+# Things written down and given away.
 
 2 published works — 5 editions — Free to read and download
 
@@ -43,7 +43,7 @@ Each work has its own page: what it covers, what it comes in as, and where to re
   - **Edition:** IT Books
   - **Formats:** PDF, EPUB, source
   - **Language:** Russian
-  Free to readOpen the work
+  Free to read Open the work
 - Book
   No. 02
   ### [SQL Introduction](https://sergeyromanenko.com/publications/it-books/sql-introduction/)
@@ -53,7 +53,7 @@ Each work has its own page: what it covers, what it comes in as, and where to re
   - **Edition:** IT Books
   - **Formats:** PDF, EPUB, source
   - **Language:** Russian
-  Free to readOpen the work
+  Free to read Open the work
 
 ## Editions
 

@@ -12,7 +12,7 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. Practical PHP Code Reading Trainer
 
-(PHP · Stepik)
+( PHP · Stepik )
 
 # Practical PHP Code Reading Trainer
 
@@ -61,25 +61,25 @@ The problems progress from basic syntax through control flow, functions and the 
 
 19 modules · 40 lessons
 
-1. 01Introduction10 lessons
-2. 02Basics (★)1 lesson
-3. 03Operators (★)1 lesson
-4. 04Control Structures (★)1 lesson
-5. 05Sets (★)1 lesson
-6. 06Sets (★★)1 lesson
-7. 07Objects (★)2 lessons
-8. 08Arrays (★)5 lessons
-9. 09Arrays (★★)2 lessons
-10. 10Arrays (★★★)2 lessons
-11. 11Strings (★)3 lessons
-12. 12Strings (★★)1 lesson
-13. 13Mathematics (★)3 lessons
-14. 14Mathematics (★★)2 lessons
-15. 15Dates and Times (★)1 lesson
-16. 16Dates and Times (★★)1 lesson
-17. 17Regular Expressions (★★)1 lesson
-18. 18Regular Expressions (★★★)1 lesson
-19. 19Conclusion1 lesson
+1. 01 Introduction 10 lessons
+2. 02 Basics (★) 1 lesson
+3. 03 Operators (★) 1 lesson
+4. 04 Control Structures (★) 1 lesson
+5. 05 Sets (★) 1 lesson
+6. 06 Sets (★★) 1 lesson
+7. 07 Objects (★) 2 lessons
+8. 08 Arrays (★) 5 lessons
+9. 09 Arrays (★★) 2 lessons
+10. 10 Arrays (★★★) 2 lessons
+11. 11 Strings (★) 3 lessons
+12. 12 Strings (★★) 1 lesson
+13. 13 Mathematics (★) 3 lessons
+14. 14 Mathematics (★★) 2 lessons
+15. 15 Dates and Times (★) 1 lesson
+16. 16 Dates and Times (★★) 1 lesson
+17. 17 Regular Expressions (★★) 1 lesson
+18. 18 Regular Expressions (★★★) 1 lesson
+19. 19 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 

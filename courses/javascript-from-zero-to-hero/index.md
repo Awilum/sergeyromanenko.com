@@ -12,13 +12,13 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. JavaScript from Zero to Hero
 
-(JavaScript · Stepik)
+( JavaScript · Stepik )
 
 # JavaScript from Zero to Hero
 
 A structured learning path from JavaScript zero to confident: theory, practice, trainers and tests that build a durable foundation for real problems, technical interviews and further study of the JavaScript ecosystem.
 
-Paid — 574 lessons — 54 enrollments — 264 reviews
+Paid — 574 lessons — 54 enrollments — 265 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/271057/)
 
@@ -64,11 +64,11 @@ Each stage is tested and practised before the next begins, so the knowledge accu
 
 5 bundled courses · 574 lessons
 
-1. 01[Practical JavaScript Programming Trainer](https://sergeyromanenko.com/courses/javascript-practical-trainer/)56 lessons
-2. 02[Practical JavaScript Code Reading Trainer](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/)12 lessons
-3. 03[JavaScript Interview](https://sergeyromanenko.com/courses/javascript-interview/)30 lessons
-4. 04[JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/)303 lessons
-5. 05[JavaScript for Experienced](https://sergeyromanenko.com/courses/javascript-for-experienced/)173 lessons
+1. 01 [Practical JavaScript Programming Trainer](https://sergeyromanenko.com/courses/javascript-practical-trainer/) 56 lessons
+2. 02 [Practical JavaScript Code Reading Trainer](https://sergeyromanenko.com/courses/javascript-practical-code-reading-trainer/) 12 lessons
+3. 03 [JavaScript Interview](https://sergeyromanenko.com/courses/javascript-interview/) 30 lessons
+4. 04 [JavaScript for Beginners](https://sergeyromanenko.com/courses/javascript-for-beginners/) 303 lessons
+5. 05 [JavaScript for Experienced](https://sergeyromanenko.com/courses/javascript-for-experienced/) 173 lessons
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -86,7 +86,7 @@ Basic computer science and mathematics. No prior JavaScript is assumed.
 - **What language is “JavaScript from Zero to Hero” taught in?:** “JavaScript from Zero to Hero” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “JavaScript from Zero to Hero”?:** “JavaScript from Zero to Hero” contains 574 lessons in 5 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “JavaScript from Zero to Hero”?:** “JavaScript from Zero to Hero” was created by Sergey Romanenko. It is published on Stepik.
-- **How many learners have reviewed “JavaScript from Zero to Hero”?:** “JavaScript from Zero to Hero” has 264 reviews on Stepik, with an average rating of 4.8 out of 5.
+- **How many learners have reviewed “JavaScript from Zero to Hero”?:** “JavaScript from Zero to Hero” has 265 reviews on Stepik, with an average rating of 4.8 out of 5.
 - **How do I enroll in “JavaScript from Zero to Hero”?:** Enrollment and payment for “JavaScript from Zero to Hero” happen on Stepik: open https://stepik.org/a/271057/ and start there.
 
 Course facts
@@ -98,7 +98,7 @@ Course facts
 - **Lessons:** 574
 - **Courses in program:** 5
 - **Enrollments:** 54
-- **Reviews:** 264
+- **Reviews:** 265
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko
 - **Rating:** 4.8 / 5
@@ -107,7 +107,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-JavaScript from Zero to Hero is a beginner JavaScript career program, published on Stepik by Sergey Romanenko, taught in Russian, 574 lessons, 54 enrollments, rated 4.8 out of 5 across 264 reviews and a paid course.
+JavaScript from Zero to Hero is a beginner JavaScript career program, published on Stepik by Sergey Romanenko, taught in Russian, 574 lessons, 54 enrollments, rated 4.8 out of 5 across 265 reviews and a paid course.
 
 ## More in JavaScript
 
@@ -115,11 +115,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · IntermediateJavaScript Interview30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
+[Course · Intermediate JavaScript Interview 30 lessons](https://sergeyromanenko.com/courses/javascript-interview/)
 
-[Course · BeginnerJavaScript for Beginners303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
+[Course · Beginner JavaScript for Beginners 303 lessons](https://sergeyromanenko.com/courses/javascript-for-beginners/)
 
-[Course · IntermediatePractical JavaScript Programming Trainer56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
+[Course · Intermediate Practical JavaScript Programming Trainer 56 lessons](https://sergeyromanenko.com/courses/javascript-practical-trainer/)
 
 Next
 

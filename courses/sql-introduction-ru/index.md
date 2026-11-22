@@ -12,13 +12,13 @@ robots: "index, follow"
 1. [COURSES](https://sergeyromanenko.com/courses/)
 2. SQL Introduction (RU)
 
-(SQL · Stepik)
+( SQL · Stepik )
 
 # SQL Introduction (RU)
 
 A beginner-friendly SQL course that takes you from zero to working with databases, together with the free book "SQL Introduction". You learn how tables work, write queries, retrieve, filter and sort data, use basic functions and solve practical problems.
 
-Free — 21 lessons — 3,355 enrollments — 109 reviews
+Free — 21 lessons — 3,393 enrollments — 110 reviews
 
 [Start free on Stepik ↗](https://stepik.org/a/290855/)
 
@@ -37,7 +37,7 @@ Free
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 21
-- **Enrollments:** 3,355
+- **Enrollments:** 3,393
 
 ## About this course
 
@@ -64,10 +64,10 @@ The free book that ships with the course repeats the material in a form you can 
 
 4 modules · 21 lessons
 
-1. 01Introduction3 lessons
-2. 02Basics8 lessons
-3. 03Practice3 lessons
-4. 04Conclusion1 lesson
+1. 01 Introduction 3 lessons
+2. 02 Basics 8 lessons
+3. 03 Practice 3 lessons
+4. 04 Conclusion 1 lesson
 
 Module titles and lesson counts come from the published course description. Their order and availability can change on Stepik.
 
@@ -85,8 +85,8 @@ No programming knowledge needed. Basic computer literacy and an understanding of
 - **What language is “SQL Introduction (RU)” taught in?:** “SQL Introduction (RU)” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL Introduction (RU)”?:** “SQL Introduction (RU)” contains 21 lessons in 4 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Introduction (RU)”?:** “SQL Introduction (RU)” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Introduction (RU)” give a certificate?:** Yes. Stepik has issued 593 certificates to learners who completed “SQL Introduction (RU)”.
-- **How many learners have reviewed “SQL Introduction (RU)”?:** “SQL Introduction (RU)” has 109 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **Does “SQL Introduction (RU)” give a certificate?:** Yes. Stepik has issued 608 certificates to learners who completed “SQL Introduction (RU)”.
+- **How many learners have reviewed “SQL Introduction (RU)”?:** “SQL Introduction (RU)” has 110 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL Introduction (RU)”?:** Enrollment for “SQL Introduction (RU)” happen on Stepik: open https://stepik.org/a/290855/ and start there.
 
 Course facts
@@ -97,9 +97,9 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 21
 - **Modules:** 4
-- **Enrollments:** 3,355
-- **Reviews:** 109
-- **Certificates issued:** 593
+- **Enrollments:** 3,393
+- **Reviews:** 110
+- **Certificates issued:** 608
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
@@ -107,7 +107,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL Introduction (RU) is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 21 lessons, 3,355 enrollments, rated 4.9 out of 5 across 109 reviews and free to enroll.
+SQL Introduction (RU) is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 21 lessons, 3,393 enrollments, rated 4.9 out of 5 across 110 reviews and free to enroll.
 
 ## More in SQL
 
@@ -115,11 +115,11 @@ Other courses on the same subject.
 
 [All courses →](https://sergeyromanenko.com/courses/)
 
-[Course · BeginnerSQL Introduction30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
+[Course · Beginner SQL Introduction 30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · BeginnerPractical SQL Programming Trainer26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
+[Course · Beginner Practical SQL Programming Trainer 26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 
-[Course · BeginnerSQL for Beginners85 lessons](https://sergeyromanenko.com/courses/sql-for-beginners/)
+[Course · Beginner SQL for Beginners 85 lessons](https://sergeyromanenko.com/courses/sql-for-beginners/)
 
 Next
 
