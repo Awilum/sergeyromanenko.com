@@ -38,7 +38,7 @@ The fact that any material is publicly accessible, searchable, viewable, downloa
 
 ## Free-of-Charge Access and Downloads
 
-Some materials on this website are expressly offered free of charge. The browser-based tools and games may be used on this website for their intended functionality, and publications that are expressly offered for free download may be downloaded and kept for personal, non-commercial reading.
+Some materials on this website are expressly offered free of charge. Editorial application pages may be read here, and publications that are expressly offered for free download may be downloaded and kept for personal, non-commercial reading. The interactive tools and games are hosted at [app.sergeyromanenko.com](https://app.sergeyromanenko.com/) under its own [Copyright & Licensing](https://app.sergeyromanenko.com/copyright-and-licensing/) page.
 
 Free-of-charge access does not place these materials in the public domain and does not grant the right to republish, redistribute, commercially exploit, modify, adapt, or otherwise reuse them beyond what is expressly permitted by applicable law or an applicable licence. All other provisions on this page continue to apply in full.
 
@@ -163,6 +163,8 @@ The website's source code is publicly available on [GitHub](https://github.com/A
 Public availability of source code does not constitute a licence to reuse, modify, redistribute, or incorporate it into other works; such use requires prior written permission unless it is expressly granted by an applicable licence. Third-party open-source libraries and dependencies used by the website remain under their respective licences.
 
 Original photographs, publications, educational materials, visual assets, website text, and other creative works are not covered by any open-source licence and remain fully protected as described on this page.
+
+The applications workspace has a separate source project at [github.com/Awilum/app.sergeyromanenko.src](https://github.com/Awilum/app.sergeyromanenko.src) . Ownership and third-party dependencies for that workspace are described on its [Copyright & Licensing](https://app.sergeyromanenko.com/copyright-and-licensing/) page.
 
 ## Contact
 

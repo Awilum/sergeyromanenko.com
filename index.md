@@ -37,6 +37,5 @@ How I work
 - [Teaching Courses Practical programming courses on Stepik, mostly trainers — long sequences of problems to solve rather than videos to watch. 74,418 enrollments · 26 courses](https://sergeyromanenko.com/courses/)
 - [Observation Photography Documentary work about people and the places they make their lives in. Shot slowly, on foot, mostly in black and white. 15 photographs · 4 projects](https://sergeyromanenko.com/photography/)
 - [Writing Publications Practical books on SQL and Markdown, written to be kept and returned to. Clear explanations, useful examples. 2 books · Educational writing](https://sergeyromanenko.com/publications/)
-- [Making Tools Small, practical tools built around specific needs — from time zones and world clocks to planning a shoot around the sun. 40 tools · No network required](https://sergeyromanenko.com/tools/)
-- [Playing Games Lightweight browser games for travel — play against an optimal AI or challenge a friend on the same device. Offline games for the journey](https://sergeyromanenko.com/games/)
+- [Making Applications Practical browser-based applications and offline games built along the way — from data and text utilities to quiet puzzles for the road. 52 applications · 40 tools, 12 games](https://sergeyromanenko.com/applications/)
 - [To understand The person How the disciplines connect, and where the work stands now. The thread connecting the work](https://sergeyromanenko.com/about/)

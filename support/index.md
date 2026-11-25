@@ -15,7 +15,7 @@ Selected browser-based tools and games on this website are available free of cha
 develop and maintain these projects independently. If you find them useful, you can
 optionally support my work through a voluntary contribution.
 
-The browser-based tools in the [Tools](https://sergeyromanenko.com/tools/) section and the games in the [Games](https://sergeyromanenko.com/games/) section are provided free of charge for their intended functionality. You do not need to make a contribution to access or use them.
+The browser-based tools and games in the [Applications](https://sergeyromanenko.com/applications/) section are provided free of charge for their intended functionality. You do not need to make a contribution to access or use them.
 
 I build and maintain these projects independently. Your support helps me dedicate time and resources to maintaining existing projects, fixing issues, improving functionality, and developing new free tools and games.
 

@@ -105,119 +105,114 @@ Each canonical page has an `index.md` representation in the same directory (for 
 - [Travel Journals](https://sergeyromanenko.com/publications/travel-journals/): Travel journals combining observations, photographs, notes and fragments from journeys.
   - [Markdown](https://sergeyromanenko.com/publications/travel-journals/index.md)
 
-## Tools
+## Applications
 
-- [Tools I Built Along the Way.](https://sergeyromanenko.com/tools/): Practical tools built during the journey — things I needed, could not find, built, and shared. They run in your browser, they are free, and none of them asks for an account. 40 tools, all running in the browser, all in one place.
-  - [Markdown](https://sergeyromanenko.com/tools/index.md)
-- [Binary Converter](https://sergeyromanenko.com/tools/binary-converter/): Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
-  - [Markdown](https://sergeyromanenko.com/tools/binary-converter/index.md)
-- [Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/): Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
-  - [Markdown](https://sergeyromanenko.com/tools/brainfuck-editor/index.md)
-- [Case Converter](https://sergeyromanenko.com/tools/case-converter/): Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
-  - [Markdown](https://sergeyromanenko.com/tools/case-converter/index.md)
-- [Cipher Toolkit](https://sergeyromanenko.com/tools/cipher-toolkit/): Fourteen classical ciphers in one place. Choose a cipher, set its key, and encrypt or decrypt text with the algorithm running entirely in your browser.
-  - [Markdown](https://sergeyromanenko.com/tools/cipher-toolkit/index.md)
-- [Code Editor](https://sergeyromanenko.com/tools/code-editor/): Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
-  - [Markdown](https://sergeyromanenko.com/tools/code-editor/index.md)
-- [Currency Converter](https://sergeyromanenko.com/tools/currency-converter/): Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
-  - [Markdown](https://sergeyromanenko.com/tools/currency-converter/index.md)
-- [Emoji Picker](https://sergeyromanenko.com/tools/emoji-picker/): Search and copy emoji from a set bundled with the page — no API call, no tracking, and the picker keeps working offline once the page has loaded.
-  - [Markdown](https://sergeyromanenko.com/tools/emoji-picker/index.md)
-- [Encryption](https://sergeyromanenko.com/tools/encryption/): Encrypt and decrypt text in your browser with AES-256-GCM or the OpenSSL-compatible AES-256-CBC format.
-  - [Markdown](https://sergeyromanenko.com/tools/encryption/index.md)
-- [Favicon Generator](https://sergeyromanenko.com/tools/favicon-generator/): Generate favicons and app icons in your browser from text or an image. Export PNGs, a multi-resolution ICO, ZIP, manifest, and HTML tags. Nothing is uploaded.
-  - [Markdown](https://sergeyromanenko.com/tools/favicon-generator/index.md)
-- [Find and Replace](https://sergeyromanenko.com/tools/find-and-replace/): Find and replace text with optional regular expressions, case and whole-word matching, match counting and safe capture-group substitution.
-  - [Markdown](https://sergeyromanenko.com/tools/find-and-replace/index.md)
-- [Front Matter Editor](https://sergeyromanenko.com/tools/front-matter-editor/): Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
-  - [Markdown](https://sergeyromanenko.com/tools/front-matter-editor/index.md)
-- [GPS Coordinate Converter](https://sergeyromanenko.com/tools/gps-coordinate-converter/): Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
-  - [Markdown](https://sergeyromanenko.com/tools/gps-coordinate-converter/index.md)
-- [Hash Text](https://sergeyromanenko.com/tools/hash-text/): Hash text with MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA3-512 or RIPEMD-160, entirely in your browser.
-  - [Markdown](https://sergeyromanenko.com/tools/hash-text/index.md)
-- [HTTP Status Codes](https://sergeyromanenko.com/tools/http-status-codes/): A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
-  - [Markdown](https://sergeyromanenko.com/tools/http-status-codes/index.md)
-- [JSON Formatter](https://sergeyromanenko.com/tools/json-formatter/): Validate, format and minify JSON in your browser, with syntax errors reported as a line and a column you can find.
-  - [Markdown](https://sergeyromanenko.com/tools/json-formatter/index.md)
-- [JSON YAML Converter](https://sergeyromanenko.com/tools/json-yaml-converter/): Convert JSON to YAML and YAML to JSON in your browser, with configurable indentation and errors that say where to look.
-  - [Markdown](https://sergeyromanenko.com/tools/json-yaml-converter/index.md)
-- [List Processor](https://sergeyromanenko.com/tools/list-processor/): Sort, deduplicate, filter and compare a list of items — alphabetically, naturally, by length, numerically, and against a second list.
-  - [Markdown](https://sergeyromanenko.com/tools/list-processor/index.md)
-- [Lua Editor](https://sergeyromanenko.com/tools/lua-editor/): Write and run Lua 5.4 programs directly in your browser using WebAssembly. Features a full code editor with syntax highlighting, interactive stdin/stdout console, 15+ built-in examples, local snippet persistence, and execution limits for safety. No server, no account, nothing uploaded.
-  - [Markdown](https://sergeyromanenko.com/tools/lua-editor/index.md)
-- [Markdown Editor](https://sergeyromanenko.com/tools/markdown-editor/): Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
-  - [Markdown](https://sergeyromanenko.com/tools/markdown-editor/index.md)
-- [Mermaid Diagram Editor](https://sergeyromanenko.com/tools/mermaid-diagram-editor/): Write Mermaid source, watch it render as a live diagram, and download it as a PNG file, all in your browser.
-  - [Markdown](https://sergeyromanenko.com/tools/mermaid-diagram-editor/index.md)
-- [Percentage Calculator](https://sergeyromanenko.com/tools/percentage-calculator/): Calculate a percentage of a number, what percentage one number is of another, percentage change, adding or subtracting a percentage, and percentage difference.
-  - [Markdown](https://sergeyromanenko.com/tools/percentage-calculator/index.md)
-- [Placeholder Text Generator](https://sergeyromanenko.com/tools/lorem-ipsum/): Generate placeholder text by paragraph, sentence or word count, with or without the traditional opening, and repeatably when you need the same text twice.
-  - [Markdown](https://sergeyromanenko.com/tools/lorem-ipsum/index.md)
-- [Pseudocode Editor](https://sergeyromanenko.com/tools/pseudocode-editor/): Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
-  - [Markdown](https://sergeyromanenko.com/tools/pseudocode-editor/index.md)
-- [QR Code Generator](https://sergeyromanenko.com/tools/qr-code-generator/): Create custom QR codes for URLs, text, Wi-Fi, contacts, email, phone numbers, locations, and more. Customize colors, styles, and logos, then download as PNG. Generate QR codes privately in your browser without third-party QR APIs.
-  - [Markdown](https://sergeyromanenko.com/tools/qr-code-generator/index.md)
-- [Speed, Distance, and Time Calculator](https://sergeyromanenko.com/tools/speed-distance-time-calculator/): Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
-  - [Markdown](https://sergeyromanenko.com/tools/speed-distance-time-calculator/index.md)
-- [SQL Editor](https://sergeyromanenko.com/tools/sql-editor/): Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
-  - [Markdown](https://sergeyromanenko.com/tools/sql-editor/index.md)
-- [Text Analyzer](https://sergeyromanenko.com/tools/text-analyzer/): Measure words, characters, sentences, paragraphs, reading time, page count, word frequency and repeated phrases — computed entirely in your browser.
-  - [Markdown](https://sergeyromanenko.com/tools/text-analyzer/index.md)
-- [Text Cleaner](https://sergeyromanenko.com/tools/text-cleaner/): Clean text pasted from a web page, PDF or spreadsheet — collapse whitespace, fix line endings, find invisible characters and strip HTML.
-  - [Markdown](https://sergeyromanenko.com/tools/text-cleaner/index.md)
-- [Text Diff](https://sergeyromanenko.com/tools/text-diff/): Compare two texts line by line or word by word, with an accurate diff, ignore options, and differences marked by sign, tint and word.
-  - [Markdown](https://sergeyromanenko.com/tools/text-diff/index.md)
-- [Text Formatter](https://sergeyromanenko.com/tools/text-formatter/): Add line numbers, wrap text at a column, add prefixes and suffixes, indent, and turn lines into a bulleted or numbered list.
-  - [Markdown](https://sergeyromanenko.com/tools/text-formatter/index.md)
-- [Text Splitter & Joiner](https://sergeyromanenko.com/tools/text-splitter/): Split text into lines, paragraphs, sentences, batches of characters or words, or a fixed number of parts — then join it back together.
-  - [Markdown](https://sergeyromanenko.com/tools/text-splitter/index.md)
-- [Text Truncator](https://sergeyromanenko.com/tools/text-truncator/): Shorten text to a limit in characters, words, sentences, lines or paragraphs — cutting at a word boundary and counting the suffix inside the limit.
-  - [Markdown](https://sergeyromanenko.com/tools/text-truncator/index.md)
-- [The World Clock](https://sergeyromanenko.com/tools/world-clock/): A live clock for every city that matters to you — the current time, date, and daylight for your city and anywhere your people are, all at once.
-  - [Markdown](https://sergeyromanenko.com/tools/world-clock/index.md)
-- [Time Difference Calculator](https://sergeyromanenko.com/tools/time-difference-calculator/): Compare local times, daylight, and time differences across the cities that matter wherever you travel.
-  - [Markdown](https://sergeyromanenko.com/tools/time-difference-calculator/index.md)
-- [Token Generator](https://sergeyromanenko.com/tools/token-generator/): Generate cryptographically secure random tokens in your browser, with the length and the character sets you choose.
-  - [Markdown](https://sergeyromanenko.com/tools/token-generator/index.md)
-- [ULID Generator](https://sergeyromanenko.com/tools/ulid-generator/): Generate universally unique lexicographically sortable identifiers in your browser, with the count you need.
-  - [Markdown](https://sergeyromanenko.com/tools/ulid-generator/index.md)
-- [Unit Converter](https://sergeyromanenko.com/tools/unit-converter/): Convert length, weight, temperature, volume, area, speed, fuel economy and data transfer rates between metric, US and Imperial units.
-  - [Markdown](https://sergeyromanenko.com/tools/unit-converter/index.md)
-- [XML to JSON Converter](https://sergeyromanenko.com/tools/xml-to-json/): Convert XML documents to JSON in your browser, with a documented mapping for attributes, repeated elements and mixed content.
-  - [Markdown](https://sergeyromanenko.com/tools/xml-to-json/index.md)
-- [YAML Formatter](https://sergeyromanenko.com/tools/yaml-formatter/): Validate and format YAML in your browser, with parser errors reported as a line and a column you can find.
-  - [Markdown](https://sergeyromanenko.com/tools/yaml-formatter/index.md)
-- [YouTube on Repeat](https://sergeyromanenko.com/tools/youtube-on-repeat/): Paste a YouTube URL and loop the whole video or a precise A–B section, with playback-speed control and keyboard shortcuts. Runs entirely in your browser.
-  - [Markdown](https://sergeyromanenko.com/tools/youtube-on-repeat/index.md)
-
-## Games
-
-- [Games for Your Journey.](https://sergeyromanenko.com/games/): Lightweight browser games built for travel — play offline on flights, trains, and layovers. No accounts, no downloads, no tracking. 12 games, all running in the browser, all in one place.
-  - [Markdown](https://sergeyromanenko.com/games/index.md)
-- [2048](https://sergeyromanenko.com/games/2048/): Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
-  - [Markdown](https://sergeyromanenko.com/games/2048/index.md)
-- [Battleships](https://sergeyromanenko.com/games/battleships/): The classic fleet-hunting game, no-touch edition. Place five ships with a cell of water between each, trade shots with a probability-hunting computer opponent, and sink all seventeen enemy cells.
-  - [Markdown](https://sergeyromanenko.com/games/battleships/index.md)
-- [Catch the Cat](https://sergeyromanenko.com/games/catch-the-cat/): The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
-  - [Markdown](https://sergeyromanenko.com/games/catch-the-cat/index.md)
-- [Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/): The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
-  - [Markdown](https://sergeyromanenko.com/games/dots-and-boxes/index.md)
-- [Lights Out](https://sergeyromanenko.com/games/lights-out/): Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
-  - [Markdown](https://sergeyromanenko.com/games/lights-out/index.md)
-- [Memory Game](https://sergeyromanenko.com/games/memory-game/): Test your memory with this classic card matching game. Multiple difficulties, themes, and game modes. Play offline on flights, trains, and during travel.
-  - [Markdown](https://sergeyromanenko.com/games/memory-game/index.md)
-- [Nim](https://sergeyromanenko.com/games/nim/): The classic mathematical strategy game. Take turns removing objects from heaps, master the XOR nim-sum, and challenge the Optimal computer opponent or a friend on your own device.
-  - [Markdown](https://sergeyromanenko.com/games/nim/index.md)
-- [Rock Paper Scissors](https://sergeyromanenko.com/games/rock-paper-scissors/): Play Rock Paper Scissors against the computer. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
-  - [Markdown](https://sergeyromanenko.com/games/rock-paper-scissors/index.md)
-- [Simon](https://sergeyromanenko.com/games/simon/): Watch the colored pads light up in a growing sequence, then repeat it exactly. Each round adds one more step. One wrong tap ends the game. Sounds, mute, and local best scores.
-  - [Markdown](https://sergeyromanenko.com/games/simon/index.md)
-- [State Conquest](https://sergeyromanenko.com/games/state-conquest/): A turn-based territory-conquest strategy game. Command garrisons, capture strongholds, and eliminate rival commanders across tactical theaters.
-  - [Markdown](https://sergeyromanenko.com/games/state-conquest/index.md)
-- [Tic-Tac-Toe](https://sergeyromanenko.com/games/tic-tac-toe/): Play Tic-Tac-Toe against an optimal computer opponent or challenge a friend on the same device. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
-  - [Markdown](https://sergeyromanenko.com/games/tic-tac-toe/index.md)
-- [Tower of Hanoi](https://sergeyromanenko.com/games/tower-of-hanoi/): Solve the classic Tower of Hanoi puzzle. Move disks between three pegs following the rules. Multiple difficulty levels, move counter, optimal solution tracker, hints, and step-by-step solution mode.
-  - [Markdown](https://sergeyromanenko.com/games/tower-of-hanoi/index.md)
+- [Applications I built along the way.](https://sergeyromanenko.com/applications/): Practical browser-based applications and games built along the way — small tools for everyday problems and offline games for the road. Free to use, with no account required. 52 applications, running in the browser on app.sergeyromanenko.com.
+  - [Markdown](https://sergeyromanenko.com/applications/index.md)
+- [2048](https://sergeyromanenko.com/applications/2048/): Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
+  - [Markdown](https://sergeyromanenko.com/applications/2048/index.md)
+- [Battleships](https://sergeyromanenko.com/applications/battleships/): The classic fleet-hunting game, no-touch edition. Place five ships with a cell of water between each, trade shots with a probability-hunting computer opponent, and sink all seventeen enemy cells.
+  - [Markdown](https://sergeyromanenko.com/applications/battleships/index.md)
+- [Binary Converter](https://sergeyromanenko.com/applications/binary-converter/): Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
+  - [Markdown](https://sergeyromanenko.com/applications/binary-converter/index.md)
+- [Brainfuck Editor](https://sergeyromanenko.com/applications/brainfuck-editor/): Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
+  - [Markdown](https://sergeyromanenko.com/applications/brainfuck-editor/index.md)
+- [Case Converter](https://sergeyromanenko.com/applications/case-converter/): Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
+  - [Markdown](https://sergeyromanenko.com/applications/case-converter/index.md)
+- [Catch the Cat](https://sergeyromanenko.com/applications/catch-the-cat/): The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
+  - [Markdown](https://sergeyromanenko.com/applications/catch-the-cat/index.md)
+- [Cipher Toolkit](https://sergeyromanenko.com/applications/cipher-toolkit/): Fourteen classical ciphers in one place. Choose a cipher, set its key, and encrypt or decrypt text with the algorithm running entirely in your browser.
+  - [Markdown](https://sergeyromanenko.com/applications/cipher-toolkit/index.md)
+- [Code Editor](https://sergeyromanenko.com/applications/code-editor/): Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
+  - [Markdown](https://sergeyromanenko.com/applications/code-editor/index.md)
+- [Currency Converter](https://sergeyromanenko.com/applications/currency-converter/): Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
+  - [Markdown](https://sergeyromanenko.com/applications/currency-converter/index.md)
+- [Dots and Boxes](https://sergeyromanenko.com/applications/dots-and-boxes/): The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
+  - [Markdown](https://sergeyromanenko.com/applications/dots-and-boxes/index.md)
+- [Emoji Picker](https://sergeyromanenko.com/applications/emoji-picker/): Search and copy emoji from a set bundled with the page — no API call, no tracking, and the picker keeps working offline once the page has loaded.
+  - [Markdown](https://sergeyromanenko.com/applications/emoji-picker/index.md)
+- [Encryption](https://sergeyromanenko.com/applications/encryption/): Encrypt and decrypt text in your browser with AES-256-GCM or the OpenSSL-compatible AES-256-CBC format.
+  - [Markdown](https://sergeyromanenko.com/applications/encryption/index.md)
+- [Favicon Generator](https://sergeyromanenko.com/applications/favicon-generator/): Generate favicons and app icons in your browser from text or an image. Export PNGs, a multi-resolution ICO, ZIP, manifest, and HTML tags. Nothing is uploaded.
+  - [Markdown](https://sergeyromanenko.com/applications/favicon-generator/index.md)
+- [Find and Replace](https://sergeyromanenko.com/applications/find-and-replace/): Find and replace text with optional regular expressions, case and whole-word matching, match counting and safe capture-group substitution.
+  - [Markdown](https://sergeyromanenko.com/applications/find-and-replace/index.md)
+- [Front Matter Editor](https://sergeyromanenko.com/applications/front-matter-editor/): Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
+  - [Markdown](https://sergeyromanenko.com/applications/front-matter-editor/index.md)
+- [GPS Coordinate Converter](https://sergeyromanenko.com/applications/gps-coordinate-converter/): Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
+  - [Markdown](https://sergeyromanenko.com/applications/gps-coordinate-converter/index.md)
+- [Hash Text](https://sergeyromanenko.com/applications/hash-text/): Hash text with MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA3-512 or RIPEMD-160, entirely in your browser.
+  - [Markdown](https://sergeyromanenko.com/applications/hash-text/index.md)
+- [HTTP Status Codes](https://sergeyromanenko.com/applications/http-status-codes/): A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
+  - [Markdown](https://sergeyromanenko.com/applications/http-status-codes/index.md)
+- [JSON Formatter](https://sergeyromanenko.com/applications/json-formatter/): Validate, format and minify JSON in your browser, with syntax errors reported as a line and a column you can find.
+  - [Markdown](https://sergeyromanenko.com/applications/json-formatter/index.md)
+- [JSON YAML Converter](https://sergeyromanenko.com/applications/json-yaml-converter/): Convert JSON to YAML and YAML to JSON in your browser, with configurable indentation and errors that say where to look.
+  - [Markdown](https://sergeyromanenko.com/applications/json-yaml-converter/index.md)
+- [Lights Out](https://sergeyromanenko.com/applications/lights-out/): Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
+  - [Markdown](https://sergeyromanenko.com/applications/lights-out/index.md)
+- [List Processor](https://sergeyromanenko.com/applications/list-processor/): Sort, deduplicate, filter and compare a list of items — alphabetically, naturally, by length, numerically, and against a second list.
+  - [Markdown](https://sergeyromanenko.com/applications/list-processor/index.md)
+- [Lua Editor](https://sergeyromanenko.com/applications/lua-editor/): Write and run Lua 5.4 programs directly in your browser using WebAssembly. Features a full code editor with syntax highlighting, interactive stdin/stdout console, 15+ built-in examples, local snippet persistence, and execution limits for safety. No server, no account, nothing uploaded.
+  - [Markdown](https://sergeyromanenko.com/applications/lua-editor/index.md)
+- [Markdown Editor](https://sergeyromanenko.com/applications/markdown-editor/): Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
+  - [Markdown](https://sergeyromanenko.com/applications/markdown-editor/index.md)
+- [Memory Game](https://sergeyromanenko.com/applications/memory-game/): Test your memory with this classic card matching game. Multiple difficulties, themes, and game modes. Play offline on flights, trains, and during travel.
+  - [Markdown](https://sergeyromanenko.com/applications/memory-game/index.md)
+- [Mermaid Diagram Editor](https://sergeyromanenko.com/applications/mermaid-diagram-editor/): Write Mermaid source, watch it render as a live diagram, and download it as a PNG file, all in your browser.
+  - [Markdown](https://sergeyromanenko.com/applications/mermaid-diagram-editor/index.md)
+- [Nim](https://sergeyromanenko.com/applications/nim/): The classic mathematical strategy game. Take turns removing objects from heaps, master the XOR nim-sum, and challenge the Optimal computer opponent or a friend on your own device.
+  - [Markdown](https://sergeyromanenko.com/applications/nim/index.md)
+- [Percentage Calculator](https://sergeyromanenko.com/applications/percentage-calculator/): Calculate a percentage of a number, what percentage one number is of another, percentage change, adding or subtracting a percentage, and percentage difference.
+  - [Markdown](https://sergeyromanenko.com/applications/percentage-calculator/index.md)
+- [Placeholder Text Generator](https://sergeyromanenko.com/applications/lorem-ipsum/): Generate placeholder text by paragraph, sentence or word count, with or without the traditional opening, and repeatably when you need the same text twice.
+  - [Markdown](https://sergeyromanenko.com/applications/lorem-ipsum/index.md)
+- [Pseudocode Editor](https://sergeyromanenko.com/applications/pseudocode-editor/): Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
+  - [Markdown](https://sergeyromanenko.com/applications/pseudocode-editor/index.md)
+- [QR Code Generator](https://sergeyromanenko.com/applications/qr-code-generator/): Create custom QR codes for URLs, text, Wi-Fi, contacts, email, phone numbers, locations, and more. Customize colors, styles, and logos, then download as PNG. Generate QR codes privately in your browser without third-party QR APIs.
+  - [Markdown](https://sergeyromanenko.com/applications/qr-code-generator/index.md)
+- [Rock Paper Scissors](https://sergeyromanenko.com/applications/rock-paper-scissors/): Play Rock Paper Scissors against the computer. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
+  - [Markdown](https://sergeyromanenko.com/applications/rock-paper-scissors/index.md)
+- [Simon](https://sergeyromanenko.com/applications/simon/): Watch the colored pads light up in a growing sequence, then repeat it exactly. Each round adds one more step. One wrong tap ends the game. Sounds, mute, and local best scores.
+  - [Markdown](https://sergeyromanenko.com/applications/simon/index.md)
+- [Speed, Distance, and Time Calculator](https://sergeyromanenko.com/applications/speed-distance-time-calculator/): Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
+  - [Markdown](https://sergeyromanenko.com/applications/speed-distance-time-calculator/index.md)
+- [SQL Editor](https://sergeyromanenko.com/applications/sql-editor/): Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
+  - [Markdown](https://sergeyromanenko.com/applications/sql-editor/index.md)
+- [State Conquest](https://sergeyromanenko.com/applications/state-conquest/): A turn-based territory-conquest strategy game. Command garrisons, capture strongholds, and eliminate rival commanders across tactical theaters.
+  - [Markdown](https://sergeyromanenko.com/applications/state-conquest/index.md)
+- [Text Analyzer](https://sergeyromanenko.com/applications/text-analyzer/): Measure words, characters, sentences, paragraphs, reading time, page count, word frequency and repeated phrases — computed entirely in your browser.
+  - [Markdown](https://sergeyromanenko.com/applications/text-analyzer/index.md)
+- [Text Cleaner](https://sergeyromanenko.com/applications/text-cleaner/): Clean text pasted from a web page, PDF or spreadsheet — collapse whitespace, fix line endings, find invisible characters and strip HTML.
+  - [Markdown](https://sergeyromanenko.com/applications/text-cleaner/index.md)
+- [Text Diff](https://sergeyromanenko.com/applications/text-diff/): Compare two texts line by line or word by word, with an accurate diff, ignore options, and differences marked by sign, tint and word.
+  - [Markdown](https://sergeyromanenko.com/applications/text-diff/index.md)
+- [Text Formatter](https://sergeyromanenko.com/applications/text-formatter/): Add line numbers, wrap text at a column, add prefixes and suffixes, indent, and turn lines into a bulleted or numbered list.
+  - [Markdown](https://sergeyromanenko.com/applications/text-formatter/index.md)
+- [Text Splitter & Joiner](https://sergeyromanenko.com/applications/text-splitter/): Split text into lines, paragraphs, sentences, batches of characters or words, or a fixed number of parts — then join it back together.
+  - [Markdown](https://sergeyromanenko.com/applications/text-splitter/index.md)
+- [Text Truncator](https://sergeyromanenko.com/applications/text-truncator/): Shorten text to a limit in characters, words, sentences, lines or paragraphs — cutting at a word boundary and counting the suffix inside the limit.
+  - [Markdown](https://sergeyromanenko.com/applications/text-truncator/index.md)
+- [The World Clock](https://sergeyromanenko.com/applications/world-clock/): A live clock for every city that matters to you — the current time, date, and daylight for your city and anywhere your people are, all at once.
+  - [Markdown](https://sergeyromanenko.com/applications/world-clock/index.md)
+- [Tic-Tac-Toe](https://sergeyromanenko.com/applications/tic-tac-toe/): Play Tic-Tac-Toe against an optimal computer opponent or challenge a friend on the same device. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
+  - [Markdown](https://sergeyromanenko.com/applications/tic-tac-toe/index.md)
+- [Time Difference Calculator](https://sergeyromanenko.com/applications/time-difference-calculator/): Compare local times, daylight, and time differences across the cities that matter wherever you travel.
+  - [Markdown](https://sergeyromanenko.com/applications/time-difference-calculator/index.md)
+- [Token Generator](https://sergeyromanenko.com/applications/token-generator/): Generate cryptographically secure random tokens in your browser, with the length and the character sets you choose.
+  - [Markdown](https://sergeyromanenko.com/applications/token-generator/index.md)
+- [Tower of Hanoi](https://sergeyromanenko.com/applications/tower-of-hanoi/): Solve the classic Tower of Hanoi puzzle. Move disks between three pegs following the rules. Multiple difficulty levels, move counter, optimal solution tracker, hints, and step-by-step solution mode.
+  - [Markdown](https://sergeyromanenko.com/applications/tower-of-hanoi/index.md)
+- [ULID Generator](https://sergeyromanenko.com/applications/ulid-generator/): Generate universally unique lexicographically sortable identifiers in your browser, with the count you need.
+  - [Markdown](https://sergeyromanenko.com/applications/ulid-generator/index.md)
+- [Unit Converter](https://sergeyromanenko.com/applications/unit-converter/): Convert length, weight, temperature, volume, area, speed, fuel economy and data transfer rates between metric, US and Imperial units.
+  - [Markdown](https://sergeyromanenko.com/applications/unit-converter/index.md)
+- [XML to JSON Converter](https://sergeyromanenko.com/applications/xml-to-json/): Convert XML documents to JSON in your browser, with a documented mapping for attributes, repeated elements and mixed content.
+  - [Markdown](https://sergeyromanenko.com/applications/xml-to-json/index.md)
+- [YAML Formatter](https://sergeyromanenko.com/applications/yaml-formatter/): Validate and format YAML in your browser, with parser errors reported as a line and a column you can find.
+  - [Markdown](https://sergeyromanenko.com/applications/yaml-formatter/index.md)
+- [YouTube on Repeat](https://sergeyromanenko.com/applications/youtube-on-repeat/): Paste a YouTube URL and loop the whole video or a precise A–B section, with playback-speed control and keyboard shortcuts. Runs entirely in your browser.
+  - [Markdown](https://sergeyromanenko.com/applications/youtube-on-repeat/index.md)
 
 ## About
 
@@ -238,12 +233,12 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 - [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/): Copyright, intellectual property and licensing information for the original photographs, texts, videos, books, research and other creative materials by Sergey Romanenko.
   - [Markdown](https://sergeyromanenko.com/copyright-and-licensing/index.md)
-- [Privacy & Security Policy](https://sergeyromanenko.com/privacy-policy/): Privacy and Security Policy for sergeyromanenko.com — how this website handles visitor data, browser-based tools and games, external services, and your rights.
+- [Privacy & Security Policy](https://sergeyromanenko.com/privacy-policy/): Privacy and Security Policy for sergeyromanenko.com. How the website handles visitor data, external services and your rights.
   - [Markdown](https://sergeyromanenko.com/privacy-policy/index.md)
-- [Sitemap: all sections and pages](https://sergeyromanenko.com/sitemap/): Every section and page of sergeyromanenko.com — photography, courses, publications, tools and games — as one linked tree.
+- [Sitemap: all sections and pages](https://sergeyromanenko.com/sitemap/): Every section and page of sergeyromanenko.com — photography, courses, publications and applications — as one linked tree.
   - [Markdown](https://sergeyromanenko.com/sitemap/index.md)
 - [Support Independent Development](https://sergeyromanenko.com/support/): Selected browser-based tools and games are available free of charge. Support the independent development of these projects with a voluntary contribution.
   - [Markdown](https://sergeyromanenko.com/support/index.md)
-- [Terms of Use](https://sergeyromanenko.com/terms-of-use/): Terms of Use for sergeyromanenko.com — permitted use, free tools, course information, voluntary support, external links, and limitations.
+- [Terms of Use](https://sergeyromanenko.com/terms-of-use/): Terms of Use for sergeyromanenko.com: permitted use, editorial applications, course information, voluntary support, external links and limitations.
   - [Markdown](https://sergeyromanenko.com/terms-of-use/index.md)
 - [Sitemap](https://sergeyromanenko.com/sitemap-index.xml): every indexable HTML page.

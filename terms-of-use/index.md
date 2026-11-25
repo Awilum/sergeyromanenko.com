@@ -1,7 +1,7 @@
 ---
 title: "Terms of Use"
 seo_title: "Terms of Use — Sergey Romanenko"
-description: "Terms of Use for sergeyromanenko.com — permitted use, free tools, course information, voluntary support, external links, and limitations."
+description: "Terms of Use for sergeyromanenko.com: permitted use, editorial applications, course information, voluntary support, external links and limitations."
 canonical_url: "https://sergeyromanenko.com/terms-of-use/"
 markdown_url: "https://sergeyromanenko.com/terms-of-use/index.md"
 section: "Site"
@@ -14,9 +14,9 @@ robots: "index, follow"
 
 # Terms of Use
 
-Terms governing the use of sergeyromanenko.com, with permitted use, free tools, course information, voluntary support, external links, and limitations.
+Terms governing the use of sergeyromanenko.com, with permitted use, editorial application pages, course information, voluntary support, external links and limitations.
 
-Last updated: November 6, 2026
+Last updated: November 25, 2026
 
 ## 1. Website Purpose
 
@@ -24,8 +24,7 @@ Last updated: November 6, 2026
 
 - **Photography** — documentary and street photography projects
 - **Publications** — books, photo zines, travel journals, and essays (free to read and download)
-- **Tools** — 78 free browser-based utilities for text processing, encryption, image manipulation, code editing, calculations, and more
-- **Games** — 6 free browser-based games (2048, Tic-Tac-Toe, Rock Paper Scissors, Memory Game, Tower of Hanoi, Lights Out, Simon)
+- **Applications**: editorial descriptions of browser-based tools and games. The interactive workspace is hosted at [app.sergeyromanenko.com](https://app.sergeyromanenko.com/) , which has its own Terms of Use.
 - **Courses** — informational descriptions of programming courses hosted on Stepik
 - **About** — biographical and professional background
 - **Support** — a page for voluntary contributions via external payment providers
@@ -37,30 +36,28 @@ This website itself does not provide checkout, process payments, provide user ac
 You may use this website for lawful, personal, and non-commercial purposes, including:
 
 - Viewing, reading, and downloading publications offered for free download
-- Using the browser-based tools for their intended purposes
+- Reading the editorial application pages and following links to the app workspace
 - Reading course descriptions and following links to Stepik for enrollment
 - Contacting the operator via the provided email address
 - Making voluntary contributions via the Support page
 
-Permission to use the website's functionality, including the browser-based tools and games, is limited to their intended purposes. It is not a licence to copy, redistribute, modify, or commercially exploit the underlying implementation, source code, or other protected materials. Copyright and licensing conditions are described in Section 4 and on the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page.
+Permission to use this website's editorial functionality is limited to its intended purposes. It is not a licence to copy, redistribute, modify, or commercially exploit the underlying implementation, source code, or other protected materials. Copyright and licensing conditions are described in Section 4 and on the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page. The interactive applications have their own terms on the app domain.
 
 You must not:
 
 - Attempt unauthorized access to any part of the website, its hosting infrastructure, or related systems
-- Interfere with the operation of the website or its tools
-- Use the tools for unlawful purposes or to facilitate illegal activities
+- Interfere with the operation of the website or its editorial features
+- Use the website for unlawful purposes or to facilitate illegal activities
 - Scrape, crawl, or extract content at scale without permission (search engine crawlers excepted per `robots.txt`)
 - Circumvent any technical measures used to protect the website or its content
 
-## 3. Free Tools and Games
+## 3. Editorial Application Pages
 
-The tools in the [Tools](https://sergeyromanenko.com/tools/) section and the games in the [Games](https://sergeyromanenko.com/games/) section are provided free of charge for their intended functionality. Free-of-charge availability concerns access to that functionality only; it does not grant additional copyright or redistribution permissions, which remain subject to Section 4 and the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page. The tools and games are made available on an **“as is” and “as available” basis**, to the fullest extent permitted by applicable law.
+The [Applications](https://sergeyromanenko.com/applications/) section provides editorial descriptions of browser-based tools and games. The interactive applications themselves are hosted at [app.sergeyromanenko.com](https://app.sergeyromanenko.com/) and are governed by its own Terms of Use. Free access to the editorial pages does not grant copyright or redistribution permissions, which remain subject to Section 4 and the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page.
 
-No warranty of any kind is provided, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, reliability, or non-infringement. The operator does not warrant that the tools or games will be uninterrupted, error-free, secure, or suitable for your specific needs.
+The content on this website is provided on an **“as is” and “as available” basis**, to the fullest extent permitted by applicable law. No warranty is given of merchantability, fitness for a particular purpose, accuracy, reliability, or non-infringement. The operator does not warrant that editorial information will be uninterrupted, error-free, or suitable for your specific needs.
 
-**Security-related tools** (encryption, hashing, ciphers, token generation) do not guarantee complete protection, accuracy, or suitability for every situation. They are educational and practical utilities, not certified security products. For regulated environments or high-stakes use cases, you must conduct your own assessment and consider professional tools.
-
-Nothing in these Terms disclaims liabilities that cannot be lawfully excluded (such as liability for death or personal injury caused by negligence, fraud, or fraudulent misrepresentation, or any other liability that cannot be limited under applicable law).
+Security-related applications such as encryption, hashing and token generation are described on the workspace, where their own limitations are set out. They are practical utilities, not certified security products. Nothing in these Terms disclaims liabilities that cannot be lawfully excluded, such as liability for death or personal injury caused by negligence, fraud, or fraudulent misrepresentation.
 
 ## 4. Copyright and Licensing
 
@@ -70,11 +67,11 @@ All original content on this website — including photographs, texts, publicati
 
 - All rights in original content are reserved by Sergey Romanenko unless expressly stated otherwise.
 - Publication on this website does not place content in the public domain.
-- Third-party open-source libraries and dependencies are used under their respective licenses (primarily MIT, BSD, Apache-2.0). See the [Browser-Based Tools and Games](https://sergeyromanenko.com/privacy-policy/#tools-games) section of the Privacy & Security Policy for details.
+- Third-party open-source libraries and dependencies are used under their respective licenses. The main site's source is described on the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page; application dependencies are described on the workspace's copyright page.
 - Use of copyrighted materials beyond what is expressly permitted requires prior written permission.
 - The website's source code is publicly available on GitHub for inspection and independent verification. Public availability of source code does not by itself grant a licence to reuse, modify, or redistribute it; such use requires prior written permission unless expressly granted by an applicable licence.
 
-For licensing requests, permission inquiries, or copyright questions, contact [awilum.dev@gmail.com](mailto:awilum.dev@gmail.com).
+For licensing requests, permission inquiries, or copyright questions, contact [awilum.dev@gmail.com](mailto:awilum.dev@gmail.com) .
 
 ## 5. Course Information
 
@@ -88,7 +85,7 @@ Course information on this site (descriptions, curricula, statistics) is provide
 
 The [Support](https://sergeyromanenko.com/support/) page offers visitors the option to make voluntary financial contributions to support the operator's independent development work.
 
-**Support is entirely voluntary.** It is not a purchase, subscription, or payment for goods or services. Visitors can continue accessing content expressly offered free of charge and using the browser-based tools and games provided free of charge for their intended functionality without making a contribution. Such access remains subject to these Terms and the copyright and licensing conditions described on the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page.
+**Support is entirely voluntary.** It is not a purchase, subscription, or payment for goods or services. Visitors can continue accessing content expressly offered free of charge and using the applications provided through the separate workspace without making a contribution. Such access remains subject to these Terms, the workspace's own terms, and the copyright and licensing conditions described on the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page.
 
 Contributions are processed by external payment providers (Ko-fi, PayPal, YouMoney, PayNow) and may be one-time or recurring where a provider supports it; any recurring arrangement is set up and managed with that provider. The operator does not receive or process payment data. Each provider's terms, fees, and privacy policies apply. Refunds, disputes, and receipts are handled by the respective provider.
 
@@ -99,10 +96,9 @@ Some courses, guides, and other digital products are sold separately on their re
 This website contains links to third-party websites and services, including but not limited to:
 
 - Stepik (`stepik.org`) — for course enrollment
-- Ko-fi (`ko-fi.com`), PayPal (`paypal.me`), YouMoney (`yoomoney.ru`), PayNow (`nowpayments.io`) — for voluntary support
+- Ko-fi (`ko-fi.com`), PayPal (`paypal.me`), YouMoney ( `yoomoney.ru`), PayNow (`nowpayments.io`) — for voluntary support
 - GitHub (`github.com`) — for source code and issues
-- YouTube (`youtube.com`) — used by the YouTube on Repeat tool
-- open.er-api.com — used by the Currency Converter tool
+- Applications workspace (`app.sergeyromanenko.com`)
 - Google Fonts (`fonts.googleapis.com`, `fonts.gstatic.com`) — for web fonts
 - Social media profiles (GitHub, Stepik, Telegram)
 
@@ -112,19 +108,19 @@ Links to external sites do not imply affiliation, sponsorship, or endorsement un
 
 ## 8. Availability
 
-The website and its tools are provided without any guarantee of uninterrupted availability. The operator may:
+The website and its content are provided without any guarantee of uninterrupted availability. The operator may:
 
-- Update, modify, or discontinue any content, tool, or feature at any time
+- Update, modify, or discontinue any content or feature at any time
 - Suspend access temporarily for maintenance, updates, or technical reasons
-- Permanently remove content or tools
+- Permanently remove content
 
-No compensation or notice is owed for changes, suspensions, or discontinuations. The static architecture (CDN-hosted static files) provides high availability by default, but the operator does not guarantee uptime, performance, or continued operation of any specific tool or page.
+No compensation or notice is owed for changes, suspensions, or discontinuations. The static architecture (CDN-hosted static files) provides high availability by default, but the operator does not guarantee uptime, performance, or continued operation of any specific page or editorial entry.
 
 ## 9. Limitation of Liability
 
 To the fullest extent permitted by applicable law:
 
-- The operator shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, data, use, goodwill, or other intangible losses, arising from or related to your use of or inability to use this website or its tools.
+- The operator shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, data, use, goodwill, or other intangible losses, arising from or related to your use of or inability to use this website or its content.
 - The operator's total liability for any claims arising from or related to this website shall not exceed the amount you have paid to the operator in the twelve (12) months preceding the claim (which, for free use, is zero).
 - The operator is not liable for any content, actions, or omissions of third-party services linked from or integrated with this website.
 
@@ -155,3 +151,4 @@ For questions about these Terms, contact:
 - [Privacy & Security Policy](https://sergeyromanenko.com/privacy-policy/)
 - [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/)
 - [Support](https://sergeyromanenko.com/support/)
+- [Applications workspace Terms of Use](https://app.sergeyromanenko.com/terms-of-use/)

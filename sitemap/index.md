@@ -1,7 +1,7 @@
 ---
 title: "Sitemap: all sections and pages"
 seo_title: "Sitemap — Sergey Romanenko"
-description: "Every section and page of sergeyromanenko.com — photography, courses, publications, tools and games — as one linked tree."
+description: "Every section and page of sergeyromanenko.com — photography, courses, publications and applications — as one linked tree."
 canonical_url: "https://sergeyromanenko.com/sitemap/"
 markdown_url: "https://sergeyromanenko.com/sitemap/index.md"
 section: "Site"
@@ -15,11 +15,11 @@ robots: "index, follow"
 
 The complete structure of the site, shown as a tree of folders and pages. Every entry is a direct link, and the tree is generated from the same content the XML sitemap lists.
 
-102 internal pages
+101 internal pages
 
 31 external links
 
-Total: 133
+Total: 132
 
 How to use
 
@@ -27,13 +27,66 @@ Folders represent categories; files represent pages. Each entry is a direct link
 
 For crawlers there is also the [XML sitemap](https://sergeyromanenko.com/sitemap-index.xml).
 
-- [Home](https://sergeyromanenko.com/) — Sergey Romanenko — photography, courses, publications, tools and games
+- [Home](https://sergeyromanenko.com/) — Sergey Romanenko — photography, courses, publications and applications
   - [About](https://sergeyromanenko.com/about/) — Biography and project information
   - [Stepik](https://sergeyromanenko.com/about/stepik/) — The Stepik educational project: courses, trainers, reviews and the 2026 Stepik CLI workflow
   - [Solvery](https://sergeyromanenko.com/about/solvery/) — Professional mentoring at Solvery (2022–2023), with student testimonials
   - [Photography, Creative Projects & Model Scouting](https://sergeyromanenko.com/about/photography-and-model-scouting/) — Creative photography projects, the Photo Walks community I founded, event and fashion photography with Sigma Models, freelance model scouting for Liberty Model Agency, equipment and testimonials (2016–2019)
   - [My Yellow Yamaha PG-1](https://sergeyromanenko.com/about/yamaha-pg-1/) — Long-term Yamaha PG-1 owner review after 37,000+ km in Vietnam: modifications, maintenance, reliability, pros and cons
   - [Brandbook](https://sergeyromanenko.com/about/brandbook/) — Visual identity shaped by travel and everyday life
+  - [Applications](https://sergeyromanenko.com/applications/) — Browser-based tools and games built along the way
+    - [Markdown Editor](https://sergeyromanenko.com/applications/markdown-editor/) — Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
+    - [Text Analyzer](https://sergeyromanenko.com/applications/text-analyzer/) — Measure words, characters, sentences, paragraphs, reading time, page count, word frequency and repeated phrases — computed entirely in your browser.
+    - [Case Converter](https://sergeyromanenko.com/applications/case-converter/) — Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
+    - [Text Cleaner](https://sergeyromanenko.com/applications/text-cleaner/) — Clean text pasted from a web page, PDF or spreadsheet — collapse whitespace, fix line endings, find invisible characters and strip HTML.
+    - [Text Formatter](https://sergeyromanenko.com/applications/text-formatter/) — Add line numbers, wrap text at a column, add prefixes and suffixes, indent, and turn lines into a bulleted or numbered list.
+    - [List Processor](https://sergeyromanenko.com/applications/list-processor/) — Sort, deduplicate, filter and compare a list of items — alphabetically, naturally, by length, numerically, and against a second list.
+    - [Text Splitter & Joiner](https://sergeyromanenko.com/applications/text-splitter/) — Split text into lines, paragraphs, sentences, batches of characters or words, or a fixed number of parts — then join it back together.
+    - [Find and Replace](https://sergeyromanenko.com/applications/find-and-replace/) — Find and replace text with optional regular expressions, case and whole-word matching, match counting and safe capture-group substitution.
+    - [Text Diff](https://sergeyromanenko.com/applications/text-diff/) — Compare two texts line by line or word by word, with an accurate diff, ignore options, and differences marked by sign, tint and word.
+    - [Text Truncator](https://sergeyromanenko.com/applications/text-truncator/) — Shorten text to a limit in characters, words, sentences, lines or paragraphs — cutting at a word boundary and counting the suffix inside the limit.
+    - [Placeholder Text Generator](https://sergeyromanenko.com/applications/lorem-ipsum/) — Generate placeholder text by paragraph, sentence or word count, with or without the traditional opening, and repeatably when you need the same text twice.
+    - [Emoji Picker](https://sergeyromanenko.com/applications/emoji-picker/) — Search and copy emoji from a set bundled with the page — no API call, no tracking, and the picker keeps working offline once the page has loaded.
+    - [Code Editor](https://sergeyromanenko.com/applications/code-editor/) — Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
+    - [SQL Editor](https://sergeyromanenko.com/applications/sql-editor/) — Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
+    - [Mermaid Diagram Editor](https://sergeyromanenko.com/applications/mermaid-diagram-editor/) — Write Mermaid source, watch it render as a live diagram, and download it as a PNG file, all in your browser.
+    - [Lua Editor](https://sergeyromanenko.com/applications/lua-editor/) — Write and run Lua 5.4 programs directly in your browser using WebAssembly. Features a full code editor with syntax highlighting, interactive stdin/stdout console, 15+ built-in examples, local snippet persistence, and execution limits for safety. No server, no account, nothing uploaded.
+    - [Pseudocode Editor](https://sergeyromanenko.com/applications/pseudocode-editor/) — Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
+    - [Brainfuck Editor](https://sergeyromanenko.com/applications/brainfuck-editor/) — Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
+    - [HTTP Status Codes](https://sergeyromanenko.com/applications/http-status-codes/) — A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
+    - [JSON Formatter](https://sergeyromanenko.com/applications/json-formatter/) — Validate, format and minify JSON in your browser, with syntax errors reported as a line and a column you can find.
+    - [JSON YAML Converter](https://sergeyromanenko.com/applications/json-yaml-converter/) — Convert JSON to YAML and YAML to JSON in your browser, with configurable indentation and errors that say where to look.
+    - [YAML Formatter](https://sergeyromanenko.com/applications/yaml-formatter/) — Validate and format YAML in your browser, with parser errors reported as a line and a column you can find.
+    - [XML to JSON Converter](https://sergeyromanenko.com/applications/xml-to-json/) — Convert XML documents to JSON in your browser, with a documented mapping for attributes, repeated elements and mixed content.
+    - [Front Matter Editor](https://sergeyromanenko.com/applications/front-matter-editor/) — Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
+    - [Binary Converter](https://sergeyromanenko.com/applications/binary-converter/) — Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
+    - [Encryption](https://sergeyromanenko.com/applications/encryption/) — Encrypt and decrypt text in your browser with AES-256-GCM or the OpenSSL-compatible AES-256-CBC format.
+    - [Hash Text](https://sergeyromanenko.com/applications/hash-text/) — Hash text with MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA3-512 or RIPEMD-160, entirely in your browser.
+    - [Token Generator](https://sergeyromanenko.com/applications/token-generator/) — Generate cryptographically secure random tokens in your browser, with the length and the character sets you choose.
+    - [ULID Generator](https://sergeyromanenko.com/applications/ulid-generator/) — Generate universally unique lexicographically sortable identifiers in your browser, with the count you need.
+    - [Cipher Toolkit](https://sergeyromanenko.com/applications/cipher-toolkit/) — Fourteen classical ciphers in one place. Choose a cipher, set its key, and encrypt or decrypt text with the algorithm running entirely in your browser.
+    - [Time Difference Calculator](https://sergeyromanenko.com/applications/time-difference-calculator/) — Compare local times, daylight, and time differences across the cities that matter wherever you travel.
+    - [The World Clock](https://sergeyromanenko.com/applications/world-clock/) — A live clock for every city that matters to you — the current time, date, and daylight for your city and anywhere your people are, all at once.
+    - [Currency Converter](https://sergeyromanenko.com/applications/currency-converter/) — Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
+    - [Unit Converter](https://sergeyromanenko.com/applications/unit-converter/) — Convert length, weight, temperature, volume, area, speed, fuel economy and data transfer rates between metric, US and Imperial units.
+    - [Percentage Calculator](https://sergeyromanenko.com/applications/percentage-calculator/) — Calculate a percentage of a number, what percentage one number is of another, percentage change, adding or subtracting a percentage, and percentage difference.
+    - [GPS Coordinate Converter](https://sergeyromanenko.com/applications/gps-coordinate-converter/) — Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
+    - [Speed, Distance, and Time Calculator](https://sergeyromanenko.com/applications/speed-distance-time-calculator/) — Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
+    - [QR Code Generator](https://sergeyromanenko.com/applications/qr-code-generator/) — Create custom QR codes for URLs, text, Wi-Fi, contacts, email, phone numbers, locations, and more. Customize colors, styles, and logos, then download as PNG. Generate QR codes privately in your browser without third-party QR APIs.
+    - [Favicon Generator](https://sergeyromanenko.com/applications/favicon-generator/) — Generate favicons and app icons in your browser from text or an image. Export PNGs, a multi-resolution ICO, ZIP, manifest, and HTML tags. Nothing is uploaded.
+    - [YouTube on Repeat](https://sergeyromanenko.com/applications/youtube-on-repeat/) — Paste a YouTube URL and loop the whole video or a precise A–B section, with playback-speed control and keyboard shortcuts. Runs entirely in your browser.
+    - [2048](https://sergeyromanenko.com/applications/2048/) — Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
+    - [Battleships](https://sergeyromanenko.com/applications/battleships/) — The classic fleet-hunting game, no-touch edition. Place five ships with a cell of water between each, trade shots with a probability-hunting computer opponent, and sink all seventeen enemy cells.
+    - [Catch the Cat](https://sergeyromanenko.com/applications/catch-the-cat/) — The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
+    - [Dots and Boxes](https://sergeyromanenko.com/applications/dots-and-boxes/) — The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
+    - [Lights Out](https://sergeyromanenko.com/applications/lights-out/) — Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
+    - [Memory Game](https://sergeyromanenko.com/applications/memory-game/) — Test your memory with this classic card matching game. Multiple difficulties, themes, and game modes. Play offline on flights, trains, and during travel.
+    - [Nim](https://sergeyromanenko.com/applications/nim/) — The classic mathematical strategy game. Take turns removing objects from heaps, master the XOR nim-sum, and challenge the Optimal computer opponent or a friend on your own device.
+    - [Rock Paper Scissors](https://sergeyromanenko.com/applications/rock-paper-scissors/) — Play Rock Paper Scissors against the computer. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
+    - [Simon](https://sergeyromanenko.com/applications/simon/) — Watch the colored pads light up in a growing sequence, then repeat it exactly. Each round adds one more step. One wrong tap ends the game. Sounds, mute, and local best scores.
+    - [State Conquest](https://sergeyromanenko.com/applications/state-conquest/) — A turn-based territory-conquest strategy game. Command garrisons, capture strongholds, and eliminate rival commanders across tactical theaters.
+    - [Tic-Tac-Toe](https://sergeyromanenko.com/applications/tic-tac-toe/) — Play Tic-Tac-Toe against an optimal computer opponent or challenge a friend on the same device. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
+    - [Tower of Hanoi](https://sergeyromanenko.com/applications/tower-of-hanoi/) — Solve the classic Tower of Hanoi puzzle. Move disks between three pegs following the rules. Multiple difficulty levels, move counter, optimal solution tracker, hints, and step-by-step solution mode.
   - [Courses](https://sergeyromanenko.com/courses/) — Online courses on Stepik
     - [Practical Java Programming Trainer](https://sergeyromanenko.com/courses/java-practical-trainer/)
     - [Practical C# Programming Trainer](https://sergeyromanenko.com/courses/csharp-practical-trainer/)
@@ -61,19 +114,6 @@ For crawlers there is also the [XML sitemap](https://sergeyromanenko.com/sitemap
     - [SQL from Zero to Hero](https://sergeyromanenko.com/courses/sql-from-zero-to-hero/)
     - [Practical Programming Trainers](https://sergeyromanenko.com/courses/practical-programming-trainers/)
     - [Data Engineer](https://sergeyromanenko.com/courses/data-engineer/)
-  - [Games](https://sergeyromanenko.com/games/) — Browser games built for travel
-    - [2048](https://sergeyromanenko.com/games/2048/) — Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
-    - [Battleships](https://sergeyromanenko.com/games/battleships/) — The classic fleet-hunting game, no-touch edition. Place five ships with a cell of water between each, trade shots with a probability-hunting computer opponent, and sink all seventeen enemy cells.
-    - [Catch the Cat](https://sergeyromanenko.com/games/catch-the-cat/) — The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
-    - [Dots and Boxes](https://sergeyromanenko.com/games/dots-and-boxes/) — The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
-    - [Lights Out](https://sergeyromanenko.com/games/lights-out/) — Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
-    - [Memory Game](https://sergeyromanenko.com/games/memory-game/) — Test your memory with this classic card matching game. Multiple difficulties, themes, and game modes. Play offline on flights, trains, and during travel.
-    - [Nim](https://sergeyromanenko.com/games/nim/) — The classic mathematical strategy game. Take turns removing objects from heaps, master the XOR nim-sum, and challenge the Optimal computer opponent or a friend on your own device.
-    - [Rock Paper Scissors](https://sergeyromanenko.com/games/rock-paper-scissors/) — Play Rock Paper Scissors against the computer. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
-    - [Simon](https://sergeyromanenko.com/games/simon/) — Watch the colored pads light up in a growing sequence, then repeat it exactly. Each round adds one more step. One wrong tap ends the game. Sounds, mute, and local best scores.
-    - [State Conquest](https://sergeyromanenko.com/games/state-conquest/) — A turn-based territory-conquest strategy game. Command garrisons, capture strongholds, and eliminate rival commanders across tactical theaters.
-    - [Tic-Tac-Toe](https://sergeyromanenko.com/games/tic-tac-toe/) — Play Tic-Tac-Toe against an optimal computer opponent or challenge a friend on the same device. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
-    - [Tower of Hanoi](https://sergeyromanenko.com/games/tower-of-hanoi/) — Solve the classic Tower of Hanoi puzzle. Move disks between three pegs following the rules. Multiple difficulty levels, move counter, optimal solution tracker, hints, and step-by-step solution mode.
   - [Photography](https://sergeyromanenko.com/photography/) — Documentary photography projects
     - [From Da Nang to South and Back](https://sergeyromanenko.com/photography/from-danang-to-south-and-back/) — A photographic journey across Vietnam, covering 7,700 kilometers from Da Nang to the southernmost point of the country and back.
     - [People of Bangkok's Chinatown](https://sergeyromanenko.com/photography/people-of-bangkoks-chinatown/) — In 2025 I spent two months living in Bangkok and repeatedly explored Chinatown on foot - photographing street life, food culture, everyday characters, and the cats that appear to live comfortably among the neighborhood's activity. A personal travel journal of observation and return.
@@ -83,47 +123,6 @@ For crawlers there is also the [XML sitemap](https://sergeyromanenko.com/sitemap
     - [IT Books](https://sergeyromanenko.com/publications/it-books/) — Practical books about programming, data, markup languages and digital technologies.
       - [Markdown](https://sergeyromanenko.com/publications/it-books/markdown/) — A free beginner’s book on Markdown — the markup language behind most of what you read on the web, from headings and emphasis to tables and links.
       - [SQL Introduction](https://sergeyromanenko.com/publications/it-books/sql-introduction/) — A free beginner’s book on SQL and how relational databases actually work — readable online, downloadable as PDF or EPUB, open source on GitHub.
-  - [Tools](https://sergeyromanenko.com/tools/) — Browser tools, free and without accounts
-    - [Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/) — Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
-    - [Code Editor](https://sergeyromanenko.com/tools/code-editor/) — Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
-    - [Front Matter Editor](https://sergeyromanenko.com/tools/front-matter-editor/) — Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
-    - [Lua Editor](https://sergeyromanenko.com/tools/lua-editor/) — Write and run Lua 5.4 programs directly in your browser using WebAssembly. Features a full code editor with syntax highlighting, interactive stdin/stdout console, 15+ built-in examples, local snippet persistence, and execution limits for safety. No server, no account, nothing uploaded.
-    - [Markdown Editor](https://sergeyromanenko.com/tools/markdown-editor/) — Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
-    - [Pseudocode Editor](https://sergeyromanenko.com/tools/pseudocode-editor/) — Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
-    - [SQL Editor](https://sergeyromanenko.com/tools/sql-editor/) — Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
-    - [Currency Converter](https://sergeyromanenko.com/tools/currency-converter/) — Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
-    - [GPS Coordinate Converter](https://sergeyromanenko.com/tools/gps-coordinate-converter/) — Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
-    - [Percentage Calculator](https://sergeyromanenko.com/tools/percentage-calculator/) — Calculate a percentage of a number, what percentage one number is of another, percentage change, adding or subtracting a percentage, and percentage difference.
-    - [Speed, Distance, and Time Calculator](https://sergeyromanenko.com/tools/speed-distance-time-calculator/) — Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
-    - [The World Clock](https://sergeyromanenko.com/tools/world-clock/) — A live clock for every city that matters to you — the current time, date, and daylight for your city and anywhere your people are, all at once.
-    - [Time Difference Calculator](https://sergeyromanenko.com/tools/time-difference-calculator/) — Compare local times, daylight, and time differences across the cities that matter wherever you travel.
-    - [Unit Converter](https://sergeyromanenko.com/tools/unit-converter/) — Convert length, weight, temperature, volume, area, speed, fuel economy and data transfer rates between metric, US and Imperial units.
-    - [Cipher Toolkit](https://sergeyromanenko.com/tools/cipher-toolkit/) — Fourteen classical ciphers in one place. Choose a cipher, set its key, and encrypt or decrypt text with the algorithm running entirely in your browser.
-    - [Encryption](https://sergeyromanenko.com/tools/encryption/) — Encrypt and decrypt text in your browser with AES-256-GCM or the OpenSSL-compatible AES-256-CBC format.
-    - [Hash Text](https://sergeyromanenko.com/tools/hash-text/) — Hash text with MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA3-512 or RIPEMD-160, entirely in your browser.
-    - [Binary Converter](https://sergeyromanenko.com/tools/binary-converter/) — Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
-    - [Case Converter](https://sergeyromanenko.com/tools/case-converter/) — Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
-    - [Emoji Picker](https://sergeyromanenko.com/tools/emoji-picker/) — Search and copy emoji from a set bundled with the page — no API call, no tracking, and the picker keeps working offline once the page has loaded.
-    - [Favicon Generator](https://sergeyromanenko.com/tools/favicon-generator/) — Generate favicons and app icons in your browser from text or an image. Export PNGs, a multi-resolution ICO, ZIP, manifest, and HTML tags. Nothing is uploaded.
-    - [Find and Replace](https://sergeyromanenko.com/tools/find-and-replace/) — Find and replace text with optional regular expressions, case and whole-word matching, match counting and safe capture-group substitution.
-    - [HTTP Status Codes](https://sergeyromanenko.com/tools/http-status-codes/) — A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
-    - [JSON Formatter](https://sergeyromanenko.com/tools/json-formatter/) — Validate, format and minify JSON in your browser, with syntax errors reported as a line and a column you can find.
-    - [JSON YAML Converter](https://sergeyromanenko.com/tools/json-yaml-converter/) — Convert JSON to YAML and YAML to JSON in your browser, with configurable indentation and errors that say where to look.
-    - [List Processor](https://sergeyromanenko.com/tools/list-processor/) — Sort, deduplicate, filter and compare a list of items — alphabetically, naturally, by length, numerically, and against a second list.
-    - [Mermaid Diagram Editor](https://sergeyromanenko.com/tools/mermaid-diagram-editor/) — Write Mermaid source, watch it render as a live diagram, and download it as a PNG file, all in your browser.
-    - [Placeholder Text Generator](https://sergeyromanenko.com/tools/lorem-ipsum/) — Generate placeholder text by paragraph, sentence or word count, with or without the traditional opening, and repeatably when you need the same text twice.
-    - [QR Code Generator](https://sergeyromanenko.com/tools/qr-code-generator/) — Create custom QR codes for URLs, text, Wi-Fi, contacts, email, phone numbers, locations, and more. Customize colors, styles, and logos, then download as PNG. Generate QR codes privately in your browser without third-party QR APIs.
-    - [Text Analyzer](https://sergeyromanenko.com/tools/text-analyzer/) — Measure words, characters, sentences, paragraphs, reading time, page count, word frequency and repeated phrases — computed entirely in your browser.
-    - [Text Cleaner](https://sergeyromanenko.com/tools/text-cleaner/) — Clean text pasted from a web page, PDF or spreadsheet — collapse whitespace, fix line endings, find invisible characters and strip HTML.
-    - [Text Diff](https://sergeyromanenko.com/tools/text-diff/) — Compare two texts line by line or word by word, with an accurate diff, ignore options, and differences marked by sign, tint and word.
-    - [Text Formatter](https://sergeyromanenko.com/tools/text-formatter/) — Add line numbers, wrap text at a column, add prefixes and suffixes, indent, and turn lines into a bulleted or numbered list.
-    - [Text Splitter & Joiner](https://sergeyromanenko.com/tools/text-splitter/) — Split text into lines, paragraphs, sentences, batches of characters or words, or a fixed number of parts — then join it back together.
-    - [Text Truncator](https://sergeyromanenko.com/tools/text-truncator/) — Shorten text to a limit in characters, words, sentences, lines or paragraphs — cutting at a word boundary and counting the suffix inside the limit.
-    - [Token Generator](https://sergeyromanenko.com/tools/token-generator/) — Generate cryptographically secure random tokens in your browser, with the length and the character sets you choose.
-    - [ULID Generator](https://sergeyromanenko.com/tools/ulid-generator/) — Generate universally unique lexicographically sortable identifiers in your browser, with the count you need.
-    - [XML to JSON Converter](https://sergeyromanenko.com/tools/xml-to-json/) — Convert XML documents to JSON in your browser, with a documented mapping for attributes, repeated elements and mixed content.
-    - [YAML Formatter](https://sergeyromanenko.com/tools/yaml-formatter/) — Validate and format YAML in your browser, with parser errors reported as a line and a column you can find.
-    - [YouTube on Repeat](https://sergeyromanenko.com/tools/youtube-on-repeat/) — Paste a YouTube URL and loop the whole video or a precise A–B section, with playback-speed control and keyboard shortcuts. Runs entirely in your browser.
   - [Support](https://sergeyromanenko.com/support/) — Voluntary support for independent development
   - [Sitemap](https://sergeyromanenko.com/sitemap/) — This page: the full site structure
   - [Copyright and Licensing](https://sergeyromanenko.com/copyright-and-licensing/) — Rights, licenses and attribution

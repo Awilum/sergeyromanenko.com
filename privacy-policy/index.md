@@ -1,7 +1,7 @@
 ---
 title: "Privacy & Security Policy"
 seo_title: "Privacy & Security Policy — Sergey Romanenko"
-description: "Privacy and Security Policy for sergeyromanenko.com — how this website handles visitor data, browser-based tools and games, external services, and your rights."
+description: "Privacy and Security Policy for sergeyromanenko.com. How the website handles visitor data, external services and your rights."
 canonical_url: "https://sergeyromanenko.com/privacy-policy/"
 markdown_url: "https://sergeyromanenko.com/privacy-policy/index.md"
 section: "Site"
@@ -14,17 +14,16 @@ robots: "index, follow"
 
 # Privacy & Security Policy
 
-How sergeyromanenko.com handles visitor data, browser-based tools, external services, and your rights.
+How sergeyromanenko.com handles visitor data, external services, editorial content and your rights.
 
-Last updated: November 6, 2026
+Last updated: November 25, 2026
 
 ## 1. Scope
 
 This Privacy and Security Policy applies to **sergeyromanenko.com** and its subpages, including:
 
 - **Photography** — documentary and street photography projects
-- **Tools** — free browser-based utilities (42 tools as of this writing)
-- **Games** — free browser-based games (6 games as of this writing)
+- **Applications**: editorial pages describing browser-based tools and games. The interactive workspace is hosted separately at [app.sergeyromanenko.com](https://app.sergeyromanenko.com/) , which has its own privacy policy.
 - **Publications** — books, photo zines, travel journals, and essays
 - **Courses** — informational pages describing courses hosted on Stepik
 - **About** — biographical and professional information
@@ -121,88 +120,27 @@ A GDPR legal basis for personal-data processing (Article 6) is distinct from con
 
 **Hosting and CDN:** GitHub Pages may set technical cookies for load balancing, security, or DDoS protection. These are outside the operator's control and are not used by the website for tracking or analytics.
 
-**Embedded third parties:** Tools such as YouTube on Repeat load third-party scripts and players that may set their own cookies or use browser storage. Google Fonts requests may also involve cookies set by Google. The operator does not control these and cannot promise that the entire website is cookie-free.
+**Embedded third parties:** Google Fonts requests may involve cookies set by Google. This site no longer hosts the interactive tools and games that loaded YouTube's player; those applications are on [app.sergeyromanenko.com](https://app.sergeyromanenko.com/) , under a separate privacy policy. The operator does not control third-party cookies.
 
-**Browser storage used by tools and games:** Several tools and games use `localStorage` for functionality (see Section 8). This is not used for tracking or analytics.
+**Browser storage:** Browser storage used by the application workspace is described in its own privacy policy. This website does not run those applications.
 
 **Consent banner:** No cookie banner or consent management platform is present. Whether one is legally required for the actual implementation and the operator's target jurisdictions cannot be determined from the repository alone; if required, implementing it (including actually controlling when the analytics script loads) is a separate task and is flagged in the review notes. No non-functional consent control is added here.
 
-## 7. Browser-Based Tools and Games
+## 7. Applications on the App Domain
 
-The [Tools](https://sergeyromanenko.com/tools/) section provides 42 free browser-based utilities, and the [Games](https://sergeyromanenko.com/games/) section provides 6 free browser-based games. Both collections share the same privacy and security architecture, described in detail below.
+The [Applications](https://sergeyromanenko.com/applications/) section on this site provides editorial descriptions of browser-based tools and games. The interactive applications are no longer hosted here. Older `/tools/` and `/games/` addresses now redirect to the editorial pages.
 
-### 7.1 Local-first processing (40 of 42 tools; all 6 games)
+The working applications run at [app.sergeyromanenko.com](https://app.sergeyromanenko.com/) . That workspace has its own [Privacy Policy](https://app.sergeyromanenko.com/privacy-policy/) describing browser-local processing, files, localStorage, service worker caches and third-party requests. Its Terms of Use and Copyright page govern use of the applications themselves.
 
-For 40 tools and all 6 games, all processing occurs in the visitor's browser using JavaScript and WebAssembly. No network requests are made after the initial page load. This includes:
-
-- The Cipher Toolkit, covering the fourteen classical ciphers (Caesar, ROT13, Affine, Atbash, Vigenère, Beaufort, Monoalphabetic Substitution, Playfair, Hill, Bifid, Rail Fence, Scytale, Columnar Transposition, Bacon)
-- Encryption & Hashing tools (AES Encryption, Hash Text, ULID Generator)
-- Text processing tools (Analyzer, Case Converter, Cleaner, Find & Replace, Formatter, List Processor, Splitter, Diff, Truncator, Lorem Ipsum, Emoji Picker, Binary Converter, Token Generator)
-- Data formatters (JSON Formatter, JSON↔YAML, XML→JSON, YAML Formatter, Front Matter Editor)
-- Editors (Markdown, Code, SQL, Mermaid Diagram, Pseudocode, Lua, Brainfuck)
-- Image tools (Cropper, Resizer, Converter, Favicon Generator)
-- Calculators & utilities (Percentage, GPS Coordinates, Speed/Distance/Time, Time Difference, World Clock, Photography Location Planner, Unit Converter, QR Code Generator, HTTP Status Codes)
-- Games (2048, Tic-Tac-Toe, Rock Paper Scissors, Memory Game, Tower of Hanoi, Lights Out, Simon)
-
-Cryptographic operations use the browser's `crypto.subtle` API (Web Crypto) where available, with audited pure-JavaScript fallbacks.
-
-### 7.2 Tools that make external network requests (2 tools)
-
-No games make external network requests. All 6 games are fully local-first.
-
-- **Currency Converter** — fetches exchange rates from `open.er-api.com`. Only the base currency code (e.g., "USD") is transmitted. Amounts, target currencies, and results never leave the browser.
-- **YouTube on Repeat** — loads the YouTube iframe player API from `youtube.com` and embeds the specified video. The video ID, playback position, loop markers, and speed settings are handled by YouTube's player. This tool cannot function without a connection to YouTube.
-
-Both tools disclose their network activity in their interfaces. No other tool or game makes outbound requests.
-
-### 7.3 File handling
-
-Tools that accept files (image tools, SQL Editor database import, QR Code Generator logo overlay) use browser APIs. Files are read into memory in the browser and processed locally. At no point are files transmitted to the operator’s infrastructure — the site has no upload endpoint, no API, and no database.
-
-### 7.4 Offline functionality
-
-Once the page and its required assets (JavaScript, WebAssembly modules, bundled data files) have loaded, 40 tools and all 6 games work completely without an internet connection. The two exceptions are Currency Converter and YouTube on Repeat, which require live network connections for their core functionality.
-
-"Offline" means the tool's or game's core function works without network access after the initial page load. It does not mean the page is a PWA, assets are guaranteed to be cached, or you can open the tool for the first time while offline. For guaranteed offline access, save the page (Ctrl+S / Cmd+ S) or use a browser extension that archives pages.
-
-### 7.5 Confidential files and limitations
-
-For the 40 fully-local tools: **yes, with the caveats below.** Your files, source code, passwords, private keys, and personal data never leave your browser. The processing happens in memory and the results are either displayed on screen or offered as a download you explicitly trigger.
-
-**Important limitations:**
-
-- **Browser memory.** Data you paste or upload exists in the browser's JavaScript heap and, for image tools, in canvas memory. Closing the tab releases this memory. A memory dump of the browser process (by malware, a compromised extension, or forensic tooling) could theoretically recover it. This is true of any web application.
-- **Browser extensions.** Extensions you have installed can read the DOM, intercept network requests, and access `localStorage`. We cannot control what your extensions do.
-- **Sharing links.** Several tools (Token Generator, Encryption, QR Code Generator, Code Editor, SQL Editor, Mermaid Diagram Editor, Markdown Editor, Lua Editor, Time Difference Calculator, World Clock) offer a "Share link" feature. This encodes the tool's state into the URL hash fragment (the part after `#`). **Hash fragments are never sent to the server** — they are purely client-side. However, anyone with the full URL can reconstruct the state. Do not share links containing confidential material.
-- **Lua Editor localStorage.** The Lua Editor persists your source code, input, and saved snippets to `localStorage`. This survives browser restarts. Clear it via the tool's "Clear" button or your browser's storage settings if needed.
-- **YouTube on Repeat.** This tool sends the video ID to YouTube. Do not use it with private/unlisted videos you don't want YouTube to associate with your session.
-- **Currency Converter.** Only the base currency code is sent to `open.er-api.com`. No amounts or personal data.
-
-**No absolute guarantees.** The tools are free browser-based utilities built by one person. They are not audited by a third party, not compliant with HIPAA/GDPR/SOC2 by design, and not suitable for regulated environments without your own assessment. Use judgment. For highly sensitive work, consider air-gapped local tools.
+This website remains responsible for the content it hosts here: editorial copy, photography, publications, course information and related pages. Questions about how an application handles data should be directed to the operator through the same contact address, but the technical disclosures live on the app domain.
 
 ## 8. Data Storage and Retention
 
 ### 8.1 In the browser (your device)
 
-Two tools and all six games use persistent browser storage:
+Persistent browser storage is used by the applications on the app domain, not by this website. The workspace privacy policy lists which applications store settings, scores, recent items or saved work in `localStorage`, and explains how to clear it. This site does not read that storage and does not run those applications.
 
-| Tool / Game | Storage | What is stored | Retention |
-| --- | --- | --- | --- |
-| Lua Editor | `localStorage` | Last source code, input text, named snippets (code + name + timestamps) | Until cleared via tool UI or browser settings |
-| YouTube on Repeat | `localStorage` | Up to 10 recent video IDs, titles, and timestamps | Until cleared via tool UI or browser settings |
-| Time Difference Calculator | `localStorage` | Selected city IDs and time format | Until cleared via browser settings |
-| World Clock | `localStorage` | Selected city IDs and time format | Until cleared via browser settings |
-| 2048 | `localStorage` | Best score, current game state | Until cleared via game UI or browser settings |
-| Tic-Tac-Toe | `localStorage` | X wins, O wins, draws | Until cleared via game UI or browser settings |
-| Rock Paper Scissors | `localStorage` | Wins, losses, draws | Until cleared via game UI or browser settings |
-| Memory Game | `localStorage` | Best scores, preferences, records per difficulty/theme/mode | Until cleared via game UI or browser settings |
-| Tower of Hanoi | `localStorage` | Best moves and time per disk count | Until cleared via game UI or browser settings |
-| Lights Out | `localStorage` | Best moves and time per board size | Until cleared via game UI or browser settings |
-| Simon | `localStorage` | Best score and best round per pad count | Until cleared via game UI or browser settings |
-| Hitori | `localStorage` | Settings and best records | Until cleared via game UI or browser settings |
-| All other tools | None | — | — |
-
-In-memory data (JavaScript heap, canvas memory) is released when you close the tab. The "Share link" feature in several tools encodes state into the URL hash fragment (the part after `#`); hash fragments are never sent to the server.
+In-memory data belongs to the application you are using. Closing the tab releases the browser's JavaScript and canvas memory for that application. Hash fragments in share links are not sent to a server.
 
 ### 8.2 On the operator's infrastructure
 
@@ -213,8 +151,6 @@ Cloudflare Web Analytics processes information according to its own documented a
 ### 8.3 Third-party services
 
 - `static.cloudflareinsights.com` (Cloudflare Web Analytics): loads the analytics beacon on every page. See Sections 4.4 and 9. Cloudflare's privacy policy applies.
-- `open.er-api.com` (Currency Converter): receives only the base currency code. Their privacy policy applies.
-- `youtube.com` (YouTube on Repeat): receives video ID and playback telemetry. YouTube's (Google's) privacy policy applies.
 - `fonts.googleapis.com` / `fonts.gstatic.com` (Google Fonts): serves web fonts (Instrument Serif, Inter, IBM Plex Mono). Google's privacy policy applies.
 - `ko-fi.com`, `paypal.me`, `yoomoney.ru`, `nowpayments.io` (Support page): visited only when you click a support link. Their privacy policies apply.
 - `stepik.org` (Course links): visited only when you click a course link. Stepik's privacy policy applies.
@@ -226,8 +162,6 @@ This website integrates with or links to the following external services. Each o
 - **Stepik (`stepik.org`):** Course catalog pages link to Stepik for enrollment, payment, and course delivery. No Stepik content is embedded; no data is exchanged between this site and Stepik except the referral implicit in following a link.
 - **Ko-fi (`ko-fi.com`) and other payment providers:** The [Support](https://sergeyromanenko.com/support/) page links to Ko-fi, PayPal, YouMoney, and PayNow for voluntary contributions. No payment processing occurs on this site.
 - **GitHub (`github.com`):** Source code repository and issue tracker. Visiting GitHub is governed by GitHub's privacy statement.
-- **YouTube (`youtube.com`):** Used only by the YouTube on Repeat tool for video embedding and playback.
-- **open.er-api.com:** Used only by the Currency Converter tool for exchange rate data.
 - **Google Fonts (`fonts.googleapis.com`, `fonts.gstatic.com`):** Loads three font families on every page. This is a single combined request.
 - **Cloudflare Web Analytics (`static.cloudflareinsights.com`):** Loads the analytics beacon on every page and reports aggregate traffic and performance metrics to the operator's Cloudflare dashboard. See Section 4.4.
 
@@ -245,7 +179,7 @@ Course information on this site (descriptions, curricula, statistics) is provide
 
 The [Support](https://sergeyromanenko.com/support/) page offers visitors the option to make voluntary financial contributions to support the operator's independent development work.
 
-**Support is entirely voluntary.** It is not a purchase, subscription, or payment for goods or services. Visitors can continue accessing content expressly offered free of charge and using the browser-based tools and games provided free of charge for their intended functionality without making a contribution. Such access remains subject to the [Terms of Use](https://sergeyromanenko.com/terms-of-use/) and the copyright and licensing conditions described on the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page.
+**Support is entirely voluntary.** It is not a purchase, subscription, or payment for goods or services. Visitors can continue accessing content expressly offered free of charge and using the applications provided through the separate workspace without making a contribution. Such access remains subject to the [Terms of Use](https://sergeyromanenko.com/terms-of-use/) and the copyright and licensing conditions described on the [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/) page, as well as the workspace's own legal documents.
 
 Contributions are processed by external payment providers (Ko-fi, PayPal, YouMoney, PayNow) and may be one-time or recurring where a provider supports it; any recurring arrangement is set up and managed with that provider. This website does not itself process payments. The operator does not receive or process payment data. Each provider's terms, fees, and privacy policies apply. Refunds, disputes, and receipts are handled by the respective provider.
 
@@ -261,13 +195,13 @@ When you send an email, you voluntarily provide your email address, message cont
 
 The website is served over HTTPS via GitHub Pages' CDN. The static architecture (no application server, no database, no authentication) reduces the attack surface. The operator does not configure a custom Content Security Policy: GitHub Pages does not support custom response headers, so no CSP is enforced by the hosting layer. If a CSP is added later (for example through a proxy or meta tag), it must allow the Cloudflare Web Analytics script origin and the existing third-party origins.
 
-However, no absolute security guarantees are made. The tools are not suitable for regulated environments or highly sensitive data without your own assessment. Browser extensions, compromised devices, and network-level attacks can compromise data processed in the browser — this is true of any web application.
+However, no absolute security guarantees are made. The applications on the app domain are not suitable for regulated environments or highly sensitive data without your own assessment. Browser extensions, compromised devices, and network-level attacks can compromise data processed in the browser. This is true of any web application.
 
 The source code is publicly available on [GitHub](https://github.com/Awilum/sergeyromanenko.src) for inspection and independent verification of the implementation. Public availability of source code does not by itself grant a licence to reuse, modify, or redistribute it.
 
 ## 14. International Transfers
 
-The operator's infrastructure (GitHub Pages CDN) may process data in multiple jurisdictions. Google Fonts, YouTube, open.er-api.com, and Cloudflare Web Analytics are operated by entities that may process data outside the European Economic Area. The operator does not control the transfer mechanisms used by these third parties.
+The operator's infrastructure (GitHub Pages CDN) may process data in multiple jurisdictions. Google Fonts and Cloudflare Web Analytics are operated by entities that may process data outside the European Economic Area. The operator does not control the transfer mechanisms used by these third parties. The separate applications workspace has its own privacy policy and third-party list.
 
 For Cloudflare Web Analytics, the processing locations and any transfer mechanisms are determined by Cloudflare's own documented arrangements and must be verified against Cloudflare's documentation; the operator's privacy policy and the provider's documentation alone do not establish that every applicable international-transfer requirement is met.
 
@@ -308,3 +242,4 @@ For questions about this Privacy and Security Policy or data practices, contact:
 - [Terms of Use](https://sergeyromanenko.com/terms-of-use/)
 - [Copyright & Licensing](https://sergeyromanenko.com/copyright-and-licensing/)
 - [Support](https://sergeyromanenko.com/support/)
+- [Applications workspace Privacy Policy](https://app.sergeyromanenko.com/privacy-policy/)
