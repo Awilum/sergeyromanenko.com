@@ -31,7 +31,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Courses
 
-- [Teaching what took me years to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 74,296 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
+- [Teaching what took me years to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 74,418 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
   - [Markdown](https://sergeyromanenko.com/courses/index.md)
 - [Data Engineer](https://sergeyromanenko.com/courses/data-engineer/): A complete path to becoming a data engineer from zero: Python and Git first, then SQL from syntax to window functions, Pandas for data work, ClickHouse…
   - [Markdown](https://sergeyromanenko.com/courses/data-engineer/index.md)
@@ -107,7 +107,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Tools
 
-- [Tools I Built Along the Way.](https://sergeyromanenko.com/tools/): Practical tools built during the journey — things I needed, could not find, built, and shared. They run in your browser, they are free, and none of them asks for an account. 42 tools, all running in the browser, all in one place.
+- [Tools I Built Along the Way.](https://sergeyromanenko.com/tools/): Practical tools built during the journey — things I needed, could not find, built, and shared. They run in your browser, they are free, and none of them asks for an account. 40 tools, all running in the browser, all in one place.
   - [Markdown](https://sergeyromanenko.com/tools/index.md)
 - [Binary Converter](https://sergeyromanenko.com/tools/binary-converter/): Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
   - [Markdown](https://sergeyromanenko.com/tools/binary-converter/index.md)
@@ -137,10 +137,6 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/tools/hash-text/index.md)
 - [HTTP Status Codes](https://sergeyromanenko.com/tools/http-status-codes/): A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
   - [Markdown](https://sergeyromanenko.com/tools/http-status-codes/index.md)
-- [Image Cropper](https://sergeyromanenko.com/tools/image-cropper/): Crop images in your browser. Choose freeform or fixed aspect ratios, rotate and flip, zoom, preview, and download the result. Nothing is uploaded.
-  - [Markdown](https://sergeyromanenko.com/tools/image-cropper/index.md)
-- [Image Resizer](https://sergeyromanenko.com/tools/image-resizer/): Resize images in your browser by pixels or percentage, with aspect-ratio lock and high-quality resampling. Preview and download the result. Nothing is uploaded.
-  - [Markdown](https://sergeyromanenko.com/tools/image-resizer/index.md)
 - [JSON Formatter](https://sergeyromanenko.com/tools/json-formatter/): Validate, format and minify JSON in your browser, with syntax errors reported as a line and a column you can find.
   - [Markdown](https://sergeyromanenko.com/tools/json-formatter/index.md)
 - [JSON YAML Converter](https://sergeyromanenko.com/tools/json-yaml-converter/): Convert JSON to YAML and YAML to JSON in your browser, with configurable indentation and errors that say where to look.
@@ -225,7 +221,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## About
 
-- [A life spent exploring through the code, cameras and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,296 enrollments, open-source software, books and practical tools.
+- [A life spent exploring through the code, cameras and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,418 enrollments, open-source software, books and practical tools.
   - [Markdown](https://sergeyromanenko.com/about/index.md)
 - [A visual identity shaped by travel and everyday life.](https://sergeyromanenko.com/about/brandbook/): A personal brandbook for sergeyromanenko.com — how its colours, typography and visual identity grew out of living and travelling in Bali, Indonesia.
   - [Markdown](https://sergeyromanenko.com/about/brandbook/index.md)

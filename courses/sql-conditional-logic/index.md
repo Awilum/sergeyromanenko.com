@@ -18,7 +18,7 @@ robots: "index, follow"
 
 For people who already know SQL basics and want to work with conditions and logic confidently: TRUE, FALSE and UNKNOWN, NULL, comparison operators, AND, OR, NOT, BETWEEN, IN, LIKE and CASE — applied across SELECT, GROUP BY, HAVING and UPDATE.
 
-Paid — 28 lessons — 609 enrollments — 14 reviews
+Paid — 28 lessons — 610 enrollments — 14 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/295190/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 28
-- **Enrollments:** 609
+- **Enrollments:** 610
 
 ## About this course
 
@@ -95,7 +95,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 28
 - **Modules:** 4
-- **Enrollments:** 609
+- **Enrollments:** 610
 - **Reviews:** 14
 - **Certificates issued:** 70
 - **Author:** Sergey Romanenko
@@ -105,7 +105,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL Conditional Logic is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 28 lessons, 609 enrollments, rated 5.0 out of 5 across 14 reviews and a paid course.
+SQL Conditional Logic is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 28 lessons, 610 enrollments, rated 5.0 out of 5 across 14 reviews and a paid course.
 
 ## More in SQL
 

@@ -46,7 +46,7 @@ The syntax is genuinely small. What takes longer is judgement: when a heading is
 
 ## GitHub
 
-42
+44
 
 Stars
 
@@ -54,7 +54,7 @@ Stars
 
 Releases
 
-759
+764
 
 Release downloads
 

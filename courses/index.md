@@ -1,7 +1,7 @@
 ---
 title: "Teaching what took me years to work out."
 seo_title: "Sergey Romanenko Online Programming Courses"
-description: "26 Sergey Romanenko online courses with 74,296 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik."
+description: "26 Sergey Romanenko online courses with 74,418 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik."
 canonical_url: "https://sergeyromanenko.com/courses/"
 markdown_url: "https://sergeyromanenko.com/courses/index.md"
 section: "Courses"
@@ -13,7 +13,7 @@ robots: "index, follow"
 
 # Teaching what took me years to work out.
 
-74,296 enrollments — 26 courses — 1,092 lessons — 25 Russian — 1 English
+74,418 enrollments — 26 courses — 1,092 lessons — 25 Russian — 1 English
 
 26 courses on programming and data, most of them trainers: long sequences of problems to solve rather than videos to sit through. They exist because the hard part of learning to program is not understanding syntax — it is finding out, forty times in a row, whether you actually understood what you thought you understood.
 
@@ -21,7 +21,7 @@ robots: "index, follow"
 
 Total enrollments across all published courses
 
-74,296
+74,418
 
 Every figure on this page comes from the local course dataset, refreshed from the Stepik statistics API. It counts enrollments: someone who enrolled in several courses is counted once per course. Enrollment happens on Stepik.
 
@@ -29,9 +29,9 @@ Every figure on this page comes from the local course dataset, refreshed from th
 - **Programs:** 6
 - **Free courses:** 5
 - **Paid courses:** 21
-- **Reviews:** 1,383
+- **Reviews:** 1,385
 - **Average rating:** 4.86
-- **Certificates issued:** 7,074
+- **Certificates issued:** 7,100
 - **Lessons:** 1,092
 
 ## Learning paths
@@ -87,7 +87,7 @@ Practical JavaScript Programming Trainer · Practical JavaScript Code Reading Tr
 - **Level:** Beginner
 - **Bundled courses:** 5 courses
 - **Lessons:** 574 lessons
-- **Enrollments:** 54 enrollments
+- **Enrollments:** 55 enrollments
 
 Paid Open the path
 
@@ -104,7 +104,7 @@ SQL Introduction (RU) · SQL Common Table Expressions · SQL Window Functions ·
 - **Level:** Beginner
 - **Bundled courses:** 7 courses
 - **Lessons:** 228 lessons
-- **Enrollments:** 86 enrollments
+- **Enrollments:** 87 enrollments
 
 Paid Open the path
 
@@ -178,7 +178,7 @@ Paid Open the path
   - **Language:** English
   - **Lessons:** 30 lessons
   - **Modules:** 10 modules
-  - **Enrollments:** 7,893 enrollments
+  - **Enrollments:** 7,899 enrollments
   - **Rating:** 4.8 ★ ( 253 )
   Free
   View course
@@ -190,8 +190,8 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 21 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 3,393 enrollments
-  - **Rating:** 4.9 ★ ( 110 )
+  - **Enrollments:** 3,469 enrollments
+  - **Rating:** 4.9 ★ ( 111 )
   Free
   View course
 - Course
@@ -214,8 +214,8 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 85 lessons
   - **Modules:** 19 modules
-  - **Enrollments:** 916 enrollments
-  - **Rating:** 4.8 ★ ( 78 )
+  - **Enrollments:** 917 enrollments
+  - **Rating:** 4.8 ★ ( 79 )
   Paid
   View course
 - Course
@@ -226,7 +226,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 17 lessons
   - **Modules:** 3 modules
-  - **Enrollments:** 1,047 enrollments
+  - **Enrollments:** 1,065 enrollments
   - **Rating:** 4.7 ★ ( 38 )
   Free
   View course
@@ -238,7 +238,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 28 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 609 enrollments
+  - **Enrollments:** 610 enrollments
   - **Rating:** 5.0 ★ ( 14 )
   Paid
   View course
@@ -250,7 +250,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 34 lessons
   - **Modules:** 10 modules
-  - **Enrollments:** 531 enrollments
+  - **Enrollments:** 532 enrollments
   - **Rating:** 4.9 ★ ( 22 )
   Paid
   View course
@@ -262,7 +262,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 17 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 407 enrollments
+  - **Enrollments:** 408 enrollments
   - **Rating:** 4.9 ★ ( 18 )
   Paid
   View course
@@ -281,7 +281,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 30 lessons
   - **Modules:** 5 modules
-  - **Enrollments:** 9,726 enrollments
+  - **Enrollments:** 9,736 enrollments
   - **Rating:** 4.9 ★ ( 142 )
   Free
   View course
@@ -293,7 +293,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 303 lessons
   - **Modules:** 43 modules
-  - **Enrollments:** 2,229 enrollments
+  - **Enrollments:** 2,232 enrollments
   - **Rating:** 4.8 ★ ( 86 )
   Paid
   View course
@@ -305,7 +305,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 56 lessons
   - **Modules:** 13 modules
-  - **Enrollments:** 893 enrollments
+  - **Enrollments:** 894 enrollments
   - **Rating:** 5.0 ★ ( 10 )
   Paid
   View course
@@ -317,7 +317,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 12 lessons
   - **Modules:** 6 modules
-  - **Enrollments:** 1,010 enrollments
+  - **Enrollments:** 1,009 enrollments
   - **Rating:** 5.0 ★ ( 10 )
   Paid
   View course
@@ -329,7 +329,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 173 lessons
   - **Modules:** 26 modules
-  - **Enrollments:** 819 enrollments
+  - **Enrollments:** 821 enrollments
   - **Rating:** 4.5 ★ ( 17 )
   Paid
   View course
@@ -348,7 +348,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 38 lessons
   - **Modules:** 16 modules
-  - **Enrollments:** 13,430 enrollments
+  - **Enrollments:** 13,427 enrollments
   - **Rating:** 5.0 ★ ( 10 )
   Paid
   View course
@@ -386,7 +386,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 34 lessons
   - **Modules:** 9 modules
-  - **Enrollments:** 19,468 enrollments
+  - **Enrollments:** 19,467 enrollments
   - **Rating:** 4.9 ★ ( 32 )
   Paid
   View course
@@ -424,7 +424,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 31 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 6,451 enrollments
+  - **Enrollments:** 6,454 enrollments
   - **Rating:** 4.9 ★ ( 477 )
   Free
   View course
@@ -462,7 +462,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 55 lessons
   - **Modules:** 22 modules
-  - **Enrollments:** 1,236 enrollments
+  - **Enrollments:** 1,238 enrollments
   - **Rating:** 4.5 ★ ( 16 )
   Paid
   View course
@@ -473,7 +473,7 @@ About the author
 
 **Knowledge collected during the journey and shared.** What began as an independent IT education project on the **Stepik platform** has grown into a broader practice: turning field experience into practical learning. The catalog covers **programming, software development, data analysis, and related areas of information technology**, combining structured courses, interactive exercises, and hands-on training.
 
-These courses are designed to turn theoretical knowledge into **practical skills through hands-on learning and interactive tasks**. The project has reached **74,296 enrollments** across its **26 published courses** on Stepik, backed by **1,383 learner reviews** — an established independent educational project with a growing international audience.
+These courses are designed to turn theoretical knowledge into **practical skills through hands-on learning and interactive tasks**. The project has reached **74,418 enrollments** across its **26 published courses** on Stepik, backed by **1,385 learner reviews** — an established independent educational project with a growing international audience.
 
 In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of the Year” category** for the project, recognizing its development and achievements on the platform. The courses also regularly appear among **Stepik’s best-selling and fastest-growing courses**, reflecting their continued reach and engagement among learners.
 
@@ -483,11 +483,11 @@ In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of th
 
 [stepstat.ru ↗](https://stepstat.ru/)
 
-- **Learners:** +1,463
-- **Followers:** +891
-- **Certificates:** +395
-- **Reviews:** +43
-- **Reputation:** +56,697
+- **Learners:** +1,507
+- **Followers:** +947
+- **Certificates:** +368
+- **Reviews:** +44
+- **Reputation:** +59,282
 - **Courses:** 0
 - **Lessons:** +4
 - **Rating:** +0.002

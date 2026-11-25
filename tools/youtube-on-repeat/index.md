@@ -68,12 +68,8 @@ The video URL and your loop settings stay in this browser. Recent-video history,
   Generate favicons and app icons in your browser from text or an image. Export PNGs, a multi-resolution ICO, ZIP, manifest, and HTML tags. Nothing is uploaded.
 
   - privacy
-- **[Image Cropper](https://sergeyromanenko.com/tools/image-cropper/)**
-  Crop images in your browser. Choose freeform or fixed aspect ratios, rotate and flip, zoom, preview, and download the result. Nothing is uploaded.
-
-  - privacy
-- **[Image Resizer](https://sergeyromanenko.com/tools/image-resizer/)**
-  Resize images in your browser by pixels or percentage, with aspect-ratio lock and high-quality resampling. Preview and download the result. Nothing is uploaded.
+- **[QR Code Generator](https://sergeyromanenko.com/tools/qr-code-generator/)**
+  Create custom QR codes for URLs, text, Wi-Fi, contacts, email, phone numbers, locations, and more. Customize colors, styles, and logos, then download as PNG. Generate QR codes privately in your browser without third-party QR APIs.
 
   - privacy
 

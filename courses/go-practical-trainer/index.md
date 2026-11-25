@@ -96,7 +96,7 @@ School-level computer science and mathematics plus a basic working knowledge of 
 - **What language is “Practical Go Programming Trainer” taught in?:** “Practical Go Programming Trainer” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “Practical Go Programming Trainer”?:** “Practical Go Programming Trainer” contains 33 lessons in 18 modules. It is self-paced, so you study on your own schedule.
 - **Who created “Practical Go Programming Trainer”?:** “Practical Go Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “Practical Go Programming Trainer” give a certificate?:** Yes. Stepik has issued 46 certificates to learners who completed “Practical Go Programming Trainer”.
+- **Does “Practical Go Programming Trainer” give a certificate?:** Yes. Stepik has issued 47 certificates to learners who completed “Practical Go Programming Trainer”.
 - **How many learners have reviewed “Practical Go Programming Trainer”?:** “Practical Go Programming Trainer” has 13 reviews on Stepik, with an average rating of 4.7 out of 5.
 - **How do I enroll in “Practical Go Programming Trainer”?:** Enrollment and payment for “Practical Go Programming Trainer” happen on Stepik: open https://stepik.org/a/175966/ and start there.
 
@@ -110,7 +110,7 @@ Course facts
 - **Modules:** 18
 - **Enrollments:** 773
 - **Reviews:** 13
-- **Certificates issued:** 46
+- **Certificates issued:** 47
 - **Author:** Sergey Romanenko
 - **Rating:** 4.7 / 5
 

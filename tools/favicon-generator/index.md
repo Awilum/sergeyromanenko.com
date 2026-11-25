@@ -60,24 +60,16 @@ Very large images may be constrained by browser memory. Canvas-based processing 
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related also offline
+## Related also privacy
 
-- **[Image Cropper](https://sergeyromanenko.com/tools/image-cropper/)**
-  Crop images in your browser. Choose freeform or fixed aspect ratios, rotate and flip, zoom, preview, and download the result. Nothing is uploaded.
-
-  - image
-  - offline
-  - privacy
-- **[Image Resizer](https://sergeyromanenko.com/tools/image-resizer/)**
-  Resize images in your browser by pixels or percentage, with aspect-ratio lock and high-quality resampling. Preview and download the result. Nothing is uploaded.
-
-  - image
-  - offline
-  - privacy
 - **[QR Code Generator](https://sergeyromanenko.com/tools/qr-code-generator/)**
   Create custom QR codes for URLs, text, Wi-Fi, contacts, email, phone numbers, locations, and more. Customize colors, styles, and logos, then download as PNG. Generate QR codes privately in your browser without third-party QR APIs.
 
   - offline
+  - privacy
+- **[YouTube on Repeat](https://sergeyromanenko.com/tools/youtube-on-repeat/)**
+  Paste a YouTube URL and loop the whole video or a precise A–B section, with playback-speed control and keyboard shortcuts. Runs entirely in your browser.
+
   - privacy
 
 ## Tags

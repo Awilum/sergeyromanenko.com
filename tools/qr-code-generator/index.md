@@ -70,22 +70,16 @@ Scannability depends on the receiving device and the printed size. A logo can ob
 - **Runs in:** Web
 - **Year:** 2026
 
-## Related also offline
+## Related also privacy
 
 - **[Favicon Generator](https://sergeyromanenko.com/tools/favicon-generator/)**
   Generate favicons and app icons in your browser from text or an image. Export PNGs, a multi-resolution ICO, ZIP, manifest, and HTML tags. Nothing is uploaded.
 
   - offline
   - privacy
-- **[Image Cropper](https://sergeyromanenko.com/tools/image-cropper/)**
-  Crop images in your browser. Choose freeform or fixed aspect ratios, rotate and flip, zoom, preview, and download the result. Nothing is uploaded.
+- **[YouTube on Repeat](https://sergeyromanenko.com/tools/youtube-on-repeat/)**
+  Paste a YouTube URL and loop the whole video or a precise A–B section, with playback-speed control and keyboard shortcuts. Runs entirely in your browser.
 
-  - offline
-  - privacy
-- **[Image Resizer](https://sergeyromanenko.com/tools/image-resizer/)**
-  Resize images in your browser by pixels or percentage, with aspect-ratio lock and high-quality resampling. Preview and download the result. Nothing is uploaded.
-
-  - offline
   - privacy
 
 ## Tags

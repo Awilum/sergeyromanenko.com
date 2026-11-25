@@ -15,11 +15,11 @@ robots: "index, follow"
 
 The complete structure of the site, shown as a tree of folders and pages. Every entry is a direct link, and the tree is generated from the same content the XML sitemap lists.
 
-104 internal pages
+102 internal pages
 
 31 external links
 
-Total: 135
+Total: 133
 
 How to use
 
@@ -107,8 +107,6 @@ For crawlers there is also the [XML sitemap](https://sergeyromanenko.com/sitemap
     - [Favicon Generator](https://sergeyromanenko.com/tools/favicon-generator/) — Generate favicons and app icons in your browser from text or an image. Export PNGs, a multi-resolution ICO, ZIP, manifest, and HTML tags. Nothing is uploaded.
     - [Find and Replace](https://sergeyromanenko.com/tools/find-and-replace/) — Find and replace text with optional regular expressions, case and whole-word matching, match counting and safe capture-group substitution.
     - [HTTP Status Codes](https://sergeyromanenko.com/tools/http-status-codes/) — A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
-    - [Image Cropper](https://sergeyromanenko.com/tools/image-cropper/) — Crop images in your browser. Choose freeform or fixed aspect ratios, rotate and flip, zoom, preview, and download the result. Nothing is uploaded.
-    - [Image Resizer](https://sergeyromanenko.com/tools/image-resizer/) — Resize images in your browser by pixels or percentage, with aspect-ratio lock and high-quality resampling. Preview and download the result. Nothing is uploaded.
     - [JSON Formatter](https://sergeyromanenko.com/tools/json-formatter/) — Validate, format and minify JSON in your browser, with syntax errors reported as a line and a column you can find.
     - [JSON YAML Converter](https://sergeyromanenko.com/tools/json-yaml-converter/) — Convert JSON to YAML and YAML to JSON in your browser, with configurable indentation and errors that say where to look.
     - [List Processor](https://sergeyromanenko.com/tools/list-processor/) — Sort, deduplicate, filter and compare a list of items — alphabetically, naturally, by length, numerically, and against a second list.

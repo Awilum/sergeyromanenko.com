@@ -1,7 +1,7 @@
 ---
 title: "A life spent exploring through the code, cameras and the road."
 seo_title: "About — Sergey Romanenko"
-description: "Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,296 enrollments, open-source software, books and practical tools."
+description: "Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,418 enrollments, open-source software, books and practical tools."
 canonical_url: "https://sergeyromanenko.com/about/"
 markdown_url: "https://sergeyromanenko.com/about/index.md"
 section: "About"
@@ -63,11 +63,11 @@ Stepik
 
 ## Practical education at scale.
 
-74,296
+74,418
 
 Course enrollments
 
-1,383
+1,385
 
 Course reviews
 
@@ -79,7 +79,7 @@ Published courses
 
 Lessons
 
-Source: [Stepik Stats](https://stepstat.ru/user/561566563) · Snapshot: November 22, 2026 · Entire author catalog. Enrollment counts are enrollments, not unique learners. [The full Stepik project →](https://sergeyromanenko.com/about/stepik/)
+Source: [Stepik Stats](https://stepstat.ru/user/561566563) · Snapshot: November 25, 2026 · Entire author catalog. Enrollment counts are enrollments, not unique learners. [The full Stepik project →](https://sergeyromanenko.com/about/stepik/)
 
 Recognition
 
@@ -87,11 +87,11 @@ Recognition
 
 Educational work measured by an independent statistics service built on the Stepik API. The ranking reflects reputation accumulated across the whole author catalog.
 
-No. 24
+No. 25
 
 Stepik Stats author reputation ranking
 
-Ranked No. 24 in the [Stepik Stats author reputation ranking](https://stepstat.ru/authors) (as of November 22, 2026).
+Ranked No. 25 in the [Stepik Stats author reputation ranking](https://stepstat.ru/authors) (as of November 25, 2026).
 
 Stepik Awards 2023
 
@@ -258,11 +258,11 @@ Russian
 
 A free beginner’s book on Markdown — the markup language behind most of what you read on the web, from headings and emphasis to tables and links.
 
-★ 42
+★ 44
 
 2 releases
 
-759 release downloads
+764 release downloads
 
 [Awilum/markdown ↗](https://github.com/Awilum/markdown)
 
@@ -282,7 +282,7 @@ A free beginner’s book on SQL and how relational databases actually work — r
 
 5 releases
 
-1,571 release downloads
+1,608 release downloads
 
 [Awilum/sql-introduction ↗](https://github.com/Awilum/sql-introduction)
 

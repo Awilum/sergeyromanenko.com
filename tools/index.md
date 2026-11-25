@@ -1,7 +1,7 @@
 ---
 title: "Tools I Built Along the Way."
 seo_title: "TOOLS — Sergey Romanenko"
-description: "Practical tools built during the journey — things I needed, could not find, built, and shared. They run in your browser, they are free, and none of them asks for an account. 42 tools, all running in the browser, all in one place."
+description: "Practical tools built during the journey — things I needed, could not find, built, and shared. They run in your browser, they are free, and none of them asks for an account. 40 tools, all running in the browser, all in one place."
 canonical_url: "https://sergeyromanenko.com/tools/"
 markdown_url: "https://sergeyromanenko.com/tools/index.md"
 section: "Tools"
@@ -13,13 +13,13 @@ robots: "index, follow"
 
 # Tools I Built Along the Way.
 
-42 tools · 102 tags · No account, no tracking
+40 tools · 99 tags · No account, no tracking
 
 A collection of browser-based tools shaped by years of studying, working, and building projects. I created them to solve everyday problems I encountered along the way, and made them available for everyone to use — free, with no account required.
 
 ## All tools
 
-42 tools
+40 tools
 
 - **[Brainfuck Editor](https://sergeyromanenko.com/tools/brainfuck-editor/)**
   Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
@@ -149,18 +149,6 @@ A collection of browser-based tools shaped by years of studying, working, and bu
   status codes
   api
   +3 more
-- **[Image Cropper](https://sergeyromanenko.com/tools/image-cropper/)**
-  Crop images in your browser. Choose freeform or fixed aspect ratios, rotate and flip, zoom, preview, and download the result. Nothing is uploaded.
-  image
-  crop
-  photo
-  +2 more
-- **[Image Resizer](https://sergeyromanenko.com/tools/image-resizer/)**
-  Resize images in your browser by pixels or percentage, with aspect-ratio lock and high-quality resampling. Preview and download the result. Nothing is uploaded.
-  image
-  resize
-  photo
-  +2 more
 - **[JSON Formatter](https://sergeyromanenko.com/tools/json-formatter/)**
   Validate, format and minify JSON in your browser, with syntax errors reported as a line and a column you can find.
   json
@@ -259,7 +247,7 @@ Privacy & Security
 
 ### Your Data Stays on Your Device
 
-Every one of the 42 tools runs in your browser. No installs, no accounts, no tracking. Two make documented external requests.
+Every one of the 40 tools runs in your browser. No installs, no accounts, no tracking. Two make documented external requests.
 
 [Read details](https://sergeyromanenko.com/privacy-policy/)
 

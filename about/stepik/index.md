@@ -21,7 +21,7 @@ exercises and practical programming trainers. What started as a single SQL cours
 developed into a broad educational project covering SQL, JavaScript, Python, Java, C#, Go,
 Kotlin, PHP and Markdown.
 
-Online education · 2023–present · Independent course author 26 published courses · 1,548 lessons · 74,296 enrollments · Snapshot: November 22, 2026
+Online education · 2023–present · Independent course author 26 published courses · 1,548 lessons · 74,418 enrollments · Snapshot: November 25, 2026
 
 02 · How it started
 
@@ -34,7 +34,7 @@ I gradually expanded the project, developing new courses, refining existing mate
 - **First published course:** SQL Introduction (English) · 2023
 - **Role:** Independent course author
 - **Format:** Text-based courses with practical assignments
-- **Today:** 26 published courses · snapshot November 22, 2026
+- **Today:** 26 published courses · snapshot November 25, 2026
 
 03 · The project today
 
@@ -42,7 +42,7 @@ I gradually expanded the project, developing new courses, refining existing mate
 
 Course enrollments across the whole catalog
 
-74,296
+74,418
 
 This is the number of enrollments reported by the profile, not a count of unique learners — someone enrolled in several courses is counted once per course.
 
@@ -50,13 +50,13 @@ This is the number of enrollments reported by the profile, not a count of unique
 - **Lessons:** 1,548
 - **Quizzes:** 3,418
 - **Programming tasks:** 4,550
-- **Certificates issued:** 7,074
-- **Followers:** 58,572
-- **Received reviews:** 1,393
-- **Reputation:** 3,033,772
+- **Certificates issued:** 7,100
+- **Followers:** 58,656
+- **Received reviews:** 1,395
+- **Reputation:** 3,038,356
 - **Average rating:** 4.86 / 5
 
-Source: [Stepik Stats profile](https://stepstat.ru/user/561566563) · Snapshot: November 22, 2026. Course and lesson counts include the whole catalog.
+Source: [Stepik Stats profile](https://stepstat.ru/user/561566563) · Snapshot: November 25, 2026. Course and lesson counts include the whole catalog.
 
 04 · Recognition
 
@@ -64,11 +64,11 @@ Source: [Stepik Stats profile](https://stepstat.ru/user/561566563) · Snapshot: 
 
 The ranking reflects reputation accumulated across the whole author catalog, not the rating of any individual course. It is measured by an independent statistics service built on the Stepik API.
 
-No. 24
+No. 25
 
 Stepik Stats author reputation ranking
 
-Ranked No. 24 in the [Stepik Stats author reputation ranking](https://stepstat.ru/authors) (as of November 22, 2026).
+Ranked No. 25 in the [Stepik Stats author reputation ranking](https://stepstat.ru/authors) (as of November 25, 2026).
 
 Stepik Awards 2023
 
@@ -130,10 +130,10 @@ Learning programming means writing and solving code, not simply reading about it
 
 A central part of the project is a family of programming trainers covering JavaScript, Python, Java, C#, Go, Kotlin, PHP and SQL. Students solve actual programming problems: they write and submit their own solutions, work with algorithms and programming logic, practice classical problems, and practise tasks commonly encountered in technical interviews and inspired by competitive programming and programming olympiads. Answers are checked automatically where the course supports it, so feedback is immediate.
 
-- JavaScript [Practical JavaScript Programming Trainer](https://sergeyromanenko.com/courses/javascript-practical-trainer/) 893 enrollments
-- Python [Practical Python Programming Trainer](https://sergeyromanenko.com/courses/python-practical-trainer/) 1,236 enrollments
-- Java [Practical Java Programming Trainer](https://sergeyromanenko.com/courses/java-practical-trainer/) 19,468 enrollments
-- C# [Practical C# Programming Trainer](https://sergeyromanenko.com/courses/csharp-practical-trainer/) 13,430 enrollments
+- JavaScript [Practical JavaScript Programming Trainer](https://sergeyromanenko.com/courses/javascript-practical-trainer/) 894 enrollments
+- Python [Practical Python Programming Trainer](https://sergeyromanenko.com/courses/python-practical-trainer/) 1,238 enrollments
+- Java [Practical Java Programming Trainer](https://sergeyromanenko.com/courses/java-practical-trainer/) 19,467 enrollments
+- C# [Practical C# Programming Trainer](https://sergeyromanenko.com/courses/csharp-practical-trainer/) 13,427 enrollments
 - Go [Practical Go Programming Trainer](https://sergeyromanenko.com/courses/go-practical-trainer/) 773 enrollments
 - Kotlin [Practical Kotlin Programming Trainer](https://sergeyromanenko.com/courses/kotlin-practical-trainer/) 256 enrollments
 - PHP [Practical PHP Code Reading Trainer](https://sergeyromanenko.com/courses/php-practical-trainer/) 237 enrollments
