@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Test your memory with this classic card matching game. Multiple difficulties, themes, and game modes. Play offline on flights, trains, and during travel.
 
-[Play now](https://app.sergeyromanenko.com/apps/memory-game/)
+[Play now](https://app.sergeyromanenko.com/memory-game/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

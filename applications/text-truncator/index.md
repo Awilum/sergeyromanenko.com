@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Shorten text to a limit in characters, words, sentences, lines or paragraphs — cutting at a word boundary and counting the suffix inside the limit.
 
-[Open application](https://app.sergeyromanenko.com/apps/text-truncator/)
+[Open application](https://app.sergeyromanenko.com/text-truncator/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

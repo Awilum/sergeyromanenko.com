@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Convert XML documents to JSON in your browser, with a documented mapping for attributes, repeated elements and mixed content.
 
-[Open application](https://app.sergeyromanenko.com/apps/xml-to-json/)
+[Open application](https://app.sergeyromanenko.com/xml-to-json/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
 
-[Open application](https://app.sergeyromanenko.com/apps/http-status-codes/)
+[Open application](https://app.sergeyromanenko.com/http-status-codes/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

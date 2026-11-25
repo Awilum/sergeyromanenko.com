@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Paste a YouTube URL and loop the whole video or a precise A–B section, with playback-speed control and keyboard shortcuts. Runs entirely in your browser.
 
-[Open application](https://app.sergeyromanenko.com/apps/youtube-on-repeat/)
+[Open application](https://app.sergeyromanenko.com/youtube-on-repeat/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

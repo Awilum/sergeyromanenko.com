@@ -18,7 +18,7 @@ robots: "index, follow"
 
 The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
 
-[Play now](https://app.sergeyromanenko.com/apps/dots-and-boxes/)
+[Play now](https://app.sergeyromanenko.com/dots-and-boxes/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

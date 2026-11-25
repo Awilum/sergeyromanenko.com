@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
 
-[Open application](https://app.sergeyromanenko.com/apps/binary-converter/)
+[Open application](https://app.sergeyromanenko.com/binary-converter/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Add line numbers, wrap text at a column, add prefixes and suffixes, indent, and turn lines into a bulleted or numbered list.
 
-[Open application](https://app.sergeyromanenko.com/apps/text-formatter/)
+[Open application](https://app.sergeyromanenko.com/text-formatter/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

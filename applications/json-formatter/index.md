@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Validate, format and minify JSON in your browser, with syntax errors reported as a line and a column you can find.
 
-[Open application](https://app.sergeyromanenko.com/apps/json-formatter/)
+[Open application](https://app.sergeyromanenko.com/json-formatter/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

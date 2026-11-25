@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Play Tic-Tac-Toe against an optimal computer opponent or challenge a friend on the same device. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
 
-[Play now](https://app.sergeyromanenko.com/apps/tic-tac-toe/)
+[Play now](https://app.sergeyromanenko.com/tic-tac-toe/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

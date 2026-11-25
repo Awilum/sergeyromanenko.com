@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Play Rock Paper Scissors against the computer. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
 
-[Play now](https://app.sergeyromanenko.com/apps/rock-paper-scissors/)
+[Play now](https://app.sergeyromanenko.com/rock-paper-scissors/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

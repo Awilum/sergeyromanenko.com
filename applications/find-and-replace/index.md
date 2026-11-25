@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Find and replace text with optional regular expressions, case and whole-word matching, match counting and safe capture-group substitution.
 
-[Open application](https://app.sergeyromanenko.com/apps/find-and-replace/)
+[Open application](https://app.sergeyromanenko.com/find-and-replace/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

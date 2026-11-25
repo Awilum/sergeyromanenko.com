@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Sort, deduplicate, filter and compare a list of items — alphabetically, naturally, by length, numerically, and against a second list.
 
-[Open application](https://app.sergeyromanenko.com/apps/list-processor/)
+[Open application](https://app.sergeyromanenko.com/list-processor/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

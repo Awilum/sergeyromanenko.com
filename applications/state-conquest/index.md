@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A turn-based territory-conquest strategy game. Command garrisons, capture strongholds, and eliminate rival commanders across tactical theaters.
 
-[Play now](https://app.sergeyromanenko.com/apps/state-conquest/)
+[Play now](https://app.sergeyromanenko.com/state-conquest/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

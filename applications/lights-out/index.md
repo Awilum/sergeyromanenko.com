@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
 
-[Play now](https://app.sergeyromanenko.com/apps/lights-out/)
+[Play now](https://app.sergeyromanenko.com/lights-out/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

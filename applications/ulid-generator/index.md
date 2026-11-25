@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Generate universally unique lexicographically sortable identifiers in your browser, with the count you need.
 
-[Open application](https://app.sergeyromanenko.com/apps/ulid-generator/)
+[Open application](https://app.sergeyromanenko.com/ulid-generator/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

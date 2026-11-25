@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Solve the classic Tower of Hanoi puzzle. Move disks between three pegs following the rules. Multiple difficulty levels, move counter, optimal solution tracker, hints, and step-by-step solution mode.
 
-[Play now](https://app.sergeyromanenko.com/apps/tower-of-hanoi/)
+[Play now](https://app.sergeyromanenko.com/tower-of-hanoi/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

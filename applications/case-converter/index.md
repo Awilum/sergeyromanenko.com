@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
 
-[Open application](https://app.sergeyromanenko.com/apps/case-converter/)
+[Open application](https://app.sergeyromanenko.com/case-converter/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

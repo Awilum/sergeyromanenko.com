@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Calculate a percentage of a number, what percentage one number is of another, percentage change, adding or subtracting a percentage, and percentage difference.
 
-[Open application](https://app.sergeyromanenko.com/apps/percentage-calculator/)
+[Open application](https://app.sergeyromanenko.com/percentage-calculator/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

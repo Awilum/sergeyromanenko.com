@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Watch the colored pads light up in a growing sequence, then repeat it exactly. Each round adds one more step. One wrong tap ends the game. Sounds, mute, and local best scores.
 
-[Play now](https://app.sergeyromanenko.com/apps/simon/)
+[Play now](https://app.sergeyromanenko.com/simon/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

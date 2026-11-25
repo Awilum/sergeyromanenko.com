@@ -46,62 +46,62 @@ Word counting, case conversion, cleanup, diffing, splitting, and Markdown editin
   markdown · writing · editing
   ### [Markdown Editor](https://sergeyromanenko.com/applications/markdown-editor/)
   Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
-  [Launch →](https://app.sergeyromanenko.com/apps/markdown-editor/)
+  [Launch →](https://app.sergeyromanenko.com/markdown-editor/)
 - Tool
   writing · word count · reading time
   ### [Text Analyzer](https://sergeyromanenko.com/applications/text-analyzer/)
   Measure words, characters, sentences, paragraphs, reading time, page count, word frequency and repeated phrases — computed entirely in your browser.
-  [Launch →](https://app.sergeyromanenko.com/apps/text-analyzer/)
+  [Launch →](https://app.sergeyromanenko.com/text-analyzer/)
 - Tool
   writing · text formatting · code
   ### [Case Converter](https://sergeyromanenko.com/applications/case-converter/)
   Convert text to uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case and eleven more formats at once.
-  [Launch →](https://app.sergeyromanenko.com/apps/case-converter/)
+  [Launch →](https://app.sergeyromanenko.com/case-converter/)
 - Tool
   writing · cleanup · text formatting
   ### [Text Cleaner](https://sergeyromanenko.com/applications/text-cleaner/)
   Clean text pasted from a web page, PDF or spreadsheet — collapse whitespace, fix line endings, find invisible characters and strip HTML.
-  [Launch →](https://app.sergeyromanenko.com/apps/text-cleaner/)
+  [Launch →](https://app.sergeyromanenko.com/text-cleaner/)
 - Tool
   writing · lists · text formatting
   ### [Text Formatter](https://sergeyromanenko.com/applications/text-formatter/)
   Add line numbers, wrap text at a column, add prefixes and suffixes, indent, and turn lines into a bulleted or numbered list.
-  [Launch →](https://app.sergeyromanenko.com/apps/text-formatter/)
+  [Launch →](https://app.sergeyromanenko.com/text-formatter/)
 - Tool
   lists · data cleanup · code
   ### [List Processor](https://sergeyromanenko.com/applications/list-processor/)
   Sort, deduplicate, filter and compare a list of items — alphabetically, naturally, by length, numerically, and against a second list.
-  [Launch →](https://app.sergeyromanenko.com/apps/list-processor/)
+  [Launch →](https://app.sergeyromanenko.com/list-processor/)
 - Tool
   lists · writing · text formatting
   ### [Text Splitter & Joiner](https://sergeyromanenko.com/applications/text-splitter/)
   Split text into lines, paragraphs, sentences, batches of characters or words, or a fixed number of parts — then join it back together.
-  [Launch →](https://app.sergeyromanenko.com/apps/text-splitter/)
+  [Launch →](https://app.sergeyromanenko.com/text-splitter/)
 - Tool
   writing · text formatting · code
   ### [Find and Replace](https://sergeyromanenko.com/applications/find-and-replace/)
   Find and replace text with optional regular expressions, case and whole-word matching, match counting and safe capture-group substitution.
-  [Launch →](https://app.sergeyromanenko.com/apps/find-and-replace/)
+  [Launch →](https://app.sergeyromanenko.com/find-and-replace/)
 - Tool
   code · comparison · writing
   ### [Text Diff](https://sergeyromanenko.com/applications/text-diff/)
   Compare two texts line by line or word by word, with an accurate diff, ignore options, and differences marked by sign, tint and word.
-  [Launch →](https://app.sergeyromanenko.com/apps/text-diff/)
+  [Launch →](https://app.sergeyromanenko.com/text-diff/)
 - Tool
   writing · limits · social media
   ### [Text Truncator](https://sergeyromanenko.com/applications/text-truncator/)
   Shorten text to a limit in characters, words, sentences, lines or paragraphs — cutting at a word boundary and counting the suffix inside the limit.
-  [Launch →](https://app.sergeyromanenko.com/apps/text-truncator/)
+  [Launch →](https://app.sergeyromanenko.com/text-truncator/)
 - Tool
   design · placeholders · writing
   ### [Placeholder Text Generator](https://sergeyromanenko.com/applications/lorem-ipsum/)
   Generate placeholder text by paragraph, sentence or word count, with or without the traditional opening, and repeatably when you need the same text twice.
-  [Launch →](https://app.sergeyromanenko.com/apps/lorem-ipsum/)
+  [Launch →](https://app.sergeyromanenko.com/lorem-ipsum/)
 - Tool
   writing · emoji · social media
   ### [Emoji Picker](https://sergeyromanenko.com/applications/emoji-picker/)
   Search and copy emoji from a set bundled with the page — no API call, no tracking, and the picker keeps working offline once the page has loaded.
-  [Launch →](https://app.sergeyromanenko.com/apps/emoji-picker/)
+  [Launch →](https://app.sergeyromanenko.com/emoji-picker/)
 
 02
 
@@ -115,37 +115,37 @@ Browser-based editors, interpreters, diagramming, SQL, and HTTP references.
   code · editing · editor
   ### [Code Editor](https://sergeyromanenko.com/applications/code-editor/)
   Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
-  [Launch →](https://app.sergeyromanenko.com/apps/code-editor/)
+  [Launch →](https://app.sergeyromanenko.com/code-editor/)
 - Tool
   sql · databases · editing
   ### [SQL Editor](https://sergeyromanenko.com/applications/sql-editor/)
   Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
-  [Launch →](https://app.sergeyromanenko.com/apps/sql-editor/)
+  [Launch →](https://app.sergeyromanenko.com/sql-editor/)
 - Tool
   diagrams · writing · code
   ### [Mermaid Diagram Editor](https://sergeyromanenko.com/applications/mermaid-diagram-editor/)
   Write Mermaid source, watch it render as a live diagram, and download it as a PNG file, all in your browser.
-  [Launch →](https://app.sergeyromanenko.com/apps/mermaid-diagram-editor/)
+  [Launch →](https://app.sergeyromanenko.com/mermaid-diagram-editor/)
 - Tool
   lua · programming · code editor
   ### [Lua Editor](https://sergeyromanenko.com/applications/lua-editor/)
   Write and run Lua 5.4 programs directly in your browser using WebAssembly. Features a full code editor with syntax highlighting, interactive stdin/stdout console, 15+ built-in examples, local snippet persistence, and execution limits for safety. No server, no account, nothing uploaded.
-  [Launch →](https://app.sergeyromanenko.com/apps/lua-editor/)
+  [Launch →](https://app.sergeyromanenko.com/lua-editor/)
 - Tool
   pseudocode · cambridge · 9618
   ### [Pseudocode Editor](https://sergeyromanenko.com/applications/pseudocode-editor/)
   Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
-  [Launch →](https://app.sergeyromanenko.com/apps/pseudocode-editor/)
+  [Launch →](https://app.sergeyromanenko.com/pseudocode-editor/)
 - Tool
   brainfuck · esoteric · programming
   ### [Brainfuck Editor](https://sergeyromanenko.com/applications/brainfuck-editor/)
   Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
-  [Launch →](https://app.sergeyromanenko.com/apps/brainfuck-editor/)
+  [Launch →](https://app.sergeyromanenko.com/brainfuck-editor/)
 - Tool
   http · status codes · api
   ### [HTTP Status Codes](https://sergeyromanenko.com/applications/http-status-codes/)
   A searchable reference for every HTTP status code, with plain-English explanations, categories, and related-code links. Runs entirely in your browser.
-  [Launch →](https://app.sergeyromanenko.com/apps/http-status-codes/)
+  [Launch →](https://app.sergeyromanenko.com/http-status-codes/)
 
 03
 
@@ -159,32 +159,32 @@ Formatters, validators, and converters for JSON, YAML, XML, front matter, and bi
   json · formatter · validator
   ### [JSON Formatter](https://sergeyromanenko.com/applications/json-formatter/)
   Validate, format and minify JSON in your browser, with syntax errors reported as a line and a column you can find.
-  [Launch →](https://app.sergeyromanenko.com/apps/json-formatter/)
+  [Launch →](https://app.sergeyromanenko.com/json-formatter/)
 - Tool
   json · yaml · converter
   ### [JSON YAML Converter](https://sergeyromanenko.com/applications/json-yaml-converter/)
   Convert JSON to YAML and YAML to JSON in your browser, with configurable indentation and errors that say where to look.
-  [Launch →](https://app.sergeyromanenko.com/apps/json-yaml-converter/)
+  [Launch →](https://app.sergeyromanenko.com/json-yaml-converter/)
 - Tool
   yaml · formatter · validator
   ### [YAML Formatter](https://sergeyromanenko.com/applications/yaml-formatter/)
   Validate and format YAML in your browser, with parser errors reported as a line and a column you can find.
-  [Launch →](https://app.sergeyromanenko.com/apps/yaml-formatter/)
+  [Launch →](https://app.sergeyromanenko.com/yaml-formatter/)
 - Tool
   xml · json · converter
   ### [XML to JSON Converter](https://sergeyromanenko.com/applications/xml-to-json/)
   Convert XML documents to JSON in your browser, with a documented mapping for attributes, repeated elements and mixed content.
-  [Launch →](https://app.sergeyromanenko.com/apps/xml-to-json/)
+  [Launch →](https://app.sergeyromanenko.com/xml-to-json/)
 - Tool
   markdown · front matter · yaml
   ### [Front Matter Editor](https://sergeyromanenko.com/applications/front-matter-editor/)
   Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
-  [Launch →](https://app.sergeyromanenko.com/apps/front-matter-editor/)
+  [Launch →](https://app.sergeyromanenko.com/front-matter-editor/)
 - Tool
   binary · converters · number systems
   ### [Binary Converter](https://sergeyromanenko.com/applications/binary-converter/)
   Convert between binary, decimal, octal and hexadecimal; encode and decode text and Base64; and calculate with binary arithmetic, bitwise and shift operations in your browser.
-  [Launch →](https://app.sergeyromanenko.com/apps/binary-converter/)
+  [Launch →](https://app.sergeyromanenko.com/binary-converter/)
 
 04
 
@@ -198,27 +198,27 @@ Client-side encryption, hashing, random tokens, ULIDs, and classical ciphers.
   encryption · security · passwords
   ### [Encryption](https://sergeyromanenko.com/applications/encryption/)
   Encrypt and decrypt text in your browser with AES-256-GCM or the OpenSSL-compatible AES-256-CBC format.
-  [Launch →](https://app.sergeyromanenko.com/apps/encryption/)
+  [Launch →](https://app.sergeyromanenko.com/encryption/)
 - Tool
   hashing · security · checksums
   ### [Hash Text](https://sergeyromanenko.com/applications/hash-text/)
   Hash text with MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA3-512 or RIPEMD-160, entirely in your browser.
-  [Launch →](https://app.sergeyromanenko.com/apps/hash-text/)
+  [Launch →](https://app.sergeyromanenko.com/hash-text/)
 - Tool
   security · passwords · random
   ### [Token Generator](https://sergeyromanenko.com/applications/token-generator/)
   Generate cryptographically secure random tokens in your browser, with the length and the character sets you choose.
-  [Launch →](https://app.sergeyromanenko.com/apps/token-generator/)
+  [Launch →](https://app.sergeyromanenko.com/token-generator/)
 - Tool
   identifiers · security · databases
   ### [ULID Generator](https://sergeyromanenko.com/applications/ulid-generator/)
   Generate universally unique lexicographically sortable identifiers in your browser, with the count you need.
-  [Launch →](https://app.sergeyromanenko.com/apps/ulid-generator/)
+  [Launch →](https://app.sergeyromanenko.com/ulid-generator/)
 - Tool
   cipher · classical · cryptography
   ### [Cipher Toolkit](https://sergeyromanenko.com/applications/cipher-toolkit/)
   Fourteen classical ciphers in one place. Choose a cipher, set its key, and encrypt or decrypt text with the algorithm running entirely in your browser.
-  [Launch →](https://app.sergeyromanenko.com/apps/cipher-toolkit/)
+  [Launch →](https://app.sergeyromanenko.com/cipher-toolkit/)
 
 05
 
@@ -232,37 +232,37 @@ Time zones, world clocks, coordinates, units, speeds, and reference currencies.
   time zones · travel · cities
   ### [Time Difference Calculator](https://sergeyromanenko.com/applications/time-difference-calculator/)
   Compare local times, daylight, and time differences across the cities that matter wherever you travel.
-  [Launch →](https://app.sergeyromanenko.com/apps/time-difference-calculator/)
+  [Launch →](https://app.sergeyromanenko.com/time-difference-calculator/)
 - Tool
   time zones · cities · travel
   ### [The World Clock](https://sergeyromanenko.com/applications/world-clock/)
   A live clock for every city that matters to you — the current time, date, and daylight for your city and anywhere your people are, all at once.
-  [Launch →](https://app.sergeyromanenko.com/apps/world-clock/)
+  [Launch →](https://app.sergeyromanenko.com/world-clock/)
 - Tool
   travel · money · finance
   ### [Currency Converter](https://sergeyromanenko.com/applications/currency-converter/)
   Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
-  [Launch →](https://app.sergeyromanenko.com/apps/currency-converter/)
+  [Launch →](https://app.sergeyromanenko.com/currency-converter/)
 - Tool
   travel · measurement · conversion
   ### [Unit Converter](https://sergeyromanenko.com/applications/unit-converter/)
   Convert length, weight, temperature, volume, area, speed, fuel economy and data transfer rates between metric, US and Imperial units.
-  [Launch →](https://app.sergeyromanenko.com/apps/unit-converter/)
+  [Launch →](https://app.sergeyromanenko.com/unit-converter/)
 - Tool
   math · finance · travel
   ### [Percentage Calculator](https://sergeyromanenko.com/applications/percentage-calculator/)
   Calculate a percentage of a number, what percentage one number is of another, percentage change, adding or subtracting a percentage, and percentage difference.
-  [Launch →](https://app.sergeyromanenko.com/apps/percentage-calculator/)
+  [Launch →](https://app.sergeyromanenko.com/percentage-calculator/)
 - Tool
   travel · navigation · geography
   ### [GPS Coordinate Converter](https://sergeyromanenko.com/applications/gps-coordinate-converter/)
   Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
-  [Launch →](https://app.sergeyromanenko.com/apps/gps-coordinate-converter/)
+  [Launch →](https://app.sergeyromanenko.com/gps-coordinate-converter/)
 - Tool
   travel · math · physics
   ### [Speed, Distance, and Time Calculator](https://sergeyromanenko.com/applications/speed-distance-time-calculator/)
   Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
-  [Launch →](https://app.sergeyromanenko.com/apps/speed-distance-time-calculator/)
+  [Launch →](https://app.sergeyromanenko.com/speed-distance-time-calculator/)
 
 06
 
@@ -276,17 +276,17 @@ QR code generation, favicon packages, and focused video looping.
   qr · codes · offline
   ### [QR Code Generator](https://sergeyromanenko.com/applications/qr-code-generator/)
   Create custom QR codes for URLs, text, Wi-Fi, contacts, email, phone numbers, locations, and more. Customize colors, styles, and logos, then download as PNG. Generate QR codes privately in your browser without third-party QR APIs.
-  [Launch →](https://app.sergeyromanenko.com/apps/qr-code-generator/)
+  [Launch →](https://app.sergeyromanenko.com/qr-code-generator/)
 - Tool
   image · favicon · icon
   ### [Favicon Generator](https://sergeyromanenko.com/applications/favicon-generator/)
   Generate favicons and app icons in your browser from text or an image. Export PNGs, a multi-resolution ICO, ZIP, manifest, and HTML tags. Nothing is uploaded.
-  [Launch →](https://app.sergeyromanenko.com/apps/favicon-generator/)
+  [Launch →](https://app.sergeyromanenko.com/favicon-generator/)
 - Tool
   youtube · video · audio
   ### [YouTube on Repeat](https://sergeyromanenko.com/applications/youtube-on-repeat/)
   Paste a YouTube URL and loop the whole video or a precise A–B section, with playback-speed control and keyboard shortcuts. Runs entirely in your browser.
-  [Launch →](https://app.sergeyromanenko.com/apps/youtube-on-repeat/)
+  [Launch →](https://app.sergeyromanenko.com/youtube-on-repeat/)
 
 07
 
@@ -300,62 +300,62 @@ Lightweight offline-first logic, strategy, and memory games built for travel.
   games · puzzle · numbers
   ### [2048](https://sergeyromanenko.com/applications/2048/)
   Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
-  [Play →](https://app.sergeyromanenko.com/apps/2048/)
+  [Play →](https://app.sergeyromanenko.com/2048/)
 - Game
   games · strategy · classic
   ### [Battleships](https://sergeyromanenko.com/applications/battleships/)
   The classic fleet-hunting game, no-touch edition. Place five ships with a cell of water between each, trade shots with a probability-hunting computer opponent, and sink all seventeen enemy cells.
-  [Play →](https://app.sergeyromanenko.com/apps/battleships/)
+  [Play →](https://app.sergeyromanenko.com/battleships/)
 - Game
   games · strategy · classic
   ### [Catch the Cat](https://sergeyromanenko.com/applications/catch-the-cat/)
   The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
-  [Play →](https://app.sergeyromanenko.com/apps/catch-the-cat/)
+  [Play →](https://app.sergeyromanenko.com/catch-the-cat/)
 - Game
   games · strategy · classic
   ### [Dots and Boxes](https://sergeyromanenko.com/applications/dots-and-boxes/)
   The classic paper-and-pencil strategy game. Draw lines, complete boxes, earn extra turns, and outmaneuver the computer or a friend on boards up to 10×10.
-  [Play →](https://app.sergeyromanenko.com/apps/dots-and-boxes/)
+  [Play →](https://app.sergeyromanenko.com/dots-and-boxes/)
 - Game
   games · travel · entertainment
   ### [Lights Out](https://sergeyromanenko.com/applications/lights-out/)
   Turn every light off. Tap a light to toggle it and its four orthogonal neighbors. Random solvable puzzles, multiple board sizes, hints, undo, timer, and personal bests.
-  [Play →](https://app.sergeyromanenko.com/apps/lights-out/)
+  [Play →](https://app.sergeyromanenko.com/lights-out/)
 - Game
   games · travel · entertainment
   ### [Memory Game](https://sergeyromanenko.com/applications/memory-game/)
   Test your memory with this classic card matching game. Multiple difficulties, themes, and game modes. Play offline on flights, trains, and during travel.
-  [Play →](https://app.sergeyromanenko.com/apps/memory-game/)
+  [Play →](https://app.sergeyromanenko.com/memory-game/)
 - Game
   games · strategy · math
   ### [Nim](https://sergeyromanenko.com/applications/nim/)
   The classic mathematical strategy game. Take turns removing objects from heaps, master the XOR nim-sum, and challenge the Optimal computer opponent or a friend on your own device.
-  [Play →](https://app.sergeyromanenko.com/apps/nim/)
+  [Play →](https://app.sergeyromanenko.com/nim/)
 - Game
   games · travel · entertainment
   ### [Rock Paper Scissors](https://sergeyromanenko.com/applications/rock-paper-scissors/)
   Play Rock Paper Scissors against the computer. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
-  [Play →](https://app.sergeyromanenko.com/apps/rock-paper-scissors/)
+  [Play →](https://app.sergeyromanenko.com/rock-paper-scissors/)
 - Game
   games · travel · entertainment
   ### [Simon](https://sergeyromanenko.com/applications/simon/)
   Watch the colored pads light up in a growing sequence, then repeat it exactly. Each round adds one more step. One wrong tap ends the game. Sounds, mute, and local best scores.
-  [Play →](https://app.sergeyromanenko.com/apps/simon/)
+  [Play →](https://app.sergeyromanenko.com/simon/)
 - Game
   games · strategy · turn-based
   ### [State Conquest](https://sergeyromanenko.com/applications/state-conquest/)
   A turn-based territory-conquest strategy game. Command garrisons, capture strongholds, and eliminate rival commanders across tactical theaters.
-  [Play →](https://app.sergeyromanenko.com/apps/state-conquest/)
+  [Play →](https://app.sergeyromanenko.com/state-conquest/)
 - Game
   games · travel · entertainment
   ### [Tic-Tac-Toe](https://sergeyromanenko.com/applications/tic-tac-toe/)
   Play Tic-Tac-Toe against an optimal computer opponent or challenge a friend on the same device. A free, mobile-friendly browser game for quick breaks on trains, airplanes, and during travel.
-  [Play →](https://app.sergeyromanenko.com/apps/tic-tac-toe/)
+  [Play →](https://app.sergeyromanenko.com/tic-tac-toe/)
 - Game
   games · travel · entertainment
   ### [Tower of Hanoi](https://sergeyromanenko.com/applications/tower-of-hanoi/)
   Solve the classic Tower of Hanoi puzzle. Move disks between three pegs following the rules. Multiple difficulty levels, move counter, optimal solution tracker, hints, and step-by-step solution mode.
-  [Play →](https://app.sergeyromanenko.com/apps/tower-of-hanoi/)
+  [Play →](https://app.sergeyromanenko.com/tower-of-hanoi/)
 
 ## Browse by tag
 

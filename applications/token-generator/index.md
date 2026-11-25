@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Generate cryptographically secure random tokens in your browser, with the length and the character sets you choose.
 
-[Open application](https://app.sergeyromanenko.com/apps/token-generator/)
+[Open application](https://app.sergeyromanenko.com/token-generator/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

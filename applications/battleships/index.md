@@ -18,7 +18,7 @@ robots: "index, follow"
 
 The classic fleet-hunting game, no-touch edition. Place five ships with a cell of water between each, trade shots with a probability-hunting computer opponent, and sink all seventeen enemy cells.
 
-[Play now](https://app.sergeyromanenko.com/apps/battleships/)
+[Play now](https://app.sergeyromanenko.com/battleships/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

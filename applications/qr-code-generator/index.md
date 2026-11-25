@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Create custom QR codes for URLs, text, Wi-Fi, contacts, email, phone numbers, locations, and more. Customize colors, styles, and logos, then download as PNG. Generate QR codes privately in your browser without third-party QR APIs.
 
-[Open application](https://app.sergeyromanenko.com/apps/qr-code-generator/)
+[Open application](https://app.sergeyromanenko.com/qr-code-generator/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Extract, edit and convert the Front Matter metadata block at the top of a Markdown document, then rebuild the document around it.
 
-[Open application](https://app.sergeyromanenko.com/apps/front-matter-editor/)
+[Open application](https://app.sergeyromanenko.com/front-matter-editor/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

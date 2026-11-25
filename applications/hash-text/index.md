@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Hash text with MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA3-512 or RIPEMD-160, entirely in your browser.
 
-[Open application](https://app.sergeyromanenko.com/apps/hash-text/)
+[Open application](https://app.sergeyromanenko.com/hash-text/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

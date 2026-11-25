@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A live clock for every city that matters to you — the current time, date, and daylight for your city and anywhere your people are, all at once.
 
-[Open application](https://app.sergeyromanenko.com/apps/world-clock/)
+[Open application](https://app.sergeyromanenko.com/world-clock/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

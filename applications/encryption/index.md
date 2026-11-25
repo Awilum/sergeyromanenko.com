@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Encrypt and decrypt text in your browser with AES-256-GCM or the OpenSSL-compatible AES-256-CBC format.
 
-[Open application](https://app.sergeyromanenko.com/apps/encryption/)
+[Open application](https://app.sergeyromanenko.com/encryption/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

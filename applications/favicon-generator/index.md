@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Generate favicons and app icons in your browser from text or an image. Export PNGs, a multi-resolution ICO, ZIP, manifest, and HTML tags. Nothing is uploaded.
 
-[Open application](https://app.sergeyromanenko.com/apps/favicon-generator/)
+[Open application](https://app.sergeyromanenko.com/favicon-generator/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Clean text pasted from a web page, PDF or spreadsheet — collapse whitespace, fix line endings, find invisible characters and strip HTML.
 
-[Open application](https://app.sergeyromanenko.com/apps/text-cleaner/)
+[Open application](https://app.sergeyromanenko.com/text-cleaner/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

@@ -18,7 +18,7 @@ robots: "index, follow"
 
 The classic mathematical strategy game. Take turns removing objects from heaps, master the XOR nim-sum, and challenge the Optimal computer opponent or a friend on your own device.
 
-[Play now](https://app.sergeyromanenko.com/apps/nim/)
+[Play now](https://app.sergeyromanenko.com/nim/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

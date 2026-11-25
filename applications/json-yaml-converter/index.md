@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Convert JSON to YAML and YAML to JSON in your browser, with configurable indentation and errors that say where to look.
 
-[Open application](https://app.sergeyromanenko.com/apps/json-yaml-converter/)
+[Open application](https://app.sergeyromanenko.com/json-yaml-converter/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

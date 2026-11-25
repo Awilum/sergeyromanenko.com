@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Write a code snippet in the browser, highlight it in the language you pick, share it as a link that carries the code itself, and save it as a PNG image. Nothing is uploaded.
 
-[Open application](https://app.sergeyromanenko.com/apps/code-editor/)
+[Open application](https://app.sergeyromanenko.com/code-editor/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Validate and format YAML in your browser, with parser errors reported as a line and a column you can find.
 
-[Open application](https://app.sergeyromanenko.com/apps/yaml-formatter/)
+[Open application](https://app.sergeyromanenko.com/yaml-formatter/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

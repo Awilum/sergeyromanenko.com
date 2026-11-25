@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Write, run and inspect Cambridge 9618 pseudocode in your browser. Insert ready-made blocks, load 36 examples, and watch output and variables update.
 
-[Open application](https://app.sergeyromanenko.com/apps/pseudocode-editor/)
+[Open application](https://app.sergeyromanenko.com/pseudocode-editor/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

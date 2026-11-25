@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Fourteen classical ciphers in one place. Choose a cipher, set its key, and encrypt or decrypt text with the algorithm running entirely in your browser.
 
-[Open application](https://app.sergeyromanenko.com/apps/cipher-toolkit/)
+[Open application](https://app.sergeyromanenko.com/cipher-toolkit/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

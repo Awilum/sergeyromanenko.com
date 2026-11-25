@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Compare two texts line by line or word by word, with an accurate diff, ignore options, and differences marked by sign, tint and word.
 
-[Open application](https://app.sergeyromanenko.com/apps/text-diff/)
+[Open application](https://app.sergeyromanenko.com/text-diff/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

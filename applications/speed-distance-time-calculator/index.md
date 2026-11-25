@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
 
-[Open application](https://app.sergeyromanenko.com/apps/speed-distance-time-calculator/)
+[Open application](https://app.sergeyromanenko.com/speed-distance-time-calculator/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

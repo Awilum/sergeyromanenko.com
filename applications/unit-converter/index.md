@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Convert length, weight, temperature, volume, area, speed, fuel economy and data transfer rates between metric, US and Imperial units.
 
-[Open application](https://app.sergeyromanenko.com/apps/unit-converter/)
+[Open application](https://app.sergeyromanenko.com/unit-converter/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

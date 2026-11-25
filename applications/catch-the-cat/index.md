@@ -18,7 +18,7 @@ robots: "index, follow"
 
 The classic trapping puzzle. Place barriers on a hexagonal grid while the cat takes one step per turn toward the edge. Trap it before it escapes, on boards from 7×7 to 13×13.
 
-[Play now](https://app.sergeyromanenko.com/apps/catch-the-cat/)
+[Play now](https://app.sergeyromanenko.com/catch-the-cat/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

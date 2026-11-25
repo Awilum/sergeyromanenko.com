@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Slide numbered tiles on a 4x4 grid, merging equal tiles to reach 2048. A free, offline browser game with keyboard, mouse, and touch controls.
 
-[Play now](https://app.sergeyromanenko.com/apps/2048/)
+[Play now](https://app.sergeyromanenko.com/2048/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

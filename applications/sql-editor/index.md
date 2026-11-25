@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
 
-[Open application](https://app.sergeyromanenko.com/apps/sql-editor/)
+[Open application](https://app.sergeyromanenko.com/sql-editor/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

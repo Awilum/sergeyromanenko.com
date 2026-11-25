@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Compare local times, daylight, and time differences across the cities that matter wherever you travel.
 
-[Open application](https://app.sergeyromanenko.com/apps/time-difference-calculator/)
+[Open application](https://app.sergeyromanenko.com/time-difference-calculator/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

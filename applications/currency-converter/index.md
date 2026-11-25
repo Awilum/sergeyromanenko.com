@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Convert between currencies using reference exchange rates from a reputable public data source, with the rate and its date shown.
 
-[Open application](https://app.sergeyromanenko.com/apps/currency-converter/)
+[Open application](https://app.sergeyromanenko.com/currency-converter/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

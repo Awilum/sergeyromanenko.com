@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Generate placeholder text by paragraph, sentence or word count, with or without the traditional opening, and repeatably when you need the same text twice.
 
-[Open application](https://app.sergeyromanenko.com/apps/lorem-ipsum/)
+[Open application](https://app.sergeyromanenko.com/lorem-ipsum/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

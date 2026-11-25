@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Write and execute Brainfuck programs in the browser with an interactive editor, execution controls, and input/output handling. Brainfuck is an esoteric, minimalist programming language with only 8 commands that is Turing complete.
 
-[Open application](https://app.sergeyromanenko.com/apps/brainfuck-editor/)
+[Open application](https://app.sergeyromanenko.com/brainfuck-editor/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

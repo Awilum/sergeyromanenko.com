@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Write Mermaid source, watch it render as a live diagram, and download it as a PNG file, all in your browser.
 
-[Open application](https://app.sergeyromanenko.com/apps/mermaid-diagram-editor/)
+[Open application](https://app.sergeyromanenko.com/mermaid-diagram-editor/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

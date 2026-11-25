@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Write Markdown, preview beautifully rendered HTML in real time, and export high-quality PNG images with customizable scale, padding, backgrounds, and styling.
 
-[Open application](https://app.sergeyromanenko.com/apps/markdown-editor/)
+[Open application](https://app.sergeyromanenko.com/markdown-editor/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

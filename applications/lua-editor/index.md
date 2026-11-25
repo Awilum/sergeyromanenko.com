@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Write and run Lua 5.4 programs directly in your browser using WebAssembly. Features a full code editor with syntax highlighting, interactive stdin/stdout console, 15+ built-in examples, local snippet persistence, and execution limits for safety. No server, no account, nothing uploaded.
 
-[Open application](https://app.sergeyromanenko.com/apps/lua-editor/)
+[Open application](https://app.sergeyromanenko.com/lua-editor/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

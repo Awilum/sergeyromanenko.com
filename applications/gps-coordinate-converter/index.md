@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Convert GPS coordinates between decimal degrees, degrees and decimal minutes, and degrees, minutes and seconds, with validation of ranges.
 
-[Open application](https://app.sergeyromanenko.com/apps/gps-coordinate-converter/)
+[Open application](https://app.sergeyromanenko.com/gps-coordinate-converter/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

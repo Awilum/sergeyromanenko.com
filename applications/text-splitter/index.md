@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Split text into lines, paragraphs, sentences, batches of characters or words, or a fixed number of parts — then join it back together.
 
-[Open application](https://app.sergeyromanenko.com/apps/text-splitter/)
+[Open application](https://app.sergeyromanenko.com/text-splitter/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

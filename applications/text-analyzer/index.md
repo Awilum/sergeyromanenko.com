@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Measure words, characters, sentences, paragraphs, reading time, page count, word frequency and repeated phrases — computed entirely in your browser.
 
-[Open application](https://app.sergeyromanenko.com/apps/text-analyzer/)
+[Open application](https://app.sergeyromanenko.com/text-analyzer/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 

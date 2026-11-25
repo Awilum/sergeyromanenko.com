@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Search and copy emoji from a set bundled with the page — no API call, no tracking, and the picker keeps working offline once the page has loaded.
 
-[Open application](https://app.sergeyromanenko.com/apps/emoji-picker/)
+[Open application](https://app.sergeyromanenko.com/emoji-picker/)
 
 [Browse all in workspace](https://app.sergeyromanenko.com)
 
