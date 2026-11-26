@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Modern data analysis in SQL: window functions, offset functions, ranking functions, running calculations and complex in-query processing. A practical course in the analytical features that turn SQL into an analysis tool.
 
-Paid — 34 lessons — 532 enrollments — 22 reviews
+Paid — 34 lessons — 534 enrollments — 22 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/282146/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 34
-- **Enrollments:** 532
+- **Enrollments:** 534
 
 ## About this course
 
@@ -100,7 +100,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 34
 - **Modules:** 10
-- **Enrollments:** 532
+- **Enrollments:** 534
 - **Reviews:** 22
 - **Certificates issued:** 83
 - **Author:** Sergey Romanenko
@@ -110,7 +110,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL Window Functions is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 34 lessons, 532 enrollments, rated 4.9 out of 5 across 22 reviews and a paid course.
+SQL Window Functions is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 34 lessons, 534 enrollments, rated 4.9 out of 5 across 22 reviews and a paid course.
 
 ## More in SQL
 
@@ -120,7 +120,7 @@ Other courses on the same subject.
 
 [Course · Beginner SQL Introduction 30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · Beginner SQL Introduction (RU) 21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
+[Course · Beginner SQL Introduction (RU) 18 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
 [Course · Beginner Practical SQL Programming Trainer 26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 

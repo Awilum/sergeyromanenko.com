@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A practical C# trainer covering classic programming exercises and the kinds of tasks asked in interviews at leading companies. You build real fluency with variables, data types, operators, loops, functions and algorithms through repeated, graded practice.
 
-Paid — 38 lessons — 13,427 enrollments — 10 reviews
+Paid — 38 lessons — 13,427 enrollments — 11 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/201649/)
 
@@ -96,7 +96,7 @@ Basic computer science and mathematics, plus a basic working knowledge of C#. Be
 - **How much content is in “Practical C# Programming Trainer”?:** “Practical C# Programming Trainer” contains 38 lessons in 16 modules. It is self-paced, so you study on your own schedule.
 - **Who created “Practical C# Programming Trainer”?:** “Practical C# Programming Trainer” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Practical C# Programming Trainer” give a certificate?:** Yes. Stepik has issued 166 certificates to learners who completed “Practical C# Programming Trainer”.
-- **How many learners have reviewed “Practical C# Programming Trainer”?:** “Practical C# Programming Trainer” has 10 reviews on Stepik, with an average rating of 5.0 out of 5.
+- **How many learners have reviewed “Practical C# Programming Trainer”?:** “Practical C# Programming Trainer” has 11 reviews on Stepik, with an average rating of 5.0 out of 5.
 - **How do I enroll in “Practical C# Programming Trainer”?:** Enrollment and payment for “Practical C# Programming Trainer” happen on Stepik: open https://stepik.org/a/201649/ and start there.
 
 Course facts
@@ -108,7 +108,7 @@ Course facts
 - **Lessons:** 38
 - **Modules:** 16
 - **Enrollments:** 13,427
-- **Reviews:** 10
+- **Reviews:** 11
 - **Certificates issued:** 166
 - **Author:** Sergey Romanenko
 - **Rating:** 5.0 / 5
@@ -117,7 +117,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Practical C# Programming Trainer is an intermediate C# course, published on Stepik by Sergey Romanenko, taught in Russian, 38 lessons, 13,427 enrollments, rated 5.0 out of 5 across 10 reviews and a paid course.
+Practical C# Programming Trainer is an intermediate C# course, published on Stepik by Sergey Romanenko, taught in Russian, 38 lessons, 13,427 enrollments, rated 5.0 out of 5 across 11 reviews and a paid course.
 
 Next
 

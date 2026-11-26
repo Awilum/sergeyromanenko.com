@@ -11,7 +11,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Home
 
-- [Sergey Romanenko](https://sergeyromanenko.com/): Sergey Romanenko — explorer, photographer, creator and software engineer. Independent documentary photography, 26 programming courses on Stepik, open-source software, books and practical tools.
+- [Sergey Romanenko](https://sergeyromanenko.com/): Sergey Romanenko — explorer, photographer, creator and software engineer. Independent documentary photography, open-source software, books and practical tools.
   - [Markdown](https://sergeyromanenko.com/index.md)
 
 ## Photography
@@ -31,7 +31,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## Courses
 
-- [Teaching what took me years to work out.](https://sergeyromanenko.com/courses/): 26 Sergey Romanenko online courses with 74,418 enrollments — practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
+- [Teaching what took me years to work out.](https://sergeyromanenko.com/courses/): practical programming trainers, interview preparation and career programs for Java, JavaScript, SQL, Python and more. Enrollment on Stepik.
   - [Markdown](https://sergeyromanenko.com/courses/index.md)
 - [Data Engineer](https://sergeyromanenko.com/courses/data-engineer/): A complete path to becoming a data engineer from zero: Python and Git first, then SQL from syntax to window functions, Pandas for data work, ClickHouse…
   - [Markdown](https://sergeyromanenko.com/courses/data-engineer/index.md)
@@ -177,7 +177,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sergeyromanenko.com/applications/simon/index.md)
 - [Speed, Distance, and Time Calculator](https://sergeyromanenko.com/applications/speed-distance-time-calculator/): Calculate speed, distance or time from the other two, with consistent unit conversion for metric and imperial units.
   - [Markdown](https://sergeyromanenko.com/applications/speed-distance-time-calculator/index.md)
-- [SQL Editor](https://sergeyromanenko.com/applications/sql-editor/): Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
+- [SQL Editor](https://sergeyromanenko.com/applications/sql-editor/): Write and run SQLite against a database that lives in this tab: build one from a schema script or open a.sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file.
   - [Markdown](https://sergeyromanenko.com/applications/sql-editor/index.md)
 - [State Conquest](https://sergeyromanenko.com/applications/state-conquest/): A turn-based territory-conquest strategy game. Command garrisons, capture strongholds, and eliminate rival commanders across tactical theaters.
   - [Markdown](https://sergeyromanenko.com/applications/state-conquest/index.md)
@@ -216,13 +216,13 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## About
 
-- [A life spent exploring through the code, cameras and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,418 enrollments, open-source software, books and practical tools.
+- [A life spent exploring through the code, cameras and the road.](https://sergeyromanenko.com/about/): Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, open-source software, books and practical tools.
   - [Markdown](https://sergeyromanenko.com/about/index.md)
 - [A visual identity shaped by travel and everyday life.](https://sergeyromanenko.com/about/brandbook/): A personal brandbook for sergeyromanenko.com — how its colours, typography and visual identity grew out of living and travelling in Bali, Indonesia.
   - [Markdown](https://sergeyromanenko.com/about/brandbook/index.md)
 - [Building practical programming education on Stepik.](https://sergeyromanenko.com/about/stepik/): Discover Sergey Romanenko’s educational work on Stepik: practical programming courses, SQL and JavaScript learning paths, coding trainers, Stepik Awards 2023, and an independent course development workflow.
   - [Markdown](https://sergeyromanenko.com/about/stepik/index.md)
-- [My Yellow Yamaha PG-1: 37,000 km of Riding in Vietnam](https://sergeyromanenko.com/about/yamaha-pg-1/): A real-world Yamaha PG-1 owner review after 37,000+ km in Vietnam, including a 7,740-km journey, touring modifications, maintenance, reliability, pros and cons.
+- [My Yellow Yamaha PG-1: 37,000 km of Riding in Vietnam](https://sergeyromanenko.com/about/yamaha-pg-1/): A real-world Yamaha PG-after 37,000+ km in Vietnam, including a 7,740-km journey, touring modifications, maintenance, reliability, pros and cons.
   - [Markdown](https://sergeyromanenko.com/about/yamaha-pg-1/index.md)
 - [Photography, Creative Projects & Model Scouting](https://sergeyromanenko.com/about/photography-and-model-scouting/): A first-person account of my photography and model-related work from 2016 to 2019: creative photography projects, the Photo Walks community I founded and organized, fashion and event photography with Sigma Models, freelance model scouting for Liberty Model Agency, and selected photographs and testimonials.
   - [Markdown](https://sergeyromanenko.com/about/photography-and-model-scouting/index.md)

@@ -1,7 +1,7 @@
 ---
 title: "A life spent exploring through the code, cameras and the road."
 seo_title: "About — Sergey Romanenko"
-description: "Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, 26 online courses with 74,418 enrollments, open-source software, books and practical tools."
+description: "Sergey Romanenko — independent photographer, educator, author and software engineer. Independent photographic projects, open-source software, books and practical tools."
 canonical_url: "https://sergeyromanenko.com/about/"
 markdown_url: "https://sergeyromanenko.com/about/index.md"
 section: "About"
@@ -63,11 +63,11 @@ Stepik
 
 ## Practical education at scale.
 
-74,418
+74,459
 
 Course enrollments
 
-1,385
+1,388
 
 Course reviews
 
@@ -75,11 +75,11 @@ Course reviews
 
 Published courses
 
-1,092
+1,089
 
 Lessons
 
-Source: [Stepik Stats](https://stepstat.ru/user/561566563) · Snapshot: November 25, 2026 · Entire author catalog. Enrollment counts are enrollments, not unique learners. [The full Stepik project →](https://sergeyromanenko.com/about/stepik/)
+Source: [Stepik Stats](https://stepstat.ru/user/561566563) · Snapshot: November 26, 2026 · Entire author catalog. Enrollment counts are enrollments, not unique learners. [The full Stepik project →](https://sergeyromanenko.com/about/stepik/)
 
 Recognition
 
@@ -91,7 +91,7 @@ No. 25
 
 Stepik Stats author reputation ranking
 
-Ranked No. 25 in the [Stepik Stats author reputation ranking](https://stepstat.ru/authors) (as of November 25, 2026).
+Ranked No. 25 in the [Stepik Stats author reputation ranking](https://stepstat.ru/authors) (as of November 26, 2026).
 
 Stepik Awards 2023
 
@@ -262,7 +262,7 @@ A free beginner’s book on Markdown — the markup language behind most of what
 
 2 releases
 
-764 release downloads
+768 release downloads
 
 [Awilum/markdown ↗](https://github.com/Awilum/markdown)
 
@@ -282,7 +282,7 @@ A free beginner’s book on SQL and how relational databases actually work — r
 
 5 releases
 
-1,608 release downloads
+1,625 release downloads
 
 [Awilum/sql-introduction ↗](https://github.com/Awilum/sql-introduction)
 

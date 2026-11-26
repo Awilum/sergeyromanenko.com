@@ -1,6 +1,9 @@
 {
   "name": "Sergey Romanenko",
   "short_name": "Sergey R.",
+  "description": "Photography, programming courses, publications and browser-based tools.",
+  "start_url": "/",
+  "lang": "en",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

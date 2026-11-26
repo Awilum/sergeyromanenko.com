@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Learn to write professional SQL with common table expressions, together with the book "SQL Common Table Expressions", included for every student. Step-by-step data processing, multiple CTEs and nested queries — the foundation for window functions and analytical work.
 
-Paid — 17 lessons — 408 enrollments — 18 reviews
+Paid — 17 lessons — 410 enrollments — 18 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/294493/)
 
@@ -35,7 +35,7 @@ Russian
 - **Level:** Intermediate
 - **Language:** Russian
 - **Lessons:** 17
-- **Enrollments:** 408
+- **Enrollments:** 410
 
 ## About this course
 
@@ -96,7 +96,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 17
 - **Modules:** 4
-- **Enrollments:** 408
+- **Enrollments:** 410
 - **Reviews:** 18
 - **Certificates issued:** 74
 - **Author:** Sergey Romanenko
@@ -106,7 +106,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL Common Table Expressions is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 17 lessons, 408 enrollments, rated 4.9 out of 5 across 18 reviews and a paid course.
+SQL Common Table Expressions is an intermediate SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 17 lessons, 410 enrollments, rated 4.9 out of 5 across 18 reviews and a paid course.
 
 ## More in SQL
 
@@ -116,7 +116,7 @@ Other courses on the same subject.
 
 [Course · Beginner SQL Introduction 30 lessons](https://sergeyromanenko.com/courses/sql-introduction/)
 
-[Course · Beginner SQL Introduction (RU) 21 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
+[Course · Beginner SQL Introduction (RU) 18 lessons](https://sergeyromanenko.com/courses/sql-introduction-ru/)
 
 [Course · Beginner Practical SQL Programming Trainer 26 lessons](https://sergeyromanenko.com/courses/sql-practical-trainer/)
 

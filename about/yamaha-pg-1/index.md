@@ -1,7 +1,7 @@
 ---
 title: "My Yellow Yamaha PG-1: 37,000 km of Riding in Vietnam"
 seo_title: "Yamaha PG-1 Review: 37,000 km in Vietnam | Sergey Romanenko"
-description: "A real-world Yamaha PG-1 owner review after 37,000+ km in Vietnam, including a 7,740-km journey, touring modifications, maintenance, reliability, pros and cons."
+description: "A real-world Yamaha PG-after 37,000+ km in Vietnam, including a 7,740-km journey, touring modifications, maintenance, reliability, pros and cons."
 canonical_url: "https://sergeyromanenko.com/about/yamaha-pg-1/"
 markdown_url: "https://sergeyromanenko.com/about/yamaha-pg-1/index.md"
 section: "About"

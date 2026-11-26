@@ -52,7 +52,7 @@
   <text x="1100" y="101" text-anchor="end" font-family="IBM Plex Mono, monospace" font-size="15" letter-spacing="2.7" fill="#9a5b3c">COURSES</text>
   <line x1="100" y1="138" x2="1100" y2="138" stroke="#cfc3ae" stroke-width="1.5"/>
   <text x="100" y="178.0" dominant-baseline="text-before-edge" font-family="Instrument Serif, PT Serif, serif" font-size="92" letter-spacing="-0.015em" fill="#302d29">SQL from Zero to Hero — Online</text>
-  <text x="100" y="273.7" dominant-baseline="text-before-edge" font-family="Instrument Serif, PT Serif, serif" font-size="92" letter-spacing="-0.015em" fill="#302d29">Course | Sergey Romanenko</text>
+  <text x="100" y="273.7" dominant-baseline="text-before-edge" font-family="Instrument Serif, PT Serif, serif" font-size="92" letter-spacing="-0.015em" fill="#302d29">Course</text>
   <text x="100" y="395.4" dominant-baseline="text-before-edge" font-family="Inter, sans-serif" font-size="22" fill="#655d51">A large SQL program — from the first queries to advanced language features and practical</text>
   <text x="100" y="427.3" dominant-baseline="text-before-edge" font-family="Inter, sans-serif" font-size="22" fill="#655d51">problem solving. The courses cover the language step by step,…</text>
   <line x1="100" y1="514" x2="1100" y2="514" stroke="#e4dcce" stroke-width="1"/>

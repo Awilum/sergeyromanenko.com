@@ -18,7 +18,7 @@ robots: "index, follow"
 
 Eight programming trainers in one program — JavaScript, Go, Python, PHP, Kotlin, Java, C# and SQL — with tasks and automatic solution checking. For beginners and for developers who want to turn theory into working code.
 
-Paid — 311 lessons — 4 enrollments — 116 reviews
+Paid — 311 lessons — 4 enrollments — 118 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/274179/)
 
@@ -90,7 +90,7 @@ Basic theory for each included language helps. If you are just starting out, you
 - **What language is “Practical Programming Trainers” taught in?:** “Practical Programming Trainers” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “Practical Programming Trainers”?:** “Practical Programming Trainers” contains 311 lessons in 8 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “Practical Programming Trainers”?:** “Practical Programming Trainers” was created by Sergey Romanenko. It is published on Stepik.
-- **How many learners have reviewed “Practical Programming Trainers”?:** “Practical Programming Trainers” has 116 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **How many learners have reviewed “Practical Programming Trainers”?:** “Practical Programming Trainers” has 118 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “Practical Programming Trainers”?:** Enrollment and payment for “Practical Programming Trainers” happen on Stepik: open https://stepik.org/a/274179/ and start there.
 
 Course facts
@@ -102,7 +102,7 @@ Course facts
 - **Lessons:** 311
 - **Courses in program:** 8
 - **Enrollments:** 4
-- **Reviews:** 116
+- **Reviews:** 118
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
@@ -111,7 +111,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Practical Programming Trainers is a beginner Programming career program, published on Stepik by Sergey Romanenko, taught in Russian, 311 lessons, 4 enrollments, rated 4.9 out of 5 across 116 reviews and a paid course.
+Practical Programming Trainers is a beginner Programming career program, published on Stepik by Sergey Romanenko, taught in Russian, 311 lessons, 4 enrollments, rated 4.9 out of 5 across 118 reviews and a paid course.
 
 Next
 

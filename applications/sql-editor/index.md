@@ -1,7 +1,7 @@
 ---
 title: "SQL Editor"
 seo_title: "SQL Editor — Sergey Romanenko"
-description: "Write and run SQLite against a database that lives in this tab: build one from a schema script or open a .sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file."
+description: "Write and run SQLite against a database that lives in this tab: build one from a schema script or open a.sqlite file, read results as a table, Markdown, JSON or YAML, and save the database back out as a file."
 canonical_url: "https://sergeyromanenko.com/applications/sql-editor/"
 markdown_url: "https://sergeyromanenko.com/applications/sql-editor/index.md"
 section: "Applications"
