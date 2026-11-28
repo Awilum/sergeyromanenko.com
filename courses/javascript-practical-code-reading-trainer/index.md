@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A trainer for reading other people’s JavaScript code. No problem statements and no hints — only code, input data and the expected result. You learn to follow program logic, find bugs and fix code under conditions close to real work and technical interviews.
 
-Paid — 12 lessons — 1,008 enrollments — 10 reviews
+Paid — 12 lessons — 1,008 enrollments — 11 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/269671/)
 
@@ -85,7 +85,7 @@ Basic computer science and a solid command of JavaScript fundamentals — the co
 - **How much content is in “Practical JavaScript Code Reading Trainer”?:** “Practical JavaScript Code Reading Trainer” contains 12 lessons in 6 modules. It is self-paced, so you study on your own schedule.
 - **Who created “Practical JavaScript Code Reading Trainer”?:** “Practical JavaScript Code Reading Trainer” was created by Sergey Romanenko. It is published on Stepik.
 - **Does “Practical JavaScript Code Reading Trainer” give a certificate?:** Yes. Stepik has issued 79 certificates to learners who completed “Practical JavaScript Code Reading Trainer”.
-- **How many learners have reviewed “Practical JavaScript Code Reading Trainer”?:** “Practical JavaScript Code Reading Trainer” has 10 reviews on Stepik, with an average rating of 5.0 out of 5.
+- **How many learners have reviewed “Practical JavaScript Code Reading Trainer”?:** “Practical JavaScript Code Reading Trainer” has 11 reviews on Stepik, with an average rating of 5.0 out of 5.
 - **How do I enroll in “Practical JavaScript Code Reading Trainer”?:** Enrollment and payment for “Practical JavaScript Code Reading Trainer” happen on Stepik: open https://stepik.org/a/269671/ and start there.
 
 Course facts
@@ -97,7 +97,7 @@ Course facts
 - **Lessons:** 12
 - **Modules:** 6
 - **Enrollments:** 1,008
-- **Reviews:** 10
+- **Reviews:** 11
 - **Certificates issued:** 79
 - **Author:** Sergey Romanenko
 - **Rating:** 5.0 / 5
@@ -106,7 +106,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Practical JavaScript Code Reading Trainer is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 12 lessons, 1,008 enrollments, rated 5.0 out of 5 across 10 reviews and a paid course.
+Practical JavaScript Code Reading Trainer is an intermediate JavaScript course, published on Stepik by Sergey Romanenko, taught in Russian, 12 lessons, 1,008 enrollments, rated 5.0 out of 5 across 11 reviews and a paid course.
 
 ## More in JavaScript
 

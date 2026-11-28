@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A complete training program for learning Java from scratch: the language, the Collections Framework, multithreading, JUnit testing, the Spring Framework, Git, SQL and the Linux command line — ending in interview preparation.
 
-Paid — 382 lessons — 377 enrollments — 805 reviews
+Paid — 382 lessons — 378 enrollments — 805 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/212609/)
 
@@ -37,7 +37,7 @@ Russian
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 382
-- **Enrollments:** 377
+- **Enrollments:** 378
 
 ## About this course
 
@@ -103,7 +103,7 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 382
 - **Courses in program:** 7
-- **Enrollments:** 377
+- **Enrollments:** 378
 - **Reviews:** 805
 - **Certificates issued:** 0
 - **Authors:** Максим Бабанин, Татьяна Овчинникова, Андрей Сумин, Sergey Romanenko, Антон Петров, Pragmatic Programmer, Stepik Content Team
@@ -113,7 +113,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-Junior Java Developer is a beginner Java career program, published on Stepik by Sergey Romanenko with 6 co-authors, taught in Russian, 382 lessons, 377 enrollments, rated 4.9 out of 5 across 805 reviews and a paid course.
+Junior Java Developer is a beginner Java career program, published on Stepik by Sergey Romanenko with 6 co-authors, taught in Russian, 382 lessons, 378 enrollments, rated 4.9 out of 5 across 805 reviews and a paid course.
 
 ## More in Java
 

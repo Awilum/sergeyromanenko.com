@@ -13,7 +13,7 @@ robots: "index, follow"
 
 # Teaching what took me years to work out.
 
-74,459 enrollments — 26 courses — 1,089 lessons — 25 Russian — 1 English
+74,539 enrollments — 26 courses — 1,089 lessons — 25 Russian — 1 English
 
 26 courses on programming and data, most of them trainers: long sequences of problems to solve rather than videos to sit through. They exist because the hard part of learning to program is not understanding syntax — it is finding out, forty times in a row, whether you actually understood what you thought you understood.
 
@@ -21,7 +21,7 @@ robots: "index, follow"
 
 Total enrollments across all published courses
 
-74,459
+74,539
 
 Every figure on this page comes from the local course dataset, refreshed from the Stepik statistics API. It counts enrollments: someone who enrolled in several courses is counted once per course. Enrollment happens on Stepik.
 
@@ -29,9 +29,9 @@ Every figure on this page comes from the local course dataset, refreshed from th
 - **Programs:** 6
 - **Free courses:** 5
 - **Paid courses:** 21
-- **Reviews:** 1,388
+- **Reviews:** 1,391
 - **Average rating:** 4.86
-- **Certificates issued:** 7,106
+- **Certificates issued:** 7,115
 - **Lessons:** 1,089
 
 ## Learning paths
@@ -53,7 +53,7 @@ Git for Everyone · Java: The Complete Course from Zero plus Interview Preparati
 - **Level:** Beginner
 - **Bundled courses:** 7 courses
 - **Lessons:** 382 lessons
-- **Enrollments:** 377 enrollments
+- **Enrollments:** 378 enrollments
 
 Paid Open the path
 
@@ -104,7 +104,7 @@ SQL Introduction (RU) · SQL Common Table Expressions · SQL Window Functions ·
 - **Level:** Beginner
 - **Bundled courses:** 7 courses
 - **Lessons:** 225 lessons
-- **Enrollments:** 89 enrollments
+- **Enrollments:** 90 enrollments
 
 Paid Open the path
 
@@ -178,7 +178,7 @@ Paid Open the path
   - **Language:** English
   - **Lessons:** 30 lessons
   - **Modules:** 10 modules
-  - **Enrollments:** 7,900 enrollments
+  - **Enrollments:** 7,904 enrollments
   - **Rating:** 4.8 ★ ( 253 )
   Free
   View course
@@ -190,8 +190,8 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 18 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 3,490 enrollments
-  - **Rating:** 4.9 ★ ( 112 )
+  - **Enrollments:** 3,531 enrollments
+  - **Rating:** 4.9 ★ ( 113 )
   Free
   View course
 - Course
@@ -202,7 +202,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 26 lessons
   - **Modules:** 6 modules
-  - **Enrollments:** 2,311 enrollments
+  - **Enrollments:** 2,312 enrollments
   - **Rating:** 4.9 ★ ( 30 )
   Paid
   View course
@@ -214,7 +214,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 85 lessons
   - **Modules:** 19 modules
-  - **Enrollments:** 919 enrollments
+  - **Enrollments:** 923 enrollments
   - **Rating:** 4.8 ★ ( 79 )
   Paid
   View course
@@ -226,8 +226,8 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 17 lessons
   - **Modules:** 3 modules
-  - **Enrollments:** 1,070 enrollments
-  - **Rating:** 4.7 ★ ( 38 )
+  - **Enrollments:** 1,082 enrollments
+  - **Rating:** 4.7 ★ ( 39 )
   Free
   View course
 - Course
@@ -238,7 +238,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 28 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 612 enrollments
+  - **Enrollments:** 613 enrollments
   - **Rating:** 5.0 ★ ( 14 )
   Paid
   View course
@@ -250,7 +250,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 34 lessons
   - **Modules:** 10 modules
-  - **Enrollments:** 534 enrollments
+  - **Enrollments:** 535 enrollments
   - **Rating:** 4.9 ★ ( 22 )
   Paid
   View course
@@ -262,7 +262,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 17 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 410 enrollments
+  - **Enrollments:** 411 enrollments
   - **Rating:** 4.9 ★ ( 18 )
   Paid
   View course
@@ -281,7 +281,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 30 lessons
   - **Modules:** 5 modules
-  - **Enrollments:** 9,736 enrollments
+  - **Enrollments:** 9,741 enrollments
   - **Rating:** 4.9 ★ ( 142 )
   Free
   View course
@@ -293,7 +293,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 303 lessons
   - **Modules:** 43 modules
-  - **Enrollments:** 2,233 enrollments
+  - **Enrollments:** 2,234 enrollments
   - **Rating:** 4.8 ★ ( 86 )
   Paid
   View course
@@ -318,7 +318,7 @@ Paid Open the path
   - **Lessons:** 12 lessons
   - **Modules:** 6 modules
   - **Enrollments:** 1,008 enrollments
-  - **Rating:** 5.0 ★ ( 10 )
+  - **Rating:** 5.0 ★ ( 11 )
   Paid
   View course
 - Course
@@ -348,7 +348,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 38 lessons
   - **Modules:** 16 modules
-  - **Enrollments:** 13,427 enrollments
+  - **Enrollments:** 13,426 enrollments
   - **Rating:** 5.0 ★ ( 11 )
   Paid
   View course
@@ -405,7 +405,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 29 lessons
   - **Modules:** 13 modules
-  - **Enrollments:** 256 enrollments
+  - **Enrollments:** 257 enrollments
   - **Rating:** 5.0 ★ ( 2 )
   Paid
   View course
@@ -424,7 +424,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 31 lessons
   - **Modules:** 4 modules
-  - **Enrollments:** 6,455 enrollments
+  - **Enrollments:** 6,461 enrollments
   - **Rating:** 4.9 ★ ( 477 )
   Free
   View course
@@ -462,7 +462,7 @@ Paid Open the path
   - **Language:** Russian
   - **Lessons:** 55 lessons
   - **Modules:** 22 modules
-  - **Enrollments:** 1,240 enrollments
+  - **Enrollments:** 1,241 enrollments
   - **Rating:** 4.5 ★ ( 16 )
   Paid
   View course
@@ -473,7 +473,7 @@ About the author
 
 **Knowledge collected during the journey and shared.** What began as an independent IT education project on the **Stepik platform** has grown into a broader practice: turning field experience into practical learning. The catalog covers **programming, software development, data analysis, and related areas of information technology**, combining structured courses, interactive exercises, and hands-on training.
 
-These courses are designed to turn theoretical knowledge into **practical skills through hands-on learning and interactive tasks**. The project has reached **74,459 enrollments** across its **26 published courses** on Stepik, backed by **1,388 learner reviews** — an established independent educational project with a growing international audience.
+These courses are designed to turn theoretical knowledge into **practical skills through hands-on learning and interactive tasks**. The project has reached **74,539 enrollments** across its **26 published courses** on Stepik, backed by **1,391 learner reviews** — an established independent educational project with a growing international audience.
 
 In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of the Year” category** for the project, recognizing its development and achievements on the platform. The courses also regularly appear among **Stepik’s best-selling and fastest-growing courses**, reflecting their continued reach and engagement among learners.
 
@@ -483,13 +483,13 @@ In **2023, Sergey Romanenko received a Stepik Award in the “Breakthrough of th
 
 [stepstat.ru ↗](https://stepstat.ru/)
 
-- **Learners:** +1,530
-- **Followers:** +928
-- **Certificates:** +369
-- **Reviews:** +48
-- **Reputation:** +59,802
+- **Learners:** +1,475
+- **Followers:** +914
+- **Certificates:** +266
+- **Reviews:** +47
+- **Reputation:** +57,951
 - **Courses:** 0
-- **Lessons:** +4
+- **Lessons:** +2
 - **Rating:** +0.003
 
 Next

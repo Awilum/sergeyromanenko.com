@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="chevronGroup" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6.25 7.25 10 11l3.75-3.75" />
+    <path d="M6.25 11.25 10 15l3.75-3.75" />
+  </symbol>
+</svg>

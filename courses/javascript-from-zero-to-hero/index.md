@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A structured learning path from JavaScript zero to confident: theory, practice, trainers and tests that build a durable foundation for real problems, technical interviews and further study of the JavaScript ecosystem.
 
-Paid — 574 lessons — 55 enrollments — 265 reviews
+Paid — 574 lessons — 55 enrollments — 266 reviews
 
 [Enroll on Stepik ↗](https://stepik.org/a/271057/)
 
@@ -86,7 +86,7 @@ Basic computer science and mathematics. No prior JavaScript is assumed.
 - **What language is “JavaScript from Zero to Hero” taught in?:** “JavaScript from Zero to Hero” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “JavaScript from Zero to Hero”?:** “JavaScript from Zero to Hero” contains 574 lessons in 5 bundled courses. It is self-paced, so you study on your own schedule.
 - **Who created “JavaScript from Zero to Hero”?:** “JavaScript from Zero to Hero” was created by Sergey Romanenko. It is published on Stepik.
-- **How many learners have reviewed “JavaScript from Zero to Hero”?:** “JavaScript from Zero to Hero” has 265 reviews on Stepik, with an average rating of 4.8 out of 5.
+- **How many learners have reviewed “JavaScript from Zero to Hero”?:** “JavaScript from Zero to Hero” has 266 reviews on Stepik, with an average rating of 4.8 out of 5.
 - **How do I enroll in “JavaScript from Zero to Hero”?:** Enrollment and payment for “JavaScript from Zero to Hero” happen on Stepik: open https://stepik.org/a/271057/ and start there.
 
 Course facts
@@ -98,7 +98,7 @@ Course facts
 - **Lessons:** 574
 - **Courses in program:** 5
 - **Enrollments:** 55
-- **Reviews:** 265
+- **Reviews:** 266
 - **Certificates issued:** 0
 - **Author:** Sergey Romanenko
 - **Rating:** 4.8 / 5
@@ -107,7 +107,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-JavaScript from Zero to Hero is a beginner JavaScript career program, published on Stepik by Sergey Romanenko, taught in Russian, 574 lessons, 55 enrollments, rated 4.8 out of 5 across 265 reviews and a paid course.
+JavaScript from Zero to Hero is a beginner JavaScript career program, published on Stepik by Sergey Romanenko, taught in Russian, 574 lessons, 55 enrollments, rated 4.8 out of 5 across 266 reviews and a paid course.
 
 ## More in JavaScript
 

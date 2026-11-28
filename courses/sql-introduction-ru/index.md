@@ -18,7 +18,7 @@ robots: "index, follow"
 
 A beginner-friendly SQL course that takes you from zero to working with databases, together with the free book "SQL Introduction". You learn how tables work, write queries, retrieve, filter and sort data, use basic functions and solve practical problems.
 
-Free — 18 lessons — 3,490 enrollments — 112 reviews
+Free — 18 lessons — 3,531 enrollments — 113 reviews
 
 [Start free on Stepik ↗](https://stepik.org/a/290855/)
 
@@ -37,7 +37,7 @@ Free
 - **Level:** Beginner
 - **Language:** Russian
 - **Lessons:** 18
-- **Enrollments:** 3,490
+- **Enrollments:** 3,531
 
 ## About this course
 
@@ -85,8 +85,8 @@ No programming knowledge needed. Basic computer literacy and an understanding of
 - **What language is “SQL Introduction (RU)” taught in?:** “SQL Introduction (RU)” is taught in Russian. This page describes it in English; the lessons themselves are in Russian.
 - **How much content is in “SQL Introduction (RU)”?:** “SQL Introduction (RU)” contains 18 lessons in 4 modules. It is self-paced, so you study on your own schedule.
 - **Who created “SQL Introduction (RU)”?:** “SQL Introduction (RU)” was created by Sergey Romanenko. It is published on Stepik.
-- **Does “SQL Introduction (RU)” give a certificate?:** Yes. Stepik has issued 627 certificates to learners who completed “SQL Introduction (RU)”.
-- **How many learners have reviewed “SQL Introduction (RU)”?:** “SQL Introduction (RU)” has 112 reviews on Stepik, with an average rating of 4.9 out of 5.
+- **Does “SQL Introduction (RU)” give a certificate?:** Yes. Stepik has issued 631 certificates to learners who completed “SQL Introduction (RU)”.
+- **How many learners have reviewed “SQL Introduction (RU)”?:** “SQL Introduction (RU)” has 113 reviews on Stepik, with an average rating of 4.9 out of 5.
 - **How do I enroll in “SQL Introduction (RU)”?:** Enrollment for “SQL Introduction (RU)” happen on Stepik: open https://stepik.org/a/290855/ and start there.
 
 Course facts
@@ -97,9 +97,9 @@ Course facts
 - **Language:** Russian
 - **Lessons:** 18
 - **Modules:** 4
-- **Enrollments:** 3,490
-- **Reviews:** 112
-- **Certificates issued:** 627
+- **Enrollments:** 3,531
+- **Reviews:** 113
+- **Certificates issued:** 631
 - **Author:** Sergey Romanenko
 - **Rating:** 4.9 / 5
 
@@ -107,7 +107,7 @@ Course facts
 
 Enrollment happens on Stepik. This site does not sell the course.
 
-SQL Introduction (RU) is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 18 lessons, 3,490 enrollments, rated 4.9 out of 5 across 112 reviews and free to enroll.
+SQL Introduction (RU) is a beginner SQL course, published on Stepik by Sergey Romanenko, taught in Russian, 18 lessons, 3,531 enrollments, rated 4.9 out of 5 across 113 reviews and free to enroll.
 
 ## More in SQL
 

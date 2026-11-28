@@ -34,7 +34,7 @@ How I work
 
 ## Where to start
 
-- [Teaching Courses Practical programming courses on Stepik, mostly trainers — long sequences of problems to solve rather than videos to watch. 74,459 enrollments · 26 courses](https://sergeyromanenko.com/courses/)
+- [Teaching Courses Practical programming courses on Stepik, mostly trainers — long sequences of problems to solve rather than videos to watch. 74,539 enrollments · 26 courses](https://sergeyromanenko.com/courses/)
 - [Observation Photography Documentary work about people and the places they make their lives in. Shot slowly, on foot, mostly in black and white. 15 photographs · 4 projects](https://sergeyromanenko.com/photography/)
 - [Writing Publications Practical books on SQL and Markdown, written to be kept and returned to. Clear explanations, useful examples. 2 books · Educational writing](https://sergeyromanenko.com/publications/)
 - [Making Applications Practical browser-based applications and offline games built along the way — from data and text utilities to quiet puzzles for the road. 52 applications · 40 tools, 12 games](https://sergeyromanenko.com/applications/)
